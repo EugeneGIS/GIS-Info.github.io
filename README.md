@@ -90,7 +90,7 @@ _信息提供：叶山_
 - **Michael Hodgson**: remote sensing (LiDAR), GIS modeling, cognitive studies.
 
 ### 克拉克大学
-**Clark University ([Clark](clarku.edu/))**
+**Clark University ([Clark](https://www.clarku.edu/))**
 _信息提供：Shuhong Yan_
 
 克拉克大学以地理学和心理学最为著名。
@@ -394,7 +394,7 @@ _信息提供：Dr. Cao Yanjia_
 - **Leila De Floriani**: data visualization; spatial data structures; terrain modeling.
 
 ### 密歇根大学
-**University of Michigan ([UMich](seas.umich.edu/))**
+**University of Michigan ([UMich](https://seas.umich.edu/))**
 _信息提供：叶山_
 
 历史上，密歇根大学的地理系是美国制图学传统名校之一，是Waldo Tobler的母系。目前，该校的School for Environment and Sustainability开设有环境生态相关的GIS项目。其主要的课程和方向包括：environmental spatial data analysis, GIS and natural resource applications, GIS in landscape modeling, environmental remote sensing
@@ -426,7 +426,7 @@ _信息提供：Yaxuan Zhang_
 - **Di Zhu**: geospatial modeling, GeoAI, social sensing.
 
 ### 新墨西哥大学
-**University of New Mexico ([UNM](geography.unm.edu/))**
+**University of New Mexico ([UNM](http://geography.unm.edu/))**
 _信息提供：Zhuoming Liu_
 
 美国新墨西哥大学地理与环境研究系所涉及的研究领域包括Geospatial Data Science, Cartography, Geovisualization, Remote Sensing, GeoAI, Health GIS等，ASPIRE研究中心 (Center for the Advancement of Spatial Informatics Research and Education)，与Sandia 国家实验室，Los Alamos国家实验室有合作交流机会。
@@ -479,7 +479,7 @@ UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前�
 - **Daniel Griffith**: spatial statistics; quantitative/urban/economic geography; applied statistics & statistical consulting; research proposal design.
 
 ### 田纳西大学
-**University of Tennessee, Knoxville ([UTK](geography.utk.edu/))**
+**University of Tennessee, Knoxville ([UTK](https://geography.utk.edu/))**
 _信息提供：Dr. Hu Yingjie_
 
 田纳西大学地理系在时空分析，交通优化，环境建模，人口分析等方向有强劲的科研实力。学校紧邻橡树岭国家实验室，与实验室的GIST研究组有很多合作交流机会。
@@ -582,7 +582,7 @@ _信息提供：Qian Peng_
 - **ZHUGE Cheng-xiang**, Tony: Spatial Analysis and Modelling, Activity-based Travel Demand Modelling, Smart Cities, Land Use and Transport Interaction, Agent-based Modelling, Complex Urban System.
 
 ### 苏黎世瑞士联邦理工大学
-**Swiss Federal Institute of Technology in Zurich ([ETH Zurich](baug.ethz.ch/en))**
+**Swiss Federal Institute of Technology in Zurich ([ETH Zurich](http://baug.ethz.ch/en))**
 _信息提供：饶锦蒙_
 
 苏黎世联邦理工GIS/RS方向的专业和老师主要集中在土木、环境与地球空间信息工程系，包括Cartography and Geoinformation (IKG), Geodesy and Photogrammetry (IGP), Environmental Engineering (IfU), Transport Planning and Systems (IVT), Spatial and Landscape Development (IRL).
@@ -696,7 +696,7 @@ _信息提供：Dr. 陈焕发_
 
 
 ### 苏黎世大学
-**University of Zurich ([UZH](geo.uzh.ch/en.html))**
+**University of Zurich ([UZH](https://geo.uzh.ch/en.html))**
 _信息提供：饶锦蒙_
 
 苏黎世大学地理系发展全面、综合实力很强，涵盖自然地理、人文地理、GIS和遥感等。
