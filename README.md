@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/GIS-Info/GIS-Info.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GIS-Info/GIS-Info.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#GIS-Programs (更新时间 2020 年 X 月)
+GIS留学：学校与项目指南 | GIS Study Abroad: Universities and Projects Guide
+这是一篇全新（2020 年 X 月）且较为详实全面（目前收录三大洲34所学校）的GIS出国留学选校总结帖，作者来自于世界各地名校GIS专业，均为在读或已经毕业的学生，或年轻助理教授，主要围绕学校和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注AAG Geography Program。同时希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。
+##目录
+### 学校信息
+### 贡献者 | Contributors
