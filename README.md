@@ -164,5 +164,145 @@ _信息提供：叶山_
 
 - **W. A. Marcus**: GIS and remote sensing on hydrogeology and geomorphology (surface process).
 
+### 俄勒冈州立大学
+**Oregon State University ([Oregon State](https://ceoas.oregonstate.edu/academics/geography/))**
+_信息提供：叶山_
+
+俄勒冈州立大学的地理系鼓励其学生在泛地球科学领域（包括RS和GIS）进行跨学科研究。
+
+相关导师：
+
+- **Julia Jones**: spatial analysis and geospatial data science;
+
+- **Robert Kennedy**: remote sensing, satellite image analysis;
+
+- **James R. Watson**: GIS and spatial modeling on marine environment studies;
+
+- **Jamon Van Den Hoek**: GIS and remote sensing on marine resource management
+
+### 宾夕法尼亚州立大学
+**Pennsylvania State University ([Penn State](https://www.geog.psu.edu/))**
+
+宾夕法尼亚州立大学是美国的顶尖公立高校，其地理系具有强劲的综合实力，包含地理信息系统，自然地理，人文地理，自然与社会关系四个方向。
+
+相关导师：
+
+- **Cynthia Brewer**: cartography;
+
+- **Alan MacEachren**: geovisualization;
+
+- **Alexander Klippel**: spatial cognition, VR, human-computer interaction;
+
+- **Guido Cervone**: remote sensing, atmosphere, disaster;
+
+- **Anthony Robinson**: visual analytics;
+
+- **Manzhu Yu**: spatio-temporal applications, cloud computing, natural hazards;
+
+- **Helen Greatrex**: remote sensing and geostatistics.
+
+### 德克萨斯农工大学
+**Texas A&M University ([TAMU](https://geography.tamu.edu/))**
+_信息提供：Dr. Li Xiao_
+
+德州农工大学地理系是全美范围内学科设置最全面的院系之一。地理系GIST组研究方向包括：CyberGIS, geocomputation, artificial intelligence, terrain analysis and mapping, river floodplain and mountain geomorphology, cryospheric sciences, plant science, freshwater aquatic and coastal ocean ecosystems, health-science GIS, urbanization and land-use/land-cover modeling, interactions between socio-economic and biophysical systems, and systems modeling.
+
+相关导师：
+
+- **Daniel Goldberg**: geocoding, 3D mapping, GIS health;
+
+- **Courtney Thompson**: hazard response assessment, emergency management, community vulnerability;
+
+- **Lei Zou**: social media data mining, disaster resilience, sustainability;
+
+- **Zhe Zhang**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
+
+- **George Allen**: remote sensing, impacts of climate and land-use change on river systems;
+
+- **Anthony FIlippi**: hyperspectral remote sensing, floodplain and coastal marine monitoring;
+
+- **Burak Guneralp**: remote sensing, urbanization, global change, and sustainability.
+
+
+### 天普大学
+**Temple University ([Temple](https://www.cla.temple.edu/geography-and-urban-studies))**
+_信息提供：Dr. Li Xiaojiang_
+
+天普大学地理和城市研究系研究方向涵盖GIS，城市研究，可持续发展等
+
+相关导师：
+
+- **Xiaojiang Li**: Spatial Data Science, Urban Analytics for Sustainability, Urban Science, urban computing based on Google Street View;
+
+- **Jeremy Mennis**: GIS, Public Health, Environmental Science;
+
+- **Victor Hugo Gutierrez-Velez**: GIS, Remote Sensing, Land use/Land cover change;
+
+- **Hamil Pearsall**: GIS, Urban Sustainability, Social justice;
+
+- **Kevin A. Henry**: Geography and Urban Studies, Public Health, GIS.
+
+
+### 纽约州立水牛城大学
+**University at Buffalo, State University of New York ([SUNY Buffalo](http://www.buffalo.edu/cas/geography.html))**
+_信息提供：Xiang Ye_
+
+Buffalo的地理系是NCGIA三校之一。
+
+相关导师：
+
+- **Yingjie Hu**: spatial data mining, geospatial semantics, GeoAI, geocomputation;
+
+- **Le Wang**: remote sensing and ecology;
+
+- **Ling Bian**: social spatial networks, epidemiological modeling;
+
+- **Jared Aldstadt**: spatial statistics, GIS health;
+
+- **Peter A. Rogerson**: spatial statistics, demography;
+
+- **Eun-Hye Enki Yoo**: spatial statistics, environment modeling.
+
+### 加州大学圣巴巴拉分校
+**University of California Santa Barbara ([UCSB](https://geog.ucsb.edu/))**
+_信息提供：Gengchen Mai_
+
+UCSB地理系是全美最好的博士地理系项目之一，NCGIA三校之一，教授研究领域包括Geospatial Semantic and Knowledge Graph, Social Sensing and Urban Computing, GeoAI, Transportation and traffic management, spatial optimization, cartography, climate change, remote sensing, land use and land cover change等.
+
+相关导师：
+
+- **Krzysztof Janowicz**: spatial semantics, knowledge graph, social sensing, urban computing, machine learning, GeoAI.
+
+- **Werner Kuhn**: spatial semantics, knowledge graphic, spatial ontology, GIS theory.
+
+- **Kostas Goulias**: transportation, neighborhood study，traffic management and prediction.
+
+- **Alan Murray**: spatial optimization, spatial analysis.
+
+- **Keith Clarke**: cartography and spatial analysis.
+
+- **Dar Robert**: imaging spectrometry, remote sensing of vegetation, spectroscopy (urban and natural cover), land-use/land-cover change mapping with satellite time series, height mapping with lidar, fire danger assessment.
+
+
+### 佐治亚大学
+**University of Georgia ([UGA](https://geography.uga.edu/))**
+_信息提供：Ruowei Liu_
+
+佐治亚大学的地理系主要开设三个方向：1) Earth, Environment, and Climate, 2) Geographic Information Science, 3) People, Place, and Identity.
+
+相关导师：
+
+- **Xiaobai Yao**: GIScience, Urban and Transportation Systems, Network Science, Location-based Social Media Data, Public Health;
+
+- **Lan Mu**: GIScience for Health and the Environment, Location-based Social Media data Cartography, Computational Geometry;
+
+- **Jerry Shannon**: Community engaged research, Food security/Food access, Housing, Urban development, Critical GIS;
+
+- **Marguerite Madden**: GIScience (GIS, Remote Sensing, Unmanned aerial systems and Geovisualization), Landscape Ecology, Human/Animal-Environment Interactions, Historical Narratives with Story Maps;
+
+- **Deepak Mishra**: Combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
+
+- **Andrew Grundstein**: Applied Climatology, Climate and Human Health, Hydroclimatology.
+
 
 ## 贡献者 | Contributors
