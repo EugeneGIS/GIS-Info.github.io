@@ -250,7 +250,7 @@ TAMU地理系是全美范围内学科设置最全面的院系之一。地理系G
 
 - **Daniel Goldberg**: geocoding, 3D mapping, GIS health;
 
--**Xinye Ye**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
+- **Xinye Ye**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
 
 - **Courtney Thompson**: hazard response assessment, emergency management, community vulnerability;
 
