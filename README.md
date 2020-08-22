@@ -51,7 +51,7 @@
 - 苏黎世大学
 
 ## 学校信息
-### 亚利桑那州立大学
+### 亚利桑那州立大学[ASU]
 **Arizona State University ([ASU](https://sgsup.asu.edu/))**
 _信息提供：Dr. 赵群山_
 
