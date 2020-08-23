@@ -1,5 +1,5 @@
 # GIS留学指南
-**(更新时间 2020 年 6 月)** [查看往年](https://gis-info.github.io/pages/past)
+**(更新时间 2020 年 6 月)** 查看往年：[2019年版](https://gis-info.github.io/pages/2019)
 
 这是一篇全新且较为全面（目前收录三大洲34所学校）的GIS留学选校总结帖，作者来自于世界各地GIS专业名校，均为在读或已经毕业的学生，或年轻助理教授，主要围绕学校和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。同时希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。本文长期更新，欢迎更多的有志者一同参与和维护这个项目（[联系作者](https://gis-info.github.io/pages/about)），未来会不断添加和更新相关的资料。
 
@@ -11,6 +11,7 @@
 由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校英文缩写排序）：
 
 ### 北美洲x所
+#### 美国x所
 - [亚利桑那州立大学](#亚利桑那州立大学)
 - 南卡罗莱纳大学
 - 克拉克大学
@@ -46,25 +47,36 @@
 - [俄克拉荷马大学](#俄克拉荷马大学)
 - [俄克拉荷马州立大学](#俄克拉荷马州立大学)
 - [圣迭戈州立大学](#圣迭戈州立大学)
+#### 加拿大x所
 - [麦吉尔大学](#麦吉尔大学)
 - [不列颠哥伦比亚大学](#不列颠哥伦比亚大学)
 - [多伦多大学](#多伦多大学)
 
 ### 亚洲大洋洲x所
+#### 香港x所
 - 香港中文大学
 - 香港大学
-- 新加坡国立大学
 - 香港理工大学
+- 香港浸会大学
+#### 新加坡x所
+- 新加坡国立大学
+#### 澳大利亚x所
 - [阿德莱德大学](#阿德莱德大学)
 - [西澳大利亚大学](#西澳大利亚大学)
 
 ### 欧洲x所
-- 苏黎世瑞士联邦理工大学
+#### 英国x所
 - 格拉斯哥大学
-- 特温特大学
 - 利兹大学
 - 伦敦大学学院
+#### 德国x所
+#### 荷兰x所
+- 特温特大学
+#### 挪威x所
+#### 瑞士x所
+- 苏黎世瑞士联邦理工大学
 - 苏黎世大学
+
 
 ## 学校信息
 ### 亚利桑那州立大学
@@ -562,21 +574,23 @@ _信息提供：Dr. Hu Yingjie_
 
 - **Liem Tran**: GIS for Environmental Modeling, System Dynamics Modeling, Environmental Decision Making, Fuzzy Sets and Systems, Geospatial Analysis.
 
-### 威斯康辛大学麦迪逊分校
-**University of Wisconsin-Madison ([UW-Madison](https://geography.wisc.edu/))**
-_信息提供：康雨豪_
+### 威斯康星大学麦迪逊分校  
 
-威斯康星麦迪逊地理系历史悠久，在人文地理，空间分析，地图学等方面实力强劲，Yi-Fu Tuan、Arthur Robinson曾在此任教。其GIS项目主要包含cartography, spatial analysis, geospatial big data analysis等课程。
+**University of Wisconsin-Madison  (Wisc)**
+
+美国，威斯康星州，麦迪逊市 
+
+GIS相关系所：[地理系](https://geography.wisc.edu/) 
+
+威斯康星麦迪逊地理系历史悠久，在人文地理，空间分析，地图学等方面实力强劲，Yi-Fu Tuan、Arthur Robinson曾在此任教。该系GIS主要有两个项目，传统项目主要针对走学术道路的学生，本科毕业申请可修2年硕士+3年博士，硕士毕业申请可修4年博士；另外还有个一年制的授课型项目，主要针对计划就业的学生。其GIS项目主要包含cartography, spatial analysis, geospatial big data analysis等课程。 
 
 相关导师：
 
-- **A-Xing Zhu**: soil mapping, ecology, spatial analysis, environment modeling;
+- **[A-Xing Zhu](https://geography.wisc.edu/profile.php?p=34)**: soil mapping, ecology, spatial analysis, environment modeling; 
+- **[Song Gao](http://geods.geography.wisc.edu/)**: spatio-temporal data mining; human mobility; urban computing, GeoAI;
+- **[Qunying Huang](https://geography.wisc.edu/gis/staff/huang-qunying/)**: high performance computing; natural hazards; social media data analytics;
+- **[Robert Roth](https://geography.wisc.edu/cartography/people/Roth.html)**: cartography, story map, WebGIS.
 
-- **Song Gao**: spatio-temporal data mining; human mobility; urban computing, GeoAI;
-
-- **Qunying Huang**: high performance computing; natural hazards; social media data analytics;
-
-- **Robert Roth**: cartography, story map, WebGIS.
 
 ### 俄克拉荷马大学
 
