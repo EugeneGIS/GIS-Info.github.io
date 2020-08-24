@@ -364,24 +364,32 @@ _信息提供：Dr. Li Xiaojiang_
 
 
 ### 纽约州立大学水牛城分校 
-** University at Buffalo, the State University of New York (UB) **
+**University at Buffalo, the State University of New York (UB)**
+
 美国，纽约州，水牛城
+
 GIS相关系所：[地理系](http://www.buffalo.edu/cas/geography.html)
+
 纽约州立大学水牛城分校地理系是美国地理学界的传统名校之一。建系于上世纪60年代，地理系目前（2020年8月）共有[教员]( http://www.buffalo.edu/cas/geography/faculty/faculty_directory.html)22位，横跨自然地理学、人文地理学、地理信息科学等地理学的各个分支，并在健康地理学、空间统计、遥感、生态、水文等领域具有明显优势。系里还设有[美国国家地理信息分析中心（水牛城分中心）NCGIA-Buffalo](http://www.ncgia.buffalo.edu/)、[贸易、环境与发展研究中心CTED](http://www.buffalo.edu/cted/AboutUs.html)以及[亚太经合组织研究中心APEC Study Center](http://www.buffalo.edu/cas/geography/research/research_resources/APEC-study-center.html)。
 在地理系目前授予的硕士学位中，推荐优先考虑[地理信息科学的科学硕士学位](http://www.buffalo.edu/cas/geography/graduate-program/master-s-degree-program/MS_GIS.html)（STEM学位）。另外也可关注地理学[科学硕士](http://www.buffalo.edu/cas/geography/graduate-program/master-s-degree-program/m-s--curriculum-requirements.html)和[文学硕士](http://www.buffalo.edu/cas/geography/graduate-program/master-s-degree-program.html)学位（这两个都是非STEM学位）。
 有志攻博的同学可关注[地理学博士]( http://www.buffalo.edu/cas/geography/graduate-program/doctoral-program.html)学位（非STEM学位）。
+
 相关导师：
+
 地理信息科学方向：
+
 - **[Yingjie Hu 胡英杰](http://www.buffalo.edu/cas/geography/faculty/faculty_directory.host.html/content/shared/cas/geography/faculty-staff/faculty-profiles/hu-yingjie.html)**: Geospatial artificial intelligence; Spatial data mining; Geographic informational retrieval;
 - **[Le Wang 王乐](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html)**: Remote sensing; Forest characterization; Environment modeling; Land cover and land use change; Urban population estimation; Invasive species modeling;
 - **[Ling Bian 卞玲](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/ling-bian.html)**: Individual-based epidemiological modeling; Inter-operable environmental models;
 
 空间统计方向：
+
 - **[Jared Aldstadt](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/jared-aldstadt.html)**: Medical geography; Spatial epidemiology; Spatiotemporal analysis;
 - **[Peter A. Rogerson](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/peter-a--rogerson.html)**: Spatial statistics; Dynamic migration modeling; Demographic forecasting; Mathematical modeling;
 - **[Eun-Hye Enki Yoo](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html)**: Geostatistics; Spatial statistics; Public health and environmental modeling; Spatial hedonic modeling; Uncertainty analysis;
 
 自然地理方向：
+
 - **[Adam Wilson]( http://www.buffalo.edu/cas/geography/faculty/faculty_directory/Adam-Wilson.html)**: Geostatistics; Spatial statistics; Public health and environmental modeling; Spatial hedonic modeling; Uncertainty analysis;
 
 自2020年秋季起，**[Andrew Crooks](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/andrew-crooks.html)**加盟本系，研究方向Geocomputation, Agent-based modeling, Social Network Analysis, Urban Geography, Computational Social Science。
@@ -876,22 +884,27 @@ _信息提供：Xiaojian Liu_
 
 - **Yijian Zeng**: hydrologic processes, land-atmosphere interaction, land surface models, data assimilation.
 
-- ### 利兹大学  
-  **University of Leeds**
-  英国，西约克郡，利兹市 
-  GIS相关系所：[地理学院](https://environment.leeds.ac.uk/geography) 
-  利兹大学地理学院知名校友包括Stan Openshaw, Alan Wilson等GIS及地理学顶级专家学者，亦是GeoComputation和Spatial Interaction Model 的发源地。其中[CSAP（Centre for Spatial Analysis and Policy)](https://environment.leeds.ac.uk/geography-research-centre-spatial-analysis-policy)关注于空间分析在区域人口，零售，犯罪，教育，健康等方面的应用；[LIDA（Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) 致力于跨学科研究，人工智能和时空数据挖掘。该学院GIS学科提供3-4年制全日制博士项目，以及[2年制研究型硕士](https://environment.leeds.ac.uk/geography-research-degrees/doc/geography-mamsc-research)。此外亦有[1年制授课型硕士](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc)课程，主要包括 Data Visualisation, Geodemographics, Retail Modelling, Environment and Remote Sensing 等[课程](http://webprod3.leeds.ac.uk/catalogue/dynprogrammes.asp?Y=202021&P=MSC-GIS)。
 
-  相关导师 ：
-  - **[Alison Heppenstall](https://environment.leeds.ac.uk/geography/staff/1046/professor-alison-heppenstall)**: GeoComputation, machine learning, geospatial AI, agent-based modelling, smart cities;
-  - **[Andy Newing](https://environment.leeds.ac.uk/geography/staff/1081/dr-andy-newing)**: retail analytics; retail location planning, spatial analysis; service analysis; geodemographics; accessibility;
-  - **[Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)**:  urban data science; agent-based modelling; spatial cognition; travel and mobility; data visualisation;
-  - **[Graham Clarke](https://environment.leeds.ac.uk/geography/staff/1018/professor-graham-clarke)**: geodemographics, public health, retail, urban simulation, accessibility;
-  - **[Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber)**: spatial analysis; GeoComputation; land cover / land use; spatial data quality; spatial planning; uncertainty; evidence combination; search heuristics; location-allocation;
-  - **[Mark Birkin](https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin) **: spatial analysis and policy, demography, social simulation, retail, public health, microsimulation, agent-based modelling;
-  - **[Nick Malleson](https://environment.leeds.ac.uk/geography/staff/1069/dr-nick-malleson)**: agent-based modelling; crime modelling; city simulation;
-  - **[Nik Lomax](https://environment.leeds.ac.uk/geography/staff/1064/dr-nik-lomax)**: demography; population projection; microsimulation; internal migration; international migration; consumer demand modelling;
-  - **[Steve Carver](https://environment.leeds.ac.uk/geography/staff/1013/dr-steve-carver)**: Wilderness; Wildland; Rewilding; Landscape evaluation; GIS; spatial analysis; environmental modelling; participatory GIS.
+### 利兹大学  
+**University of Leeds**
+
+英国，西约克郡，利兹市 
+
+GIS相关系所：[地理学院](https://environment.leeds.ac.uk/geography) 
+
+利兹大学地理学院知名校友包括Stan Openshaw, Alan Wilson等GIS及地理学顶级专家学者，亦是GeoComputation和Spatial Interaction Model 的发源地。其中[CSAP（Centre for Spatial Analysis and Policy)](https://environment.leeds.ac.uk/geography-research-centre-spatial-analysis-policy)关注于空间分析在区域人口，零售，犯罪，教育，健康等方面的应用；[LIDA（Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) 致力于跨学科研究，人工智能和时空数据挖掘。该学院GIS学科提供3-4年制全日制博士项目，以及[2年制研究型硕士](https://environment.leeds.ac.uk/geography-research-degrees/doc/geography-mamsc-research)。此外亦有[1年制授课型硕士](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc)课程，主要包括 Data Visualisation, Geodemographics, Retail Modelling, Environment and Remote Sensing 等[课程](http://webprod3.leeds.ac.uk/catalogue/dynprogrammes.asp?Y=202021&P=MSC-GIS)。
+
+相关导师 ：
+
+- **[Alison Heppenstall](https://environment.leeds.ac.uk/geography/staff/1046/professor-alison-heppenstall)**: GeoComputation, machine learning, geospatial AI, agent-based modelling, smart cities;
+- **[Andy Newing](https://environment.leeds.ac.uk/geography/staff/1081/dr-andy-newing)**: retail analytics; retail location planning, spatial analysis; service analysis; geodemographics; accessibility;
+- **[Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)**:  urban data science; agent-based modelling; spatial cognition; travel and mobility; data visualisation;
+- **[Graham Clarke](https://environment.leeds.ac.uk/geography/staff/1018/professor-graham-clarke)**: geodemographics, public health, retail, urban simulation, accessibility;
+- **[Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber)**: spatial analysis; GeoComputation; land cover / land use; spatial data quality; spatial planning; uncertainty; evidence combination; search heuristics; location-allocation;
+- **[Mark Birkin](https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin) **: spatial analysis and policy, demography, social simulation, retail, public health, microsimulation, agent-based modelling;
+- **[Nick Malleson](https://environment.leeds.ac.uk/geography/staff/1069/dr-nick-malleson)**: agent-based modelling; crime modelling; city simulation;
+- **[Nik Lomax](https://environment.leeds.ac.uk/geography/staff/1064/dr-nik-lomax)**: demography; population projection; microsimulation; internal migration; international migration; consumer demand modelling;
+- **[Steve Carver](https://environment.leeds.ac.uk/geography/staff/1013/dr-steve-carver)**: Wilderness; Wildland; Rewilding; Landscape evaluation; GIS; spatial analysis; environmental modelling; participatory GIS.
 
 ### 伦敦大学学院
 **University College London (UCL：[地理系](https://www.geog.ucl.ac.uk/), [土木测绘系](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/), [先进空间分析中心](https://www.ucl.ac.uk/bartlett/casa/))**
