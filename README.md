@@ -32,7 +32,7 @@
 - 天普大学
 - 纽约州立水牛城大学
 - 加州大学圣巴巴拉分校
-- 佐治亚大学
+- [佐治亚大学](#佐治亚大学)
 - 爱荷华大学
 - 伊利诺伊大学香槟分校
 - 马里兰大学
@@ -404,25 +404,28 @@ UCSB地理系是全美最好的博士地理系项目之一，NCGIA三校之一�
 - **Dar Robert**: imaging spectrometry, remote sensing of vegetation, spectroscopy (urban and natural cover), land-use/land-cover change mapping with satellite time series, height mapping with lidar, fire danger assessment.
 
 
-### 佐治亚大学
-**University of Georgia ([UGA](https://geography.uga.edu/))**
-_信息提供：Ruowei Liu_
+### 佐治亚大学 **University of Georgia (UGA)**
 
-佐治亚大学的地理系主要开设三个方向：1) Earth, Environment, and Climate, 2) Geographic Information Science, 3) People, Place, and Identity.
+美国，佐治亚州，雅典市
+
+GIS 相关系所：[地理系](https://geography.uga.edu/)
+
+佐治亚大学是美国最早建立的公立大学，其地理系历史悠久， 是有关地球景观和人类与环境之间关系的主要学术研究中心，主要开设三个方向：1) Earth, Environment, and Climate, 2) Geographic Information Science, 3) People, Place, and Identity。该系开设硕士项目M.S./M.A. in Geography，博士项目Ph.D. in Geography和Integrative Conservation (ICON) Ph.D. Program。GIS的课程有Geospatial Analysis、Programming for GIS、Transportation Modeling and GIS等；遥感类的课程有Remote Sensing of Environment、Aerial Photographs and Image Interpretation等。同时感兴趣的在读研究生还可修读关于Atmospheric Sciences、Urban and Metropolitan Studies的Graduate Certificates。
 
 相关导师：
 
-- **Xiaobai Yao**: GIScience, Urban and Transportation Systems, Network Science, Location-based Social Media Data, Public Health;
+- **[Xiaobai Yao](https://geography.uga.edu/directory/people/xiaobai-angela-yao)**: GIScience, urban and transportation systems, network science, location-based social media data, public health;
 
-- **Lan Mu**: GIScience for Health and the Environment, Location-based Social Media data Cartography, Computational Geometry;
+-**[Lan Mu](https://geography.uga.edu/directory/people/lan-mu)**: GIScience for health and the environment, location-based social media data, cartography, computational geometry;
 
-- **Jerry Shannon**: Community engaged research, Food security/Food access, Housing, Urban development, Critical GIS;
+-**[Jerry Shannon](http://jerry.shannons.us/)**: urban development and inequality, geographic information systems, political geography, and place effects on health;
 
-- **Marguerite Madden**: GIScience (GIS, Remote Sensing, Unmanned aerial systems and Geovisualization), Landscape Ecology, Human/Animal-Environment Interactions, Historical Narratives with Story Maps;
+-**[Marguerite Madden](http://cgr.uga.edu/index.html)**: GIScience and landscape ecology, including remote sensing, geographic information systems (GIS), spatio-temporal analysis, geovisualization and geographic object-based image analysis, as applied to landscape-scale biological/physical processes and human-impacts on the environment;
 
-- **Deepak Mishra**: Combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
+-**[Deepak Mishra](https://geography.uga.edu/directory/people/deepak-r-mishra)**: Combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
 
-- **Andrew Grundstein**: Applied Climatology, Climate and Human Health, Hydroclimatology.
+-**[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human Health, hydroclimatology.
+
 
 ### 爱荷华大学
 **University of Iowa ([Iowa](https://clas.uiowa.edu/geography))**
