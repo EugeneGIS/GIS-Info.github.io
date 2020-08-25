@@ -781,24 +781,31 @@ _信息提供：Dr. Zhang Xiaohu_
 - **Wang Yi-Chen**: spatial epidemiology, biogeography; landscape ecology.
 
 ### 香港理工大学
-**The Hong Kong Polytechnic University ([PolyU](http://www.lsgi.polyu.edu.hk/home/index.asp))**
-_信息提供：Qian Peng_
+** The Hong Kong Polytechnic University (PolyU) **
+
+香港特别行政区，九龙，红磡
+
+GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying and Geo-Informatics [(LSGI)](http://www.lsgi.polyu.edu.hk/)
+
+香港理工大学土地测量与地理资讯学系是国际知名的地球空间信息科学学系之一，多年来致力于测绘、遥感、摄影测量、GIS、数字制图、城市信息科学等方面研究。目前LSGI开设有两个授课型MSc Program，开设较早的[Master of Science in Geomatics](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/master-of-science-in-geomatics/index.asp)和20fall刚开设的[Master of Science in Urban Informatics and Smart Cities](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/master-of-science-in-urban-informatics/index.asp)，学制1-2年。研究型项目有[PhD与Mphil](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/doctor-and-master-of-philosophy/index.asp)可申请，本科毕业直博一般为四年，硕士毕业申请为三年。系里Mphil名额很少，research student一般为博士生。
 
 相关导师：
 
-- **SHI Wen-zhong, John**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modelling.
+- **[Prof. SHI Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modelling.
 
-- **LI Zhi-lin**: Cartography, GIS-Based Spatial Data Modelling, Feature Extraction from Remote Sensing Images;
+- **Prof. LI Zhi-lin**: Cartography, GIS-Based Spatial Data Modelling, Feature Extraction from Remote Sensing Images;
 
-- **PUN Cheng Shuk-ching**, Lilian: Intelligent Transport System, Cartographic Visualization, Spatial Analysis, Spatial Networking;
+- **[Prof. WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: Photogrammetry and Robotic Vision, Planetary Mapping and Planetary Science, 3D GIS and Applications.
 
-- **WU Bo**: Photogrammetry and Robotic Vision, Planetary Mapping and Planetary Science, 3D GIS and Applications.
+- **[Dr. PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: Intelligent Transport System, Cartographic Visualization, Spatial Analysis, Spatial Networking;
 
-- **Dr. LIU, Xintao**: GIScience, Complex Network, Transportation Geography, Urban Computing.
+- **[Dr. LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, Complex Network, Transportation Geography, Urban Computing.
 
-- **XU, Yang**: trajectory data mining, machine learning, visualization.
+- **[Dr. XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, Urban Informatics, Mobility, Transportation
 
-- **ZHUGE Cheng-xiang**, Tony: Spatial Analysis and Modelling, Activity-based Travel Demand Modelling, Smart Cities, Land Use and Transport Interaction, Agent-based Modelling, Complex Urban System.
+- **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: Spatial Analysis and Modelling, Activity-based Travel Demand Modelling, Smart Cities, Land Use and Transport Interaction, Agent-based Modelling, Complex Urban System.
+
+- **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: Remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies.
 
 ### 西澳大利亚大学
 
