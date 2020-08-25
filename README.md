@@ -241,24 +241,40 @@ _信息提供：叶山_
 - **Elisabeth Root**: GIS on public health.
 
 ### 俄勒冈大学
-**University of Oregon ([Oregon](https://geography.uoregon.edu))**
-_信息提供：叶山_
 
-俄勒冈大学地理系的研究主要包括GIS和地图相关的空间认知、行为科学和心理学等。
+**University of Oregon (UO)**
 
-相关导师：
+美国，俄勒冈州，尤金市
 
-- **Amy Lobben**: spatial cognition, human decision and spatial memory studies, spatial thinking;
+GIS相关系所：[地理系](https://geography.uoregon.edu)
 
-- **Patrick Bartlein**: GIS data visualization, climate;
+俄勒冈大学地理系是该校历史最为悠久的院系之一，原与地质系同一学院，后于1957年独立成系。美国地理学家协会前任主席Alex Murphy和现任主席Amy Lobben皆在此任教。该系以人文地理、地图制图学和空间认知等方向著称，近年来大力发展GIScience和空间数据科学，包括空间分析和空间统计方向。除了传统的地理学学位，其还提供空间数据科学与技术（Spatial Data Science & Technology）的本科学位。
 
-- **Carolyn Fish**: cartography;
+​	本科毕业生可申请该系2年的硕士项目，硕士毕业生可申请4-5年的博士项目。值得注意的是，申请该系的博士项目需具有硕士学位。 系里鼓励在UO完成硕士学位的学生继续攻读博士学位（3-4年时间）。该系对所有被录取的研究生申请者以助研、助教或者其他工作岗位的形式提供奖学金。特别优秀的申请者，系里还会帮着申请学校的奖学金，如[Raymund Fellowship](https://gradschool.uoregon.edu/funding/awards/raymund-fellows)和[Promising Scholar Award](https://gradschool.uoregon.edu/funding/awards/promising-scholar-award). 
 
-- **Henry Luan**: GIS on crime studies and public health;
+​	相关导师：
 
-- **Mark Fonstad**: remote sensing on physical geography and hydrogeology;
+-**[Amy Lobben](https://geography.uoregon.edu/profile/lobben/)**: Neurogeography; human-environmental interaction; spatial decision making; geospatial cognition and thinking
 
-- **W. A. Marcus**: GIS and remote sensing on hydrogeology and geomorphology (surface process).
+-**[Carolyn Fish](https://geography.uoregon.edu/profile/cfish11/)**: Cartography; map design; climate change communication; mapping environment-society interactions
+
+-**[Hui(Henry) Luan 栾辉](https://geography.uoregon.edu/profile/hluan/)**: Spatiotemporal statistics; Bayesian analysis; public health; crime; big data analytics
+
+（注：以上三位导师为该系与GIS相关的[空间认知、计算和复杂性实验室](https://blogs.uoregon.edu/s3clab/)的主要成员)
+
+-**[Patrick Bartlein](https://geography.uoregon.edu/profile/bartlein/)**: Data analysis and visualization; environmental modelling; paleoclimatology
+
+-**[W.Andrew Markus](https://geography.uoregon.edu/profile/marcus/)**: Hydrology; geomorphology; remote sensing
+
+-**[Mark Fonstad](https://geography.uoregon.edu/profile/fonstad/)**: Geomorphology; hydrology; remote sensing; environmental simulation
+
+-**[Sarah Cooley](https://geography.uoregon.edu/profile/scooley2/)**: Hydrology; climate change; the Arctic; remote sensing and spatial data analysis
+
+-**[Johnny Ryan](https://geography.uoregon.edu/profile/jryan4/)**: Glaciology; climatology; remote sensing; drones; spatial data analysis
+
+
+
+
 
 ### 俄勒冈州立大学
 **Oregon State University (Oregon State)**
