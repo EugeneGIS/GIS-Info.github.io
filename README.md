@@ -1,14 +1,18 @@
 # GIS留学指南
 **(更新时间 2020 年 6 月)** 查看往年：[2019年版](https://gis-info.github.io/pages/2019)
 
-这是一篇全新且较为全面（目前收录三大洲34所学校）的GIS留学选校总结帖，作者来自于世界各地GIS专业名校，均为在读或已经毕业的学生，或年轻助理教授，主要围绕学校和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。同时希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。
+本项目2019年9月发起成立，目的是提供及时且全面的GIS留学选校信息。作者来自于世界各地GIS专业名校，均为在读学生，已毕业校友，或年轻老师，主要围绕学校项目和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。
 
 本文长期更新，欢迎更多的有志者一同参与和维护这个项目（[联系作者](https://gis-info.github.io/pages/about)），未来会不断添加和更新相关的资料。
 
-此外，我们也组织了一个GIS专业留学信息的微信群，欢迎大家加入讨论。入群方式：可在知乎上私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)或[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich)，或发邮件给yeshantulsa@hotmail.com。同时，欢迎关注康雨豪的[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
+此外，我们组织了两个微信群：一个是GIS海外留学群，主要针对有意向出国留学的同学；另一个是GIS海外志愿者和交流群（需验证身份），为海外GIS学者学生交流提供平台。欢迎大家按需加入讨论。
+
+官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)或[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich)，或发邮件给yeshantulsa@hotmail.com。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
 
 
 本文遵循Apache许可，如需**非商业转载**或**修改**，请标注出处；**商业转载**请联系作者获得授权。
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 本文中各个学校顺序不分前后，如果需要了解学校的综合排名等情况，请查询Times, QS, USNews, ARWU等大学排名以及各个大学的官网。
 
