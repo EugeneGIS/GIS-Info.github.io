@@ -365,6 +365,7 @@ GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)、[设计学�
 
 ### 德克萨斯农工大学
 **Texas A&M University (TAMU)**
+
 美国，德克萨斯州，大学城市
 
 GIS 相关系所：[地理系](https://geography.tamu.edu/)
@@ -489,6 +490,7 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 
 ### 爱荷华大学
 **The University of Iowa (UI)**
+
 美国，爱荷华州，爱荷华市
 
 GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/geography/)
@@ -578,6 +580,7 @@ _信息提供：Zhuoming Liu_
 
 ### 德克萨斯大学奥斯汀分校
 **University of Texas at Austin (UT Austin)**
+
 美国，德克萨斯州，奥斯汀市 
 
 GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography/index.php)
@@ -592,7 +595,8 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 
 ### 德克萨斯州立大学 
 **Texas State University (TXST)**
-美国，爱荷华州，爱荷华市
+
+美国，德克萨斯州，圣马科斯市
 
 GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
 
@@ -737,6 +741,7 @@ GIS相关系所：[地理系](https://geography.sdsu.edu/)
 
 ### 南加州大学
 **The University of Southern California (USC)**
+
 美国，加利福尼亚州，洛杉矶市
 
 GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
