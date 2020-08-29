@@ -86,7 +86,7 @@
 
 ### 欧洲x所
 #### 英国x所
-- 格拉斯哥大学
+- [格拉斯哥大学](#格拉斯哥大学)
 - 利兹大学
 - 伦敦大学学院
 
@@ -901,24 +901,34 @@ _信息提供：饶锦蒙_
 
 
 ### 格拉斯哥大学
-**University of Glasgow ([Glas](https://www.gla.ac.uk/schools/socialpolitical/))**
-_信息提供：Dr. 赵群山_
 
-格拉斯哥大学在与城市研究和大数据相关的地质学、地理学、测绘学、环境科学、社会科学、公共卫生等学科领域有着很强的研究实力和学术传统。Urban Studies系主要包括city planning, housing studies, real estate, public and urban policy, urban transport, urban analytics等专业。
+**University of Glasgow**
+
+英国，苏格兰，格拉斯哥
+
+GIS相关系所：[地理与地球科学学院]( https://www.gla.ac.uk/schools/ges/
+)，[城市研究系]( https://www.gla.ac.uk/subjects/urbanstudies/
+)，[城市大数据中心](https://www.ubdc.ac.uk/)
+
+格拉斯哥大学在与城市研究和大数据相关的地质学、地理学、测绘学、环境科学、社会科学、公共卫生等学科领域有着很强的研究实力和学术传统。Urban Studies系主要包括city planning, housing studies, real estate, public and urban policy, urban transport, urban analytics等硕士专业，以及urban studies的博士点。
 
 相关导师：
 
-- **Nick Bailey**: housing and neighborhood;
+- **[Prof. Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/
+)**: housing and neighborhood, administrative big data
+- **[Dr. David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/
+)**: transportation, econometrics
+- **[Dr. Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/
+)**: transportation planning, active travel
+- **[Dr. Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/
+)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science
+- **[Dr. Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/
+)**: remote sensing, terrestrial environment
+- **[Prof. Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/
+)**: geospatial data science, navigation, GPS
+- **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/
+)**: Cartography, GIS
 
-- **David McArthur**: transportation, econometrics;
-
-- **Jinhyun Hong**: transportation planning;
-
-- **Jing Yao**: GIS, spatial analysis, location modeling and analysis;
-
-- **Dr Brian Barrett**: remote sensing, terrestrial environment;
-
-- **Qunshan Zhao**: GIS, remote sensing, spatial analysis, location modeling and analysis.
 
 ### 特温特大学
 **University of Twente (Twente-ITC)**
