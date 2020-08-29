@@ -65,6 +65,7 @@
 - [俄克拉荷马大学](#俄克拉荷马大学)
 - [俄克拉荷马州立大学](#俄克拉荷马州立大学)
 - [圣迭戈州立大学](#圣迭戈州立大学)
+- [南加州大学](#南加州大学)
 
 #### 加拿大x所
 - [麦吉尔大学](#麦吉尔大学)
@@ -721,6 +722,27 @@ GIS相关系所：[地理系](https://geography.sdsu.edu/)
 - **[Ming-Hsiang Tsou](mtsou@sdsu.edu)**: Applied GIS; Cartography and Geovisualization; Geocomputation; Spatial Analysis and Modelling; Data Science
 - **[Trent Biggs](tbiggs@sdsu.edu)**: Hydrological Processes and Modeling; Remote Sensing for Watershed Science; Social-Ecological Systems; Spatial Analysis and Modelling; Land Cover and Land Use Change Analysis; Environmental Planning and Policy; Sediment, Erosion, and Water Quality; Data Science
 - **[Fernando De Sales](fdesales@sdsu.edu)**: Regional Climate Modeling; Remote Sensing and Watershed Science; Land Cover and Land Use; Wildfire Processes; Landscape Ecology
+
+
+### 南加州大学
+**The University of Southern California (USC)**
+美国，加利福尼亚州，洛杉矶市
+
+GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
+
+南加州大学空间科学研究所汇聚了各类从事GIS研究的优秀学者，其研究包括了空间设计，空间分析，空间经济学，空间大数据处理，地理统计，地理编码，GIS与健康等诸多研究方向。著名的GIS学者，GIS核心期刊TGIS主编—John Wilson教授担任该研究所主任。该研究所提供丰富多样的硕士项目，包括： 空间数据科学硕士，空间经济与数据分析硕士， 公共健康硕士（GeoHealth）方向，交通管理硕士--GIS方向，以及多种多样的GIS网络硕士项目包括。其博士项目主要研究方向是人空-健康-环境。其GIS核心课程包括了： principles of geodesign, community health scan, geospatial technology management for sustainability science; spatial computing; concepts for spatial thinking; spatial econometrics; GIS programming and customization等。
+
+相关导师：
+
+- **[Ban-Weiss, George](https://spatial.usc.edu/team-view/george-ban-weiss/)**: climate change, urban air pollution, remote sensing, aerosol emissions;  
+- **[Chiang, Yao-Yi](https://spatial.usc.edu/?team=yao-yi-chiang)**: digital map processing, computer vision, machine learning, data mining, data integration, predictive analytics;
+- **[Ethington, Philip](https://spatial.usc.edu/?team=philip-ethington)**: digital humanities, cartography, urban history, visual culture, immigration, race relations;
+- **[Fleming, Steven D.](https://spatial.usc.edu/team-view/steven-d-fleming/)**: geospatial intelligence, remote sensing, physical geography, GIS, cartography, photogrammetry;
+- **[Marx, Andrew J.](https://spatial.usc.edu/team-view/andrew-j-marx-2/)**:geospatial intelligence, remote sensing, spatio-temporal analysis, human rights, GIS;
+- **[Shahabi, Cyrus](https://spatial.usc.edu/?team=cyrus-shahabi)**: databases, GIS, multi-media;
+- **[Wilson, John P.](https://spatial.usc.edu/?team=john-p-wilson)**: GIS，spatial analysis, environmental modeling, environment and human health, geodesign education.
+
+
 
 ### 麦吉尔大学
 **McGill University (McGill)**
