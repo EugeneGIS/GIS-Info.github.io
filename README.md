@@ -49,7 +49,8 @@
 - 马里兰大学
 - 明尼苏达大学双城分校
 - 新墨西哥大学
-- 得克萨斯大学奥斯丁分校
+- [德克萨斯大学奥斯汀分校](#德克萨斯大学奥斯汀分校)
+- [德克萨斯州立大学](#德克萨斯州立大学)
 - 得克萨斯大学达拉斯分校
 - 田纳西大学
 - 威斯康辛大学麦迪逊分校
@@ -581,19 +582,21 @@ _信息提供：Zhuoming Liu_
 - **Liping Yang**: GIScience, Geospatial Artificial Intelligence (GeoAI), Visual (Image & Text) Big Data Analytics, Geovisualization, Indoor Navigation.
 
 
-### 得克萨斯大学奥斯丁分校
-**University of Texas at Austin ([UT Austin](https://liberalarts.utexas.edu/geography/))**
-_信息提供：Dr. Li Xiao_
+### 德克萨斯大学奥斯汀分校
+**University of Texas at Austin (UT Austin)**
+美国，德克萨斯州，奥斯汀市 
 
-UT Austin地理与环境系的GIS项目提供了丰富多样的GIS课程，包括：Computer Cartography, GIS and Society, Fluvial Geomorphology, Conservation Development, Quantitative Landscape Ecology, Global Change, and Landcover/Landuse Characterization 等。
+GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography/index.php)
+
+德州大学奥斯汀分校地理与环境系历史悠久，在数字地球，环境变化及地表演变，人文经济地理等研究方面表现突出。尤其在与食品及农业相关的地理学研究中表现见长。其地理学硕士项目包含两个选项，授课型需要36个学分不需提交毕业论文，研究型需要30个学分。其博士项目须在前三年内通过博士候选人考试，之后需要注册至少两学期的毕业论文写作课程。该系的GIS Center提供了丰富多样的GIS课程, 包括： Spatial Data & Analysis， GIS Applications in Social/Environmental Science，Advanced Geographic Information Systems，Geoprocessing等。
 
 相关导师：
 
-- **Eugenio Arima**: human-environment interactions, land change science, GIS/Science, applied quantitative methods, Latin America;
+- **[Eugenio Arima](https://liberalarts.utexas.edu/geography/faculty/ea9267)**: human-environment interactions, land change science, GIS/Science, applied quantitative methods, Latin America；
+- **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
+- **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
-- **Kelley A. Crews**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
 
-- **Jennifer A. Miller**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
 ### 得克萨斯大学达拉斯分校
 **University of Texas at Dallas ([UT Dallas](https://utdallas.edu/academics/fact-sheets/epps/ms-geospatial-information-sciences/))**
