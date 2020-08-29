@@ -44,7 +44,7 @@
 - [纽约州立大学奥尔巴尼分校](#纽约州立大学奥尔巴尼分校)
 - 加州大学圣巴巴拉分校
 - [佐治亚大学](#佐治亚大学)
-- 爱荷华大学
+- [爱荷华大学](#爱荷华大学)
 - 伊利诺伊大学香槟分校
 - 马里兰大学
 - 明尼苏达大学双城分校
@@ -110,26 +110,19 @@
 
 ## 学校信息
 ### 亚利桑那州立大学
-**Arizona State University ([ASU](https://sgsup.asu.edu/))**
-_信息提供：Dr. 赵群山_
+**Arizona State University (ASU)**
+美国，亚利桑那州，坦佩市 
 
-亚利桑那州立大学地理与城市规划系在空间分析、空间统计、城市气象学等方面实力强劲。
+GIS 相关系所：[地理与城市规划系](https://sgsup.asu.edu/)
+
+亚利桑那州立大学是美国地理强校之一，在空间统计，GIS等方面实力强劲。美国科学院院士，局部墨兰指数（local Moran’s Index）的创始人Luc Anselin曾在此任教。目前该系有三位美国科学院院士，分别是地理加权回归（GWR）的创始人Stewart Fotheringham，以及环境方向大牛B.L. Turner和生态方向的Gregory Asner。该系包含地理和城市规划两个方向，可申请的研究生项目包含地理硕士（MA Geography），GIS硕士（MASGIS,一年制），城市与环境规划硕士（MUEP）以及城市规划和地理方向各自的PhD。其中MASGIS是唯一一个STEM专业，毕业后可以有3年opt，加上其学制短，实习时间充裕，非常适合毕业打算留美工作的学生选择。地理和城规两个方向结合非常紧密，很多老师都会研究偏urban的课题，例如主攻交通领域的Michael Kuby和Daoqin Tong系内选修课可以在城市规划/人文地理/自然地理/GIS方向随意选择，毕业论文导师也可以选择城市规划或地理方向的。主要GIS和空间统计方向的课程有machine learning, local statistical modeling等课程。
 
 相关导师：
 
-- **Stewart Fotheringham**: GWR, spatial analysis;
-
-- **Trisalyn Nelson**: Movement Data Analysis;
-
-- **Wenwen Li**: GeoAI, machine learning;
-
-- **Daoqin Tong**: Spatial Optimization;
-
-- **Michael Kuby**: Transportation;
-
-- **Greg Anser**: remote sensing, ecology;
-
-- **David Sailor**: climate with the built environment.
+- **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: Spatial statistics ;
+- **[Wenwen Li](https://sgsup.asu.edu/wenwen-li )**: cyber-infrastructure, GeoAI;
+- **[Michael Kuby](https://sgsup.asu.edu/michael-kuby)**: Transportation geography; optimization
+- **[Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: Optimization, spatial statistics, transportation geography.
 
 ### 南卡罗莱纳大学
 **University of South Carolina ([Carolina](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/))**
@@ -495,24 +488,24 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 - **[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human Health, hydroclimatology.
 
 ### 爱荷华大学
-**University of Iowa ([Iowa](https://clas.uiowa.edu/geography))**
-_信息提供：Dr. Cao Yanjia_
+**The University of Iowa (UI)**
+美国，爱荷华州，爱荷华市
 
-爱荷华大学地理系GIS涉及的领域包括health geography，natural disaster，ecosystem science等。
+GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/geography/)
+
+爱荷华大学地里与环境可持续发展科学系授予本科，硕士，博学学位，以及GIS研究生文凭，并且与很多跨学科教育与科研机构（包括CGRER，Iowa Informatics Initiative，与著名的爱荷华水利研究所/爱荷华洪水中心)有着紧密的合作。爱荷华大学地理系涉足多种多样的学术科研方向，包括自然地理，人文地理，地图学，环境政策，遥感学，与水文地理等，并在空间分析，可视化分析，以及环境科学与水利学相关领域（水文学与水资源科学，洪水灾害风险分析，环境管理与决策支持，生态学），空间网络分析等方向有深厚的背景。著名的Marc Armstrong教授曾在该系任教。
 
 相关导师：
 
-- **Margaret Carrell**: geography of infectious disease, landscape genetics & disease ecology;
+- **[Dave Bennett](https://clas.uiowa.edu/geography/people/dave-bennett)**: Geographic information science, the processes and effects of environmental decision-making, human/environment interactions; 
+- **[Margaret Carrel](https://clas.uiowa.edu/geography/people/margaret-carrel)**: Geography of infectious disease, landscape genetics & disease ecology;
+- **[Marc Linderman](https://clas.uiowa.edu/geography/people/marc-linderman)**: Remote sensing, human/environment interactions, land cover change, ecosystem dynamics;
+- **[Eric Tate](https://clas.uiowa.edu/geography/people/eric-tate)**: Flood risk and vulnerability analysis, geospatial uncertainty and sensitive analysis;
+- **[Heather Sander](https://clas.uiowa.edu/geography/people/heather-sander)**: Urban ecology, ecosystem services, urban wildlife ecology and conservation, urban social-ecological systems;
+- **[Caglar Koylu](https://clas.uiowa.edu/geography/people/caglar-koylu)**: GIScience, spatial data science, information visualization, human-computer interaction, mobility and geo-social networks.
 
-- **Dave Bennett**: geographic information science, the processes and effects of environmental decision-making, human/environment interactions;
 
-- **Eric Tate**: validating indicators of vulnerability and risk, assessing social equity of disaster mitigation and recovery spending, analyzing uncertainty and sensitivity of geospatial models;
 
-- **Heather Sander**: urban ecology, ecosystem services, urban wildlife ecology and conservation, urban social-ecological systems;
-
-- **Carglar Koylu**: GIScience, spatial data science, information visualization, human-computer interaction, mobility and geo-social networks;
-
-- **Marc Linderman**: remote sensing, human/environment interactions, land cover change, ecosystem dynamics.
 
 ### 伊利诺伊大学香槟分校
 **University of Illinois Urbana-Champaign ([UIUC](https://www.geog.illinois.edu/))**
@@ -596,6 +589,24 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Eugenio Arima](https://liberalarts.utexas.edu/geography/faculty/ea9267)**: human-environment interactions, land change science, GIS/Science, applied quantitative methods, Latin America；
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
+
+### 德克萨斯州立大学 
+**Texas State University (TXST)**
+美国，爱荷华州，爱荷华市
+
+GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
+
+德克萨斯州立大学地理系发展迅速全面。学科方向包括环境地理，人文地理, GIS, 地理教育和跨学科研究。 研究生项目涵盖了：地理信息科学硕士（GIS）, 地理科学硕士，应用地理学硕士（地理教育），地理学硕士（资源与环境研究），以及GIS, 地理学，地理教育三个博士生项目。其中GIS 主要研究方向有：public health, Geovisualization, Remote Sensing, Land Use/Land Cover Change, Geospatial Data Mining, Spatial Data Analytics, Geocomputation。
+
+相关导师：
+
+- **[Edwin Chow](https://www.geo.txstate.edu/people/faculty/edchow.html)**: geocomputation, hazards, environmental modeling, human dynamics; 
+- **[Yongmei Lu](https://www.geo.txstate.edu/people/faculty/yongmeilu.html)**: urban & regional studies, crime, health, China & East Asia;
+- **[Nate Currit](https://www.geo.txstate.edu/people/faculty/nate-currit.html)**: remote sensing, land cover change, human-environment systems;
+- **[Alexander (Sasha) Savelyev](https://www.geo.txstate.edu/people/faculty/alexander--Sasha--savelyev.html)**: geovisualization, geovisual analytics, cartography;
+- **[Alberto Giordano](https://www.geo.txstate.edu/people/faculty/albertogiordano.html)**: spatial humanities, cartography, historical GIS, spatial forensic anthropology;
+- **[Jennifer Jensen](https://www.geo.txstate.edu/people/faculty/jennifer-jensen.html)**: lidar, remote sensing, biogeography, land use/land cover change; 
+- **[F. Benjamin Zhan](https://www.geo.txstate.edu/people/faculty/benjamin-zhan.html)**: health/medical geography, GIScience, spatial data science, transportation, hazards reduction, China.
 
 
 
