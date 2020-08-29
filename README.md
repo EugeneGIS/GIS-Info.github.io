@@ -366,10 +366,15 @@ GIS 相关系所：[地理系](https://geography.tamu.edu/)
 相关导师：
 
 -**[Daniel Goldberg](https://geography.tamu.edu/people/profiles/faculty/goldbergdaniel.html)**: geocoding, 3D mapping, GIS health; 
+
 -**[Xinyue Ye](http://directory.arch.tamu.edu/people/76368)**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
+
 -**[Lei Zou](https://geography.tamu.edu/people/profiles/faculty/zoulei.html)**: social media data mining, disaster resilience, sustainability;
+
 -**[Zhe Zhang](https://geography.tamu.edu/people/profiles/faculty/zhangzhe.html)**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
+
 -**[George Allen](https://geography.tamu.edu/people/profiles/faculty/allengeorge.html)**: remote sensing, impacts of climate and land-use change on river systems;
+
 -**[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
 
 
