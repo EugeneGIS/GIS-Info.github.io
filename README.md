@@ -32,6 +32,7 @@
 - 乔治梅森大学
 - [密歇根大学](#密歇根大学)
 - [密歇根州立大学](#密歇根州立大学)
+- [密歇根理工大学](#密歇根理工大学)
 - 俄亥俄州立大学
 - 俄勒冈大学
 - [俄勒冈州立大学](#俄勒冈州立大学)
@@ -39,7 +40,8 @@
 - 宾夕法尼亚州立大学
 - [德克萨斯农工大学](#德克萨斯农工大学)
 - 天普大学
-- 纽约州立水牛城大学
+- [纽约州立大学水牛城分校](#纽约州立大学水牛城分校)
+- [纽约州立大学奥尔巴尼分校](#纽约州立大学奥尔巴尼分校)
 - 加州大学圣巴巴拉分校
 - [佐治亚大学](#佐治亚大学)
 - 爱荷华大学
@@ -58,6 +60,7 @@
 - 雪城大学
 - 辛辛那提大学
 - 康奈尔大学
+- [路易斯安纳州立大学](#路易斯安纳州立大学)
 - [俄克拉荷马大学](#俄克拉荷马大学)
 - [俄克拉荷马州立大学](#俄克拉荷马州立大学)
 - [圣迭戈州立大学](#圣迭戈州立大学)
@@ -83,6 +86,7 @@
 #### 澳大利亚x所
 - [阿德莱德大学](#阿德莱德大学)
 - [西澳大利亚大学](#西澳大利亚大学)
+- [科廷大学](#科廷大学)
 
 ### 欧洲x所
 #### 英国x所
@@ -237,6 +241,15 @@ GIS相关系所：[地理、环境及空间科学系](http://geo.msu.edu)
 - **[David Roy]( http://geo.msu.edu/people/roy-david/
 )**: remote sensing on global change.
 
+### 密歇根理工大学
+**Michigan Technological University (MTU)**
+
+美国，密歇根州，霍顿
+
+GIS相关系所：[林业和环境学院](https://www.mtu.edu/forest/graduate/professional/mgis/)
+
+密歇根理工的林业和环境学院提供地理信息科学硕士（MGIS）的课程，这是一个course-based的项目，耗时2年完成，需要修完30个学分的规定课程，包括GIS相关的核心课程（共20学分，根据美国劳工部对地理空间技术的[发展规划](https://www.dol.gov/newsroom/releases/eta/eta20100708#:~:text=The%20Geospatial%20Technology%20Competency%20Model,for%20success%20in%20geospatial%20technology.)来制定），以及自己选择的跨学科领域的课程（共10学分），通常的领域包括林业、生态、环境、商科、统计、交通、地质、媒体等，从而给自己的GIS技术找到应用的方向。如果学生希望参与科研，也可以申请转为project-based的项目，并完成相关的科研工作，毕业时提交thesis或report，但仍然需要完成规定的20学分核心课程。本科其他专业的同学也可以申请该项目。
+
 ### 俄亥俄州立大学
 **Ohio State University ([Ohio State](https://geography.osu.edu/))**
 _信息提供：叶山_
@@ -357,31 +370,20 @@ GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)、[设计学�
 
 ### 德克萨斯农工大学
 **Texas A&M University (TAMU)**
-美国，德克萨斯州，大学城市 
+美国，德克萨斯州，大学城市
 
 GIS 相关系所：[地理系](https://geography.tamu.edu/)
 
-德州农工地理系学科设置全面。在遥感, Urban GIS, Social Big Data, 和地理决策支持等研究方面较为突出。该系的研究生项目涵盖了：地理学硕士，地理信息科学与技术硕士（网络项目），以及地理学博士等项目。硕士项目需要36个学分，平均毕业2-3年；博士项目所需学分64学分，平均毕业时间4-5年。直博学生所需学分96学分。其GIS项目核心课程包括：Quantitative Methods in Geography，WebGIS，GIS-Based Spatial Analysis & Modeling，Frontiers in Geographic Information Science。 
+德州农工地理系学科设置全面。在遥感, Urban GIS, Social Big Data, 和地理决策支持等研究方面较为突出。该系的研究生项目涵盖了：地理学硕士，地理信息科学与技术硕士（网络项目），以及地理学博士等项目。硕士项目需要36个学分，平均毕业2-3年；博士项目所需学分64学分，平均毕业时间4-5年。直博学生所需学分96学分。其GIS项目核心课程包括：Quantitative Methods in Geography，WebGIS，GIS-Based Spatial Analysis & Modeling，Frontiers in Geographic Information Science。
 
 相关导师：
 
--**[Daniel Goldberg](https://geography.tamu.edu/people/profiles/faculty/goldbergdaniel.html)**: geocoding, 3D mapping, GIS health; 
-
--**[Xinyue Ye](http://directory.arch.tamu.edu/people/76368)**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
-
--**[Lei Zou](https://geography.tamu.edu/people/profiles/faculty/zoulei.html)**: social media data mining, disaster resilience, sustainability;
-
--**[Zhe Zhang](https://geography.tamu.edu/people/profiles/faculty/zhangzhe.html)**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
-
--**[George Allen](https://geography.tamu.edu/people/profiles/faculty/allengeorge.html)**: remote sensing, impacts of climate and land-use change on river systems;
-
--**[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
-
-
-
-
-
-
+- **[Daniel Goldberg](https://geography.tamu.edu/people/profiles/faculty/goldbergdaniel.html)**: geocoding, 3D mapping, GIS health; 
+- **[Xinyue Ye](http://directory.arch.tamu.edu/people/76368)**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
+- **[Lei Zou](https://geography.tamu.edu/people/profiles/faculty/zoulei.html)**: social media data mining, disaster resilience, sustainability;
+- **[Zhe Zhang](https://geography.tamu.edu/people/profiles/faculty/zhangzhe.html)**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
+- **[George Allen](https://geography.tamu.edu/people/profiles/faculty/allengeorge.html)**: remote sensing, impacts of climate and land-use change on river systems;
+- **[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
 
 
 ### 天普大学
@@ -434,6 +436,22 @@ GIS相关系所：[地理系](http://www.buffalo.edu/cas/geography.html)
 
 自2020年秋季起，**[Andrew Crooks](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/andrew-crooks.html)**加盟本系，研究方向Geocomputation, Agent-based modeling, Social Network Analysis, Urban Geography, Computational Social Science。
 
+### 纽约州立大学奥尔巴尼分校  
+
+**University at Albany, State University of New York (UAlbany)**  
+
+美国，纽约州，奥尔巴尼
+
+GIS相关系所：[地理与规划系](https://www.albany.edu/geographyplanning)
+
+纽约州立大学奥尔巴尼分校的地理与规划系有地理学的硕士（MA、MS）学位，其中理学硕士（MS）学位有地理信息科学（Geographic Information Science）。该方向的主要教学及科研内容包括环境遥感，空间分析，地理数据制图，景观可视化，空间认知与寻路等。由于学校紧邻纽约州政府，因此该系提供较为丰富的政府实习机会。
+
+相关导师：  
+
+- **[Alexander Buyantuev](https://www.albany.edu/geographyplanning/faculty/alexander-buyantuev)**: remote sensing, land use/cover change
+- **[Shiguo Jiang](https://www.albany.edu/spatial)**: geospatial analysis, remote sensing, spatial statistics, land use/cover change
+- **[Rui Li](https://www.albany.edu/~rl214236/)**: human cognitive behaviors in GIScience
+- **[James Mower](https://www.albany.edu/faculty/jmower/)**: Augmented reality applications in GIS, Non-photorealistic rendering of terrain.
 
 ### 加州大学圣巴巴拉分校
 **University of California Santa Barbara ([UCSB](https://geog.ucsb.edu/))**
@@ -467,13 +485,12 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 
 相关导师：
 
--**[Xiaobai Yao](https://geography.uga.edu/directory/people/xiaobai-angela-yao)**: GIScience, urban and transportation systems, network science, location-based social media data, public health;
--**[Lan Mu](https://geography.uga.edu/directory/people/lan-mu)**: GIScience for health and the environment, location-based social media data, cartography, computational geometry;
--**[Jerry Shannon](http://jerry.shannons.us/)**: urban development and inequality, geographic information systems, political geography, and place effects on health;
--**[Marguerite Madden](http://cgr.uga.edu/index.html)**: GIScience and landscape ecology, including remote sensing, geographic information systems (GIS), spatio-temporal analysis, geovisualization and geographic object-based image analysis, as applied to landscape-scale biological/physical processes and human-impacts on the environment;
--**[Deepak Mishra](https://geography.uga.edu/directory/people/deepak-r-mishra)**: Combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
--**[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human Health, hydroclimatology.
-
+- **[Xiaobai Yao](https://geography.uga.edu/directory/people/xiaobai-angela-yao)**: GIScience, urban and transportation systems, network science, location-based social media data, public health;
+- **[Lan Mu](https://geography.uga.edu/directory/people/lan-mu)**: GIScience for health and the environment, location-based social media data, cartography, computational geometry;
+- **[Jerry Shannon](http://jerry.shannons.us/)**: urban development and inequality, geographic information systems, political geography, and place effects on health;
+- **[Marguerite Madden](http://cgr.uga.edu/index.html)**: GIScience and landscape ecology, including remote sensing, geographic information systems (GIS), spatio-temporal analysis, geovisualization and geographic object-based image analysis, as applied to landscape-scale biological/physical processes and human-impacts on the environment;
+- **[Deepak Mishra](https://geography.uga.edu/directory/people/deepak-r-mishra)**: Combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
+- **[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human Health, hydroclimatology.
 
 ### 爱荷华大学
 **University of Iowa ([Iowa](https://clas.uiowa.edu/geography))**
@@ -631,6 +648,23 @@ GIS相关系所：[地理系](https://geography.wisc.edu/)
 - **[Qunying Huang](https://geography.wisc.edu/gis/staff/huang-qunying/)**: high performance computing; natural hazards; social media data analytics;
 - **[Robert Roth](https://geography.wisc.edu/cartography/people/Roth.html)**: cartography, story map, WebGIS.
 
+### 路易斯安纳州立大学
+
+**Louisiana State University (LSU)**
+
+美国，路易斯安那州，巴吞鲁日
+
+ GIS相关系所：[地理和人类学系](https://www.lsu.edu/ga/index.php)
+
+ LSU研究生院有地理学的硕士（M.S.）和博士项目。硕士需要完成30个学分以及一份thesis论文；博士需要完成60个学分以及一份dissertation论文，并辅修一个其他专业。因为和人类学同处一系，LSU地理学的科研特色包括一些和人类学的合作项目，比如历史地图和古地图、古文献空间数据、古文明遗址定量地理分析等，GIS本身的主要科研方向包括在遥感、用地、自然地理、城市地理等方向的应用。
+
+ 相关导师：
+
+ - **[Lei Wang](https://www.lsu.edu/ga/people/faculty/lei-wang/index.php)**: GIS, remote sensing, natural hazards, hydrology
+ - **[Fahui Wang](https://www.lsu.edu/ga/people/faculty/fahui-wang/index.php)**: spatial analysis, regional planning, social geography
+ - **[Xuelian Meng](https://www.lsu.edu/ga/people/faculty/shelley-meng/index.php)**: remote sensing, image processing
+ - **[Michael Leitner](https://www.lsu.edu/ga/people/faculty/michael-leitner/index.php)**: GIS, spatial analysis, spatial crime modeling
+ - **[Alex Haberlie](https://www.lsu.edu/ga/people/faculty/alex-haberlie/index.php)**: remote sensing, machine learning, climate changes
 
 ### 俄克拉荷马大学
 
@@ -887,6 +921,29 @@ GIS相关系所：[空间科学组]( http://www.spatialpoints.com/
 - **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis
 )**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use
 
+### 科廷大学
+
+**Curtin University (Curtin)**
+
+澳大利亚，西澳大利亚州，珀斯
+
+GIS相关系所：[空间科学系](https://scieng.curtin.edu.au/schools/school-of-earth-and-planetary-sciences/spatial-sciences/)
+
+科廷大学（原名科廷理工大学）的地球科学类专业在澳洲领先，本校地球和行星科学学院下有空间科学系，开设地信相关的硕士及博士学位：
+- 地理空间智能硕士（Master of Geopatial Intelligence）：2年授课型硕士，第一年需要学习GIS、空间分析、数据库、可视化、地图学等高级课程，第二年需要完成一个综述性的课题。入学时，本科专业不限，只需有一定的微积分和统计学基础（大一公共课水平），以及英语水平达到学校标准即可。
+- 地理信息科学硕士（Master of Philosophy in GIS）：2年研究型硕士，第一学期需要上地理学科研相关的课程，之后三个学期以科研为主，以上和自己项目有关的部分课程为辅，最终完成一个研究型的课题，课题方向通常与地理信息科学、空间分析及统计、地理人工智能、地理大数据等有关。完成后，成绩优秀者可以选择继续攻读本校的博士课程。
+- 测绘和地图学硕士（Master of Philosophy in Surveying and Mapping）：2年研究型硕士，结构同上，但课题方向以测绘、制图为主，比较偏工科和应用。历史上本校为矿业大学，因此矿藏测绘是本系的传统强项。
+- 空间分析博士（Ph.D. in Spatial Analysis)：一般为4年毕业，需要上高级课程，以及完成一个开创性的科研项目。原则上在入学时需要已经获得硕士学位。特别优秀的本科生（比如获得校级以上荣誉，或已经上过一定数量的硕士课程）也会得到机会。
+
+相关导师：
+- **[Jianhong Xia](https://staffportal.curtin.edu.au/staff/profile/view/cecilia-xia-038ccaa9/)**: GIS, geoinformatics, transportation
+- **[Mike Filmer](https://staffportal.curtin.edu.au/staff/profile/view/M.Filmer/)**: geoinformatics, surveying, geodesy
+- **[Davie Antoine](https://staffportal.curtin.edu.au/staff/profile/view/david-antoine-86751d58/)**: remote sensing, oceanography, biogeography
+- **[Joseph Awange](https://staffportal.curtin.edu.au/staff/profile/view/joseph-awange-692cbb6d/)**: GIS, environmental informatics, quantitative geography
+- **[Ahmed El-Mowafy](https://staffportal.curtin.edu.au/staff/profile/view/ahmed-el-mowafy-8eb0c147/)**: surveying, satellite image
+- **[Michael Kuhn](https://staffportal.curtin.edu.au/staff/profile/view/michael-kuhn-0ad64f27/)**: surveying, geodesy, gravity
+- **[Will Featherstone](https://staffportal.curtin.edu.au/staff/profile/view/will-featherstone-0312e6c3/)**: surveying, geodesy, GPS
+- **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization 可能即将退休
 
 ### 苏黎世瑞士联邦理工大学
 **Swiss Federal Institute of Technology in Zurich ([ETH Zurich](http://baug.ethz.ch/en))**
