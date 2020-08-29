@@ -37,7 +37,7 @@
 - [俄勒冈州立大学](#俄勒冈州立大学)
 - [宾夕法尼亚大学](#宾夕法尼亚大学)
 - 宾夕法尼亚州立大学
-- 得克萨斯农工大学
+- [德克萨斯农工大学](#德克萨斯农工大学)
 - 天普大学
 - 纽约州立水牛城大学
 - 加州大学圣巴巴拉分校
@@ -354,29 +354,29 @@ GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)、[设计学�
 
 - **Helen Greatrex**: remote sensing and geostatistics.
 
-### 得克萨斯农工大学
-**Texas A&M University ([TAMU](https://geography.tamu.edu/))**
-_信息提供：Dr. Li Xiao_
 
-TAMU地理系是全美范围内学科设置最全面的院系之一。地理系GIST组研究方向包括：CyberGIS, geocomputation, artificial intelligence, terrain analysis and mapping, river floodplain and mountain geomorphology, cryospheric sciences, plant science, freshwater aquatic and coastal ocean ecosystems, health-science GIS, urbanization and land-use/land-cover modeling, interactions between socio-economic and biophysical systems, and systems modeling.
+### 德克萨斯农工大学
+**Texas A&M University (TAMU)**
+美国，德克萨斯州，大学城市 
+
+GIS 相关系所：[地理系](https://geography.tamu.edu/)
+
+德州农工地理系学科设置全面。在遥感, Urban GIS, Social Big Data, 和地理决策支持等研究方面较为突出。该系的研究生项目涵盖了：地理学硕士，地理信息科学与技术硕士（网络项目），以及地理学博士等项目。硕士项目需要36个学分，平均毕业2-3年；博士项目所需学分64学分，平均毕业时间4-5年。直博学生所需学分96学分。其GIS项目核心课程包括：Quantitative Methods in Geography，WebGIS，GIS-Based Spatial Analysis & Modeling，Frontiers in Geographic Information Science。 
 
 相关导师：
 
-- **Daniel Goldberg**: geocoding, 3D mapping, GIS health;
+-**[Daniel Goldberg](https://geography.tamu.edu/people/profiles/faculty/goldbergdaniel.html)**: geocoding, 3D mapping, GIS health; 
+-**[Xinyue Ye](http://directory.arch.tamu.edu/people/76368)**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
+-**[Lei Zou](https://geography.tamu.edu/people/profiles/faculty/zoulei.html)**: social media data mining, disaster resilience, sustainability;
+-**[Zhe Zhang](https://geography.tamu.edu/people/profiles/faculty/zhangzhe.html)**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
+-**[George Allen](https://geography.tamu.edu/people/profiles/faculty/allengeorge.html)**: remote sensing, impacts of climate and land-use change on river systems;
+-**[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
 
-- **Xinye Ye**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
 
-- **Courtney Thompson**: hazard response assessment, emergency management, community vulnerability;
 
-- **Lei Zou**: social media data mining, disaster resilience, sustainability;
 
-- **Zhe Zhang**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
 
-- **George Allen**: remote sensing, impacts of climate and land-use change on river systems;
 
-- **Anthony FIlippi**: hyperspectral remote sensing, floodplain and coastal marine monitoring;
-
-- **Burak Guneralp**: remote sensing, urbanization, global change, and sustainability.
 
 
 ### 天普大学
