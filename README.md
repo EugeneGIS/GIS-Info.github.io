@@ -884,22 +884,6 @@ _信息提供：Dr. Zhang Xiaohu_
 
 - **Guibo Sun**: transportation, spatial data infrastructure development.
 
-### 新加坡国立大学
-**National University of Singapore（NUS）**
-
-新加坡
-
-GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)(https://www.fas.nus.edu.sg/geog/graduate/msc-in-applied-gis.html)
-
-新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
-相关导师：  
-
-- **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: Spatial data modelling and spatial information theory; Cyberinfrastructure; GIS and Education;   
-
-- **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: Spatial big data analytics, Citizen GIScience, Volunteered geographic information
-
-- **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, Spatial epidemiology
-
 ### 香港理工大学
 ** The Hong Kong Polytechnic University (PolyU) **
 
@@ -912,20 +896,27 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 相关导师：
 
 - **[Prof. SHI Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modelling.
-
 - **Prof. LI Zhi-lin**: Cartography, GIS-Based Spatial Data Modelling, Feature Extraction from Remote Sensing Images;
-
 - **[Prof. WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: Photogrammetry and Robotic Vision, Planetary Mapping and Planetary Science, 3D GIS and Applications.
-
 - **[Dr. PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: Intelligent Transport System, Cartographic Visualization, Spatial Analysis, Spatial Networking;
-
 - **[Dr. LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, Complex Network, Transportation Geography, Urban Computing.
-
 - **[Dr. XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, Urban Informatics, Mobility, Transportation
-
 - **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: Spatial Analysis and Modelling, Activity-based Travel Demand Modelling, Smart Cities, Land Use and Transport Interaction, Agent-based Modelling, Complex Urban System.
-
 - **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: Remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies.
+
+### 新加坡国立大学
+**National University of Singapore（NUS）**
+
+新加坡
+
+GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)(https://www.fas.nus.edu.sg/geog/graduate/msc-in-applied-gis.html)
+
+新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
+相关导师：  
+
+- **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: Spatial data modelling and spatial information theory; Cyberinfrastructure; GIS and Education;   
+- **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: Spatial big data analytics, Citizen GIScience, Volunteered geographic information
+- **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, Spatial epidemiology
 
 ### 西澳大利亚大学
 
