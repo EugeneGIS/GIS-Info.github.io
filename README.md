@@ -112,7 +112,7 @@
 ### 亚利桑那州立大学
 **Arizona State University (ASU)**
 
-美国，亚利桑那州，坦佩市 
+美国，亚利桑那州，坦佩市
 
 GIS 相关系所：[地理与城市规划系](https://sgsup.asu.edu/)
 
@@ -212,7 +212,7 @@ GIS相关系所：[环境和可持续发展学院](https://seas.umich.edu/)
 
 GIS相关系所：[地理、环境及空间科学系](http://geo.msu.edu)
 
-密歇根州立大学的地理系是美国的大型老牌地理系，以地理学的科普活动、地图收藏而闻名。该校提供MA和PhD学位的研究生课程。
+密歇根州立大学的地理系是美国的大型老牌地理系，以地理学的科普活动、地图收藏而闻名。该系geospatial technologies方向的教授较多，科研方向的覆盖面也较大，主要分为cartography，GIScience和remote sensing三大模块，尤其侧重GIS和遥感在农业、气候建模等偏自然科学方向的应用（该校以农学院起家，和农业、林业、生态等相关的科研比较有优势），此外该校在制图学上也有建树，1980年代在Richard Groop和Judy Olson（现均为该系退休教授）两位著名地图学家的带领下成为美国制图学的顶尖院系之一。该系提供硕士和博士学位的研究生项目，其中硕士项目通常为2年制研究型硕士，需要完成科研课题并撰写毕业论文；博士学位为4到5年制，如果本科直接上博士需要5年，如果已有本专业硕士学位则需要4年。
 
 相关导师：
 
@@ -375,7 +375,7 @@ GIS 相关系所：[地理系](https://geography.tamu.edu/)
 
 相关导师：
 
-- **[Daniel Goldberg](https://geography.tamu.edu/people/profiles/faculty/goldbergdaniel.html)**: geocoding, 3D mapping, GIS health; 
+- **[Daniel Goldberg](https://geography.tamu.edu/people/profiles/faculty/goldbergdaniel.html)**: geocoding, 3D mapping, GIS health;
 - **[Xinyue Ye](http://directory.arch.tamu.edu/people/76368)**: geoinformation visualization, urban informatics and spatial social network analysis, emerging (big and open) data analytics;
 - **[Lei Zou](https://geography.tamu.edu/people/profiles/faculty/zoulei.html)**: social media data mining, disaster resilience, sustainability;
 - **[Zhe Zhang](https://geography.tamu.edu/people/profiles/faculty/zhangzhe.html)**: spatial uncertainty, big data and CyberGIS, fuzzy assessment for decision science;
@@ -500,7 +500,7 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 
 相关导师：
 
-- **[Dave Bennett](https://clas.uiowa.edu/geography/people/dave-bennett)**: Geographic information science, the processes and effects of environmental decision-making, human/environment interactions; 
+- **[Dave Bennett](https://clas.uiowa.edu/geography/people/dave-bennett)**: Geographic information science, the processes and effects of environmental decision-making, human/environment interactions;
 - **[Margaret Carrel](https://clas.uiowa.edu/geography/people/margaret-carrel)**: Geography of infectious disease, landscape genetics & disease ecology;
 - **[Marc Linderman](https://clas.uiowa.edu/geography/people/marc-linderman)**: Remote sensing, human/environment interactions, land cover change, ecosystem dynamics;
 - **[Eric Tate](https://clas.uiowa.edu/geography/people/eric-tate)**: Flood risk and vulnerability analysis, geospatial uncertainty and sensitive analysis;
@@ -582,7 +582,7 @@ _信息提供：Zhuoming Liu_
 ### 德克萨斯大学奥斯汀分校
 **University of Texas at Austin (UT Austin)**
 
-美国，德克萨斯州，奥斯汀市 
+美国，德克萨斯州，奥斯汀市
 
 GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography/index.php)
 
@@ -594,7 +594,7 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
-### 德克萨斯州立大学 
+### 德克萨斯州立大学
 **Texas State University (TXST)**
 
 美国，德克萨斯州，圣马科斯市
@@ -605,12 +605,12 @@ GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
 
 相关导师：
 
-- **[Edwin Chow](https://www.geo.txstate.edu/people/faculty/edchow.html)**: geocomputation, hazards, environmental modeling, human dynamics; 
+- **[Edwin Chow](https://www.geo.txstate.edu/people/faculty/edchow.html)**: geocomputation, hazards, environmental modeling, human dynamics;
 - **[Yongmei Lu](https://www.geo.txstate.edu/people/faculty/yongmeilu.html)**: urban & regional studies, crime, health, China & East Asia;
 - **[Nate Currit](https://www.geo.txstate.edu/people/faculty/nate-currit.html)**: remote sensing, land cover change, human-environment systems;
 - **[Alexander (Sasha) Savelyev](https://www.geo.txstate.edu/people/faculty/alexander--Sasha--savelyev.html)**: geovisualization, geovisual analytics, cartography;
 - **[Alberto Giordano](https://www.geo.txstate.edu/people/faculty/albertogiordano.html)**: spatial humanities, cartography, historical GIS, spatial forensic anthropology;
-- **[Jennifer Jensen](https://www.geo.txstate.edu/people/faculty/jennifer-jensen.html)**: lidar, remote sensing, biogeography, land use/land cover change; 
+- **[Jennifer Jensen](https://www.geo.txstate.edu/people/faculty/jennifer-jensen.html)**: lidar, remote sensing, biogeography, land use/land cover change;
 - **[F. Benjamin Zhan](https://www.geo.txstate.edu/people/faculty/benjamin-zhan.html)**: health/medical geography, GIScience, spatial data science, transportation, hazards reduction, China.
 
 
