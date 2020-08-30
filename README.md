@@ -121,16 +121,16 @@ GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 GIS相关项目包括[研究性硕士和PhD]( https://sgsup.asu.edu/degree-programs/graduate-degrees/phd-geography), 以及[授课型硕士 (1 – 2年, STEM)]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis)
 
 相关导师 ：
-- **[ Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis; 
-- **[ Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: Movement Data Analysis;
-- **[ Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GeoAI, cyberGIS;
-- **[ Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology.
-- **[ Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: Spatial optimization, spatial statistics.
-- **[ Michael Kuby](https://sgsup.asu.edu/michael-kuby)**: Transportation, optimization.
-- **[ David Sailor](https://geography.wisc.edu/cartography/people/Roth.html)**: climate with the built environment.
-- **[ Soe Myint](https://sgsup.asu.edu/soe-myint)**: Remote sensing, GIS.
-- **[ Peter Kedron](https://sgsup.asu.edu/peter-kedron)**: Spatial analysis and statistics.
-- **[ Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: Remote sensing, GIS, UAV.
+- **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis; 
+- **[Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: Movement Data Analysis;
+- **[Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GeoAI, cyberGIS;
+- **[Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology.
+- **[Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: Spatial optimization, spatial statistics.
+- **[Michael Kuby](https://sgsup.asu.edu/michael-kuby)**: Transportation, optimization.
+- **[David Sailor](https://geography.wisc.edu/cartography/people/Roth.html)**: climate with the built environment.
+- **[Soe Myint](https://sgsup.asu.edu/soe-myint)**: Remote sensing, GIS.
+- **[Peter Kedron](https://sgsup.asu.edu/peter-kedron)**: Spatial analysis and statistics.
+- **[Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: Remote sensing, GIS, UAV.
 
 ### 南卡罗莱纳大学
 **University of South Carolina (UoSC)**
@@ -173,6 +173,35 @@ _信息提供：Shuhong Yan_
 - **John Rogan**: landscape ecology, fire ecology, optical remote sensing and GIScience;
 
 - **Florencia Sangermano**: conservation biology, GIS, remote sensing and landscape ecology.
+
+### 康奈尔大学 
+**Cornell University**
+美国，纽约州，伊萨卡 
+康奈尔大学没有特定的GIS相关院系，但其他院系有导师从事GIS或RS相关的课题。
+
+School of Integrative Plant Science (Soil and crop science section): 该系属于农学院，本科毕业可申请硕士+博士项目，硕士毕业可直接申请博士项目，博士无固定毕业年限。系里老师背景很丰富，有从事土壤学、化学、环境学、生态学等各方面的老师。网站：https://scs.cals.cornell.edu/
+
+相关导师：
+- **[Ying Sun](https://www.yingsun.info/)**: remote sensing, ecology, hydrology, earth systems, spatial analysis. 
+
+
+### 丹佛大学 
+**University of Denver (DU)**
+美国，科罗拉多州，丹佛市 
+
+GIS相关系所：[地理与环境系](https://science.du.edu/geography)
+
+丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography（详情请点这里）。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。
+
+丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
+
+相关导师：
+- **[Paul Sutton](https://science.du.edu/about/faculty-directory/paul-sutton-archived)**: sustainability science, ecological economics, urbanization science, and population geography;
+- **[Rebecca Powell](https://science.du.edu/about/faculty-directory/rebecca-l-powell)**: remote sensing, urban sustainability;
+- **[Jing Li](https://portfolio.du.edu/JingLi)**: geovisualization, high performance geocomputation, spatiotemporal data modeling and analysis;
+- **[Guiming Zhang](http://portfolio.du.edu/Guiming.Zhang)**: volunteered geographic information (VGI), geospatial big data analytics, environmental modeling, geospatial computing;
+- **[Steven Hick](http://portfolio.du.edu/shick)**: GIS, GPS, crime mapping and analysis.
+
 
 ### 乔治梅森大学
 ** George Mason University (GMU) **
@@ -556,19 +585,21 @@ GIS所涉及的研究领域包括Geospatial Data Science, Cartography, Geovisual
 
 相关导师：
 
-- **Scott M. Freundschuh(http://www.unm.edu/~sfreunds/Home.html)**: Giscience, Spatial Cognition, Spatial Information Design, Cartography;
+- **[Scott M. Freundschuh](http://www.unm.edu/~sfreunds/Home.html)**: Giscience, Spatial Cognition, Spatial Information Design, Cartography;
 
-- **Xi Gong(ttps://xigong.wordpress.com/)**: Spatio-Temporal Data Mining, Big Data Science & Analytics, Machine Learning, Health & The Environment, GIS-Based Modelling;
+- **[Xi Gong](ttps://xigong.wordpress.com/)**: Spatio-Temporal Data Mining, Big Data Science & Analytics, Machine Learning, Health & The Environment, GIS-Based Modelling;
 
-- **Yan Lin(https://yanlingeo.wordpress.com/)**: Giscience, Spatial Data Analysis, WebGIS, Health & Medial Geography, Spatial Epidemiology, Health Disparities;
+- **[Yan Lin](https://yanlingeo.wordpress.com/)**: Giscience, Spatial Data Analysis, WebGIS, Health & Medial Geography, Spatial Epidemiology, Health Disparities;
 
-- **Caitlin Lippitt**: Remote Sensing of Vegetation, Fire Ecology, Biogeography, Invasive Species;
+- **[Caitlin Lippitt]**: Remote Sensing of Vegetation, Fire Ecology, Biogeography, Invasive Species;
 
-- **Chris Lippitt http://gem.unm.edu/): **: Remote Sensing, GIScience, Time-Sensitive Geographic Information;
+- **[Chris Lippitt](http://gem.unm.edu/): **: Remote Sensing, GIScience, Time-Sensitive Geographic Information;
 
 - **Bo Romero**: GIScience, Spatial Analysis, Geoprocessing, Geographical Uncertainty, Representation, and Visualization;
 
-- **Liping Yang(https://lipingyang.org/ylpCV.html): **: GIScience, Geospatial Artificial Intelligence (GeoAI), Visual (Image & Text) Big Data Analytics, Geovisualization, Indoor Navigation.
+- **[Liping Yang](https://lipingyang.org/ylpCV.html)**: GIScience, Geospatial Artificial Intelligence (GeoAI), Visual (Image & Text) Big Data Analytics, Geovisualization, Indoor Navigation.
+
+- **[Yolanda C. Lin](https://www.yolandaclin.com/)**: Natural hazards and disasters,  risk and resilience, spatial analysis, earthquake engineering, data visualization, uncertainty, systems thinking
 
 
 ### 德克萨斯大学奥斯汀分校
@@ -857,19 +888,22 @@ GIS相关系所：[地理系](https://arts.ucalgary.ca/geography)
 - **[Greg McDermid](http://contacts.ucalgary.ca/info/geog/profiles/177-32916)**: remote sensing, environmental informatics
 
 ### 香港中文大学
-**The Chinese University of Hong Kong ([CUHK](https://www.grm.cuhk.edu.hk/cht/index.html))**
+**The Chinese University of Hong Kong**
+中国，香港，沙田
 
-香港中文大学GIS项目主要开设在太空与地球信息科学研究所和地理与资源管理系。
+GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/index.html)、太空与地球信息科学研究所（http://www.iseis.cuhk.edu.hk/en/）。
+
+地理与资源管理学系是亚洲地理教育研究前沿的地理系之一。地理系的教学和研究围绕四个领域进行，即城市和区域发展、自然和环境系统、地理信息和分析、全球变化和资源管理。地理系内的三位教授分别在环境、能源与可持续发展研究所、未来城市研究所和太空与地球信息科学研究所担任主任。学生可以申请本科和研究生学习，获得地理和资源管理（GRM）的BSSc、MPhil和博士学位（4年）、地理信息科学硕士和可持续旅游MSSc。
+太空与地球信息科学研究所是在中国科学院和香港中文大学的地球信息科学联合实验室（JLGIS）的基础上成立的。研究所设有中高分辨率卫星遥感地面接收站，为学生开展遥感、GIS等研究提供了独特的机会。主要研究领域包括云和多雨地区遥感（CARS）、虚拟地理环境（VGE）、应急响应和自然灾害监测和管理、城市和都市地理信息系统、城市住区环境分析和建模、公共卫生和地理信息系统，智能交通系统（ITS）与空间整合的人文社会科学。研究所下设地球系统与地球信息科学研究生部，提供硕士（授课型和研究型）和博士学位（3年）的课程。
 
 相关导师：
 
-- **Meipo Kwan**: environment and health, urban sustainability, human mobility, transportation;
+- **[Mei-Po Kwan](http://meipokwan.org/Index.html)**: environmental health, human mobility, healthy cities, social justice, and GIScience.
+- **[Bo Huang](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HuangBo.html)**: Spatio-temporal data analytics; GIS for sustainable urban/transportation/land use planning; Unified image fusion for sustainable urban environment; Spatial statistics for land use change modeling; Multi-objective optimization for spatial planning with consideration of vulnerability and resilience
+- **[Jianfa Shen](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_ShenJF.html)**: Urbanization and migration analysis; Spatial population modeling; Inter-city competition and cooperation; Urban and regional development; Pearl River Delta and China
+- **[Tung FUNG](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_FungTung.html)**: Digital image analysis; Spatial modelling; Land cover change detection
+- **[Ying He](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HeSylvia.html)**: Transportation ; planning and policy; Travel behavior; Activity-based modeling; GIS/Spatial analysis; Urban and regional economics
 
-- **Bo Huang**: spatio-temporal data analysis, remote sensing fusion, smart transportation, sustainable urban planning;
-
-- **Jianfa Shen**: urbanization and migration, spatial analysis, urban and regional development;
-
-- **Tong Feng**: digital image analysis, spatial modeling, land use.
 
 ### 香港大学
 **University of Hong Kong (HKU)**
@@ -994,6 +1028,41 @@ _信息提供：饶锦蒙_
 - **Kay W. Axhausen**: transportation.
 
 
+### 爱丁堡大学  
+**The University of Edinburgh**
+英国，苏格兰，爱丁堡
+GIS相关系所：[地理科学学院](https://www.ed.ac.uk/geosciences)
+爱丁堡大学地理科学学院建院于2002年，方向偏开发。
+
+地信学院下包含多个GIS相关项目，提供两种硕士项目Msc by Research（即研究型科学硕士）、Msc by Taught（即授课型科学硕士）和相关博士项目
+
+**Msc by Research**：主研究，申请时需要提交不超过两页的研究计划
+
+- [Palaeontology and Geobiology](https://www.ed.ac.uk/geosciences/postgraduate/research-masters/palaeontology-geobiology)
+- [Human Geography](https://www.ed.ac.uk/geosciences/postgraduate/research-masters/human-geography)
+- [GeoSciences Individual Project](https://www.ed.ac.uk/geosciences/postgraduate/research-masters/geoscience-individual-project)
+
+**Msc by  Taught**：
+
+- [Geographical Information Science](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=74)
+
+- [Earth Observation and Geoinformation Management](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=874)
+- [Environment and Development](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=30)
+- [Marine Systems and Policies](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=872)
+- [Soils and Sustainability](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2020&id=781)
+
+学院相关项目众多，还有几个硕士项目和online master项目，可以在[School of Geosciences: Taught Masters Programmes](https://www.ed.ac.uk/geosciences/postgraduate/taught-masters)自行查阅
+
+Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目总共需要完成180个学分：其中必修课程包括Research Practice and Project Planning, Dissertation in GIS, Spatial Modelling and Analysis, Technological Infrastructures for GIS；其他选修课程内容可[在此查询](http://www.drps.ed.ac.uk/current/dpt/ptmscgisci1f.htm)。
+
+相关导师 ：
+
+- **[Neil Stuart](https://www.ed.ac.uk/geosciences/people?person=20)**: hydrology；
+- **[Bruce Gittings](https://www.ed.ac.uk/geosciences/people?person=6)**: Web-based geo-information;
+- **[William Mackaness](https://www.ed.ac.uk/geosciences/people?person=12)**: UGC; VGI
+- **[Zhiqiang Feng](https://www.research.ed.ac.uk/portal/en/persons/zhiqiang-feng(b1537d8d-3698-4382-b53f-6657e988020f).htmlhttps://www.research.ed.ac.uk/portal/en/persons/zhiqiang-feng(b1537d8d-3698-4382-b53f-6657e988020f).html)**: health geography; population geography; spatial analysis
+
+
 ### 格拉斯哥大学
 
 **University of Glasgow**
@@ -1022,6 +1091,50 @@ GIS相关系所：[地理与地球科学学院]( https://www.gla.ac.uk/schools/g
 )**: geospatial data science, navigation, GPS
 - **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/
 )**: Cartography, GIS
+
+
+###谢菲尔德大学
+**The University of Sheffield**
+
+英国 谢菲尔德
+
+GIS相关系所：[地理系](https://www.sheffield.ac.uk/geography)
+
+谢菲尔德大学应用地理信息系统理学硕士项目由城市研究与规划系和地理系联合办学，授课型硕士全日制一年。在谢菲尔德大学GIS硕士项目学习期间，学生将掌握在地理信息系统、应用政策研究、全球问题空间数据分析领域工作所需的技术技能、实践经验和理论知识，深入学习高级空间分析、地理可视化、实践中的地理信息系统政策应用、专题制图和图表创建等。
+
+主要课程包括：
+数据、可视化和地理信息系统	Data、Visualisation and GIS
+
+定量分析导论	Introduction to Quantitative Analysis
+
+开源地理信息系统和空间分析	Open Source GIS and Spatial Analysis
+
+地理信息系统应用	Application of GIS
+
+社会和空间分析研究设计	Research Design for Social and Spatial Analysis
+
+高级地理信息系统应用方法	Advanced GIS Methods
+
+专业地理信息系统项目	The Professional GIS Project
+
+运输规划	Transport Planning
+
+住房议题	Issues in Housing
+
+多样性城市	Cities of Diversity
+
+相关导师：
+
+- **[Rowland Atkinson](https://www.sheffield.ac.uk/usp/people/academic-staff/rowland-atkinson)：urban and housing studies,sociology, geography and criminology
+
+- **[Chris Clark](https://www.sheffield.ac.uk/geography/people/academic-staff/chris-clark)：Glacial Geomorphology and Glaciology, and on GIS
+
+- **[Simon Marvin](https://www.sheffield.ac.uk/geography/people/academic-staff/simon-marvin)：systemic transitions, climate change, ecological security and smart cities.
+
+- **[Andrew McGonigle](https://www.sheffield.ac.uk/geography/people/academic-staff/andrew-mcgonigle)：Volcano Remote Sensing，Volcano Atmosphere Interactions，Other Environmental Sensing
+
+- **[Stephen Livingstone(https://www.sheffield.ac.uk/geography/people/academic-staff/stephen-livingstone):
+Surface meltwater
 
 
 ### 特温特大学
@@ -1057,6 +1170,20 @@ _信息提供：Xiaojian Liu_
 - **Zhongbo (Bob) Su**: spatial hydrology, water cycle, ecosystem and water resources, remote sensing, numerical modeling;
 
 - **Yijian Zeng**: hydrologic processes, land-atmosphere interaction, land surface models, data assimilation.
+
+### 乌特勒支大学
+**Utrecht University (UU)**
+荷兰， 乌特勒支市
+
+GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/faculty-of-geosciences）
+
+乌特勒支地理系综合实力较强，将地理学与自然界的多个领域结合，在世界范围内广受人可。博士申请方面，获得硕士专业的学生查找博士岗位(https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)， 申请四年的博士。
+
+相关导师：
+- **[Steven de Jong]( https://www.uu.nl/staff/SMdeJong)**: Geohazards; Landscape Functioning, Geo-computation and Hydrology; Land Degradation and Remote Sensing; 
+- **[Maarten Kleinhans]( https://www.uu.nl/staff/MGKleinhans)**: Geomorphology; Biogeoscience; Coastal Evolution; River Floodplain Ecosystems;
+- **[Tine Beneker]( https://www.uu.nl/staff/TBeneker)**: Geography Education Research; Human Geography; Spatial Planning;  
+- **[Dick Ettema]( https://www.uu.nl/staff/DFEttema)**: Dynamics of Youth; Pathways to Sustainability; Sport and Society.
 
 
 ### 利兹大学  
