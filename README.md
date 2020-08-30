@@ -70,6 +70,8 @@
 - [俄克拉荷马州立大学](#俄克拉荷马州立大学)
 - [圣迭戈州立大学](#圣迭戈州立大学)
 - [南加州大学](#南加州大学)
+- [阿拉斯加大学费尔班克斯分校](#阿拉斯加大学费尔班克斯分校)
+- [科罗拉多大学](#科罗拉多大学波尔德分校)
 
 #### 加拿大x所
 - [麦吉尔大学](#麦吉尔大学)
@@ -78,6 +80,8 @@
 - [萨斯喀彻万大学](#萨斯喀彻万大学)
 - [麦克马斯特大学](#麦克马斯特大学)
 - [卡尔加里大学](#卡尔加里大学)
+- [维多利亚大学](#维多利亚大学)
+- [圭尔夫大学](#圭尔夫大学)
 
 #### 香港4所
 - [香港城市大学(CityU)](#香港城市大学)
@@ -117,14 +121,14 @@
 
 美国，亚利桑那州，坦佩
 
-GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/) 
+GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 
 亚利桑那州立大学地理与城市规划系在空间分析、空间统计、城市气象学等方面实力强劲。目前有三名美国科学院院士。主要研究方向下分为三个研究中心 [SPARC 空间分析中心] (https://sgsup.asu.edu/SPARC) , [CGDC 全球发现与保护科学中心](https://gdcs.asu.edu)  和 [UCRC 城市气候研究中心](https://sustainability.asu.edu/urban-climate/) 。
 
 GIS相关项目包括[研究性硕士和PhD]( https://sgsup.asu.edu/degree-programs/graduate-degrees/phd-geography), 以及[授课型硕士 (1 – 2年, STEM)]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis)
 
 相关导师 ：
-- **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis; 
+- **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
 - **[Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: Movement Data Analysis;
 - **[Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GeoAI, cyberGIS;
 - **[Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology.
@@ -177,20 +181,20 @@ _信息提供：Shuhong Yan_
 
 - **Florencia Sangermano**: conservation biology, GIS, remote sensing and landscape ecology.
 
-### 康奈尔大学 
+### 康奈尔大学
 **Cornell University**
-美国，纽约州，伊萨卡 
+美国，纽约州，伊萨卡
 康奈尔大学没有特定的GIS相关院系，但其他院系有导师从事GIS或RS相关的课题。
 
 School of Integrative Plant Science (Soil and crop science section): 该系属于农学院，本科毕业可申请硕士+博士项目，硕士毕业可直接申请博士项目，博士无固定毕业年限。系里老师背景很丰富，有从事土壤学、化学、环境学、生态学等各方面的老师。网站：https://scs.cals.cornell.edu/
 
 相关导师：
-- **[Ying Sun](https://www.yingsun.info/)**: remote sensing, ecology, hydrology, earth systems, spatial analysis. 
+- **[Ying Sun](https://www.yingsun.info/)**: remote sensing, ecology, hydrology, earth systems, spatial analysis.
 
 
-### 丹佛大学 
+### 丹佛大学
 **University of Denver (DU)**
-美国，科罗拉多州，丹佛市 
+美国，科罗拉多州，丹佛市
 
 GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 
@@ -215,8 +219,8 @@ GIS相关系所：[地理与地理信息科学系] (https://science.gmu.edu/acad
 
 相关导师：
 - **[Chaowei Yang]( https://science.gmu.edu/directory/chaowei-yang)**: high-performance geo-computation, spatiotemporal theories and applications;
-- **[Andreas Zufle](https://science.gmu.edu/directory/andreas-zufle)**: Computer Science, Data Sciences, Geoinformation Science, Geospatial Intelligence, Smart Cities; 
-- **[David Wong](https://science.gmu.edu/directory/david-wong)**: Population, spatial statistics, Geography of China, Thoughts and Methodology, Biochemistry; 
+- **[Andreas Zufle](https://science.gmu.edu/directory/andreas-zufle)**: Computer Science, Data Sciences, Geoinformation Science, Geospatial Intelligence, Smart Cities;
+- **[David Wong](https://science.gmu.edu/directory/david-wong)**: Population, spatial statistics, Geography of China, Thoughts and Methodology, Biochemistry;
 - **[Nathan Burtch](https://science.gmu.edu/directory/nathan-burtch)**: urban planning, urban geography, geoinformation technologies, GIS, quantitative methods, and cartography;
 - **[Arie Croitoru](https://science.gmu.edu/directory/arie-croitoru)**: Computational GeoInformatics, Image Processing and Image Analysis, Digital Photogrammetry and Remote Sensing, Spatial Statistics in GIS for data quality evaluation;
 - **[Matt Rice](https://science.gmu.edu/directory/matthew-rice)**: Geocrowdsourcing, cartography;
@@ -527,7 +531,7 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 - **[Heather Sander](https://clas.uiowa.edu/geography/people/heather-sander)**: Urban ecology, ecosystem services, urban wildlife ecology and conservation, urban social-ecological systems;
 - **[Caglar Koylu](https://clas.uiowa.edu/geography/people/caglar-koylu)**: GIScience, spatial data science, information visualization, human-computer interaction, mobility and geo-social networks.
 
-### 伊利诺伊大学香槟分校 
+### 伊利诺伊大学香槟分校
 **University of Illinois at Urbana-Champaign (UIUC)**
 
 美国，伊利诺伊州，香槟市
@@ -785,7 +789,46 @@ GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
 - **[Shahabi, Cyrus](https://spatial.usc.edu/?team=cyrus-shahabi)**: databases, GIS, multi-media;
 - **[Wilson, John P.](https://spatial.usc.edu/?team=john-p-wilson)**: GIS，spatial analysis, environmental modeling, environment and human health, geodesign education.
 
+### 阿拉斯加大学费尔班克斯分校
 
+**University of Alaska Fairbanks (UAF)**
+
+美国，阿拉斯加州，费尔班克斯
+
+GIS相关系所：[地球科学系](https://www.uaf.edu/geosciences/)
+
+UAF的地球科学系有RS和GIS相关的科研项目，并可以授予MS和PhD学位。该系管理着阿拉斯加州最重要的三个GIS相关的基础设施：
+
+- [阿拉斯加卫星图像中心](https://asf.alaska.edu/)：阿拉斯加州的卫星图像库
+- [阿拉斯加地球物理研究所遥感中心](https://www.gi.alaska.edu/research/remote-sensing)：管理阿拉斯加州及周边海域的物理遥感数据
+- [阿拉斯加地理信息网](http://www.gina.alaska.edu/)：提供实时的阿拉斯加空间地理信息数据
+
+该系的GIS和RS科研项目很多是基于这三个基础设施的。UAF是美国纬度最高的四年制大学，靠近北极圈，也临近环太平洋火山地震带，因为得天独厚的地缘优势，该系在RS和GIS方面形成了全球独特的应用方向，即空间科学、空间分析、遥感、地理统计学、计量地理学等在极地环境、极地气候学、冰川地貌、火山学、极地海洋学等方面的应用。
+
+相关导师：
+
+- **[Chris Maio](https://acgl.community.uaf.edu/)**: spatial analysis, 3D visualization, coastal erosion, paleotemperature
+- **[Franz Meyer](https://scholar.google.com/citations?user=IoKdwqoAAAAJ&hl=en)**: remote sensing, SAR
+- **[Rudiger Gens](https://rudigens.github.io/contact.html)**: remote sensing, GIS for integrated analysis and change detection, visualization
+- **[Uma Bhatt](http://ffden-2.phys.uaf.edu/usbhatt/)**: spatiotemporal models, numerical geospatial models, climate
+- **[Mark Fahnestock](https://scholar.google.com/citations?user=DM6DblYAAAAJ&hl=en)**: remote sensing for sea ice
+- **[Pavel Izbekov](https://scholar.google.com/citations?user=9PVNjbgAAAAJ&hl=en)**: remote sensing for volcanology
+
+### 科罗拉多大学波尔德分校
+
+**University of Colorado, Boulder (CU Boulder)**
+
+美国，科罗拉多州，波尔德（丹佛以西）
+
+GIS相关系所：[地理系](https://www.colorado.edu/geography/)
+
+科罗拉多大学波尔德分校是科罗拉多大学的旗舰校区，位于落基山脚下，临近落基山国家公园，是美国地质调查局（USGS）所在地，因此该校的地质、地理等学科为优势学科。地理系可以授予硕士和博士学位，自然地理为强项，也有许多GIS相关的科研机会，Babs Buttenfield（著名的地图学教育家、UCGIS及美国测绘协会ACSM的终身fellow）任教于此。
+
+相关导师：
+- **[Babs Buttenfield](https://www.colorado.edu/geography/barbara-babs-buttenfield)**: cartography, map generalization, map scales
+- **[Morteza Karimzadeh](https://www.colorado.edu/geography/morteza-karimzadeh)**: spatial analysis, visual analytics, geo-data science
+- **[Stefan Leyk](https://www.colorado.edu/geography/stefan-leyk-0)**: GIS, spatial modeling, cartographic pattern recognization
+- **[Seth Spielman](https://www.colorado.edu/geography/seth-spielman-0)**: spatial analysis, GISciences, public health
 
 ### 麦吉尔大学
 **McGill University (McGill)**
@@ -889,6 +932,43 @@ GIS相关系所：[地理系](https://arts.ucalgary.ca/geography)
 - **[Geoff Hay](http://contacts.ucalgary.ca/info/geog/profiles/177-32909)**: GIS, spatial data science, image processing, remote sensing
 - **[Dan Jacobson](http://contacts.ucalgary.ca/info/geog/profiles/177-32766)**: digital humanities, cartography, history of GIS
 - **[Greg McDermid](http://contacts.ucalgary.ca/info/geog/profiles/177-32916)**: remote sensing, environmental informatics
+
+
+### 维多利亚大学
+
+**University of Victoria (UVic)**
+
+加拿大，不列颠哥伦比亚省，维多利亚市
+
+GIS相关系所：[地理系](https://www.uvic.ca/socialsciences/geography/)
+
+地理信息学（geomatics）是维多利亚大学地理系的主要组成部分之一。该系有[空间科学实验室](http://ssrl.geog.uvic.ca/)、[地理空间模型实验室](https://www.surreallab.org/)、[光谱遥感实验室](http://uvicspectral.com/)、[ICE遥感实验室](https://icelab.ca/)以及[空间可视化实验室](https://www.uvic.ca/socialsciences/geography/people/faculty/canessarosaline.php)等和地理信息科技相关的课题组，另有诸多和自然地理、气候、海洋学相关的课题组。该系提供MA、MSc和PhD等学位。
+
+相关导师：
+
+- **[Rosaline Canessa](https://www.uvic.ca/socialsciences/geography/people/faculty/canessarosaline.php)**: coastal GIS, ocean mapping, marine science, sea space visualization
+- **[Randall Scharien](https://www.uvic.ca/socialsciences/geography/people/faculty/scharienrandall.php)**: remote sensing, sea ice, glacier, climate, ecosystem
+- **[Maycira Costa](https://www.uvic.ca/socialsciences/geography/people/faculty/costamaycira.php)**: remote sensing, biogeophysics, oceanography
+- **[Chris Bone](https://www.uvic.ca/socialsciences/geography/people/faculty/bonechris.php)**: GIS, spatial analysis, spatial simulation and modeling
+- **[Johannes Feddema](https://www.uvic.ca/socialsciences/geography/people/faculty/feddemajohannes.php)**: GIS, climate, water resource
+- **[Reuben Rose-Redwood](https://www.uvic.ca/socialsciences/geography/people/faculty/rose-redwoodreuben.php)**: historical cartography, urban studies
+
+### 圭尔夫大学
+
+**University of Guelph (Guelph)**
+
+加拿大，安大略省，圭尔夫
+
+GIS相关系所：[地理、环境和地信系](https://geg.uoguelph.ca/)
+
+圭尔夫大学的GEG系有MSc、MA和PhD途径的学位计划，其中MSc和PhD有地理信息学（geomatics）方向。MSc为2年制学位，需要参与科研并提交毕业论文，PhD为4年制学位，需要通过资格考试，并提交博士论文。原则上，申请PhD需要有硕士学位且硕士平均分在A-以上，但十分出色的本科生也会被考虑。本系的硕士毕业后有机会直接继续读博。
+
+相关导师：
+
+- **[John Lindsay](https://geg.uoguelph.ca/faculty/lindsay-john)**: GIS, digital terrain, LiDAR, GIS software development, hydrology
+- **[Aaron Berg](https://www.uoguelph.ca/geography/hrsl/)**: remote sensing, Hydrology
+- **[Ben DeVries](https://geg.uoguelph.ca/faculty/devries-ben)**: GIS, remote sensing, wetland, flood
+- **[Eric Nost](https://geg.uoguelph.ca/faculty/nost-eric)**: visualization, web mapping, political geography
 
 ### 香港中文大学
 **The Chinese University of Hong Kong**
@@ -1183,7 +1263,7 @@ GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/facul
 乌特勒支地理系综合实力较强，将地理学与自然界的多个领域结合，在世界范围内广受人可。博士申请方面，获得硕士专业的学生查找博士岗位(https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)， 申请四年的博士。
 
 相关导师：
-- **[Steven de Jong]( https://www.uu.nl/staff/SMdeJong)**: Geohazards; Landscape Functioning, Geo-computation and Hydrology; Land Degradation and Remote Sensing; 
+- **[Steven de Jong]( https://www.uu.nl/staff/SMdeJong)**: Geohazards; Landscape Functioning, Geo-computation and Hydrology; Land Degradation and Remote Sensing;
 - **[Maarten Kleinhans]( https://www.uu.nl/staff/MGKleinhans)**: Geomorphology; Biogeoscience; Coastal Evolution; River Floodplain Ecosystems;
 - **[Tine Beneker]( https://www.uu.nl/staff/TBeneker)**: Geography Education Research; Human Geography; Spatial Planning;  
 - **[Dick Ettema]( https://www.uu.nl/staff/DFEttema)**: Dynamics of Youth; Pathways to Sustainability; Sport and Society.
@@ -1260,7 +1340,7 @@ _信息提供：饶锦蒙_
 - **Kneubühler Mathias**: remote sensing，imaging spectroscop.
 
 
-### 伯尔尼大学 
+### 伯尔尼大学
 ** Universität Bern (Unibe) **
 瑞士，伯尔尼州，伯尔尼市
 GIS相关系所：[地理研究所](https://www.geography.unibe.ch)
@@ -1271,7 +1351,7 @@ GIS相关系所：[地理研究所](https://www.geography.unibe.ch)
 - **[Peter Messerli]( https://www.cde.unibe.ch/about_us/personen/prof_dr_messerli_peter/index_eng.html)**: Spatial Analysis, Ecology, Ecological Economics, Geography, Sustainable Development, Land Use Change;
 - **[Andreas Zischg](https://www.geography.unibe.ch/about_us/staff/prof_dr_zischg_andreas/index_eng.html)**: GIS and geodata analysis, Coupled component modelling, Impacts of extreme events.
  
-### 洛桑联邦理工学院 
+### 洛桑联邦理工学院
 ** École Polytechnique Fédérale de Lausanne (EPFL) **
 瑞士，沃州，洛桑市
 GIS相关系所：[LASIG实验室](https://www.epfl.ch/labs/lasig/)
@@ -1285,7 +1365,7 @@ GIS相关系所：[LASIG实验室](https://www.epfl.ch/labs/lasig/)
 - **[Jan Skaloud](https://people.epfl.ch/jan.skaloud)**: Satellite positioning, Inertial and integrated navigation, Sensor orientation and calibration, Mobile mapping, airborne laser scanning, Adjustment methods, Kalman Filtering;
 - **[Devis Tuia](https://people.epfl.ch/devis.tuia)**: Earth Observation, remote sensing: from drones to satellites, Machine learning, deep learning, Image processing.
  
-###日内瓦大学 
+###日内瓦大学
 ** University of Geneva (Unige) **
 瑞士，日内瓦州，日内瓦市
 GIS相关系所：[环境科学研究所](https://www.unige.ch/environnement/en/)
@@ -1297,7 +1377,7 @@ GIS相关系所：[环境科学研究所](https://www.unige.ch/environnement/en/
 - **[Gregory Giuliani](https://geography.wisc.edu/cartography/people/Roth.html)**: Land Change Science, GIS, Remote Sensing, Spatial Data Infrastructure, Earth Observations, GEO/GEOSS, Digital Earth;
 - **[Pierre Lacroix](https://www.unige.ch/medecine/isg/en/staff/nicolas-ray/)**: spatial ecology, population genetics, spatial data infrastructure, GIS, and global health.
  
-### 洛桑大学 
+### 洛桑大学
 ** University of Lausanne (Unil) **
 瑞士，沃州，洛桑市
 GIS相关系所：[地理系]( https://www.unil.ch/igd/home.html)
@@ -1311,7 +1391,7 @@ GIS相关系所：[地理系]( https://www.unil.ch/igd/home.html)
 - **[Antoine Guisan](https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-antoine-guisan.html)**: Spatial Ecology, Habitat suitability and distribution modeling, Conservation Biology, Species Diversity, Natural Resource Management.
 
  
-### 隆德大学 
+### 隆德大学
 ** Lund University (Lund) **
 瑞典，斯科讷省，隆德市
 GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)
@@ -1326,7 +1406,7 @@ GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)
 - **[Ali Mansourian](https://www.nateko.lu.se/ali-mansourian)**: Spatial Data Infrastructures (SDI), Web GIS and Geospatial Web services, Advanced modeling for applied GISs;
 - **[Ola Hall](https://www.keg.lu.se/en/ola-hall)**: GIS, Social geographic analysis..
  
-### 瑞典皇家理工学院 
+### 瑞典皇家理工学院
 ** KTH Royal Institute of Technology (KTH) **
 瑞典，斯德哥尔摩省，斯德哥尔摩市
 GIS相关系所：[城市规划与环境系](https://www.kth.se/en/som/avdelningar/gis/gis-1.62043)
@@ -1336,7 +1416,7 @@ KTH的GIS / RS下设在城市规划与环境部门下面，其研究重点是方
 - **[Takeshi Shirabe](https://www.kth.se/profile/shirabe)**: Combinatorial optimization in geography, Route planning and improvisation, Computer-aided spatial planning and design, Spatial decision support systems, Computational methods for addressing indecisiveness in spatial decision making;
 - **[Gyözö Gidofalvi](https://www.kth.se/profile/gyozo)**: Spatio-temporal data mining and analysis, Location-Based Services (LBS), Locations privacy, Intelligent Transportation Systems (ITS), and related GIS areas such as web and mobile GIS and spatial databases.
  
-### 斯德哥尔摩大学 
+### 斯德哥尔摩大学
 ** Stockholm University (SU) **
 瑞典，斯德哥尔摩省，斯德哥尔摩市
 GIS相关系所：[自然地理系](https://www.natgeo.su.se/)
@@ -1351,7 +1431,7 @@ GIS相关系所：[自然地理系](https://www.natgeo.su.se/)
 - **[Bo Malmberg](https://www.su.se/english/profiles/bmalm-1.184229)**: Applied Econometrics, Economic Geography, Population geography; Urban geography, GIS and remote sensing, Spatial Statistics;
 - **[Anders Wästfelt](https://www.su.se/english/profiles/wastf-1.183689)**: Remote Sensing, Earth Observation, Satellite Image Analysis and Processing, Spatial Analysis, Geoinformation, Vegetation Mapping.
  
-### 哥德堡大学 
+### 哥德堡大学
 ** University of Gothenburg (GU) **
 瑞典，西约特兰省，哥德堡市
 GIS相关系所：[地球科学系]( https://gvc.gu.se/english)
@@ -1363,7 +1443,7 @@ GIS相关系所：[地球科学系]( https://gvc.gu.se/english)
 - **[Deliang Chen](https://geography.wisc.edu/gis/staff/huang-qunying/)**: Statistical Data Analysis, Spatial Analysis, Climate Variability, Climate Change, Hydrology, Hydrological Modeling, Water Balance, Water Resources Management;
 - **[Anders Larsson](https://www.gu.se/english/about_the_university/staff/?userId=xlarss/)**: Industrial and economic geography, Regional development and innovation, Regional planning and policy, GIS, Transport and accessibility methodology.
  
-### 奥斯陆大学 
+### 奥斯陆大学
 ** University of Oslo (UiO) **
 挪威，奥斯陆市
 GIS相关系所：[地球科学系]( https://www.mn.uio.no/geo/english/)
@@ -1388,7 +1468,7 @@ GIS相关系所：[地理系](https://www.ntnu.edu/geography)
 - **[Erling Onstein](https://www.ntnu.edu/employees/erling.onstein)**: GIS and geomatics in general, Modelling, Standardisation and Specification of geographical information, Validation and quality assessment of information, Building information modelling (BIM);
 - **[Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan)**: 3D city modeling, Laser Scanning, Photogrammetry, Spatial data mining and knowledge discovering by using crowdsourcing data;
  
-### 赫尔辛基大学 
+### 赫尔辛基大学
 ** University of Helsinki (UH) **
 芬兰，南芬兰省，赫尔辛基市
 GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography)
@@ -1400,7 +1480,7 @@ GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-
 - **[Janne Heiskanen](https://researchportal.helsinki.fi/en/persons/janne-heiskanen)**: Mapping land cover and forest attributes, Time series analysis of satellite imagery for land cover monitoring, Validation of remotely sensed data products using field measurements;
 - **[Miska Luoto](https://researchportal.helsinki.fi/en/persons/miska-luoto)**: Species distribution modelling, Climate change impact modelling, Modelling of Earth system processes, Biogeography and macroecology, Arctic environmental change.
  
-### 阿尔托大学 
+### 阿尔托大学
 ** Aalto University (Aalto) **
 芬兰，南芬兰省，赫尔辛基市
 GIS相关系所：[建筑环境系]( https://www.aalto.fi/en/department-of-built-environment/geoinformatics)
@@ -1411,7 +1491,7 @@ GIS相关系所：[建筑环境系]( https://www.aalto.fi/en/department-of-built
 - **[Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen)**: Earth observation, Remote Sensing, Albedo, Global satellite products, Forests and vegetation;
 - **[Matti Vaaja](https://people.aalto.fi/matti.t.vaaja)**: Laser scanning, Mobile mapping, Change detection, 3D-models.
  
-### 哥本哈根大学 
+### 哥本哈根大学
 ** University of Copenhagen (KU) **
 丹麦，哥本哈根郡，哥本哈根市
 GIS相关系所：[地理研究科]( https://ign.ku.dk/english/research/geography/)
@@ -1422,7 +1502,7 @@ GIS相关系所：[地理研究科]( https://ign.ku.dk/english/research/geograph
 - **[Martin Rudbeck Jepsen](https://ign.ku.dk/english/employees/geography/?pure=en/persons/81138)**: Land use change, farming systems, natural resource management, agent-based modeling;
 - **[Christian Fertner](https://ign.ku.dk/english/employees/landscape-architecture-planning/?pure=en/persons/317763)**: Spatial planning, Sustainable urban development, Resource and energy efficient cities, Land use change, Urban sprawl, Functional regions, Small towns, Spatial analysis, Digital planning.
  
-### 奥尔堡大学 
+### 奥尔堡大学
 ** Aalborg University (AAU) **
 丹麦，北日德兰大区，奥尔堡市
 GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/organisations/arealforvaltning-og-geoinformatik)
@@ -1433,7 +1513,7 @@ GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/orga
 - **[Jan Kloster Staunstrup](https://vbn.aau.dk/en/persons/110412)**: GIS, Spatial statistics, Geoinformatics, Sociology and Social Conditions, Urban development and urbanization;
 - **[ Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: Urban Development, Spatial Analysis, Sustainable Development, Climate Change, Land Use Planning, Environment, Sustainability, Geoinformation, Satellite Image Processing.
  
-### 维也纳大学 
+### 维也纳大学
 ** University of Vienna (Wisc) **
 奥地利，维也纳市
 GIS相关系所：[制图与地理信息工作小组](https://geographie.univie.ac.at/en/working-groups/cartography-and-geographic-information/)
@@ -1443,7 +1523,7 @@ GIS相关系所：[制图与地理信息工作小组](https://geographie.univie.
 - **[Karel Kriz](https://homepage.univie.ac.at/karel.kriz/)**: cartographic design, web-based cartography, GIScience and thematic aspects of mountain cartography;
 - **[Andreas RIEDL](https://homepage.univie.ac.at/andreas.riedl/)**: Multimedia technologies in geocommunication, GIS and applied geographic information (GI),  Animation in geovisualization, Virtual Reality & Hyperglobes (digital / interactive globes).
  
-### 维也纳工业大学 
+### 维也纳工业大学
 ** Vienna University of Technology (TU Wien) **
 奥地利，维也纳市
 GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.at/)
@@ -1452,7 +1532,7 @@ GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.
 - **[Ioannis Giannopoulos](https://www.geo.tuwien.ac.at/staff/991/giannopoulos-ioannis)**: Spatial HCI, Urban Computing, LBS, Mobile Decision Making, Machine Learning, Mobile and Remote Eye Tracking, Pedestrian Navigation, Augmented Reality as well as Interaction in Virtual and Mixed Environments;
 - **[Gartner, Georg](https://www.geo.tuwien.ac.at/staff/1071/gartner-georg)**: Cartography; Maps; Web Mapping; Spatial Analysis; Atlases; Geoinformation; Location-Based Services; Crowdsourcing.
  
-### 荷语鲁汶大学 
+### 荷语鲁汶大学
 ** Katholieke Universiteit Leuven (KU Leuven) **
 比利时，鲁汶市
 GIS相关系所：[地理与观光科](https://ees.kuleuven.be/geography/)
@@ -1462,7 +1542,7 @@ GIS相关系所：[地理与观光科](https://ees.kuleuven.be/geography/)
 - **[Ate Poorthuis]( https://www.kuleuven.be/wieiswie/en/person/00129301)**: urban geography, geographic data science, visualization, geocomputation;
 - **[Van Rompaey Anton](https://www.kuleuven.be/wieiswie/en/person/00016134)**: Socio-ecological systems, land use change, rural-urban migrations.
  
-### 荷语布鲁塞尔自由大学 
+### 荷语布鲁塞尔自由大学
 ** Vrije Universiteit Brussel (VUB) **
 比利时，布鲁塞尔市
 GIS相关系所：[地理系]( https://we.vub.ac.be/en/geography-department)
@@ -1470,7 +1550,7 @@ GIS相关系所：[地理系]( https://we.vub.ac.be/en/geography-department)
 相关导师：
 - **[Frank Canters](https://urbanstudies.brussels/people/frank-canters)**: Urban remote sensing, Monitoring and modeling of urban dynamics, Uncertainty in spatial data, Map projection research.
  
-### 根特大学 
+### 根特大学
 ** Ghent University (UGhent) **
 比利时，根特市
 GIS相关系所：[地理系](http://www.geografie.ugent.be/en)
@@ -1480,7 +1560,7 @@ GIS相关系所：[地理系](http://www.geografie.ugent.be/en)
 - **[Haosheng Huang](http://www.geografie.ugent.be/members/802003272572)**: Geographic Information Science, Cartography, Location Based Services (LBS), Indoor/Outdoor Navigation Systems, Spatial Cognition, Computational Mobility and Activity Analytics, Urban Informatics;
 - **[Nico Van de Weghe](http://www.geografie.ugent.be/members/801001472437)**: analysis and modelling of spatiotemporal information, going from mobility research to sports analytics, tracking of moving objects and location based services.
  
-### 米兰理工大学 
+### 米兰理工大学
 ** Polytechnic University of Milan (POLIMI) **
 意大利，米兰市
 GIS相关系所：[地理信息和地球观测实验室GIS开发组](https://www.gisgeolab.polimi.it/)
@@ -1489,7 +1569,7 @@ GIS相关系所：[地理信息和地球观测实验室GIS开发组](https://www
 - **[Maria Antonia Brovelli](https://www.gisgeolab.polimi.it/)**: GIS, webGIS, geospatial web platform, VGI (Volunteer Geographic Information), Citizen Science and Big Geo Data;
 - **[Daniela Carrion](https://www.gisgeolab.polimi.it/)**: ‪GIS,Remote Sensing,Geodesy.‬
  
-### 国立都柏林大学 
+### 国立都柏林大学
 ** University College Dublin (UCD) **
 爱尔兰，都柏林市
 GIS相关系所：[地理系](https://www.ucd.ie/geography/)
@@ -1498,7 +1578,7 @@ GIS相关系所：[地理系](https://www.ucd.ie/geography/)
 - **[Ainhoa Gonzalez Del Campo](https://people.ucd.ie/ainhoa.gonzalez)**: developing and applying geospatial analysis tools and methods for assessing environmental change and impacts, to better inform planning and decision-making;
 - **[Michela Bertolotto](https://people.ucd.ie/michela.bertolotto)**: spatio-temporal data modelling and mining, mobile and web-based GIS, map personalisation, open and crowd-sourced spatial data.
  
-### 柏林工业大学 
+### 柏林工业大学
 ** Technische Universität Berlin (TUB) **
 德国，柏林州，柏林市
 GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/)
@@ -1506,7 +1586,7 @@ GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.
 相关导师：
 - **[Martin Kada](https://www.gis.tu-berlin.de/menue/mitarbeiter/martin_kada/parameter/en/)**: Algorithms, Segmentation, 3D Computer Graphics, 3D Modeling, Visualization, Real-Time Rendering.
  
-### 明斯特大学 
+### 明斯特大学
 ** Universität Münster (WWU) **
 德国，北威州，明斯特市
 GIS相关系所：[地理系](https://geography.wisc.edu/)
@@ -1517,7 +1597,7 @@ GIS相关系所：[地理系](https://geography.wisc.edu/)
 - **[Angela Schwering](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/109/Angela_Schwering)**: Spatial cognition, Qualitative spatial reasoning, Cognitive navigation;
 - **[Judith Verstegen]( https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/274/Judith_Verstege)**: Geosimulatiom models (agent-based models, cellular automata), Spatial statistics, Error propagation methods, Spatial optimization.
  
-### 柏林洪堡大学 
+### 柏林洪堡大学
 ** Humboldt-Universitat zu Berlin (HUB) **
 德国，柏林州，柏林市
 GIS相关系所：[地理系](https://www.geographie.hu-berlin.de/en/geography_department)
@@ -1526,7 +1606,7 @@ GIS相关系所：[地理系](https://www.geographie.hu-berlin.de/en/geography_d
 - **[Tobia Lakes](https://www.geographie.hu-berlin.de/de/Members/lakes_tobia)**: Spatial Analysis, Land Use Change and Modelling, Urbanism, Spatial Statistics, Geostatistical Analysis, Geomatics;
 - **[Patrick Hostert](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/patrick_hostert)**: Spatial Analysis, Geographic Information System, Satellite Image Processing, Sustainability, Ecology, Environment, Climate Change and Agriculture, Remote Sensing.
  
-### 格罗宁根大学 
+### 格罗宁根大学
 ** University of Groningen (UG) **
 荷兰，格罗宁根市
 GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
@@ -1547,7 +1627,7 @@ GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
 
 
 
-### 阿姆斯特丹自由大学 
+### 阿姆斯特丹自由大学
 ** Vrije University Amsterdam (VU) **
 荷兰，阿姆斯特丹市
 GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
@@ -1555,4 +1635,3 @@ GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
 相关导师：
 - **[Eric Koomen](https://research.vu.nl/en/persons/eric-koomen)**: urban development, land-use change, spatial modelling and policy support;
 - **[Niels van Manen](https://spinlab.vu.nl/staff/niels-van-manen/)**: historical GIS, urban risk mapping and Geodesign for urban heritage planning.
-
