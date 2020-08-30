@@ -216,26 +216,16 @@ GIS相关系所：[地理、环境及空间科学系](http://geo.msu.edu)
 
 相关导师：
 
-- **[Jiaguo Qi]( http://geo.msu.edu/people/qi-jiaguo/
-)**: human-nature interactions from geospatial data, land-use/land-cover change;
-- **[Jiquan Chen]( http://geo.msu.edu/people/chen-jiquan/
-)**: GIS and remote sensing on global change and ecosystem, human-nature dynamics;
-- **[Kyla Dahlin]( http://geo.msu.edu/people/dahlin-kyla/
-)**: earth dynamics modeling, GIS/RS on ecosystem and environment
-- **[Andrew Finley]( http://geo.msu.edu/people/finley-andrew-o/
-)**: GIS on forestry;
-- **[Ashton Shortridge]( http://geo.msu.edu/people/shortridge-ashton/
-)**: geospatial analysis, spatial data uncertainty;
-- **[Leo Zulu]( http://geo.msu.edu/people/zulu-leo/
-)**: GIS and remote sensing on environmental studies in Africa;
-- **[Erin Bunting]( http://geo.msu.edu/people/bunting-erin/
-)**: geospatial big data, GIS on climatology;
-- **[Arika Ligmann-Zielinska]( http://geo.msu.edu/people/ligmann-zielinska-arika/
-)**: GIS on social studies, agent-based modeling;
-- **[Raechel Portelli]( http://geo.msu.edu/people/bianchetti-raechel/
-)**: machine learning on image processing, human image interpretation, remote sensing on geology and geomorphology;
-- **[David Roy]( http://geo.msu.edu/people/roy-david/
-)**: remote sensing on global change.
+- **[Jiaguo Qi]( http://geo.msu.edu/people/qi-jiaguo/)**: human-nature interactions from geospatial data, land-use/land-cover change;
+- **[Jiquan Chen]( http://geo.msu.edu/people/chen-jiquan/)**: GIS and remote sensing on global change and ecosystem, human-nature dynamics;
+- **[Kyla Dahlin]( http://geo.msu.edu/people/dahlin-kyla/)**: earth dynamics modeling, GIS/RS on ecosystem and environment
+- **[Andrew Finley]( http://geo.msu.edu/people/finley-andrew-o/)**: GIS on forestry;
+- **[Ashton Shortridge]( http://geo.msu.edu/people/shortridge-ashton/)**: geospatial analysis, spatial data uncertainty;
+- **[Leo Zulu]( http://geo.msu.edu/people/zulu-leo/)**: GIS and remote sensing on environmental studies in Africa;
+- **[Erin Bunting]( http://geo.msu.edu/people/bunting-erin/)**: geospatial big data, GIS on climatology;
+- **[Arika Ligmann-Zielinska]( http://geo.msu.edu/people/ligmann-zielinska-arika/)**: GIS on social studies, agent-based modeling;
+- **[Raechel Portelli]( http://geo.msu.edu/people/bianchetti-raechel/)**: machine learning on image processing, human image interpretation, remote sensing on geology and geomorphology;
+- **[David Roy]( http://geo.msu.edu/people/roy-david/)**: remote sensing on global change.
 
 ### 密歇根理工大学
 **Michigan Technological University (MTU)**
@@ -282,23 +272,23 @@ GIS相关系所：[地理系](https://geography.uoregon.edu)
 
 ​	相关导师：
 
--**[Amy Lobben](https://geography.uoregon.edu/profile/lobben/)**: Neurogeography; human-environmental interaction; spatial decision making; geospatial cognition and thinking
+- **[Amy Lobben](https://geography.uoregon.edu/profile/lobben/)**: Neurogeography; human-environmental interaction; spatial decision making; geospatial cognition and thinking
 
--**[Carolyn Fish](https://geography.uoregon.edu/profile/cfish11/)**: Cartography; map design; climate change communication; mapping environment-society interactions
+- **[Carolyn Fish](https://geography.uoregon.edu/profile/cfish11/)**: Cartography; map design; climate change communication; mapping environment-society interactions
 
--**[Hui(Henry) Luan 栾辉](https://geography.uoregon.edu/profile/hluan/)**: Spatiotemporal statistics; Bayesian analysis; public health; crime; big data analytics
+- **[Hui(Henry) Luan 栾辉](https://geography.uoregon.edu/profile/hluan/)**: Spatiotemporal statistics; Bayesian analysis; public health; crime; big data analytics
 
 （注：以上三位导师为该系与GIS相关的[空间认知、计算和复杂性实验室](https://blogs.uoregon.edu/s3clab/)的主要成员)
 
--**[Patrick Bartlein](https://geography.uoregon.edu/profile/bartlein/)**: Data analysis and visualization; environmental modelling; paleoclimatology
+- **[Patrick Bartlein](https://geography.uoregon.edu/profile/bartlein/)**: Data analysis and visualization; environmental modelling; paleoclimatology
 
--**[W.Andrew Markus](https://geography.uoregon.edu/profile/marcus/)**: Hydrology; geomorphology; remote sensing
+- **[W.Andrew Markus](https://geography.uoregon.edu/profile/marcus/)**: Hydrology; geomorphology; remote sensing
 
--**[Mark Fonstad](https://geography.uoregon.edu/profile/fonstad/)**: Geomorphology; hydrology; remote sensing; environmental simulation
+- **[Mark Fonstad](https://geography.uoregon.edu/profile/fonstad/)**: Geomorphology; hydrology; remote sensing; environmental simulation
 
--**[Sarah Cooley](https://geography.uoregon.edu/profile/scooley2/)**: Hydrology; climate change; the Arctic; remote sensing and spatial data analysis
+- **[Sarah Cooley](https://geography.uoregon.edu/profile/scooley2/)**: Hydrology; climate change; the Arctic; remote sensing and spatial data analysis
 
--**[Johnny Ryan](https://geography.uoregon.edu/profile/jryan4/)**: Glaciology; climatology; remote sensing; drones; spatial data analysis
+- **[Johnny Ryan](https://geography.uoregon.edu/profile/jryan4/)**: Glaciology; climatology; remote sensing; drones; spatial data analysis
 
 
 
@@ -309,22 +299,17 @@ GIS相关系所：[地理系](https://geography.uoregon.edu)
 
 美国，俄勒冈州，科瓦利斯
 
-GIS相关系所：[地球、海洋和大气科学学院]( https://ceoas.oregonstate.edu/geography-graduate-program)
+GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonstate.edu/geography-graduate-program)
 
 俄勒冈州立大学的地理项目隶属于地球、海洋和大气科学学院，该项目鼓励其学生在泛地球科学领域（包括RS和GIS）进行跨学科研究。其中，地理空间科技和分析是该校地理项目的三大方向之一，主要科研领域包括remote sensing,  cartography, spatial analysis, GeoAI, spatial statistics and modeling以及web mapping等。该系有MS和PhD学位的研究生课程。
 
 相关导师：
 
-- **[Julia Jones]( https://ceoas.oregonstate.edu/people/julia-jones
-)**: spatial analysis and geospatial data science, spatiotemporal statistics, climate;
-- **[Robert Kennedy]( https://ceoas.oregonstate.edu/people/robert-kennedy
-)**: remote sensing, satellite image analysis;
-- **[James R. Watson]( https://ceoas.oregonstate.edu/people/james-watson
-)**: GIS and spatial modeling on marine environment studies;
-- **[Jamon Van Den Hoek]( https://ceoas.oregonstate.edu/people/jamon-van-den-hoek
-)**: GIS and remote sensing on marine resource management, GeoAI, remote sensing, GIS programming
-- **[Mark Raleigh]( https://ceoas.oregonstate.edu/people/mark-raleigh
-)**: remote sensing, image processing, polar climate, spatial analysis on snow distribution, geo-data science
+- **[Julia Jones](https://ceoas.oregonstate.edu/people/julia-jones)**: spatial analysis and geospatial data science, spatiotemporal statistics, climate;
+- **[Robert Kennedy](https://ceoas.oregonstate.edu/people/robert-kennedy)**: remote sensing, satellite image analysis;
+- **[James R. Watson](https://ceoas.oregonstate.edu/people/james-watson)**: GIS and spatial modeling on marine environment studies;
+- **[Jamon Van Den Hoek](https://ceoas.oregonstate.edu/people/jamon-van-den-hoek)**: GIS and remote sensing on marine resource management, GeoAI, remote sensing, GIS programming
+- **[Mark Raleigh](https://ceoas.oregonstate.edu/people/mark-raleigh)**: remote sensing, image processing, polar climate, spatial analysis on snow distribution, geo-data science
 
 
 ### 宾夕法尼亚大学
@@ -801,15 +786,18 @@ GIS相关系所：[地理和规划系](https://geography.utoronto.ca/department/
 多伦多大学地理和规划系是加拿大规模最大、成立时间最早的地理类院系之一。 该校的三个校区都有GIS的相关项目和导师，开设硕士和博士学位。科研方向包括计算机制图、空间统计、计量地理信息、遥感、地理建模等。
 
 相关导师：
-- **圣乔治校区（多伦多市区）**
+
+**圣乔治校区（多伦多市区）:**
 - **[Jing Ming Chen](https://geography.utoronto.ca/profiles/jing-chen/)**: GIS, remote sensing, hydrological modeling, biogeochemistry
 - **[Michael Widener]( https://geography.utoronto.ca/profiles/michael-widener/)**: agent-based modeling, spatiall optimization, transportation, health geography, web mapping
-- **密西沙加校区（多伦多西侧）**
+
+**密西沙加校区（多伦多西侧）:**
 - **[Yuhong He]( https://geography.utoronto.ca/profiles/yuhong-he/)**: remote sensing, climate modeling
 - **[Ron Buliung](https://geography.utoronto.ca/profiles/ron-buliung/)**: GIScience, public health, transportation
 - **[Tenley Conway]( https://geography.utoronto.ca/profiles/tenley-conway/)**: urban informatics, land use modeling, urban planning
 - **[Alan Walks]( https://geography.utoronto.ca/profiles/alan-walks/)**: urban informatics, neighborhood
-- **斯卡尔堡校区（多伦多东侧）**
+
+**斯卡尔堡校区（多伦多东侧）:**
 - **[Steven Farber]( https://geography.utoronto.ca/profiles/steven-farber/)**: spatial analysis, transportation
 
 ### 萨斯喀彻万大学
@@ -897,16 +885,20 @@ _信息提供：Dr. Zhang Xiaohu_
 - **Guibo Sun**: transportation, spatial data infrastructure development.
 
 ### 新加坡国立大学
-**National University of Singapore (NUS)**
-_信息提供：Dr. Zhang Xiaohu_
+**National University of Singapore（NUS）**
 
-相关导师：
+新加坡
 
-- **Cao Kai**: spatial simulation and optimization, remote sensing;
+GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)(https://www.fas.nus.edu.sg/geog/graduate/msc-in-applied-gis.html)
 
-- **Chen-Chieh Feng**: spatial data modelling and spatial information theory, Cyberinfrastructure;
+新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
+相关导师：  
 
-- **Wang Yi-Chen**: spatial epidemiology, biogeography; landscape ecology.
+- **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: Spatial data modelling and spatial information theory; Cyberinfrastructure; GIS and Education;   
+
+- **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: Spatial big data analytics, Citizen GIScience, Volunteered geographic information
+
+- **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, Spatial epidemiology
 
 ### 香港理工大学
 ** The Hong Kong Polytechnic University (PolyU) **
