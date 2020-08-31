@@ -84,13 +84,13 @@
 - [圭尔夫大学](#圭尔夫大学)
 
 #### 香港4所
-- [香港城市大学(CityU)](#香港城市大学)
 - [香港中文大学(CUHK)](#香港中文大学)
+- [香港城市大学(CityU)](#香港城市大学)
 - [香港大学(HKU)](#香港大学)
 - [香港理工大学(PolyU)](#香港理工大学)
 
 #### 新加坡1所
-- 新加坡国立大学(NUS)(#新加坡国立大学)
+- [新加坡国立大学(NUS)](#新加坡国立大学)
 
 #### 澳大利亚4所
 - [阿德莱德大学](#阿德莱德大学)
@@ -982,12 +982,13 @@ GIS相关系所：[地理、环境和地信系](https://geg.uoguelph.ca/)
 - **[Eric Nost](https://geg.uoguelph.ca/faculty/nost-eric)**: visualization, web mapping, political geography
 
 ### 香港中文大学
-**The Chinese University of Hong Kong**
+**The Chinese University of Hong Kong (CUHK)**
 中国，香港，沙田
 
-GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/index.html)、太空与地球信息科学研究所（http://www.iseis.cuhk.edu.hk/en/）。
+GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/index.html), 太空与地球信息科学研究所（http://www.iseis.cuhk.edu.hk/en/）.
 
 地理与资源管理学系是亚洲地理教育研究前沿的地理系之一。地理系的教学和研究围绕四个领域进行，即城市和区域发展、自然和环境系统、地理信息和分析、全球变化和资源管理。地理系内的三位教授分别在环境、能源与可持续发展研究所、未来城市研究所和太空与地球信息科学研究所担任主任。学生可以申请本科和研究生学习，获得地理和资源管理（GRM）的BSSc、MPhil和博士学位（4年）、地理信息科学硕士和可持续旅游MSSc。
+
 太空与地球信息科学研究所是在中国科学院和香港中文大学的地球信息科学联合实验室（JLGIS）的基础上成立的。研究所设有中高分辨率卫星遥感地面接收站，为学生开展遥感、GIS等研究提供了独特的机会。主要研究领域包括云和多雨地区遥感（CARS）、虚拟地理环境（VGE）、应急响应和自然灾害监测和管理、城市和都市地理信息系统、城市住区环境分析和建模、公共卫生和地理信息系统，智能交通系统（ITS）与空间整合的人文社会科学。研究所下设地球系统与地球信息科学研究生部，提供硕士（授课型和研究型）和博士学位（3年）的课程。
 
 相关导师：
@@ -1020,7 +1021,7 @@ _信息提供：Dr. Zhang Xiaohu_
 - **Guibo Sun**: transportation, spatial data infrastructure development.
 
 ### 香港理工大学
-** The Hong Kong Polytechnic University (PolyU) **
+**The Hong Kong Polytechnic University (PolyU)**
 
 香港特别行政区，九龙，红磡
 
@@ -1044,9 +1045,10 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 
 新加坡
 
-GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)(https://www.fas.nus.edu.sg/geog/graduate/msc-in-applied-gis.html)
+GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 
 新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
+
 相关导师：  
 
 - **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: Spatial data modelling and spatial information theory; Cyberinfrastructure; GIS and Education;   
