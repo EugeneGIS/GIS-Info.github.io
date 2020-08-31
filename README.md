@@ -287,26 +287,37 @@ GIS相关系所：[林业和环境学院](https://www.mtu.edu/forest/graduate/pr
 密歇根理工的林业和环境学院提供地理信息科学硕士（MGIS）的课程，这是一个course-based的项目，耗时2年完成，需要修完30个学分的规定课程，包括GIS相关的核心课程（共20学分，根据美国劳工部对地理空间技术的[发展规划](https://www.dol.gov/newsroom/releases/eta/eta20100708#:~:text=The%20Geospatial%20Technology%20Competency%20Model,for%20success%20in%20geospatial%20technology.)来制定），以及自己选择的跨学科领域的课程（共10学分），通常的领域包括林业、生态、环境、商科、统计、交通、地质、媒体等，从而给自己的GIS技术找到应用的方向。如果学生希望参与科研，也可以申请转为project-based的项目，并完成相关的科研工作，毕业时提交thesis或report，但仍然需要完成规定的20学分核心课程。本科其他专业的同学也可以申请该项目。
 
 ### 俄亥俄州立大学
-**Ohio State University ([Ohio State](https://geography.osu.edu/))**
-_信息提供：叶山_
 
-俄亥俄州立大学地理系的综合实力为美国第一阵容, GIS方向的特色为志愿者地理信息（VGI）和空间数据分析.
+**Ohio State University (Ohio State)**
 
-相关导师：
+美国，俄亥俄州，哥伦布市
 
-- **Harvey Miller**: GIS on public health, human mobility and accessibility;
+GIS相关系所：[地理系](https://geography.osu.edu/)
 
-- **Desheng Liu**: remote sensing on land use/land cover, spatial analysis;
+俄亥俄州立大学的地理系国际学生占比很高，要谈到对OSU地理系的第一印象，脑子里的第一个关键词是diverse，国际学生占比很高。据不完全统计，中国学生在研究生中占比高达约30%。而且国际学生的比例也是呈现逐年增高趋势（2020-2021年可能除外）。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年（可能少于或多于这个时间），研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。
 
-- **Ningchuan Xiao**: WebGIS and cartography, spatial analysis algorithm;
+该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作，但是可能对国际生来说比较少见；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案还是更倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。
 
-- **Bryan Mark**: geospatial application on hydrogeology and water resource, spatial modeling of glaciers;
+系里的资助机会很充足，大部分（95%以上）的研究生都有助学金，分为TA和RA；系里每年一般还会有一个名额的来自学校资助的全额奖学金（fellowship）；另外，系里、学校会有一些奖学金用来资助学生开会或者进行不同方向的研究等，整体来说，给博士的各类奖学金机会比硕士多一些。该系人文地理做得好的教授较多（虽然做人文的中国学生比较少），GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
 
-- **Ola Ahlqvist**: geospatial visualization, semantics, social media analytics, map games;
+相关导师:
+- **[Ningchuan Xiao](https://geography.osu.edu/people/xiao.37)**: WebGIS, GIS algorithms, visualization
+- **[Harvey Miller](https://geography.osu.edu/people/miller.81)**: transportation, sustainability, time geography
+- **[Desheng Liu](https://geography.osu.edu/people/liu.738)**: remote sensing, land cover, spatial analysis
+- **[Huyen Le](https://geography.osu.edu/people/le.253)**: ITC, transportation, health
+- **[Qin Yue](https://geography.osu.edu/people/qin.548)**: sustainability, energy, environment
+- **[Joel Wainwright](https://geography.osu.edu/people/wainwright.11)**: environmental change, social geography
+- **[Kendra McSweeney](https://geography.osu.edu/people/mcsweeney.14)**: political ecology, human-environment interactions
+- **[Darla Munroe](https://geography.osu.edu/people/munroe.9)**: land use change, economic geography
+- **[Max Woodworth](https://geography.osu.edu/people/woodworth.42)**: regional geography, urban geography
+- **[Mathew Coleman](https://geography.osu.edu/people/coleman.373)**: political geography
+- **[Bryan Mark](https://geography.osu.edu/people/mark.9)**: tropical glaciers, climate changes, spatial modeling of glaciers
+- **[David Bromwich](https://geography.osu.edu/people/bromwich.1)**: polar climate, Weather Research and Forecast Model, sea ice physics
+- **[Steven Quiring](https://geography.osu.edu/people/quiring.10)**: soil science, energy, natural hazard, eolian environment, draught
+- **[Zhengyu Liu](https://aos.wisc.edu/~zliu/)**: climate data-model comparison, Community Earth System Model, spatiotemporal atmospheric modeling, ocean-atmosphere interaction
+- **[Alvaro Montenegro](https://geography.osu.edu/people/montenegro.8)**: climate modeling, large-scaled climate simulation, numerical methods
 
-- **Morton O'Kelly**: spatial analysis on transportation;
 
-- **Elisabeth Root**: GIS on public health.
 
 ### 俄勒冈大学
 
