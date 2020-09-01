@@ -75,6 +75,7 @@
 - [阿肯色大学 (UAR)](#阿肯色大学)
 - [雪城大学 (Syracuse)](#雪城大学)
 - [马里兰大学 (UMD)](#马里兰大学)
+- [康涅狄格大学 (UConn)](#康涅狄格大学)
 
 #### 加拿大10所
 - [不列颠哥伦比亚大学 (UBC)](#不列颠哥伦比亚大学)
@@ -804,6 +805,43 @@ GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
 - **[Marx, Andrew J.](https://spatial.usc.edu/team-view/andrew-j-marx-2/)**:geospatial intelligence, remote sensing, spatio-temporal analysis, human rights, GIS;
 - **[Shahabi, Cyrus](https://spatial.usc.edu/?team=cyrus-shahabi)**: databases, GIS, multi-media;
 - **[Wilson, John P.](https://spatial.usc.edu/?team=john-p-wilson)**: GIS，spatial analysis, environmental modeling, environment and human health, geodesign education.
+
+### 康涅狄格大学
+**University of Connecticut (UConn)**
+
+美国，康涅狄格州，斯托斯市
+
+GIS相关系所：[地理系](https://geography.uconn.edu/)
+
+康涅狄格大学地理系的学术研究侧重于空间社会科学，地理信息科学与系统，自然地理，以及人与自然。该系的项目分为硕士（MA，一般是2年），博士（PhD，一般是3-4年），以及直博（MA + PhD，一般是5年）。系里有非常多GIS相关课程，例如GIS in Transportation，Geographical Analysis of Social Issues，Visualization in GIS，Advanced GIS for Remote Sensing for Geoscience Applications， Fundamentals of GIS，Applications of GIS，Introduction to Spatial Data Science，Web GIS，Fundamentals of Spatial Database Systems，Mobile GIS，Spatial Big Data Analytics，GIS Modeling of the Urban Environment，GIS Applications in Health Research，GIS and Environmental Geography，Spatial Data Analysis，Spatial Statistics and Modeling，Spatial Econometrics，Computer Applications in Spatial Analysis。
+
+相关导师：
+
+- **[Amy Burnicki](https://geography.uconn.edu/people/faculty/amy-burnicki)**: GIScience & land change science, spatial pattern analysis and statistics, modeling land change dynamics;
+
+- **[Christopher Burton](https://geography.uconn.edu/people/faculty/christopher-burton/)**: human-environmental interactions, natural hazards, disaster resilience;
+
+- **[Xiang (Peter) Chen](https://geography.uconn.edu/people/faculty/peter-chen/)**: GIS and big data analytics, food access and community health, network and location models;
+
+- **[Kenneth Foote](https://geography.uconn.edu/people/faculty/ken-foote/)**: Data visualization, multimedia cartography, web & mobile apps;
+
+- **[Debarchana Ghosh](https://geography.uconn.edu/people/faculty/debarchana-ghosh/)**: health geography, behavioral health, GIS, social network analysis;
+
+- **[Weidong Li](https://geography.uconn.edu/people/faculty/weidong-li/)**: GIS, geostatistics, WebGIS, regional soil and environmental modeling;
+
+- **[William Ouimet]( https://geography.uconn.edu/people/faculty/william-ouimet/)**: erosion processes, landform & landscape evolution;
+
+- **[Chuanrong (Cindy) Zhang]( https://geography.uconn.edu/people/faculty/cindy-zhang/)**: GIS, geostatistics, WebGIS;
+
+
+
+
+
+
+
+
+
+
 
 ### 阿拉斯加大学费尔班克斯分校
 
