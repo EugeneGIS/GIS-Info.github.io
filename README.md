@@ -64,7 +64,7 @@
 - [新墨西哥大学 (UNM)](#新墨西哥大学)
 - [明尼苏达大学双城分校 (UMN)](#明尼苏达大学双城分校)
 - [爱荷华大学 (UI)](#爱荷华大学)
-- [田纳西大学 (UTN)](#田纳西大学)
+- [田纳西大学 (UTK)](#田纳西大学)
 - [科罗拉多大学 (CU Boulder)](#科罗拉多大学波尔德分校)
 - [纽约州立大学奥尔巴尼分校 (UAlbany)](#纽约州立大学奥尔巴尼分校)
 - [纽约州立大学宾厄姆顿分校 (Binghamton)](#纽约州立大学宾厄姆顿分校)
@@ -688,24 +688,25 @@ UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前�
 - **Daniel Griffith**: spatial statistics; quantitative/urban/economic geography; applied statistics & statistical consulting; research proposal design.
 
 ### 田纳西大学
-**University of Tennessee, Knoxville ([UTK](https://geography.utk.edu/))**
-_信息提供：Dr. Hu Yingjie_
 
-田纳西大学地理系在时空分析，交通优化，环境建模，人口分析等方向有强劲的科研实力。学校紧邻橡树岭国家实验室，与实验室的GIST研究组有很多合作交流机会。
+**University of Tennessee, Knoxville ([UTK](https://www.utk.edu/))**
+_信息提供：Drs. Yingjie Hu and Qiusheng Wu_
+
+美国，田纳西州，诺克斯维尔 ([百度地图](https://j.map.baidu.com/49/CeL) | [谷歌地图](https://goo.gl/maps/z9uBE1a1JxZX16837))
+
+GIS 相关系所：[地理系](https://geography.utk.edu)
+
+田纳西大学地理系在时空分析，交通优化，环境建模，人口分析等方向有强劲的科研实力。学校紧邻[橡树岭国家实验室](https://baike.baidu.com/item/%E6%A9%A1%E6%A0%91%E5%B2%AD%E5%9B%BD%E5%AE%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4)（Oak Ridge National Laboratory），与实验室的 GIST 研究组有很多合作交流机会。田纳西大学邻近著名的大雾山（Great Smoky Mountains），到[大雾山国家公园](https://baike.baidu.com/item/%E5%A4%A7%E9%9B%BE%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD)（The Great Smoky Mountains National Park）仅仅不到一小时的车程。
 
 相关导师：
 
-- **Shih-Lung Shaw**: Transportation, GIS, Space-Time Analysis and Visualization, Time Geography;
-
-- **Qiusheng Wu**: GIScience, Remote Sensing, LiDAR, Wetland Hydrology, Geospatial Data Science;
-
-- **Yingkui Li**: Geomorphometry and Terrain Analysis, LiDAR and UAS, Remote sensing of Earth surface processes, GIS modeling;
-
-- **Hyun Kim**: Transportation, Location Modeling, Health Geography, Spatial Optimization;
-
-- **Nicholas Nagle**: Population Dynamics, Data Fusion, Quantitative Modeling, Bayesian Statistics, Image Processing;
-
-- **Liem Tran**: GIS for Environmental Modeling, System Dynamics Modeling, Environmental Decision Making, Fuzzy Sets and Systems, Geospatial Analysis.
+- **[Shih-Lung Shaw](https://geography.utk.edu/about-us/faculty/?page_id=414)**: Transportation, GIS, Space-Time Analysis and Visualization, Time Geography;
+- **[Qiusheng Wu](https://wetlands.io/)**: GIScience, Remote Sensing, LiDAR, Wetland Hydrology, Geospatial Data Science, Google Earth Engine;
+- **[Yingkui Li](https://geography.utk.edu/about-us/faculty/?page_id=399)**: Geomorphometry and Terrain Analysis, LiDAR and UAS, Remote sensing of Earth surface processes, GIS modeling;
+- **[Hyun Kim](https://geography.utk.edu/about-us/faculty/?page_id=396)**: Transportation, Location Modeling, Health Geography, Spatial Optimization;
+- **[Nicholas Nagle](https://geography.utk.edu/about-us/faculty/?page_id=402)**: Population Dynamics, Data Fusion, Quantitative Modeling, Bayesian Statistics, Image Processing;
+- **[Liem Tran](https://geography.utk.edu/about-us/faculty/?page_id=420)**: GIS for Environmental Modeling, System Dynamics Modeling, Fuzzy Sets and Systems, Geospatial Analysis;
+- **[Hannah Herrero](https://geography.utk.edu/about-us/faculty/dr-hannah-herrero/)**: Remote Sensing, Human-Environment Interactions, Conservation, Savanna Science.
 
 ### 威斯康星大学麦迪逊分校  
 
