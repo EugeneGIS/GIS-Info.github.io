@@ -1079,27 +1079,27 @@ GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_
 
 城市规划及设计系相关导师：
 
--**[葉嘉安]( http://hub.hku.hk/cris/rp/rp01033)**: Big Data and Smart Cities, GIS, Urban studies, Intelligent Transport System; 
--**[何深靜]( https://fac.arch.hku.hk/upad/shenjinghe/)**: Housing differentiation and socio-spatial inequality, Urban poverty, Urban redevelopment; 
--**[李衛鋒]( http://fac.arch.hku.hk/upad/wfli/)**: Remote sensing, GIS and big data in urban environmental analysis, Urban Modelling; 
--**[劉行健]( http://hub.hku.hk/cris/rp/rp01999)**: Regional development, Urban spatial structure; 
--**[周江評]( https://www.arch.hku.hk/staff/upad/zhou-jiangping/)**: Big-data Applications and Analytics for Transport/Urban Studies, Transport Policy and Planning; 
--**[黃健翔]( http://fac.arch.hku.hk/upad/JianxiangHuang/)**: Thermal, acoustic and building energy performances in high density cities, Environmental Modeling; 
--**[何鴻澤]( http://hub.hku.hk/cris/rp/rp02482)**: Urban Health and Environmental Epidemiology, Geospatial Modelling; 
--**[孫貴博]( http://hub.hku.hk/cris/rp/rp02274)**: Built environment and health, Applied GIS; 
--**[Sarkar, Chinmoy]( http://hub.hku.hk/cris/rp/rp01980)**: Urban epidemiology, Urban and environmental modelling; 
--**[Nam, Kyung-min]( http://hub.hku.hk/cris/rp/rp01953)**: Spatial Planning and Policy, Air Pollution; 
+- **[葉嘉安]( http://hub.hku.hk/cris/rp/rp01033)**: Big Data and Smart Cities, GIS, Urban studies, Intelligent Transport System; 
+- **[何深靜]( https://fac.arch.hku.hk/upad/shenjinghe/)**: Housing differentiation and socio-spatial inequality, Urban poverty, Urban redevelopment; 
+- **[李衛鋒]( http://fac.arch.hku.hk/upad/wfli/)**: Remote sensing, GIS and big data in urban environmental analysis, Urban Modelling; 
+- **[劉行健]( http://hub.hku.hk/cris/rp/rp01999)**: Regional development, Urban spatial structure; 
+- **[周江評]( https://www.arch.hku.hk/staff/upad/zhou-jiangping/)**: Big-data Applications and Analytics for Transport/Urban Studies, Transport Policy and Planning; 
+- **[黃健翔]( http://fac.arch.hku.hk/upad/JianxiangHuang/)**: Thermal, acoustic and building energy performances in high density cities, Environmental Modeling; 
+- **[何鴻澤]( http://hub.hku.hk/cris/rp/rp02482)**: Urban Health and Environmental Epidemiology, Geospatial Modelling; 
+- **[孫貴博]( http://hub.hku.hk/cris/rp/rp02274)**: Built environment and health, Applied GIS; 
+- **[Sarkar, Chinmoy]( http://hub.hku.hk/cris/rp/rp01980)**: Urban epidemiology, Urban and environmental modelling; 
+- **[Nam, Kyung-min]( http://hub.hku.hk/cris/rp/rp01953)**: Spatial Planning and Policy, Air Pollution; 
 
 地理系相关导师：
 
--**[盧佩瑩]( https://www.bpyloo.hku.hk/)**: Information and communication technologies, Spatial analysis, Transport and society, Economic geography; 
--**[賴寶珍]( http://hub.hku.hk/cris/rp/rp00565)**: Transportation studies and network analysis, GIS, Cartographic modelling and spatial analyses; 
--**[陳艷]( http://hub.hku.hk/cris/rp/rp00589)**: Ecological Economics, Environmental Economics; 
--**[林初昇]( http://hub.hku.hk/cris/rp/rp00609)**: Urban and regional development in China, Economic geography; 
--**[李金豹]( http://hub.hku.hk/cris/rp/rp01699)**: Climate Change, Paleo Climate, Drought; 
--**[高金錫]( http://hub.hku.hk/cris/rp/rp02476)**: Health/Medical Geography, GIS; 
--**[林潤發]( http://hub.hku.hk/cris/rp/rp02573)**: Climate change and air quality, Air quality modelling; 
--**[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: Smart Cities and Sustainable Development, Remote Sensing of Urban Environment; 
+- **[盧佩瑩]( https://www.bpyloo.hku.hk/)**: Information and communication technologies, Spatial analysis, Transport and society, Economic geography; 
+- **[賴寶珍]( http://hub.hku.hk/cris/rp/rp00565)**: Transportation studies and network analysis, GIS, Cartographic modelling and spatial analyses; 
+- **[陳艷]( http://hub.hku.hk/cris/rp/rp00589)**: Ecological Economics, Environmental Economics; 
+- **[林初昇]( http://hub.hku.hk/cris/rp/rp00609)**: Urban and regional development in China, Economic geography; 
+- **[李金豹]( http://hub.hku.hk/cris/rp/rp01699)**: Climate Change, Paleo Climate, Drought; 
+- **[高金錫]( http://hub.hku.hk/cris/rp/rp02476)**: Health/Medical Geography, GIS; 
+- **[林潤發]( http://hub.hku.hk/cris/rp/rp02573)**: Climate change and air quality, Air quality modelling; 
+- **[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: Smart Cities and Sustainable Development, Remote Sensing of Urban Environment; 
 
 
 ### 香港理工大学
@@ -1132,9 +1132,9 @@ GIS相关系所：[建筑与土木工程系](http://bccw.cityu.edu.hk/main/wp_ho
 香港城市大学研究GIS的老师主要集中在建筑系，GIS应用在城市规划与设计，建筑工程等领域目前受到重视。
 
 相关导师： 
--**[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: Built environment; Healthy city; Travel behavior; Street view imagery
--**[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: Transportation; Smart cities and mobility; Urban transport analytics
--**[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: Urban and land use planning;  Spatial planning for pedestrian movement and evacuation modeling
+- **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: Built environment; Healthy city; Travel behavior; Street view imagery
+- **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: Transportation; Smart cities and mobility; Urban transport analytics
+- **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: Urban and land use planning;  Spatial planning for pedestrian movement and evacuation modeling
 
 
 ### 新加坡国立大学
@@ -1240,7 +1240,7 @@ Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目总共需�
 
 ### 格拉斯哥大学
 
-**University of Glasgow**
+**University of Glasgow (GLA)**
 
 英国，苏格兰，格拉斯哥
 
@@ -1252,20 +1252,13 @@ GIS相关系所：[地理与地球科学学院]( https://www.gla.ac.uk/schools/g
 
 相关导师：
 
-- **[Prof. Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/
-)**: housing and neighborhood, administrative big data
-- **[Dr. David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/
-)**: transportation, econometrics
-- **[Dr. Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/
-)**: transportation planning, active travel
-- **[Dr. Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/
-)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science
-- **[Dr. Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/
-)**: remote sensing, terrestrial environment
-- **[Prof. Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/
-)**: geospatial data science, navigation, GPS
-- **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/
-)**: Cartography, GIS
+- **[Prof. Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/)**: housing and neighborhood, administrative big data
+- **[Dr. David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/)**: transportation, econometrics
+- **[Dr. Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/)**: transportation planning, active travel
+- **[Dr. Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science
+- **[Dr. Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/)**: remote sensing, terrestrial environment
+- **[Prof. Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/)**: geospatial data science, navigation, GPS
+- **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/)**: Cartography, GIS
 
 
 ###谢菲尔德大学
@@ -1420,9 +1413,8 @@ GIS相关系所：[环境科学学院](https://tu-dresden.de/bu/umwelt)
 
 GIS和制图相关导师： 
 
--**[Prof. Dr. Lars Bernard](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/prof.bernard)**: (Geo-)Information Infrastructures, Geoinformation Usability, Distributed Geoprocessing and Smart Environmental Monitoring; 
-
--**[Prof. Dipl.-Phys. Dr.-Ing. habil. Dirk Burghardt](https://tu-dresden.de/bu/umwelt/geo/ifk/professur-fuer-kartographische-kommunikation)**: VGI, map generalization; 
+- **[Prof. Dr. Lars Bernard](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/prof.bernard)**: (Geo-)Information Infrastructures, Geoinformation Usability, Distributed Geoprocessing and Smart Environmental Monitoring; 
+- **[Prof. Dipl.-Phys. Dr.-Ing. habil. Dirk Burghardt](https://tu-dresden.de/bu/umwelt/geo/ifk/professur-fuer-kartographische-kommunikation)**: VGI, map generalization; 
 
 
 
@@ -1451,14 +1443,14 @@ GIS相关系所: [地理系](https://www.geo.uzh.ch/en.html)
 苏黎世大学简称UZH，位于瑞士德语区苏黎世，是瑞士最大的综合性大学。苏黎世大学地理系发展全面、综合实力很强，涵盖自然地理、人文地理、GIS和遥感等。该系硕士项目主要有地理学硕士项目（包含普通地理学方向，自然地理学方向，人文地理学方向，遥感方向和GIS方向），和地球系统科学硕士项目。同大多数欧陆院校一样，该系没有统一的博士项目，但会根据项目需要不定期放出有针对性的[博士职位](https://www.geo.uzh.ch/en/services/open-positions.html)供申请。 
 
 相关导师：
--**[Sara Irina Fabrikant](https://visualizegeo.info/website/index.html)**: GIS, geovisualization; 
--**[Haosheng Huang](https://users.ugent.be/~haohuang/)**: LBS, navigation; 
--**[Robert Weibel](https://www.geo.uzh.ch/~weibel/)**: GIS, cartography, map generalization. 
--**[Ross Purves](https://www.geo.uzh.ch/~rsp/)**: geocomputing; 
--**[Morsdorf Felix](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=felixmorsdorf)**: LiDAR, Computer vision, Vegetation structure; 
--**[David Small](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=davidsmall)**: Remote sensing; 
--**[Daniel Henke](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=danielhenke)**: SAR, Remote sensing; 
--**[Kneubühler Mathias](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=mathiaskneubuehler)**: Earth Observation, Remote sensing, Imaging Spectroscopy.
+- **[Sara Irina Fabrikant](https://visualizegeo.info/website/index.html)**: GIS, geovisualization; 
+- **[Haosheng Huang](https://users.ugent.be/~haohuang/)**: LBS, navigation; 
+- **[Robert Weibel](https://www.geo.uzh.ch/~weibel/)**: GIS, cartography, map generalization. 
+- **[Ross Purves](https://www.geo.uzh.ch/~rsp/)**: geocomputing; 
+- **[Morsdorf Felix](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=felixmorsdorf)**: LiDAR, Computer vision, Vegetation structure; 
+- **[David Small](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=davidsmall)**: Remote sensing; 
+- **[Daniel Henke](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=danielhenke)**: SAR, Remote sensing; 
+- **[Kneubühler Mathias](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=mathiaskneubuehler)**: Earth Observation, Remote sensing, Imaging Spectroscopy.
 
 ### 伯尔尼大学
 ** Universität Bern (Unibe) **
@@ -1663,12 +1655,12 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 学位：Geography Bachelor； Applied Geoinformatics MSc.
 
 相关导师：
-**[Prof. Josef Strobl](http://jstrobl.zgis.net)**: 奥地利地理信息科学的领军人物之一，担任奥地利科学院地理信息研究负责人、UNGIS共同主席。教授课程：Topographics cartography; Methods in Spatial Analysis; Foundations of Geoinformatics; Analysis and Modelling等。邮箱：josef.strobl@sbg.ac.at
-**[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: 主要研究Human-centred Geoinformatics, Geospatial Machine Learning, Urban Geoinformatics, Real-time and Smart Cities, Crowdsourcing，Digital Health等。教授课程：Basics of Software Development, Data Information Management、Geo-Application Development、Geo-communicate and Geo-medium、Web GIS等。邮箱：bernd.resch@sbg.ac.at
-**[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: 教授课程：Scientific Methods and Writing等。邮箱：stefan.lang@sbg.ac.at
-**[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: 教授课程：Geovisualization and Advanced Cartography等。邮箱：barbara.hofer@sbg.ac.at
-**[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等。邮箱：shahnawaz.shahnawaz@sbg.ac.at
-**[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：Application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented Image Analysis，Geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at
+- **[Prof. Josef Strobl](http://jstrobl.zgis.net)**: 奥地利地理信息科学的领军人物之一，担任奥地利科学院地理信息研究负责人、UNGIS共同主席。教授课程：Topographics cartography; Methods in Spatial Analysis; Foundations of Geoinformatics; Analysis and Modelling等。邮箱：josef.strobl@sbg.ac.at
+- **[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: 主要研究Human-centred Geoinformatics, Geospatial Machine Learning, Urban Geoinformatics, Real-time and Smart Cities, Crowdsourcing，Digital Health等。教授课程：Basics of Software Development, Data Information Management、Geo-Application Development、Geo-communicate and Geo-medium、Web GIS等。邮箱：bernd.resch@sbg.ac.at
+- **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: 教授课程：Scientific Methods and Writing等。邮箱：stefan.lang@sbg.ac.at
+- **[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: 教授课程：Geovisualization and Advanced Cartography等。邮箱：barbara.hofer@sbg.ac.at
+- **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等。邮箱：shahnawaz.shahnawaz@sbg.ac.at
+- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：Application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented Image Analysis，Geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at
 
  
 ### 荷语鲁汶大学
