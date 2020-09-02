@@ -3,7 +3,7 @@
 
 查看往年：[2019年版](https://gis-info.github.io/pages/2019)
 
-**UNDER CONSTRUCTION** 本页面尚未完工，完成后会公开发布。
+# **UNDER CONSTRUCTION** 本页面尚未完工，完成后会公开发布。
 
 本项目2019年9月发起成立，目的是提供及时且全面的GIS留学选校信息。提供院校信息的[作者](https://gis-info.github.io/pages/authors)来自于世界各地GIS专业名校，均为在读学生、已毕业校友、或年轻老师，主要围绕学校项目和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。
 
@@ -227,8 +227,21 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 - **[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human Health, hydroclimatology.
 
 ### 佛罗里达大学
+**University of Florida (UFL)**
+美国，佛罗里达州，盖恩斯维尔市
 
-TBA
+GIS相关系所：[地理系](https://geog.ufl.edu)
+
+佛罗里达大学是美国的顶尖公立高校。被誉为公立常春藤，位列全美公立大学第七（2020年）。其地理系综合实力强劲，包含地理信息系统、健康地理、自然地理、人文地理四个方向。
+
+相关导师：
+- **[Jane Southworth](https://geog.ufl.edu/faculty/southworth/)**: human-environment interactions, land change science, remote sensing;
+- **[Michael Binford](https://geog.ufl.edu/faculty/binford/)**: human-environment interactions, land-cover/land-use change, remote sensing;
+- **[Corene Matyas](https://geog.ufl.edu/faculty/matyas/)**: hurricanes, spatial analysis;
+- **[Jason Blackburn](https://geog.ufl.edu/faculty/blackburn/)**: spatio-temporal modeling, zoonotic diseases;
+- **[Liang Mao](https://geog.ufl.edu/faculty/mao/)**: agent-based modeling, GIS and health, network analysis;
+- **[Yujie Hu](https://geonavilab.geog.ufl.edu)**: transportation, human mobility, spatial accessibility, spatial networks.
+
 
 ### 南佛罗里达大学
 
@@ -377,9 +390,21 @@ UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Cen
 - **[Dar Robert](http://geog.ucsb.edu/archive/people/faculty_members/roberts_dar.htm)**: imaging spectrometry, remote sensing of vegetation, spectroscopy (urban and natural cover), land-use/land-cover change mapping with satellite time series, height mapping with lidar, fire danger assessment.
 - **[Vena Chu](http://www.venachu.com/)**: Remote sensing, Greenland ice sheet meltwater dynamics
 
-### 华盛顿大学
+###  华盛顿大学
+**University of Washington (UW)**
+美国，华盛顿州，西雅图市
 
-TBA
+GIS相关系所：[地理系](https://geography.washington.edu/)
+
+华大地理系是Critial GIS/Geography的基地，人文地理及理论研究实力强劲。这边申请比较特别，要求必须与至少两位Faculty联系并获得对方支持（但实际上你只有一个主导师，建议先套主导师套上后再让对方推荐其他老师进一步联系）——弱委员会，导师意见非常重要。除[一年制针对就业的GIS项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=661)外，华大地理系的[2年制硕士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=48)和[4-5年制（没有野外考察的话是4年）博士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=219)是完全独立的，不能直接申请硕博连读，且博士项目原则上要求申请者具有地理学相关硕士学位。博士进来必有四年TA/RA保底（暑期得自己找RA或博士后两年自己开暑期课），Phd前两年是中档工资，每月2500+。硕博的必修课包括当代地理思想，当代地理研究设计，三个quaters的地理研讨会，此外至少选一门计量方法课，可选范围包括计量地理、GIS分析、城市GIS、海岸GIS、GIS决策支持系统。
+相关导师：
+- **[Bo Zhao](https://hgis.uw.edu/)**：Big Data, Geographic Information Systems, Geovisualization, Mapping Science and Technology, Social Media, Cartography, Mininformation 
+-  **[Sarah Elwood](https://geography.washington.edu/people/mark-ellis)**：Geographic, Information Systems, Geovisualization, Justice, Mapping, Poverty Social 
+-  **[Mark Ellis](https://geography.washington.edu/people/mark-ellis)**：Immigration, Migration, Segregation, Labor, Statistical Methods 
+- **[Michael Brown](https://geography.washington.edu/people/michael-brown)**：Cities, Critical Theory, Feminism and Feminist Theory, Health, History, Queer Studies, Research Methods, Urban Studies, Urban Politics, Political Geography 
+- **[Suzanne Davies Withers](https://geography.washington.edu/people/suzanne-davies-withers)**：Population, Poverty, Research Methods, Urban Studies 
+
+
 
 ### 南加州大学
 
@@ -876,8 +901,21 @@ TBA
  - **[Jackson D. Cothren](https://fulbright.uark.edu/departments/geosciences/directory/index/uid/jcothre/name/Jackson+David+Cothren/)**: digital photogrammetry, computer vision, surface generation, enterprise GIS.
 
 ### 雪城大学
+**Syracuse University (SU)**
+美国，纽约州，雪城市  
 
-TBA
+GIS相关系所：[地理系](https://www.maxwell.syr.edu/geography-and-the-environment/)
+
+雪城大学的地理系位于麦克斯韦尔公民与公共事务学院下，研究方向比较偏向人文地理学。做自然地理相关研究的导师并不多，系里开设的课程也较多为人文地理的课程。
+授课班级规模很小，多是10人左右的小班，招生规模也较小，每年招生的规模在硕博一起5人左右（其中自然地理/GIS应用 1-2 人左右）
+
+相关导师 ：
+[Peng Gao](http://pegao.expressions.syr.edu/): Erosion and sediment transport in rivers and watersheds, 3D GIS design and analysis for urban environments
+
+[Jane Read](https://www.maxwell.syr.edu/geo/Read,_Jane_M_/): Geographic information systems and remote sensing, human-environment interactions, geohumanities, indigenous livelihoods, Latin America
+
+[Jonnell Robinson](https://www.maxwell.syr.edu/geo/Robinson,_Jonnell_A_/)Community geography, participatory geographic information systems (GIS)
+
 
 ### 马里兰大学
 **University of Maryland at College Park (UMD)**
