@@ -359,7 +359,7 @@ _信息提供：Shuhong Yan_
 
 - **Florencia Sangermano**: conservation biology, GIS, remote sensing and landscape ecology.
 
-###加州大学圣巴巴拉分校
+### 加州大学圣巴巴拉分校
 
 **University of California Santa Barbara (UCSB)**
 
@@ -538,6 +538,7 @@ GIS相关系所：[环境和可持续发展学院](https://seas.umich.edu/)
 
 
 ### 密歇根州立大学
+
 **Michigan State University (MSU)**
 
 美国，密歇根州，东兰辛
@@ -560,6 +561,7 @@ GIS相关系所：[地理、环境及空间科学系](http://geo.msu.edu)
 - **[David Roy]( http://geo.msu.edu/people/roy-david/)**: remote sensing on global change.
 
 ### 密歇根理工大学
+
 **Michigan Technological University (MTU)**
 
 美国，密歇根州，霍顿
