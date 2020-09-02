@@ -664,9 +664,11 @@ GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
 ### 新墨西哥大学
 **University of New Mexico (UNM)**
 
+美国，新墨西哥州，阿尔伯克基
+
 GIS相关系所：[地理与环境研究系 geography and environmental studies](https://geography.unm.edu/)
 
-美国新墨西哥大学地理与环境研究系提供博士和硕士学位，博士项目由新墨西哥大学地理与环境研究系(The Department of Geography and Environmental Studies at the University of New Mexico)和新墨西哥州立大学地理系（The Department of Geography at New Mexico State University）合作提供，学生可以在两所院所获得学术资源支持。研究生可从两个项目（Plan Ⅰ，Plan Ⅱ）中选择。Plan Ⅰ注重学术培养，要求学生以论文答辩（thesis defense）形式毕业，Plan Ⅱ则偏向技能培养，要求学生完成一项独立项目（Master’s Project）。
+美国新墨西哥大学地理与环境研究系提供博士和硕士学位，博士项目由新墨西哥大学地理与环境研究系(The Department of Geography and Environmental Studies at the University of New Mexico)和 **新墨西哥州立大学** 地理系（The Department of Geography at New Mexico State University）合作提供，学生可以在两所院所获得学术资源支持。研究生可从两个项目（Plan Ⅰ，Plan Ⅱ）中选择。Plan Ⅰ注重学术培养，要求学生以论文答辩（thesis defense）形式毕业，Plan Ⅱ则偏向技能培养，要求学生完成一项独立项目（Master’s Project）。
 GIS所涉及的研究领域包括Geospatial Data Science, Cartography, Geovisualization, Remote Sensing, GeoAI, Health GIS等，ASPIRE研究中心 (Center for the Advancement of Spatial Informatics Research and Education)，与Sandia 国家实验室，Los Alamos国家实验室有合作交流机会。
 
 相关导师：
@@ -721,7 +723,7 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 
 **University of Tennessee, Knoxville (UTK)**
 
-美国，田纳西州，诺克斯维尔 
+美国，田纳西州，诺克斯维尔
 
 GIS 相关系所：[地理系](https://geography.utk.edu)
 
@@ -748,6 +750,7 @@ GIS相关系所：[地理系](https://www.colorado.edu/geography/)
 科罗拉多大学波尔德分校是科罗拉多大学的旗舰校区，位于落基山脚下，临近落基山国家公园，是美国地质调查局（USGS）所在地，因此该校的地质、地理等学科为优势学科。地理系可以授予硕士和博士学位，自然地理为强项，也有许多GIS相关的科研机会，Babs Buttenfield（著名的地图学教育家、UCGIS及美国测绘协会ACSM的终身fellow）任教于此。
 
 相关导师：
+- **[Guofeng Cao](http://www.spatstat.com/)**: spatial data science, uncertainty, machine learning
 - **[Babs Buttenfield](https://www.colorado.edu/geography/barbara-babs-buttenfield)**: cartography, map generalization, map scales
 - **[Morteza Karimzadeh](https://www.colorado.edu/geography/morteza-karimzadeh)**: spatial analysis, visual analytics, geo-data science
 - **[Stefan Leyk](https://www.colorado.edu/geography/stefan-leyk-0)**: GIS, spatial modeling, cartographic pattern recognization
@@ -1148,7 +1151,7 @@ GIS相关系所：[建筑与土木工程系](http://bccw.cityu.edu.hk/main/wp_ho
 
 新加坡
 
-GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)(https://www.fas.nus.edu.sg/geog/graduate/msc-in-applied-gis.html)
+GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 
 新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
 相关导师：  
@@ -1307,11 +1310,12 @@ GIS相关系所：[地理系](https://www.sheffield.ac.uk/geography)
 
 - **[Andrew McGonigle](https://www.sheffield.ac.uk/geography/people/academic-staff/andrew-mcgonigle)：Volcano Remote Sensing，Volcano Atmosphere Interactions，Other Environmental Sensing
 
-- **[Stephen Livingstone(https://www.sheffield.ac.uk/geography/people/academic-staff/stephen-livingstone):
+- **[Stephen Livingstone(https://www.sheffield.ac.uk/geography/people/academic-staff/stephen-livingstone)**:
 Surface meltwater
 
 
 ### 特温特大学
+
 **University of Twente (Twente-ITC)**
 _信息提供：Xiaojian Liu_
 
@@ -1572,10 +1576,14 @@ GIS相关系所：[地球科学系]( https://www.mn.uio.no/geo/english/)
 - **[François Renard](https://www.mn.uio.no/geo/english/people/aca/geopgp/francoir/)**: Geology, Geophysics, Geochemistry, Remote sensing, Geohazards, Hydrogeology, Geomechanics, Environmental Geology.
  
 ### 挪威科技大学
-** Norwegian University of Science and Technology (NTNU) **
+**Norwegian University of Science and Technology (NTNU)**
+
 挪威，特隆姆瑟市
+
 GIS相关系所：[地理系](https://www.ntnu.edu/geography)
+
 [地理系](https://www.ntnu.edu/ibm/road-transort-and-geomatics)
+
 挪威科技大学的GIS / RS分别在地理系和土木与环境工程系中，地理系的GIS / RS相对侧重冰川、气候等，土木与环境工程系的GIS / RS相对侧重交通运输、建筑、城市规划等。该校的GIS项目主要在地理系下，本科毕业申请可修2年硕士，硕士毕业申请可修3-6年博士。
 相关导师：
 - **[Ola Fredin](https://www.ntnu.edu/employees/ola.fredin)**: GIS and remote sensing, Glaciology, Glacial landforms, Geomorphology;
@@ -1587,8 +1595,10 @@ GIS相关系所：[地理系](https://www.ntnu.edu/geography)
 - **[Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan)**: 3D city modeling, Laser Scanning, Photogrammetry, Spatial data mining and knowledge discovering by using crowdsourcing data;
  
 ### 赫尔辛基大学
-** University of Helsinki (UH) **
+**University of Helsinki (UH)**
+
 芬兰，南芬兰省，赫尔辛基市
+
 GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography)
 赫尔辛基大学下设地球科学与地理系，其中GIS / RS的研究集中在数字地理实验室、地理信息实验室、地球变化观测实验室、生物地理气候建模实验室等，综合实力较强。该校的GIS项目主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-4年博士。
 相关导师：
@@ -1599,8 +1609,11 @@ GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-
 - **[Miska Luoto](https://researchportal.helsinki.fi/en/persons/miska-luoto)**: Species distribution modelling, Climate change impact modelling, Modelling of Earth system processes, Biogeography and macroecology, Arctic environmental change.
  
 ### 阿尔托大学
-** Aalto University (Aalto) **
+
+**Aalto University (Aalto)**
+
 芬兰，南芬兰省，赫尔辛基市
+
 GIS相关系所：[建筑环境系]( https://www.aalto.fi/en/department-of-built-environment/geoinformatics)
 阿尔托大学的GIS / RS 在工学院的建筑环境系下，主要集中在大地测量学，地球信息技术，数字摄影测量以及激光扫描和遥感等研究领域。该校的GIS项目主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-4年博士。
 相关导师：
@@ -1621,8 +1634,11 @@ GIS相关系所：[地理研究科]( https://ign.ku.dk/english/research/geograph
 - **[Christian Fertner](https://ign.ku.dk/english/employees/landscape-architecture-planning/?pure=en/persons/317763)**: Spatial planning, Sustainable urban development, Resource and energy efficient cities, Land use change, Urban sprawl, Functional regions, Small towns, Spatial analysis, Digital planning.
  
 ### 奥尔堡大学
-** Aalborg University (AAU) **
+
+**Aalborg University (AAU)**
+
 丹麦，北日德兰大区，奥尔堡市
+
 GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/organisations/arealforvaltning-og-geoinformatik)
 奥尔堡大学有关GIS / RS的研究集中在规划系下的土地管理与地理信息小组，研究规模较小。该校的GIS项目设在地理系下，但由该小组授课，本科毕业申请可修2年硕士，硕士毕业申请可修3-5年博士。
 相关导师：
@@ -1632,8 +1648,11 @@ GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/orga
 - **[ Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: Urban Development, Spatial Analysis, Sustainable Development, Climate Change, Land Use Planning, Environment, Sustainability, Geoinformation, Satellite Image Processing.
  
 ### 维也纳大学
-** University of Vienna (Wisc) **
+
+**University of Vienna (Wisc)**
+
 奥地利，维也纳市
+
 GIS相关系所：[制图与地理信息工作小组](https://geographie.univie.ac.at/en/working-groups/cartography-and-geographic-information/)
 维也纳大学的制图与地理信息工作小组历史悠久，在制图学和空间信息处理上有一定的科研实力。该系GIS主要有两个项目，传统项目主要针对走学术道路的学生，本科毕业申请可修2-3年硕士，硕士毕业申请可修3-6年博士。
 相关导师：
