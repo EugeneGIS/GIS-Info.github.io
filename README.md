@@ -133,13 +133,12 @@
 
 ### 丹佛大学
 **University of Denver (DU)**
+
 美国，科罗拉多州，丹佛市
 
 GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 
-丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography（详情请点这里）。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。
-
-丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
+丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography（详情请点这里）。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
 
 相关导师：
 - **[Paul Sutton](https://science.du.edu/about/faculty-directory/paul-sutton-archived)**: sustainability science, ecological economics, urbanization science, and population geography;
@@ -150,8 +149,9 @@ GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 
 ### 乔治梅森大学
 ** George Mason University (GMU) **
+
 美国，弗吉尼亚州，费尔法克斯市
-GIS相关系所：[地理与地理信息科学系] (https://science.gmu.edu/academics/departments-units/geography-geoinformation-science)
+GIS相关系所：[地理与地理信息科学系](https://science.gmu.edu/academics/departments-units/geography-geoinformation-science)
 
 乔治梅森大学是美国的一所公立高校，距离华盛顿DC只有三十分钟，其地理系具有强劲的地理信息计算科学和数据科学的实力。该系的硕士研究生项目有三类，包含地理信息系统，地球科学，和地理与制图学三个方向的硕士学位。博士生项目只有一个：地球系统与地理信息科学博士学位，本科毕业生也可以申请。所有研究生项目都是STEM，所以OPT可以延长到三年。
 
@@ -238,11 +238,7 @@ TBA
 
 GIS相关系所：[地理系](https://geography.osu.edu/)
 
-俄亥俄州立大学的地理系国际学生占比很高，要谈到对OSU地理系的第一印象，脑子里的第一个关键词是diverse，国际学生占比很高。据不完全统计，中国学生在研究生中占比高达约30%。而且国际学生的比例也是呈现逐年增高趋势（2020-2021年可能除外）。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年（可能少于或多于这个时间），研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。
-
-该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作，但是可能对国际生来说比较少见；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案还是更倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。
-
-系里的资助机会很充足，大部分（95%以上）的研究生都有助学金，分为TA和RA；系里每年一般还会有一个名额的来自学校资助的全额奖学金（fellowship）；另外，系里、学校会有一些奖学金用来资助学生开会或者进行不同方向的研究等，整体来说，给博士的各类奖学金机会比硕士多一些。该系人文地理做得好的教授较多（虽然做人文的中国学生比较少），GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
+俄亥俄州立大学的地理系国际学生占比很高，要谈到对OSU地理系的第一印象，脑子里的第一个关键词是diverse，国际学生占比很高。据不完全统计，中国学生在研究生中占比高达约30%。而且国际学生的比例也是呈现逐年增高趋势（2020-2021年可能除外）。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年（可能少于或多于这个时间），研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作，但是可能对国际生来说比较少见；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案还是更倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。系里的资助机会很充足，大部分（95%以上）的研究生都有助学金，分为TA和RA；系里每年一般还会有一个名额的来自学校资助的全额奖学金（fellowship）；另外，系里、学校会有一些奖学金用来资助学生开会或者进行不同方向的研究等，整体来说，给博士的各类奖学金机会比硕士多一些。该系人文地理做得好的教授较多（虽然做人文的中国学生比较少），GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
 
 相关导师:
 - **[Ningchuan Xiao](https://geography.osu.edu/people/xiao.37)**: WebGIS, GIS algorithms, visualization
@@ -306,11 +302,9 @@ GIS相关系所：[地理系]( https://geog.okstate.edu/)
 
 GIS相关系所：[地理系](https://geography.uoregon.edu)
 
-俄勒冈大学地理系是该校历史最为悠久的院系之一，原与地质系同一学院，后于1957年独立成系。美国地理学家协会前任主席Alex Murphy和现任主席Amy Lobben皆在此任教。该系以人文地理、地图制图学和空间认知等方向著称，近年来大力发展GIScience和空间数据科学，包括空间分析和空间统计方向。除了传统的地理学学位，其还提供空间数据科学与技术（Spatial Data Science & Technology）的本科学位。
+俄勒冈大学地理系是该校历史最为悠久的院系之一，原与地质系同一学院，后于1957年独立成系。美国地理学家协会前任主席Alex Murphy和现任主席Amy Lobben皆在此任教。该系以人文地理、地图制图学和空间认知等方向著称，近年来大力发展GIScience和空间数据科学，包括空间分析和空间统计方向。除了传统的地理学学位，其还提供空间数据科学与技术（Spatial Data Science & Technology）的本科学位。本科毕业生可申请该系2年的硕士项目，硕士毕业生可申请4-5年的博士项目。值得注意的是，申请该系的博士项目需具有硕士学位。 系里鼓励在UO完成硕士学位的学生继续攻读博士学位（3-4年时间）。该系对所有被录取的研究生申请者以助研、助教或者其他工作岗位的形式提供奖学金。特别优秀的申请者，系里还会帮着申请学校的奖学金，如[Raymund Fellowship](https://gradschool.uoregon.edu/funding/awards/raymund-fellows)和[Promising Scholar Award](https://gradschool.uoregon.edu/funding/awards/promising-scholar-award).
 
-​	本科毕业生可申请该系2年的硕士项目，硕士毕业生可申请4-5年的博士项目。值得注意的是，申请该系的博士项目需具有硕士学位。 系里鼓励在UO完成硕士学位的学生继续攻读博士学位（3-4年时间）。该系对所有被录取的研究生申请者以助研、助教或者其他工作岗位的形式提供奖学金。特别优秀的申请者，系里还会帮着申请学校的奖学金，如[Raymund Fellowship](https://gradschool.uoregon.edu/funding/awards/raymund-fellows)和[Promising Scholar Award](https://gradschool.uoregon.edu/funding/awards/promising-scholar-award).
-
-​	相关导师：
+相关导师：
 
 - **[Amy Lobben](https://geography.uoregon.edu/profile/lobben/)**: Neurogeography; human-environmental interaction; spatial decision making; geospatial cognition and thinking
 - **[Carolyn Fish](https://geography.uoregon.edu/profile/cfish11/)**: Cartography; map design; climate change communication; mapping environment-society interactions
@@ -347,7 +341,6 @@ GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonsta
 
 **Clark University ([Clark](https://www.clarku.edu/))**
 
-_信息提供：Shuhong Yan_
 
 克拉克大学以地理学和心理学最为著名。
 
@@ -443,7 +436,7 @@ TBA
 ### 天普大学
 
 **Temple University ([Temple](https://www.cla.temple.edu/geography-and-urban-studies))**
-_信息提供：Dr. Li Xiaojiang_
+
 
 天普大学地理和城市研究系研究方向涵盖GIS，城市研究，可持续发展等
 
@@ -572,10 +565,10 @@ GIS相关系所：[林业和环境学院](https://www.mtu.edu/forest/graduate/pr
 
 ### 康奈尔大学
 **Cornell University**
+
 美国，纽约州，伊萨卡
 
 康奈尔大学没有特定的GIS相关院系，但其他院系有导师从事GIS或RS相关的课题。
-
 [School of Integrative Plant Science (Soil and crop science section)](https://scs.cals.cornell.edu/): 该系属于农学院，本科毕业可申请硕士+博士项目，硕士毕业可直接申请博士项目，博士无固定毕业年限。系里老师背景很丰富，有从事土壤学、化学、环境学、生态学等各方面的老师。
 
 相关导师：
@@ -635,10 +628,9 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
-### 得克萨斯大学达拉斯分校
+### 德克萨斯大学达拉斯分校
 
 **University of Texas at Dallas ([UT Dallas](https://utdallas.edu/academics/fact-sheets/epps/ms-geospatial-information-sciences/))**
-_信息提供：Dr. Li Xiao_
 
 UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前列。 其Ph.D项目涉及学科包括geography, computer science, engineering, geology and various social, policy and applied sciences等诸多方向。
 
@@ -729,7 +721,7 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 
 **University of Tennessee, Knoxville (UTK)**
 
-美国，田纳西州，诺克斯维尔 ([百度地图](https://j.map.baidu.com/49/CeL)  [谷歌地图](https://goo.gl/maps/z9uBE1a1JxZX16837))
+美国，田纳西州，诺克斯维尔 
 
 GIS 相关系所：[地理系](https://geography.utk.edu)
 
@@ -850,8 +842,7 @@ TBA
  - [阿拉斯加地球物理研究所遥感中心](https://www.gi.alaska.edu/research/remote-sensing)：管理阿拉斯加州及周边海域的物理遥感数据
  - [阿拉斯加地理信息网](http://www.gina.alaska.edu/)：提供实时的阿拉斯加空间地理信息数据
 
-
- 该系的GIS和RS科研项目很多是基于这三个基础设施的。UAF是美国纬度最高的四年制大学，靠近北极圈，也临近环太平洋火山地震带，因为得天独厚的地缘优势，该系在RS和GIS方面形成了全球独特的应用方向，即空间科学、空间分析、遥感、地理统计学、计量地理学等在极地环境、极地气候学、冰川地貌、火山学、极地海洋学等方面的应用。
+该系的GIS和RS科研项目很多是基于这三个基础设施的。UAF是美国纬度最高的四年制大学，靠近北极圈，也临近环太平洋火山地震带，因为得天独厚的地缘优势，该系在RS和GIS方面形成了全球独特的应用方向，即空间科学、空间分析、遥感、地理统计学、计量地理学等在极地环境、极地气候学、冰川地貌、火山学、极地海洋学等方面的应用。
 
  相关导师：
 
@@ -870,7 +861,7 @@ TBA
 
  GIS 相关系所：[地球科学系](https://fulbright.uark.edu/departments/geosciences/)
 
- 阿肯色大学是阿肯色州的旗舰大学。GIS学者Danial Sui在此校担任副校长职位（Vice Chancellor for Research and Innovation）。该校以自然地理研究闻名。其地球科学系招收地理/地质硕士，地球科学博士。其GIS相关课程包括：数字地球，制图学，遥感技术应用，Radar科学，空间分析，无人机数据处理，地理数据挖掘，自然灾害等。
+阿肯色大学是阿肯色州的旗舰大学。GIS学者Danial Sui在此校担任副校长职位（Vice Chancellor for Research and Innovation）。该校以自然地理研究闻名。其地球科学系招收地理/地质硕士，地球科学博士。其GIS相关课程包括：数字地球，制图学，遥感技术应用，Radar科学，空间分析，无人机数据处理，地理数据挖掘，自然灾害等。
 
  相关导师：
  - **[Xiao Huang](https://www.xiaohuang116.com/)**: GeoAI, geovisualization, deep learning, natural hazards, human-environment interaction, Remote Sensing.
@@ -883,11 +874,12 @@ TBA
 
 ### 马里兰大学
 **University of Maryland at College Park (UMD)**
-美国，马里兰州，大学公园市 （距离华盛顿特区20分钟地铁）
-GIS向关系所：[地理系](www.geog.umd.edu)
 
-马里兰大学比较集中做遥感图像处理分类及其应用（土地利用分类，监测自然灾害，大气变化等），经济地理偏定量化研究，与human and natural system专题有关，详细信息可以参见网站www.geog.umd.edu. 本系没有传统的学术型硕士项目，传统由导师带教的只招收博士生，招收的博士生都有免学费+助教/助研资助。但是有GIS 相关的两年自费硕士项目是online program，以网络-课堂混合授课的形式上课，以学习技术为主，毕业后可在工业界发展。
-GIS相关的博士导师集中在Center for Geospatial Information Science：https://geospatial.umd.edu/
+美国，马里兰州，大学公园市 （距离华盛顿特区20分钟地铁）
+
+GIS相关系所：[地理系](www.geog.umd.edu)
+
+马里兰大学比较集中做遥感图像处理分类及其应用（土地利用分类，监测自然灾害，大气变化等），经济地理偏定量化研究，与human and natural system专题有关，详细信息可以参见网站www.geog.umd.edu. 本系没有传统的学术型硕士项目，传统由导师带教的只招收博士生，招收的博士生都有免学费+助教/助研资助。但是有GIS 相关的两年自费硕士项目是online program，以网络-课堂混合授课的形式上课，以学习技术为主，毕业后可在工业界发展。GIS相关的博士导师集中在[Center for Geospatial Information Science](https://geospatial.umd.edu/)
 
 相关导师：
 - **[Kathleen Stewart](https://geog.umd.edu/facultyprofile/stewart/kathleen)**: GIS health, spatio-temporal big data, human mobility;
