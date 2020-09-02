@@ -24,15 +24,15 @@
 
 
 ## 目录
-由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校英文缩写排序）：
+由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校中文缩写排序）：
 
-北美洲x所：美国，加拿大
+北美洲x所：[美国46所](#美国)，[加拿大10所](#加拿大)
 
-亚洲大洋洲x所：香港，新加坡，澳大利亚
+亚洲大洋洲x所：[香港4所](#香港)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
-欧洲x所：英国，德国，荷兰，挪威，瑞士
+欧洲x所：[英国7所](#英国)，[德国](#德国)，[荷兰5所](#荷兰)，[挪威](#挪威)，[瑞士](#瑞士)
 
-#### 美国46所
+#### 美国
 - [丹佛大学 (DU)](#丹佛大学)
 - [乔治梅森大学 (GMU)](#乔治梅森大学)
 - [亚利桑那州立大学 (ASU)](#亚利桑那州立大学)
@@ -80,7 +80,7 @@
 - [雪城大学 (Syracuse)](#雪城大学)
 - [马里兰大学 (UMD)](#马里兰大学)
 
-#### 加拿大10所
+#### 加拿大
 - [不列颠哥伦比亚大学 (UBC)](#不列颠哥伦比亚大学)
 - [卡尔加里大学 (Calgary)](#卡尔加里大学)
 - [圭尔夫大学 (Guelph)](#圭尔夫大学)
@@ -92,43 +92,47 @@
 - [麦克马斯特大学 (McMaster)](#麦克马斯特大学)
 - [麦吉尔大学 (McGill)](麦吉尔大学)
 
-#### 香港4所
+#### 香港
 - [香港城市大学(CityU)](#香港城市大学)
 - [香港中文大学(CUHK)](#香港中文大学)
 - [香港大学(HKU)](#香港大学)
 - [香港理工大学(PolyU)](#香港理工大学)
-- [香港城市大学(CityU)](#香港城市大学)
 
-#### 新加坡1所
-- 新加坡国立大学(NUS)(#新加坡国立大学)
+#### 新加坡
+- [新加坡国立大学(NUS)](#新加坡国立大学)
 
-#### 澳大利亚4所
+#### 澳大利亚
 - [阿德莱德大学](#阿德莱德大学)
 - [西澳大利亚大学](#西澳大利亚大学)
 - [科廷大学](#科廷大学)
 
-### 欧洲x所
-#### 英国x所
-- [格拉斯哥大学](#格拉斯哥大学)
-- 利兹大学
-- 伦敦大学学院
+#### 英国
+- [伦敦大学学院(UCL)](#伦敦大学学院)
+- [利兹大学(Leeds)](#利兹大学)
+- [南安普顿大学(Southampton)](#南安普顿大学)
+- [曼彻斯特大学(Manchester)](#曼彻斯特大学)
+- [格拉斯哥大学(Glasgow)](#格拉斯哥大学)
+- [爱丁堡大学(Edinburgh)](#爱丁堡大学)
+- [谢菲尔德大学(Sheffield)](#谢菲尔德大学)
 
-#### 德国x所
+
+#### 德国
 - [德累斯顿工业大学(TUD)](#德累斯顿工业大学)
-- 利兹大学
-- 伦敦大学学院
 
-#### 奥地利x所
+#### 奥地利
 - [萨尔茨堡大学(Uni-Salzburg)](#萨尔茨堡大学)
-- 利兹大学
-- 伦敦大学学院
 
-#### 荷兰x所
-- 特温特大学
+#### 荷兰
+- [乌特勒支大学](#乌特勒支大学)
+- [代尔夫特理工大学](#代尔夫特理工大学)
+- [格罗宁根大学](#格罗宁根大学)
+- [特温特大学](#特温特大学)
+- [阿姆斯特丹自由大学](#阿姆斯特丹自由大学)
 
-#### 挪威x所
 
-#### 瑞士x所
+#### 挪威
+
+#### 瑞士
 - [苏黎世瑞士联邦理工学院](#苏黎世瑞士联邦理工学院)
 - [苏黎世大学](#苏黎世大学)
 
@@ -1097,6 +1101,20 @@ GIS相关系所：[地理系]( https://mcgill.ca/geography/)
 - **[Kevin Manaugh](https://www.mcgill.ca/mse/kevin-manaugh)**: urban GIS,  urban environment, social justice, transportation system
 
 
+### 香港城市大学
+**City University of Hong Kong (CityU)**
+
+中国，香港特别行政区，九龙
+
+GIS相关系所：[建筑与土木工程系](http://bccw.cityu.edu.hk/main/wp_home.asp)
+
+香港城市大学研究GIS的老师主要集中在建筑系，GIS应用在城市规划与设计，建筑工程等领域目前受到重视。
+
+相关导师：
+- **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: Built environment; Healthy city; Travel behavior; Street view imagery
+- **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: Transportation; Smart cities and mobility; Urban transport analytics
+- **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: Urban and land use planning;  Spatial planning for pedestrian movement and evacuation modeling
+
 ### 香港中文大学
 **The Chinese University of Hong Kong**
 
@@ -1173,20 +1191,6 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 - **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: Spatial Analysis and Modelling, Activity-based Travel Demand Modelling, Smart Cities, Land Use and Transport Interaction, Agent-based Modelling, Complex Urban System.
 - **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: Remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies.
 
-### 香港城市大学
-**City University of Hong Kong (CityU)**
-
-中国，香港特别行政区，九龙
-
-GIS相关系所：[建筑与土木工程系](http://bccw.cityu.edu.hk/main/wp_home.asp)
-
-香港城市大学研究GIS的老师主要集中在建筑系，GIS应用在城市规划与设计，建筑工程等领域目前受到重视。
-
-相关导师：
-- **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: Built environment; Healthy city; Travel behavior; Street view imagery
-- **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: Transportation; Smart cities and mobility; Urban transport analytics
-- **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: Urban and land use planning;  Spatial planning for pedestrian movement and evacuation modeling
-
 
 ### 新加坡国立大学
 **National University of Singapore（NUS）**
@@ -1202,6 +1206,9 @@ GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 - **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: Spatial big data analytics, Citizen GIScience, Volunteered geographic information
 - **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, Spatial epidemiology
 
+### 墨尔本大学
+TBA
+
 ### 西澳大利亚大学
 
 **University of Western Australia (UWA)**
@@ -1211,24 +1218,6 @@ GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 GIS相关系所：[农业和环境学院](https://www.uwa.edu.au/science/schools/uwa-school-of-agriculture-and-environment%a0)
 
 西澳大利亚大学的农业和环境学院提供地理信息系统硕士（Master of GIS）项目，学制时长为1.5到2年之间。该硕士为授课型，核心课程有六门，包括GIS编程、遥感、GIScience、GIS环境资源管理、高级空间分析以及GIS环境科学。此外，该学院所在的自然科学部也提供博士项目，具体方向需和相关院系导师确定。
-
-### 阿德莱德大学
-
-**University of Adelaide (U-Adel)**
-澳大利亚，南澳大利亚州，阿德莱德
-
-GIS相关系所：[空间科学组]( http://www.spatialpoints.com/
-)，[生物系]( https://sciences.adelaide.edu.au/biological-sciences/
-)，[光学和遥感研究所](https://www.adelaide.edu.au/ipas/)，[地理、环境和人口学系]( https://arts.adelaide.edu.au/socialsciences/departments/department-of-geography-environment-and-population#our-research)
-
-阿德莱德大学的空间科学组（Spatial Sciences Group）是由从事GIS和遥感研究的博士生、博士后、教职员工组成，他们来自不同的院系，其中以生物系居多，该组目前由两位生物系的教授管理。空间科学组的博士生从事科研的方向包括地理信息系统、环境遥感、航空图像分析、空间生态分析、GIS对土壤环境的分析、生态学地图绘制和可视化分析等等。此外，在社会科学部的地理、环境和人口学系还有urban informatics的项目，比如在[Hugo Center for Population and Housing]( https://www.adelaide.edu.au/hugo-centre/)就有social applications of GIS方向。
-
-相关导师：
-
-- **[Bertram Ostendorf]( https://researchers.adelaide.edu.au/profile/bertram.ostendorf
-)**: GIS, spatial analysis, soil science, spatial decision making for natural resource management
-- **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis
-)**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use
 
 ### 科廷大学
 
@@ -1253,6 +1242,26 @@ GIS相关系所：[空间科学系](https://scieng.curtin.edu.au/schools/school-
 - **[Michael Kuhn](https://staffportal.curtin.edu.au/staff/profile/view/michael-kuhn-0ad64f27/)**: surveying, geodesy, gravity
 - **[Will Featherstone](https://staffportal.curtin.edu.au/staff/profile/view/will-featherstone-0312e6c3/)**: surveying, geodesy, GPS
 - **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization 可能即将退休
+
+### 阿德莱德大学
+
+**University of Adelaide (U-Adel)**
+澳大利亚，南澳大利亚州，阿德莱德
+
+GIS相关系所：[空间科学组]( http://www.spatialpoints.com/
+)，[生物系]( https://sciences.adelaide.edu.au/biological-sciences/
+)，[光学和遥感研究所](https://www.adelaide.edu.au/ipas/)，[地理、环境和人口学系]( https://arts.adelaide.edu.au/socialsciences/departments/department-of-geography-environment-and-population#our-research)
+
+阿德莱德大学的空间科学组（Spatial Sciences Group）是由从事GIS和遥感研究的博士生、博士后、教职员工组成，他们来自不同的院系，其中以生物系居多，该组目前由两位生物系的教授管理。空间科学组的博士生从事科研的方向包括地理信息系统、环境遥感、航空图像分析、空间生态分析、GIS对土壤环境的分析、生态学地图绘制和可视化分析等等。此外，在社会科学部的地理、环境和人口学系还有urban informatics的项目，比如在[Hugo Center for Population and Housing]( https://www.adelaide.edu.au/hugo-centre/)就有social applications of GIS方向。
+
+相关导师：
+
+- **[Bertram Ostendorf]( https://researchers.adelaide.edu.au/profile/bertram.ostendorf
+)**: GIS, spatial analysis, soil science, spatial decision making for natural resource management
+- **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis
+)**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use
+
+
 
 ### 爱丁堡大学  
 **The University of Edinburgh**
