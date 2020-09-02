@@ -1418,41 +1418,6 @@ GIS相关系所：[地理系](https://www.sheffield.ac.uk/geography)
 Surface meltwater
 
 
-### 特温特大学
-
-**University of Twente (Twente-ITC)**
-_信息提供：Xiaojian Liu_
-
-荷兰特温特大学 ITC 下属的系包括 Department of Geo-information Processing, Department of Earth Observation Science, Department of Natural Resources, Department of Water Resources, 覆盖方向广泛，GIS、遥感、自然资源、水资源等。
-
-相关导师：
-
-- **Menno-Jan Kraak**: cartography, web cartography, geovisualization;
-
-- **Raul Zurita-Milla**: geocomputation, machine learning, phenology, agriculture;
-
-- **Rolf de By**: spatial database, spatial data infrastructure, biodiversity;
-
-- **Mingshu Wang**: GIScience, urban informatics, city and regional development;
-
-- **Alfred Stein**: spatial statistics, optimal sampling, image analysis, data quality, fuzzy techniques, random sets;
-
-- **George Vosselman**: laser altimetry, strip adjustment, segmentation and classification of point clouds, 3D building and road modeling;
-
-- **Jia Peng**: spatial lifecourse epidemiology, health geography, spatio-temporal analysis, geospatial modeling;
-
-- **Michael Yang**: computer vision, photogrammetry, deep learning, graphical models, scene understanding, multi-sensor fusion;
-
-- **Ling Chang**: satellite radar interferometry (InSAR), statistical hypothesis testing, time series modelling, change detection;
-
-- **Andy Nelson**: agricultural systems, crop production, food security, accessibility models, remote sensing;
-
-- **Tiejun Wang**: wildlife ecology and conservation, remote sensing;
-
-- **Zhongbo (Bob) Su**: spatial hydrology, water cycle, ecosystem and water resources, remote sensing, numerical modeling;
-
-- **Yijian Zeng**: hydrologic processes, land-atmosphere interaction, land surface models, data assimilation.
-
 ### 乌特勒支大学
 **Utrecht University (UU)**
 荷兰， 乌特勒支市
@@ -1467,6 +1432,97 @@ GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/facul
 - **[Tine Beneker]( https://www.uu.nl/staff/TBeneker)**: Geography Education Research; Human Geography; Spatial Planning;  
 - **[Dick Ettema]( https://www.uu.nl/staff/DFEttema)**: Dynamics of Youth; Pathways to Sustainability; Sport and Society.
 
+### 代尔夫特理工大学 
+** Delft University of Technology (TUDelft)  **
+荷兰，南荷兰省，代尔夫特市 
+GIS相关系所：[Urbanism-Track Geomatics]( https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/)  [Civil-Track Geoscience & Remote Sensing]( https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/)
+代尔夫特理工是欧洲顶尖的理工院校，在工程领域有着悠久的历史与深厚实力。学校中与GIS/RS相关的系所主要有两个：位于建筑学院的Geomatics以及位于土木学院的Geoscience & Remote Sensing. 其中Geomatics归口在建筑学院的urbanism系下面，研究方向与课程设置主要侧重3D Geoinformation, Smart Cities, building environment.而 Geoscience & Remote Sensing. Geomatics的研究方向与课程设置侧重于Remote Sensing与Geodesy在Atmospheric science与Earth system science中的应用。学位项目方面两个部门各提供一个120EC的两年制硕士项目，使学生在专业知识与学术技能训练之间能实现平衡。TUDelft的博士项目通常在4-5年，学制与入学时间都相对自由，但通常要求申请人必须要有硕士学位。
+相关导师 ： 
+Geomatics:
+- **[J.E. Stoter] (https://www.tudelft.nl/staff/j.e.stoter/) **: 3D geoinformation infrastructure, 3D indoor modelling and navigation, data structures and algorithms for 3D modelling; 
+- **[H. Ledoux](https://www.tudelft.nl/staff/h.ledoux/)**: 3D geographic information system (GIS), computational geometry, 3D modelling, point could modelling and analysis;
+- **[P.J.M. van Oosterom](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/professors/profdrir-pjm-van-oosterom/)**: 3D land administration, spatial information infrastructure;
+Geoscience & Remote Sensing:
+- **[R.F. Hanssen](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/staff/scientific-staff/profdrir-rf-ramon-hanssen/)**: radar remote sensing, geodesy, geostatistics;
+- **[H.J.J. Jonker](https://www.tudelft.nl/en/staff/h.j.j.jonker/)**:  large eddy simulation, pollutant dispersion, boundary layer;
+- **[P.F. Levelt](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/staff/scientific-staff/profdr-pf-pieternel-levelt/)**: atmospheric composition, air quality;
+- **[H.W.J. Russchenberg](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/staff/scientific-staff/profdrir-hwj-herman-russchenberg/)**: climate change, measuring the atmosphere, nowcasting rainfall;
+- **[Susan Steele-Dunne]( http://m-wave.tudelft.nl/)**: microwave remote sensing, transport of water through vegetation, modeling, data assimilation and machine learning;
+- **[P.J.G. Teunissen](https://www.tudelft.nl/en/staff/p.j.g.teunissen/)**: navigation, positioning, GNSS, geodesy;
+
+### 格罗宁根大学
+** University of Groningen (UG) **
+荷兰，格罗宁根市
+GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
+格罗宁根大学空间科学学院提供文化地理，人口统计学，经济地理和规划方面的教育和研究。该系GIS主要在城市与区域研究所中进行，和规划结合较多。该学院GIS相关的项目是空间科学硕士，主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
+相关导师：
+- **[Claudia Yamu](https://www.rug.nl/staff/claudia.yamu/)**: urban analytics and modeling, computation, space syntax, tool and method development, participatory planning, and decision support for urban performance and change;
+- **[Gerd Weitkamp](https://www.rug.nl/staff/s.g.weitkamp/)**: GIS analysis and gps-data, Qualitative and quantitative methods, Health geography, Active transportation, Landscape research;
+- **[Daniella Vos](https://www.rug.nl/staff/d.vos/)**: GIS, machine learning techniques and Bayesian inference, transformations in human subsistence and settlement patterns.
+
+
+
+### 特温特大学
+**University of Twente(UT)**
+
+荷兰，上艾瑟尔省，恩斯赫德市
+
+GIS相关系所：[地理信息与对地观测学院（ITC）](https://www.itc.nl/)
+
+特文特/特温特/屯特大学地理信息与对地观测学院（ITC）成立于1950年，最初是响应联合国帮助发展中国家航空测绘进展培养相关专业人才而成立。在此基础上， ITC逐渐发展壮大成为一支经验丰富，科研人员多元化的团队，演变为International Institute for Geo-Information Science and Earth Observation(国际地理信息科学和地球科学研究所)。2010年1月1日起，ITC正式成为特文特大学的下属学院，双方的教育、科研资源得以整合升级。ITC下属共有六个系：Department of Earth Observation Science, Department of Earth Systems Analysis, Department of Geo-information Processing, Department of Natural Resources, Department of Urban and Regional Planning and Geo-information Management, Department of Water Resources。 专业覆盖方向广泛：GIS，遥感，摄影测量，自然资源，水资源，地球系统科学，城市与区域规划等。ITC的遥感技术在软科世界大学学术排名（ARWU）学科排名中长期位居世界前十，2020年最新排名为世界第7，地理信息科学和地球观测专业已经连续多年获得荷兰教育评测机构授予的“Top Rated Programme”称号。
+
+ITC学院目前硕士项目主要包括以下5个，均为研究型硕士。
+
+- Geo-Information Science and Earth Observation（2年制，英文授课），该项目下有8个具体专业：Applied Remote Sensing for Earth Sciences, Free Specialization, Geo-Information Management For Land Administration, Geoinformatics, Natural Hazards and Disaster Risk Reduction, Natural Resources Management, Urban Planning and Management, Water Resources and Environmental Management。该项目除了直接在ITC攻读的硕士以外。在长安大学，首都师大就读的硕士可以申请该专业“1+1”的联合培养硕士项目。
+- Spatial Engineering（2年制，英文授课）。
+- Cartography（1年制，英文授课）， 慕尼黑工业大学，维也纳工业大学，德累斯顿工业大学与特文特大学四校联合的Erasmus项目，[项目网址](https://cartographymaster.eu/)。
+- Geographic Information Science and Earth Observation for Environmental Modeling and Natural Resource Management（2年制，英文授课），在线课程。
+- Geogrphical Inforamtion management and Application（2年制，英文授课）。
+
+ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。因此套磁导师时可以先从daily supervisor进行。有关于硕士与博士奖学金申请可以点击参考文章与链接中的微信推送“特文特大学ITC学院是一种怎样的存在？【附奖学金大全】”一文了解。
+
+相关导师：
+- **[Alfred Stein](https://research.utwente.nl/en/persons/alfred-stein)**: Spatial (and temporal) statistics, General statistics, Fuzzy techniques and quality of spatial data, Bayesian networks, Image fusion.
+- **[George Vosselman](https://research.utwente.nl/en/persons/george-vosselman)**: Quality analysis of laser altimetry data, Strip adjustment, Segmentation and classification of point clouds, 3D building and road modelling from both point clouds and imagery, Model driven analysis of aerial and industrial imagery.
+- **[Ling Chang](https://research.utwente.nl/en/persons/ling-chang)**: Statistical hypothesis testing, Time series modelling, change detection using satellite-borne remote sensing technology, particularly InSAR techniques.
+- **[Sander Oude Elberink](https://research.utwente.nl/en/persons/sander-oude-elberink)**: Information extraction from point clouds, 3D reconstruction by fusing topographic maps and laser data.
+- **[Claudio Persello](https://research.utwente.nl/en/persons/claudio-persello)**: UAV images and photogrammetric point clouds, Multispectral VHR satellite images, Hyperspectral images, Deep learning, Convolutional neural networks, SVM and kernel methods, Supervised, semi supervised and active learning, Transfer learning and domain adaptation, Feature selection/extraction, Classification map accuracy assessment, Mapping of agriculture fields, Forest inventories, Ground sample collection optimization.
+- **[Mariana Belgiu](https://research.utwente.nl/en/persons/mariana-belgiu)**: Deals with the design, testing, and implementation of efficient methods to classify multi-temporal and single-date satellite images and with the transferability of supervised classification methods across different geographic areas.
+- **[Michael Yang](https://research.utwente.nl/en/persons/michael-yang)**: Computer Vision and Photogrammetry with specialization on Deep Learning, Graphical Models, Scene Understanding, and Multi-Sensor Fusion.
+- **[Mark van der Meijde](https://research.utwente.nl/en/persons/mark-van-der-meijde)**: Making the link between remotely sensed surface and subsurface information. Fields of application focus on geophysics, 3D geological modelling, integrating space and airborne (hyperspectral) remote sensing with seismology for geo-hazards and tectonics, and 3D environmental modelling, particularly focussing on detection of natural and man-made hydrocarbon leakages.
+- **[Victor Jetten](https://research.utwente.nl/en/persons/victor-jetten)**: Characterisation of hazard, vulnerability and risk, Effective decision-making in complex and changing risk context, Reducing risk and curbing losses through knowledge-based actions.
+- **[Norman Kerle](https://research.utwente.nl/en/persons/norman-kerle)**: Hazards, risk and disaster damage assessment with multi-type geodata, in addition to landslide research and quantitative geomorphology, frequently with object-oriented analysis methods. Assessment of post-disaster recovery with remtoe sensing image analsyis and macro-economic agent-based modelling.
+- **[C.J. van Westen](https://research.utwente.nl/en/persons/cj-van-westen)**: Landslide hazard and risk, Volcanic hazard and risk assessment, technological risk assessment, developing methods for the analysis of changing multi-hazard risk. 
+- **[Menno-Jan Kraak](https://research.utwente.nl/en/persons/menno-jan-kraak)**: Cartography, visualization of geospatial data (with Ormeling), Webcartography, developments and prospects, Exploring Geovisualization.
+- **[Mingshu Wang](https://research.utwente.nl/en/persons/mingshu-wang)**: Urban Informatics, Urban Science, GIScience, Geodata Science, City and Regional Development.
+- **[Andy Nelson](https://research.utwente.nl/en/persons/andy-nelson)**: Spatial and temporal analysis of optical and SAR imagery for crop detection and characterisation, Yield estimation from remote sensing and crop simulation models, The use of spatial and temporal data for crop health applications, Detection and mapping of crop management practices and mapping suitability for best management practices (technology targetting), Applications of remote sensing for crop insurance, Spatial accessibility models, Environmental monitoring with temporal remote sensing data.
+- **[Andrew Skidmore](https://research.utwente.nl/en/persons/andrew-skidmore)**: Vegetation mapping and monitoring, wildlife habitat assessment in East Africa, hyperspectral remote sensing, AI techniques for handling geoinformation and accuracy assessment.
+- **[Tiejun Wang](https://research.utwente.nl/en/persons/tiejun-wang)**: Biodiversity mapping and monitoring using satellite remote sensing, Ecological niche modeling, Artificial intelligence techniques, Ecologically relevant information extraction from remotely sensed data, Understanding the impacts of land use and climate change on biodiversity and ecosystem functioning, Guiding biodiversity conservation, and thereby achieving sustainable development goals.
+- **[Louise (Wieteke) Willemen](https://research.utwente.nl/en/persons/louise-wieteke-willemen)**: making quantitative spatial information on ecosystem services available to support multi-objective decision making in agricultural areas, RS-based ecosystem service mapping and monitoring, impact assessments of integrated restoration, and prioritization of investments in land degradation neutrality actions.
+- **[Jaap Zevenbergen](https://research.utwente.nl/en/persons/jaap-zevenbergen)**: Innovative, pro-poor land tools in cooperation with UN Habitat and the World Bank, knowledge on Geo-ICT and land governance has to be brought together to align these technological and institutional aspects.
+- **[Yola Georgiadou](https://research.utwente.nl/en/persons/py-georgiadou)**: How people enact, organize, and institutionalize (or not) geo-information technology in various domains (water, environment, urban and land policy) and how infrastructure (the informational, social and material underpinning of human action) is built, maintained and breaks down. 
+- **[Christiaan (Chrit) Lemmen](https://research.utwente.nl/en/persons/christiaan-chrit-lemmen)**: His research activities are performed in close co-operation with the Land Administration group of Prof. Jaap Zevenbergen. Chrit is one of the editors of the ISO standard on the Land Administration Domain (ISO 19152). This standard includes a specialisation called the Social Tenure Domain Model.
+- **[Karin Pfeffer](https://research.utwente.nl/en/persons/karin-pfeffer)**: Urban infrastructures and infrastructuring, Urban planning support, Urban poverty and spatial inequalities, Mapping and analyzing urban deprivations/slum areas, Urbanisation patterns and processes, Sensorial environment of urban public spaces, Smart urbanism and urban lifestyles, Urban remote sensing, Geo-technologies and digital technologies, Geographic information analysis and spatial knowledge, Participatory mapping/qualitative GIS.
+- **[Richard Sliuzas](https://research.utwente.nl/en/persons/richard-sliuzas)**: The use of geo-spatial technologies in spatial planning for sustainable urban development with an emphasis on issues related to urban informality, urban poverty alleviation and the relationship between spatial planning and disasters.
+- **[Bob Su](https://research.utwente.nl/en/persons/bob-su)**: Remote sensing and numerical modelling of land surface processes and land-atmosphere interactions, Climate data records for climate services, Observation of global water cycle, Theory for retrieval of turbulent heat fluxes and evaporation, Simulating radiative transfer, photosynthesis and energy fluxes, Unravelling climate and human impacts in hydrology and water resources, Coupled Simultaneous Transfer of Energy, Mass and Momentum in Unsaturated Soil as a component of earth system model, Modelling microwave signature of land surface and retrieval of soil moisture.
+- **[Daphne van der Wal](https://research.utwente.nl/en/persons/daphne-van-der-wal)**: Understanding the functioning of aquatic systems, with focus on the physical processes in the coastal zone and their interaction with biology. The response of aquatic systems to climate change and human impact, as well as risks (e.g., flooding) and services (e.g., nature-based flood risk reduction) of the coastal zone. Satellite, airborne and near-surface remote sensing in the optical, radar/SAR, and TIR domain, combined with big data analyses and modelling tools. Remote sensing, geo-information, spatial patterns, coastal processes, river-sea interactions, water quality, wetlands, bio-geomorphology, morphology, sediment dynamics, aeolian dynamics, nature-based solutions.
+ - **[Yijian Zeng](https://research.utwente.nl/en/persons/yijian-zeng)**: Land-atmosphere interaction via hydrologic processes and how the interaction affects the climate system, Generation of consistent climate data record using multi-sources of geo-datasets, Physical mechanisms of land surface models, Application of data assimilation.
+
+参考文章与链接：
+- [特文特大学ITC学院是一种怎样的存在？【附奖学金大全】](https://mp.weixin.qq.com/s/1nzk_apt9C1QwzF7aS4IPA)
+- [ITC硕士项目官网首页](https://www.itc.nl/education/programmes/masters/)
+- [ITC硕士项目官网简介](https://www.itc.nl/education/studyfinder/?itcprogrammetype=master-of-science)
+- [ITC博士申请官网](https://www.itc.nl/research/study-for-phd/)
+- [ITC官网导师联系方式](https://www.itc.nl/about-itc/contact/whoiswho/)
+
+### 阿姆斯特丹自由大学
+** Vrije University Amsterdam (VU) **
+荷兰，阿姆斯特丹市
+GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
+阿姆斯特丹自由大学空间信息实验室主要进行空间分析与建模、地理设计、风险管理、空间数字人文学科的研究。该校GIS硕士主要是online项目，可分3年完成，前两年主要关注授课，第三年完成论文，项目主要包含Geovisualisation, Geoprocessing, Geodatabases, Geodata capture, standards and quality等课程。
+相关导师：
+- **[Eric Koomen](https://research.vu.nl/en/persons/eric-koomen)**: urban development, land-use change, spatial modelling and policy support;
+- **[Niels van Manen](https://spinlab.vu.nl/staff/niels-van-manen/)**: historical GIS, urban risk mapping and Geodesign for urban heritage planning.
 
 
 ### 德累斯顿工业大学
@@ -1819,15 +1875,6 @@ GIS相关系所：[地理系](https://www.geographie.hu-berlin.de/en/geography_d
 - **[Tobia Lakes](https://www.geographie.hu-berlin.de/de/Members/lakes_tobia)**: Spatial Analysis, Land Use Change and Modelling, Urbanism, Spatial Statistics, Geostatistical Analysis, Geomatics;
 - **[Patrick Hostert](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/patrick_hostert)**: Spatial Analysis, Geographic Information System, Satellite Image Processing, Sustainability, Ecology, Environment, Climate Change and Agriculture, Remote Sensing.
  
-### 格罗宁根大学
-** University of Groningen (UG) **
-荷兰，格罗宁根市
-GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
-格罗宁根大学空间科学学院提供文化地理，人口统计学，经济地理和规划方面的教育和研究。该系GIS主要在城市与区域研究所中进行，和规划结合较多。该学院GIS相关的项目是空间科学硕士，主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
-相关导师：
-- **[Claudia Yamu](https://www.rug.nl/staff/claudia.yamu/)**: urban analytics and modeling, computation, space syntax, tool and method development, participatory planning, and decision support for urban performance and change;
-- **[Gerd Weitkamp](https://www.rug.nl/staff/s.g.weitkamp/)**: GIS analysis and gps-data, Qualitative and quantitative methods, Health geography, Active transportation, Landscape research;
-- **[Daniella Vos]( https://www.rug.nl/staff/d.vos/)**: GIS, machine learning techniques and Bayesian inference, transformations in human subsistence and settlement patterns.
 
 
 
@@ -1839,12 +1886,3 @@ GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
 
 
 
-
-### 阿姆斯特丹自由大学
-** Vrije University Amsterdam (VU) **
-荷兰，阿姆斯特丹市
-GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
-阿姆斯特丹自由大学空间信息实验室主要进行空间分析与建模、地理设计、风险管理、空间数字人文学科的研究。该校GIS硕士主要是online项目，可分3年完成，前两年主要关注授课，第三年完成论文，项目主要包含Geovisualisation, Geoprocessing, Geodatabases, Geodata capture, standards and quality等课程。
-相关导师：
-- **[Eric Koomen](https://research.vu.nl/en/persons/eric-koomen)**: urban development, land-use change, spatial modelling and policy support;
-- **[Niels van Manen](https://spinlab.vu.nl/staff/niels-van-manen/)**: historical GIS, urban risk mapping and Geodesign for urban heritage planning.
