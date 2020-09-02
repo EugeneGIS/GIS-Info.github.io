@@ -297,6 +297,7 @@ GIS相关系所：[地理系]( https://geog.okstate.edu/)
 - **[Thomas A. Wikle](https://geog.okstate.edu/people/faculty?id=457)**:  spatial analysis, wireless communication, land use
 - **[G. Allen Finchum](https://geog.okstate.edu/people/faculty?id=448)**: sports GIS, urban studies, population
 - **[Hamed Gholizadeh](https://geog.okstate.edu/people/faculty?id=451)**: remote sensing, image processing, GIS, machine learning, GeoAI
+
 ### 俄勒冈大学
 
 **University of Oregon (UO)**
@@ -325,6 +326,7 @@ GIS相关系所：[地理系](https://geography.uoregon.edu)
 
 
 ### 俄勒冈州立大学
+
 **Oregon State University (Oregon State)**
 
 美国，俄勒冈州，科瓦利斯
@@ -342,7 +344,9 @@ GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonsta
 - **[Mark Raleigh](https://ceoas.oregonstate.edu/people/mark-raleigh)**: remote sensing, image processing, polar climate, spatial analysis on snow distribution, geo-data science
 
 ### 克拉克大学
+
 **Clark University ([Clark](https://www.clarku.edu/))**
+
 _信息提供：Shuhong Yan_
 
 克拉克大学以地理学和心理学最为著名。
@@ -356,6 +360,7 @@ _信息提供：Shuhong Yan_
 - **Florencia Sangermano**: conservation biology, GIS, remote sensing and landscape ecology.
 
 ###加州大学圣巴巴拉分校
+
 **University of California Santa Barbara (UCSB)**
 
 美国，加利福尼亚州，圣巴巴拉市
@@ -380,6 +385,7 @@ UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Cen
 TBA
 
 ### 南加州大学
+
 **The University of Southern California (USC)**
 
 美国，加利福尼亚州，洛杉矶市
@@ -399,6 +405,7 @@ GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
 - **[Wilson, John P.](https://spatial.usc.edu/?team=john-p-wilson)**: GIS，spatial analysis, environmental modeling, environment and human health, geodesign education.
 
 ### 南卡罗来纳大学
+
 **University of South Carolina (UoSC)**
 
 美国，南卡罗来纳州，哥伦比亚市
@@ -413,6 +420,7 @@ GIS 相关系所：[地理系](https://www.sc.edu/study/colleges_schools/artsand
 - **[Michael Hodgson](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: Remote Sensing (LiDAR), GIS modeling, cognitive studies.
 
 ### 圣迭戈州立大学
+
 **San Diego State Univeristy (SDSU)**
 
 美国，加利福尼亚州，圣迭戈市
@@ -433,6 +441,7 @@ GIS相关系所：[地理系](https://geography.sdsu.edu/)
 TBA
 
 ### 天普大学
+
 **Temple University ([Temple](https://www.cla.temple.edu/geography-and-urban-studies))**
 _信息提供：Dr. Li Xiaojiang_
 
@@ -609,6 +618,7 @@ GIS相关系所：[地理系](https://geography.tamu.edu/)
 - **[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
 
 ### 德克萨斯大学奥斯汀分校
+
 **University of Texas at Austin (UT Austin)**
 
 美国，德克萨斯州，奥斯汀市
@@ -624,6 +634,7 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
 ### 得克萨斯大学达拉斯分校
+
 **University of Texas at Dallas ([UT Dallas](https://utdallas.edu/academics/fact-sheets/epps/ms-geospatial-information-sciences/))**
 _信息提供：Dr. Li Xiao_
 
@@ -637,6 +648,7 @@ UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前�
 - **Daniel Griffith**: spatial statistics; quantitative/urban/economic geography; applied statistics & statistical consulting; research proposal design.
 
 ### 德克萨斯州立大学
+
 **Texas State University (TXST)**
 
 美国，德克萨斯州，圣马科斯市
@@ -675,7 +687,9 @@ GIS所涉及的研究领域包括Geospatial Data Science, Cartography, Geovisual
 - **[Yolanda C. Lin](https://www.yolandaclin.com/)**: Natural hazards and disasters,  risk and resilience, spatial analysis, earthquake engineering, data visualization, uncertainty, systems thinking
 
 ### 明尼苏达大学双城分校
+
 **University of Minnesota Twin Cities (UMN)**
+
 美国，明尼苏达州，双子城 (明尼阿波利斯-圣保罗)
 
 GIS相关系所：[地理系]( https://cla.umn.edu/geography)
@@ -691,6 +705,7 @@ GIS相关系所：[地理系]( https://cla.umn.edu/geography)
 - **[Di Zhu](http://dizhu-gis.com/)**: geospatial modeling, GeoAI, social sensing.
 
 ### 爱荷华大学
+
 **The University of Iowa (UI)**
 
 美国，爱荷华州，爱荷华市
@@ -712,7 +727,7 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 
 **University of Tennessee, Knoxville (UTK)**
 
-美国，田纳西州，诺克斯维尔 ([百度地图](https://j.map.baidu.com/49/CeL) | [谷歌地图](https://goo.gl/maps/z9uBE1a1JxZX16837))
+美国，田纳西州，诺克斯维尔 ([百度地图](https://j.map.baidu.com/49/CeL)  [谷歌地图](https://goo.gl/maps/z9uBE1a1JxZX16837))
 
 GIS 相关系所：[地理系](https://geography.utk.edu)
 
@@ -766,6 +781,7 @@ GIS相关系所：[地理与规划系](https://www.albany.edu/geographyplanning)
 TBA
 
 ### 纽约州立大学水牛城分校
+
 **University at Buffalo, the State University of New York (UB)**
 
 美国，纽约州，水牛城
@@ -894,6 +910,7 @@ UBC的地理系开设MA、MSc和PhD三种研究生学位。GIS为该系的主要
 
 
 ### 卡尔加里大学
+
 **University of Calgary (U-Calgary)**
 
 加拿大，阿尔伯塔省，卡尔加里
@@ -929,6 +946,7 @@ GIS相关系所：[地理、环境和地信系](https://geg.uoguelph.ca/)
 - **[Eric Nost](https://geg.uoguelph.ca/faculty/nost-eric)**: visualization, web mapping, political geography
 
 ### 多伦多大学
+
 **University of Toronto (UToronto)**
 
 加拿大，安大略省，多伦多
@@ -976,6 +994,7 @@ GIS相关系所：[地理系](https://www.uvic.ca/socialsciences/geography/)
 - **[Reuben Rose-Redwood](https://www.uvic.ca/socialsciences/geography/people/faculty/rose-redwoodreuben.php)**: historical cartography, urban studies
 
 ### 萨斯喀彻万大学
+
 **University of Saskatchewan (USask)**
 
 加拿大，萨斯喀彻万省，萨斯卡图恩
@@ -991,6 +1010,7 @@ GIS相关系所：[地理和规划系](https://artsandscience.usask.ca/geography
 - **[Avi Akkerman](https://artsandscience.usask.ca/profile/AAkkerman#/research)**: spatial modeling, transportation, urban development
 
 ### 阿尔伯塔大学
+
 **University of Alberta**
 
 加拿大，阿尔伯塔省，埃德蒙顿市
@@ -1006,6 +1026,7 @@ GIS相关系所: [Department of Earth and Atmospheric Sciences](https://www.ualb
 - **[Amy Kim](https://www.ualberta.ca/engineering/research/groups/smart-transportation/people/faculty-and-staff/amy-kim.html)**: transportation systems analysis; transportation economics; air transportation; public transportation;
 
 ### 麦克马斯特大学
+
 **McMaster University (McMaster)**
 
 加拿大，安大略省，汉密尔顿
@@ -1021,6 +1042,7 @@ GIS相关系所：[地球、环境和社会学院](https://www.science.mcmaster.
 - **[Niko Yiannakoulias](https://www.science.mcmaster.ca/ees/component/comprofiler/userprofile/yiannan.html?Itemid=903)**: GIS, spatial analysis, agent-based modeling, environmental informatics
 
 ### 麦吉尔大学
+
 **McGill University (McGill)**
 
 加拿大，魁北克省，蒙特利尔
@@ -1056,6 +1078,7 @@ GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/in
 
 
 ### 香港大学
+
 **University of Hong Kong (HKU)**
 
 中国，香港特别行政区，香港岛
