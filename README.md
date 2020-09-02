@@ -1261,12 +1261,87 @@ GIS相关系所：[空间科学组]( http://www.spatialpoints.com/
 - **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis
 )**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use
 
+### 伦敦大学学院
+**University College London (UCL：[地理系](https://www.geog.ucl.ac.uk/), [土木测绘系](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/), [先进空间分析中心](https://www.ucl.ac.uk/bartlett/casa/))**
+_信息提供：Dr. 陈焕发_
+
+伦敦大学学院的GIS研究团队方向多元化有多个GIS研究团队，各有侧重。地理系团队侧重人口统计/消费者数据分析/空间分析，土木测绘系SpaceTimeLab团队侧重时空数据挖掘/地理人工智能，CASA（先进空间分析中心）侧重城市研究/复杂系统/可视化/多智能体系统。
+
+相关导师：
+
+- **Tao Cheng**: spatio-temporal analytics and machine learning, transportation, crime prediction, social media analysis;
+
+- **James Haworth**: spatio-temporal statistics, transportation, geocomputation;
+
+- **Paul Longley**: GIScience, geo-demography, consumer data analysis;
+
+- **Ana Basiri**: 3D mapping, VGI, crowd-sourced data;
+
+- **Sarah Wise**: agent-based model, social media, disaster prevention;
+
+- **Elsa Arcaute**: complexity science, urban systems;
+
+- **Jens Kandt**: urban geography, social and spatial health disparities;
+
+- **Huanfa Chen**: spatial optimisation, spatial data science, crime prediction, transportation.
+
+
+### 利兹大学  
+**University of Leeds**
+
+英国，西约克郡，利兹市
+
+GIS相关系所：[地理学院](https://environment.leeds.ac.uk/geography)
+
+利兹大学地理学院知名校友包括Stan Openshaw, Alan Wilson等GIS及地理学顶级专家学者，亦是GeoComputation和Spatial Interaction Model 的发源地。其中[CSAP（Centre for Spatial Analysis and Policy)](https://environment.leeds.ac.uk/geography-research-centre-spatial-analysis-policy)关注于空间分析在区域人口，零售，犯罪，教育，健康等方面的应用；[LIDA（Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) 致力于跨学科研究，人工智能和时空数据挖掘。该学院GIS学科提供3-4年制全日制博士项目，以及[2年制研究型硕士](https://environment.leeds.ac.uk/geography-research-degrees/doc/geography-mamsc-research)。此外亦有[1年制授课型硕士](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc)课程，主要包括 Data Visualisation, Geodemographics, Retail Modelling, Environment and Remote Sensing 等[课程](http://webprod3.leeds.ac.uk/catalogue/dynprogrammes.asp?Y=202021&P=MSC-GIS)。
+
+相关导师 ：
+
+- **[Alison Heppenstall](https://environment.leeds.ac.uk/geography/staff/1046/professor-alison-heppenstall)**: GeoComputation, machine learning, geospatial AI, agent-based modelling, smart cities;
+- **[Andy Newing](https://environment.leeds.ac.uk/geography/staff/1081/dr-andy-newing)**: retail analytics; retail location planning, spatial analysis; service analysis; geodemographics; accessibility;
+- **[Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)**:  urban data science; agent-based modelling; spatial cognition; travel and mobility; data visualisation;
+- **[Graham Clarke](https://environment.leeds.ac.uk/geography/staff/1018/professor-graham-clarke)**: geodemographics, public health, retail, urban simulation, accessibility;
+- **[Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber)**: spatial analysis; GeoComputation; land cover / land use; spatial data quality; spatial planning; uncertainty; evidence combination; search heuristics; location-allocation;
+- **[Mark Birkin](https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin) **: spatial analysis and policy, demography, social simulation, retail, public health, microsimulation, agent-based modelling;
+- **[Nick Malleson](https://environment.leeds.ac.uk/geography/staff/1069/dr-nick-malleson)**: agent-based modelling; crime modelling; city simulation;
+- **[Nik Lomax](https://environment.leeds.ac.uk/geography/staff/1064/dr-nik-lomax)**: demography; population projection; microsimulation; internal migration; international migration; consumer demand modelling;
+- **[Steve Carver](https://environment.leeds.ac.uk/geography/staff/1013/dr-steve-carver)**: Wilderness; Wildland; Rewilding; Landscape evaluation; GIS; spatial analysis; environmental modelling; participatory GIS.
+
+### 南安普顿大学
+TBA
+
+### 曼彻斯特大学
+TBA
+
+### 格拉斯哥大学
+
+**University of Glasgow (GLA)**
+
+英国，苏格兰，格拉斯哥
+
+GIS相关系所：[地理与地球科学学院]( https://www.gla.ac.uk/schools/ges/
+)，[城市研究系]( https://www.gla.ac.uk/subjects/urbanstudies/
+)，[城市大数据中心](https://www.ubdc.ac.uk/)
+
+格拉斯哥大学在与城市研究和大数据相关的地质学、地理学、测绘学、环境科学、社会科学、公共卫生等学科领域有着很强的研究实力和学术传统。Urban Studies系主要包括city planning, housing studies, real estate, public and urban policy, urban transport, urban analytics等硕士专业，以及urban studies的博士点。
+
+相关导师：
+
+- **[Prof. Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/)**: housing and neighborhood, administrative big data
+- **[Dr. David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/)**: transportation, econometrics
+- **[Dr. Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/)**: transportation planning, active travel
+- **[Dr. Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science
+- **[Dr. Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/)**: remote sensing, terrestrial environment
+- **[Prof. Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/)**: geospatial data science, navigation, GPS
+- **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/)**: Cartography, GIS
 
 
 ### 爱丁堡大学  
 **The University of Edinburgh**
 英国，苏格兰，爱丁堡
+
 GIS相关系所：[地理科学学院](https://www.ed.ac.uk/geosciences)
+
 爱丁堡大学地理科学学院建院于2002年，方向偏开发。
 
 地信学院下包含多个GIS相关项目，提供两种硕士项目Msc by Research（即研究型科学硕士）、Msc by Taught（即授课型科学硕士）和相关博士项目
@@ -1298,30 +1373,8 @@ Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目总共需�
 - **[Zhiqiang Feng](https://www.research.ed.ac.uk/portal/en/persons/zhiqiang-feng(b1537d8d-3698-4382-b53f-6657e988020f).htmlhttps://www.research.ed.ac.uk/portal/en/persons/zhiqiang-feng(b1537d8d-3698-4382-b53f-6657e988020f).html)**: health geography; population geography; spatial analysis
 
 
-### 格拉斯哥大学
 
-**University of Glasgow (GLA)**
-
-英国，苏格兰，格拉斯哥
-
-GIS相关系所：[地理与地球科学学院]( https://www.gla.ac.uk/schools/ges/
-)，[城市研究系]( https://www.gla.ac.uk/subjects/urbanstudies/
-)，[城市大数据中心](https://www.ubdc.ac.uk/)
-
-格拉斯哥大学在与城市研究和大数据相关的地质学、地理学、测绘学、环境科学、社会科学、公共卫生等学科领域有着很强的研究实力和学术传统。Urban Studies系主要包括city planning, housing studies, real estate, public and urban policy, urban transport, urban analytics等硕士专业，以及urban studies的博士点。
-
-相关导师：
-
-- **[Prof. Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/)**: housing and neighborhood, administrative big data
-- **[Dr. David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/)**: transportation, econometrics
-- **[Dr. Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/)**: transportation planning, active travel
-- **[Dr. Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science
-- **[Dr. Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/)**: remote sensing, terrestrial environment
-- **[Prof. Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/)**: geospatial data science, navigation, GPS
-- **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/)**: Cartography, GIS
-
-
-###谢菲尔德大学
+### 谢菲尔德大学
 **The University of Sheffield**
 
 英国 谢菲尔德
@@ -1413,53 +1466,6 @@ GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/facul
 - **[Maarten Kleinhans]( https://www.uu.nl/staff/MGKleinhans)**: Geomorphology; Biogeoscience; Coastal Evolution; River Floodplain Ecosystems;
 - **[Tine Beneker]( https://www.uu.nl/staff/TBeneker)**: Geography Education Research; Human Geography; Spatial Planning;  
 - **[Dick Ettema]( https://www.uu.nl/staff/DFEttema)**: Dynamics of Youth; Pathways to Sustainability; Sport and Society.
-
-
-### 利兹大学  
-**University of Leeds**
-
-英国，西约克郡，利兹市
-
-GIS相关系所：[地理学院](https://environment.leeds.ac.uk/geography)
-
-利兹大学地理学院知名校友包括Stan Openshaw, Alan Wilson等GIS及地理学顶级专家学者，亦是GeoComputation和Spatial Interaction Model 的发源地。其中[CSAP（Centre for Spatial Analysis and Policy)](https://environment.leeds.ac.uk/geography-research-centre-spatial-analysis-policy)关注于空间分析在区域人口，零售，犯罪，教育，健康等方面的应用；[LIDA（Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) 致力于跨学科研究，人工智能和时空数据挖掘。该学院GIS学科提供3-4年制全日制博士项目，以及[2年制研究型硕士](https://environment.leeds.ac.uk/geography-research-degrees/doc/geography-mamsc-research)。此外亦有[1年制授课型硕士](https://environment.leeds.ac.uk/courses/7411/geographical-information-systems-msc)课程，主要包括 Data Visualisation, Geodemographics, Retail Modelling, Environment and Remote Sensing 等[课程](http://webprod3.leeds.ac.uk/catalogue/dynprogrammes.asp?Y=202021&P=MSC-GIS)。
-
-相关导师 ：
-
-- **[Alison Heppenstall](https://environment.leeds.ac.uk/geography/staff/1046/professor-alison-heppenstall)**: GeoComputation, machine learning, geospatial AI, agent-based modelling, smart cities;
-- **[Andy Newing](https://environment.leeds.ac.uk/geography/staff/1081/dr-andy-newing)**: retail analytics; retail location planning, spatial analysis; service analysis; geodemographics; accessibility;
-- **[Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)**:  urban data science; agent-based modelling; spatial cognition; travel and mobility; data visualisation;
-- **[Graham Clarke](https://environment.leeds.ac.uk/geography/staff/1018/professor-graham-clarke)**: geodemographics, public health, retail, urban simulation, accessibility;
-- **[Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber)**: spatial analysis; GeoComputation; land cover / land use; spatial data quality; spatial planning; uncertainty; evidence combination; search heuristics; location-allocation;
-- **[Mark Birkin](https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin) **: spatial analysis and policy, demography, social simulation, retail, public health, microsimulation, agent-based modelling;
-- **[Nick Malleson](https://environment.leeds.ac.uk/geography/staff/1069/dr-nick-malleson)**: agent-based modelling; crime modelling; city simulation;
-- **[Nik Lomax](https://environment.leeds.ac.uk/geography/staff/1064/dr-nik-lomax)**: demography; population projection; microsimulation; internal migration; international migration; consumer demand modelling;
-- **[Steve Carver](https://environment.leeds.ac.uk/geography/staff/1013/dr-steve-carver)**: Wilderness; Wildland; Rewilding; Landscape evaluation; GIS; spatial analysis; environmental modelling; participatory GIS.
-
-### 伦敦大学学院
-**University College London (UCL：[地理系](https://www.geog.ucl.ac.uk/), [土木测绘系](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/), [先进空间分析中心](https://www.ucl.ac.uk/bartlett/casa/))**
-_信息提供：Dr. 陈焕发_
-
-伦敦大学学院的GIS研究团队方向多元化有多个GIS研究团队，各有侧重。地理系团队侧重人口统计/消费者数据分析/空间分析，土木测绘系SpaceTimeLab团队侧重时空数据挖掘/地理人工智能，CASA（先进空间分析中心）侧重城市研究/复杂系统/可视化/多智能体系统。
-
-相关导师：
-
-- **Tao Cheng**: spatio-temporal analytics and machine learning, transportation, crime prediction, social media analysis;
-
-- **James Haworth**: spatio-temporal statistics, transportation, geocomputation;
-
-- **Paul Longley**: GIScience, geo-demography, consumer data analysis;
-
-- **Ana Basiri**: 3D mapping, VGI, crowd-sourced data;
-
-- **Sarah Wise**: agent-based model, social media, disaster prevention;
-
-- **Elsa Arcaute**: complexity science, urban systems;
-
-- **Jens Kandt**: urban geography, social and spatial health disparities;
-
-- **Huanfa Chen**: spatial optimisation, spatial data science, crime prediction, transportation.
-
 
 
 
