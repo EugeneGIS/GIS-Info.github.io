@@ -501,6 +501,8 @@ GIS相关系所：[地理系](https://geography.wisc.edu/)
 - **[Song Gao](http://geods.geography.wisc.edu/)**: spatio-temporal data mining; human mobility; urban computing, GeoAI;
 - **[Qunying Huang](https://geography.wisc.edu/gis/staff/huang-qunying/)**: high performance computing; natural hazards; social media data analytics;
 - **[Robert Roth](https://geography.wisc.edu/cartography/people/Roth.html)**: cartography, story map, WebGIS.
+- **[Christian Andresen](http://www.christiangandresen.com/)**: arctic ecosystems, remote sensing, surface hydrology, wetlands, environmental change, carbon cycling, geospatial analytics, LiDAR, photogrammetry, unmanned aerial systems;
+- **[John W. (Jack) Williams](https://williamspaleolab.github.io)**: paleoecology, paleoclimatology, novel ecosystems, vegetation dynamics, global climate change, quaternary environments;
 
 ### 宾夕法尼亚大学
 
@@ -1635,7 +1637,7 @@ GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)
 相关导师：
 - **[Lars Eklundh](http://web.nateko.lu.se/personal/Lars.Eklundh/)**: Remote sensing, Land surface information, Vegetation;
 - **[Marko Scholze](https://portal.research.lu.se/portal/en/persons/marko-scholze(25a93782-441c-4844-9744-dbdc2a002f96).html)**: Climate Research, Meteorology and Atmospheric Sciences, Remote Sensing, Data Assimilation, Global Carbon Cycle, Inverse modelling;
-- **[Zheng Duan](https://geography.wisc.edu/gis/staff/huang-qunying/)**: high performance computing; natural hazards; social media data analytics;
+- **[Zheng Duan]()**: high performance computing; natural hazards; social media data analytics;
 - **[Abdulghani Hasan](https://www.nateko.lu.se/abdulghani-hasan)**: Hydrology, Water Resources, Remote Sensing, Hydrological modelling, GIS and Geomatics;
 - **[Lars Harrie](https://www.nateko.lu.se/lars-harrie)**: Algorithms for processing, analyzing and visualizing geographic data, Methods to improve the national spatial data infrastructure;
 - **[Ali Mansourian](https://www.nateko.lu.se/ali-mansourian)**: Spatial Data Infrastructures (SDI), Web GIS and Geospatial Web services, Advanced modeling for applied GISs;
