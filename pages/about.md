@@ -1,5 +1,7 @@
 # 关于作者
 
+**UNDER CONSTRUCTION** 本页面尚未完工，完成后会公开发布
+
 GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
 由于时间和精力所限，难免有不足，还望大家多多包容。同时希望有更多的同学能参与其中，未来将长期更新，期望提供更多的信息！若有建议和补充，欢迎在[issue](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言。
@@ -27,7 +29,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 
 李子奇 - 伊利诺伊大学香槟分校
 
-Chengbin Deng - 
+Chengbin Deng -
 
 赖佳梦 - 康奈尔大学
 
