@@ -64,7 +64,7 @@
 - [德克萨斯农工大学 (TAMU)](#德克萨斯农工大学)
 - [德克萨斯大学奥斯汀分校 (UT Austin)](#德克萨斯大学奥斯汀分校)
 - [德克萨斯大学达拉斯分校 (UT Dallas)](#德克萨斯大学达拉斯分校)
-- [德克萨斯州立大学 (Texas State)](#德克萨斯州立大学)
+- [德克萨斯州立大学 (TXST)](#德克萨斯州立大学)
 - [新墨西哥大学 (UNM)](#新墨西哥大学)
 - [明尼苏达大学双城分校 (UMN)](#明尼苏达大学双城分校)
 - [爱荷华大学 (UI)](#爱荷华大学)
@@ -93,86 +93,85 @@
 - [麦吉尔大学 (McGill)](麦吉尔大学)
 
 #### 香港
-- [香港城市大学(CityU)](#香港城市大学)
-- [香港中文大学(CUHK)](#香港中文大学)
-- [香港大学(HKU)](#香港大学)
-- [香港理工大学(PolyU)](#香港理工大学)
+- [香港城市大学 (CityU)](#香港城市大学)
+- [香港中文大学 (CUHK)](#香港中文大学)
+- [香港大学 (HKU)](#香港大学)
+- [香港理工大学 (PolyU)](#香港理工大学)
 
 #### 新加坡
 - [新加坡国立大学(NUS)](#新加坡国立大学)
 
 #### 澳大利亚
-- [阿德莱德大学](#阿德莱德大学)
-- [西澳大利亚大学](#西澳大利亚大学)
-- [科廷大学](#科廷大学)
+- [阿德莱德大学 (UAdel)](#阿德莱德大学)
+- [西澳大利亚大学 (UWA)](#西澳大利亚大学)
+- [科廷大学 (Curtin)](#科廷大学)
 
 #### 英国
-- [伦敦大学学院(UCL)](#伦敦大学学院)
-- [利兹大学(Leeds)](#利兹大学)
-- [南安普顿大学(Southampton)](#南安普顿大学)
-- [曼彻斯特大学(Manchester)](#曼彻斯特大学)
-- [格拉斯哥大学(Glasgow)](#格拉斯哥大学)
-- [爱丁堡大学(Edinburgh)](#爱丁堡大学)
-- [谢菲尔德大学(Sheffield)](#谢菲尔德大学)
-
+- [伦敦大学学院 (UCL)](#伦敦大学学院)
+- [利兹大学 (Leeds)](#利兹大学)
+- [南安普顿大学 (Southampton)](#南安普顿大学)
+- [曼彻斯特大学 (Manchester)](#曼彻斯特大学)
+- [格拉斯哥大学 (Glasgow)](#格拉斯哥大学)
+- [爱丁堡大学 (Edinburgh)](#爱丁堡大学)
+- [谢菲尔德大学 (Sheffield)](#谢菲尔德大学)
 
 #### 德国
-- [慕尼黑工业大学(TUM)](#慕尼黑工业大学)
-- [柏林工业大学(TUB)](#柏林工业大学)
-- [斯图加特大学(Uni-Stuttgart)](#斯图加特大学)
-- [德累斯顿工业大学(TUD)](#德累斯顿工业大学)
-- [明斯特大学(Uni-Muenster)](#明斯特大学)
-- [柏林洪堡大学(Hu-Berlin)](#柏林洪堡大学)
-- [海德堡大学(Uni-Heidelberg)](#海德堡大学)
+- [慕尼黑工业大学 (TUM)](#慕尼黑工业大学)
+- [柏林工业大学 (TUB)](#柏林工业大学)
+- [斯图加特大学 (Uni-Stuttgart)](#斯图加特大学)
+- [德累斯顿工业大学 (TUD)](#德累斯顿工业大学)
+- [明斯特大学 (Uni-Muenster)](#明斯特大学)
+- [柏林洪堡大学( Hu-Berlin)](#柏林洪堡大学)
+- [海德堡大学 (Uni-Heidelberg)](#海德堡大学)
 
 #### 荷兰
-- [乌特勒支大学(Utrecht)](#乌特勒支大学)
-- [代尔夫特理工大学(TU Delft)](#代尔夫特理工大学)
-- [格罗宁根大学(Groningen)](#格罗宁根大学)
-- [特温特大学(Twente)](#特温特大学)
-- [阿姆斯特丹自由大学](#阿姆斯特丹自由大学)
+- [乌特勒支大学 (Utrecht)](#乌特勒支大学)
+- [代尔夫特理工大学 (TU Delft)](#代尔夫特理工大学)
+- [格罗宁根大学 (Groningen)](#格罗宁根大学)
+- [特温特大学 (Twente)](#特温特大学)
+- [阿姆斯特丹自由大学 (VU Amsterdam)](#阿姆斯特丹自由大学)
 
 #### 瑞士
-- [苏黎世瑞士联邦理工学院(ETH Zurich)](#苏黎世瑞士联邦理工学院)
-- [苏黎世大学(UZH)](#苏黎世大学)
-- [伯尔尼大学(Unibe)](#伯尔尼大学)
-- [洛桑联邦理工学院(EPFL)](#洛桑联邦理工学院)
-- [日内瓦大学(Unige)](#日内瓦大学)
-- [洛桑大学(Unil)](#洛桑大学)
+- [苏黎世瑞士联邦理工学院 (ETH Zurich)](#苏黎世瑞士联邦理工学院)
+- [苏黎世大学 (UZH)](#苏黎世大学)
+- [伯尔尼大学 (Unibe)](#伯尔尼大学)
+- [洛桑联邦理工学院 (EPFL)](#洛桑联邦理工学院)
+- [日内瓦大学 (Unige)](#日内瓦大学)
+- [洛桑大学 (Unil)](#洛桑大学)
 
 #### 瑞典
-- [隆德大学(Lund)](#隆德大学)
-- [瑞典皇家理工学院(KTH)](#瑞典皇家理工学院)
-- [斯德哥尔摩大学(SU)](#斯德哥尔摩大学)
-- [哥德堡大学(GU)](#哥德堡大学)
+- [隆德大学 (Lund)](#隆德大学)
+- [瑞典皇家理工学院 (KTH)](#瑞典皇家理工学院)
+- [斯德哥尔摩大学 (SU)](#斯德哥尔摩大学)
+- [哥德堡大学 (GU)](#哥德堡大学)
 
 #### 挪威
-- [奥斯陆大学(UiO)](#奥斯陆大学)
-- [挪威科技大学(NTNU)](#挪威科技大学)
+- [奥斯陆大学 (UiO)](#奥斯陆大学)
+- [挪威科技大学 (NTNU)](#挪威科技大学)
 
 #### 芬兰
-- [赫尔辛基大学(UH)](#赫尔辛基大学)
-- [阿尔托大学(Aalto)](#阿尔托大学)
+- [赫尔辛基大学 (UH)](#赫尔辛基大学)
+- [阿尔托大学 (Aalto)](#阿尔托大学)
 
 #### 丹麦
-- [哥本哈根大学(KU)](#哥本哈根大学)
-- [奥尔堡大学(AAU)](#奥尔堡大学)
+- [哥本哈根大学 (KU)](#哥本哈根大学)
+- [奥尔堡大学 (AAU)](#奥尔堡大学)
 
 #### 奥地利
-- [维也纳大学(UWien)](#维也纳大学)
-- [维也纳工业大学(TU Wien)](#维也纳工业大学)
-- [萨尔茨堡大学(Uni-Salzburg)](#萨尔茨堡大学)
+- [维也纳大学 (UWien)](#维也纳大学)
+- [维也纳工业大学 (TU Wien)](#维也纳工业大学)
+- [萨尔茨堡大学 (Uni-Salzburg)](#萨尔茨堡大学)
 
 #### 比利时
-- [荷语鲁汶大学(KU Leuven)](#荷语鲁汶大学)
-- [荷语布鲁塞尔自由大学(VUB)](#荷语布鲁塞尔自由大学)
-- [根特大学(UGhent)](#根特大学)
+- [荷语鲁汶大学 (KU Leuven)](#荷语鲁汶大学)
+- [荷语布鲁塞尔自由大学 (VUB)](#荷语布鲁塞尔自由大学)
+- [根特大学 (UGhent)](#根特大学)
 
 #### 意大利
-- [米兰理工大学(POLIMI)](#米兰理工大学)
+- [米兰理工大学 (POLIMI)](#米兰理工大学)
 
 #### 爱尔兰
-- [国立都柏林大学(UC Dublin)](#国立都柏林大学)
+- [国立都柏林大学 (UC Dublin)](#国立都柏林大学)
 
 
 ## 学校信息
@@ -440,11 +439,11 @@ GIS相关系所：[地理系](https://geography.washington.edu/)
 
 华大地理系是Critial GIS/Geography的基地，人文地理及理论研究实力强劲。这边申请比较特别，要求必须与至少两位Faculty联系并获得对方支持（但实际上你只有一个主导师，建议先套主导师套上后再让对方推荐其他老师进一步联系）——弱委员会，导师意见非常重要。除[一年制针对就业的GIS项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=661)外，华大地理系的[2年制硕士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=48)和[4-5年制（没有野外考察的话是4年）博士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=219)是完全独立的，不能直接申请硕博连读，且博士项目原则上要求申请者具有地理学相关硕士学位。博士进来必有四年TA/RA保底（暑期得自己找RA或博士后两年自己开暑期课），Phd前两年是中档工资，每月2500+。硕博的必修课包括当代地理思想，当代地理研究设计，三个quaters的地理研讨会，此外至少选一门计量方法课，可选范围包括计量地理、GIS分析、城市GIS、海岸GIS、GIS决策支持系统。
 相关导师：
-- **[Bo Zhao](https://hgis.uw.edu/)**：Big Data, Geographic Information Systems, Geovisualization, Mapping Science and Technology, Social Media, Cartography, Mininformation 
--  **[Sarah Elwood](https://geography.washington.edu/people/mark-ellis)**：Geographic, Information Systems, Geovisualization, Justice, Mapping, Poverty Social 
--  **[Mark Ellis](https://geography.washington.edu/people/mark-ellis)**：Immigration, Migration, Segregation, Labor, Statistical Methods 
-- **[Michael Brown](https://geography.washington.edu/people/michael-brown)**：Cities, Critical Theory, Feminism and Feminist Theory, Health, History, Queer Studies, Research Methods, Urban Studies, Urban Politics, Political Geography 
-- **[Suzanne Davies Withers](https://geography.washington.edu/people/suzanne-davies-withers)**：Population, Poverty, Research Methods, Urban Studies 
+- **[Bo Zhao](https://hgis.uw.edu/)**：Big Data, Geographic Information Systems, Geovisualization, Mapping Science and Technology, Social Media, Cartography, Mininformation
+-  **[Sarah Elwood](https://geography.washington.edu/people/mark-ellis)**：Geographic, Information Systems, Geovisualization, Justice, Mapping, Poverty Social
+-  **[Mark Ellis](https://geography.washington.edu/people/mark-ellis)**：Immigration, Migration, Segregation, Labor, Statistical Methods
+- **[Michael Brown](https://geography.washington.edu/people/michael-brown)**：Cities, Critical Theory, Feminism and Feminist Theory, Health, History, Queer Studies, Research Methods, Urban Studies, Urban Politics, Political Geography
+- **[Suzanne Davies Withers](https://geography.washington.edu/people/suzanne-davies-withers)**：Population, Poverty, Research Methods, Urban Studies
 
 
 
@@ -1472,14 +1471,14 @@ GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/facul
 - **[Tine Beneker]( https://www.uu.nl/staff/TBeneker)**: Geography Education Research; Human Geography; Spatial Planning;  
 - **[Dick Ettema]( https://www.uu.nl/staff/DFEttema)**: Dynamics of Youth; Pathways to Sustainability; Sport and Society.
 
-### 代尔夫特理工大学 
+### 代尔夫特理工大学
 ** Delft University of Technology (TUDelft)  **
-荷兰，南荷兰省，代尔夫特市 
+荷兰，南荷兰省，代尔夫特市
 GIS相关系所：[Urbanism-Track Geomatics]( https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/)  [Civil-Track Geoscience & Remote Sensing]( https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/)
 代尔夫特理工是欧洲顶尖的理工院校，在工程领域有着悠久的历史与深厚实力。学校中与GIS/RS相关的系所主要有两个：位于建筑学院的Geomatics以及位于土木学院的Geoscience & Remote Sensing. 其中Geomatics归口在建筑学院的urbanism系下面，研究方向与课程设置主要侧重3D Geoinformation, Smart Cities, building environment.而 Geoscience & Remote Sensing. Geomatics的研究方向与课程设置侧重于Remote Sensing与Geodesy在Atmospheric science与Earth system science中的应用。学位项目方面两个部门各提供一个120EC的两年制硕士项目，使学生在专业知识与学术技能训练之间能实现平衡。TUDelft的博士项目通常在4-5年，学制与入学时间都相对自由，但通常要求申请人必须要有硕士学位。
-相关导师 ： 
+相关导师 ：
 Geomatics:
-- **[J.E. Stoter] (https://www.tudelft.nl/staff/j.e.stoter/) **: 3D geoinformation infrastructure, 3D indoor modelling and navigation, data structures and algorithms for 3D modelling; 
+- **[J.E. Stoter] (https://www.tudelft.nl/staff/j.e.stoter/) **: 3D geoinformation infrastructure, 3D indoor modelling and navigation, data structures and algorithms for 3D modelling;
 - **[H. Ledoux](https://www.tudelft.nl/staff/h.ledoux/)**: 3D geographic information system (GIS), computational geometry, 3D modelling, point could modelling and analysis;
 - **[P.J.M. van Oosterom](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/professors/profdrir-pjm-van-oosterom/)**: 3D land administration, spatial information infrastructure;
 Geoscience & Remote Sensing:
@@ -1532,7 +1531,7 @@ ITC的博士申请主要根据下属的六个系进行对应的申请，学制�
 - **[Mark van der Meijde](https://research.utwente.nl/en/persons/mark-van-der-meijde)**: Making the link between remotely sensed surface and subsurface information. Fields of application focus on geophysics, 3D geological modelling, integrating space and airborne (hyperspectral) remote sensing with seismology for geo-hazards and tectonics, and 3D environmental modelling, particularly focussing on detection of natural and man-made hydrocarbon leakages.
 - **[Victor Jetten](https://research.utwente.nl/en/persons/victor-jetten)**: Characterisation of hazard, vulnerability and risk, Effective decision-making in complex and changing risk context, Reducing risk and curbing losses through knowledge-based actions.
 - **[Norman Kerle](https://research.utwente.nl/en/persons/norman-kerle)**: Hazards, risk and disaster damage assessment with multi-type geodata, in addition to landslide research and quantitative geomorphology, frequently with object-oriented analysis methods. Assessment of post-disaster recovery with remtoe sensing image analsyis and macro-economic agent-based modelling.
-- **[C.J. van Westen](https://research.utwente.nl/en/persons/cj-van-westen)**: Landslide hazard and risk, Volcanic hazard and risk assessment, technological risk assessment, developing methods for the analysis of changing multi-hazard risk. 
+- **[C.J. van Westen](https://research.utwente.nl/en/persons/cj-van-westen)**: Landslide hazard and risk, Volcanic hazard and risk assessment, technological risk assessment, developing methods for the analysis of changing multi-hazard risk.
 - **[Menno-Jan Kraak](https://research.utwente.nl/en/persons/menno-jan-kraak)**: Cartography, visualization of geospatial data (with Ormeling), Webcartography, developments and prospects, Exploring Geovisualization.
 - **[Mingshu Wang](https://research.utwente.nl/en/persons/mingshu-wang)**: Urban Informatics, Urban Science, GIScience, Geodata Science, City and Regional Development.
 - **[Andy Nelson](https://research.utwente.nl/en/persons/andy-nelson)**: Spatial and temporal analysis of optical and SAR imagery for crop detection and characterisation, Yield estimation from remote sensing and crop simulation models, The use of spatial and temporal data for crop health applications, Detection and mapping of crop management practices and mapping suitability for best management practices (technology targetting), Applications of remote sensing for crop insurance, Spatial accessibility models, Environmental monitoring with temporal remote sensing data.
@@ -1540,7 +1539,7 @@ ITC的博士申请主要根据下属的六个系进行对应的申请，学制�
 - **[Tiejun Wang](https://research.utwente.nl/en/persons/tiejun-wang)**: Biodiversity mapping and monitoring using satellite remote sensing, Ecological niche modeling, Artificial intelligence techniques, Ecologically relevant information extraction from remotely sensed data, Understanding the impacts of land use and climate change on biodiversity and ecosystem functioning, Guiding biodiversity conservation, and thereby achieving sustainable development goals.
 - **[Louise (Wieteke) Willemen](https://research.utwente.nl/en/persons/louise-wieteke-willemen)**: making quantitative spatial information on ecosystem services available to support multi-objective decision making in agricultural areas, RS-based ecosystem service mapping and monitoring, impact assessments of integrated restoration, and prioritization of investments in land degradation neutrality actions.
 - **[Jaap Zevenbergen](https://research.utwente.nl/en/persons/jaap-zevenbergen)**: Innovative, pro-poor land tools in cooperation with UN Habitat and the World Bank, knowledge on Geo-ICT and land governance has to be brought together to align these technological and institutional aspects.
-- **[Yola Georgiadou](https://research.utwente.nl/en/persons/py-georgiadou)**: How people enact, organize, and institutionalize (or not) geo-information technology in various domains (water, environment, urban and land policy) and how infrastructure (the informational, social and material underpinning of human action) is built, maintained and breaks down. 
+- **[Yola Georgiadou](https://research.utwente.nl/en/persons/py-georgiadou)**: How people enact, organize, and institutionalize (or not) geo-information technology in various domains (water, environment, urban and land policy) and how infrastructure (the informational, social and material underpinning of human action) is built, maintained and breaks down.
 - **[Christiaan (Chrit) Lemmen](https://research.utwente.nl/en/persons/christiaan-chrit-lemmen)**: His research activities are performed in close co-operation with the Land Administration group of Prof. Jaap Zevenbergen. Chrit is one of the editors of the ISO standard on the Land Administration Domain (ISO 19152). This standard includes a specialisation called the Social Tenure Domain Model.
 - **[Karin Pfeffer](https://research.utwente.nl/en/persons/karin-pfeffer)**: Urban infrastructures and infrastructuring, Urban planning support, Urban poverty and spatial inequalities, Mapping and analyzing urban deprivations/slum areas, Urbanisation patterns and processes, Sensorial environment of urban public spaces, Smart urbanism and urban lifestyles, Urban remote sensing, Geo-technologies and digital technologies, Geographic information analysis and spatial knowledge, Participatory mapping/qualitative GIS.
 - **[Richard Sliuzas](https://research.utwente.nl/en/persons/richard-sliuzas)**: The use of geo-spatial technologies in spatial planning for sustainable urban development with an emphasis on issues related to urban informality, urban poverty alleviation and the relationship between spatial planning and disasters.
@@ -1915,14 +1914,3 @@ GIS相关系所：[地理系](https://www.geographie.hu-berlin.de/en/geography_d
 - **[Tobia Lakes](https://www.geographie.hu-berlin.de/de/Members/lakes_tobia)**: Spatial Analysis, Land Use Change and Modelling, Urbanism, Spatial Statistics, Geostatistical Analysis, Geomatics;
 - **[Patrick Hostert](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/patrick_hostert)**: Spatial Analysis, Geographic Information System, Satellite Image Processing, Sustainability, Ecology, Environment, Climate Change and Agriculture, Remote Sensing.
  
-
-
-
-
-
-
-
-
-
-
-
