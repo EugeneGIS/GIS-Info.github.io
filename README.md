@@ -96,6 +96,7 @@
 - [香港城市大学 (CityU)](#香港城市大学)
 - [香港中文大学 (CUHK)](#香港中文大学)
 - [香港大学 (HKU)](#香港大学)
+- [香港浸会大学 ()](#香港浸会大学)
 - [香港理工大学 (PolyU)](#香港理工大学)
 
 #### 新加坡
@@ -1228,8 +1229,11 @@ GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_
 - **[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: Smart Cities and Sustainable Development, Remote Sensing of Urban Environment;
 
 
+### 香港浸会大学 
+TBA
+
 ### 香港理工大学
-** The Hong Kong Polytechnic University (PolyU) **
+**The Hong Kong Polytechnic University (PolyU)**
 
 中国，香港特别行政区，九龙，红磡
 
