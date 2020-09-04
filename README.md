@@ -1,9 +1,9 @@
-# GIS留学指南
+# GIS留学院校指南
 **(更新时间 2020 年 9 月)**
 
 查看往年：[2019年版](https://gis-info.github.io/pages/2019)
 
-联系我们：[作者名单](https://gis-info.github.io/pages/authors)
+联系我们：[作者名单网页版](https://gis-info.github.io/pages/authors)，[作者名单文档版](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/authors.md)
 
 # 本页面尚未完工，完成后会公开发布。当前请勿传播扩散，谢谢！
 
