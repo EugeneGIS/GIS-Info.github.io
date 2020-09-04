@@ -700,18 +700,20 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
-### 德克萨斯大学达拉斯分校
+### 德克萨斯大学达拉斯分校 
+**University of Texas at Dallas (UT Dallas)**
+美国，德克萨斯州，理查德森市
 
-**University of Texas at Dallas ([UT Dallas](https://utdallas.edu/academics/fact-sheets/epps/ms-geospatial-information-sciences/))**
+GIS相关系所：[经济政治与政策科学学院]( https://epps.utdallas.edu/about/programs/geospatial-information-sciences/)
 
-UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前列。 其Ph.D项目涉及学科包括geography, computer science, engineering, geology and various social, policy and applied sciences等诸多方向。
+UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前列。 其GIScience/Computation 和 Spatial Analysis/Statistics方向排名全美第一，是美国地理空间情报局和美国地质调查局指定的17个学术卓越中心之一。其GIS的MS项目和Ph.D项目均由经济政治与政策学院、自然科学与数学学院、工程与计算机科学学院等多学科联合提供，涉及学科包括geography, computer science, engineering, geology and various social, policy and applied sciences等诸多方向，体现了GIS的跨学科融合应用。Master of Science 项目提供两种选择，一种是注重课程和具体应用的授课型硕士，需要在导师指导下完成一个硕士课题并汇报；另一种是课程和研究并重的学术型硕士，需要在导师指导下完成硕士论文。Ph.D项目需要修满75学分，并完成论文答辩等相关要求。
 
 相关导师：
-
-- **May Yuan**: temporal GIS, geographic dynamics, GIS data models and analysis in environmental, ecological, and social problems;
-- **Fang Qiu**: Remote Sensing Digital Image Processing, LIDAR and Hyperspectral Remote Sensing, Neural Network and Fuzzy Logic, Spatial Analysis and Modeling, GIS Application Software Development, Web-based Mapping and Information Processing;
-- **Denis Dean**: artificial intelligence/geospatial analysis techniques, spatial optimization, spatial analysis, spatial statistics;
-- **Daniel Griffith**: spatial statistics; quantitative/urban/economic geography; applied statistics & statistical consulting; research proposal design.
+- **[May Yuan](https://epps.utdallas.edu/about/faculty/may-yuan/index.html)**: temporal GIS; geographic dynamics; GIS data models and analysis in environmental; ecological, and social problems; space-time query; analytics and knowledge discovery;
+- **[Daniel Griffith](https://personal.utdallas.edu/~dag054000/)**: spatial statistics; quantitative/urban/economic geography; applied statistics & statistical consulting; research proposal design;
+- **[Brian Berry](https://brianjlberry.com/)**: spatial analysis of urban economic systems; geography and urban research; economy, society and polity;
+- **[Denis Dean](https://personal.utdallas.edu/~djd081000/)**: spatial optimization; the application of machine learning techniques and ideas to spatial analysis; and accuracy assessment of spatial analysis techniques;
+- **[Fang Qiu](https://personal.utdallas.edu/~ffqiu/)**: Remote Sensing Digital Image Processing; LIDAR and Hyperspectral Remote Sensing; Neural Network and Fuzzy Logic; Spatial Analysis and Modeling; GIS Application Software Development; Web-based Mapping and Information Processing.
 
 ### 德克萨斯州立大学
 
@@ -1341,7 +1343,7 @@ GIS相关系所：[地理学院](https://environment.leeds.ac.uk/geography)
 - **[Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)**:  urban data science; agent-based modelling; spatial cognition; travel and mobility; data visualisation;
 - **[Graham Clarke](https://environment.leeds.ac.uk/geography/staff/1018/professor-graham-clarke)**: geodemographics, public health, retail, urban simulation, accessibility;
 - **[Lex Comber](https://environment.leeds.ac.uk/geography/staff/1020/professor-lex-comber)**: spatial analysis; GeoComputation; land cover / land use; spatial data quality; spatial planning; uncertainty; evidence combination; search heuristics; location-allocation;
-- **[Mark Birkin](https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin) **: spatial analysis and policy, demography, social simulation, retail, public health, microsimulation, agent-based modelling;
+- **[Mark Birkin](https://environment.leeds.ac.uk/geography/staff/1005/professor-mark-birkin)**: spatial analysis and policy, demography, social simulation, retail, public health, microsimulation, agent-based modelling;
 - **[Nick Malleson](https://environment.leeds.ac.uk/geography/staff/1069/dr-nick-malleson)**: agent-based modelling; crime modelling; city simulation;
 - **[Nik Lomax](https://environment.leeds.ac.uk/geography/staff/1064/dr-nik-lomax)**: demography; population projection; microsimulation; internal migration; international migration; consumer demand modelling;
 - **[Steve Carver](https://environment.leeds.ac.uk/geography/staff/1013/dr-steve-carver)**: Wilderness; Wildland; Rewilding; Landscape evaluation; GIS; spatial analysis; environmental modelling; participatory GIS.
@@ -1350,7 +1352,19 @@ GIS相关系所：[地理学院](https://environment.leeds.ac.uk/geography)
 TBA
 
 ### 曼彻斯特大学
-TBA
+**The University of Manchester (UoM)**
+英国，曼彻斯特市 
+
+GIS相关系所：[环境，教育与发展学院](https://www.seed.manchester.ac.uk/geography/)
+
+地信专业侧重地理信息系统和遥感方面的理论、软件知识学习，在各种专业领域的空间数据分析，以及在GIS项目中的广泛应用。
+
+相关导师：
+- **[Jonny Huck](https://www.research.manchester.ac.uk/portal/en/researchers/jonny-huck(815ff89f-b2ac-4758-8e7a-e7b8d4ac32ce).html)**:Mathematical geography. Cartography,Geography (General);
+- **[Claire Goulsbra](https://www.research.manchester.ac.uk/portal/en/researchers/claire-goulsbra(f32116aa-65da-4df3-8bec-f0a4db559f00).html)**:the hydrology and geomorphology of the South Pennine peatlands,carbon losses from eroding peatland systems;
+- **[Angela Harris](https://www.research.manchester.ac.uk/portal/en/researchers/angela-harris(f1103ce3-8a6f-4780-a1f1-6396618a4f53).html)**:Remote Sensing, Ecology, Peatlands, Vegetation;
+- **[Sarah Lindley](https://www.research.manchester.ac.uk/portal/en/researchers/sarah-lindley(776b25e7-0fea-4c46-9f53-eb86c150705e).html)**:Geography's Environmental Processes,Urban and Regional Ecology;
+
 
 ### 格拉斯哥大学
 
