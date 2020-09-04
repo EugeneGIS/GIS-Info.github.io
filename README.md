@@ -184,7 +184,7 @@
 
 GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 
-丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography（详情请点这里）。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
+丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
 
 相关导师：
 - **[Paul Sutton](https://science.du.edu/about/faculty-directory/paul-sutton-archived)**: sustainability science, ecological economics, urbanization science, and population geography;
