@@ -3,18 +3,17 @@
 
 查看往年：[2019年版](https://gis-info.github.io/pages/2019)
 
+联系我们：[作者名单](https://gis-info.github.io/pages/authors)
+
 # 本页面尚未完工，完成后会公开发布。当前请勿传播扩散，谢谢！
 
-本项目2019年9月发起成立，目的是提供及时且全面的GIS留学选校信息。提供院校信息的[作者](https://gis-info.github.io/pages/authors)来自于世界各地GIS专业名校，均为在读学生、已毕业校友、或年轻老师，主要围绕学校项目和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。
+本项目2019年9月发起成立，目的是提供及时且全面的GIS留学选校信息。院校信息的提供人来自世界各地GIS专业名校，均为在读学生、近期毕业校友、或青年教师，主要围绕学校项目和导师提供第一手的信息。因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国选校提供帮助和支持。
 
-本文长期更新，欢迎更多的有志者一同参与和维护这个项目（[联系我们](https://gis-info.github.io/pages/about)），未来会不断添加和更新相关的资料。在此也特别感谢所有作者的辛苦付出！由于时间和精力所限，难免有不足，还望大家多多包容。同时希望有更多的同学能参与其中，未来将长期更新，期望提供更多的信息！若有建议和补充，欢迎在[issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言。
+本文长期更新，欢迎更多的有志者一同参与和维护这个项目，未来会不断添加和更新相关的资料。在此也特别感谢所有作者的辛苦付出！由于时间和精力所限，难免有不足，还望大家多多包容。同时希望有更多的同学能参与其中，未来将长期更新，期望提供更多的信息！若有建议和补充，欢迎在[Issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言。
 
-此外，我们组织了两个微信群：  
-一个是GIS海外留学群，主要针对有意向出国留学的同学；  
-另一个是GIS海外志愿者和交流群（需验证身份），为海外GIS学者学生交流提供平台。  
-欢迎大家按需加入讨论。
+此外，我们组织了两个微信群：一个是GIS海外留学群，主要针对有意向出国留学的同学；另一个是GIS海外志愿者和交流群（需验证身份），为海外GIS学者学生交流提供平台。欢迎大家按需加入讨论。
 
-官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)或[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich)，或通过邮件[联系我们](https://gis-info.github.io/pages/about)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
+官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)或[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich)，或通过邮件[联系我们](https://gis-info.github.io/pages/authors)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
 
 本文中各个学校顺序不分先后,如果需要了解学校的综合排名等情况，请查询Times, QS, USNews, ARWU等大学排名以及各个大学的官网。
 
@@ -103,7 +102,6 @@
 - [新加坡国立大学(NUS)](#新加坡国立大学)
 
 #### 澳大利亚
-- [墨尔本大学()](#墨尔本大学)
 - [阿德莱德大学 (UAdel)](#阿德莱德大学)
 - [西澳大利亚大学 (UWA)](#西澳大利亚大学)
 - [科廷大学 (Curtin)](#科廷大学)
@@ -185,7 +183,7 @@
 
 GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 
-丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
+丹佛大学始建于1864年，是科罗拉多州建校最早的一所私立大学。该校地理与环境系（Department of Geography and the Environment）到今年（2020）已有75年历史。该系自然地理，环境科学，GIS/RS，人文地理等教学与科研方向齐全。GIS主要有两个硕士项目和一个博士项目：MS GIS，MS GIS (Online)，PhD Geography（详情请点这里）。MS GIS是传统的硕士项目，课程多为面授；MS GIS (Online)主要面向已经从业但需要继续学习的学生，全部课程可在线修读。已取得硕士学位的同学可申请PhD Geography项目，跟随GIS方向导师继续深造。GIS/RS相关课程有cartography, spatial statistics, remote sensing, environmental/GIS modeling, ecological economics, spatial database, geovisualization, web GIS等。丹佛是美国西南部的交通枢纽和信息产业中心城市，很多GIS相关的联邦机构（USGS，USDA）和大公司（ESRI）都在此设有分部，DU很多毕业生在这些机构就业，因此GIS学生的实习机会很多。另外，丹佛地处美国中部大平原和落基山脉过渡地带，海拔1600米以上，昵称The Mile High City，全年晴天天数300+，附近有很多国家公园和滑雪胜地。
 
 相关导师：
 - **[Paul Sutton](https://science.du.edu/about/faculty-directory/paul-sutton-archived)**: sustainability science, ecological economics, urbanization science, and population geography;
@@ -195,9 +193,10 @@ GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 - **[Steven Hick](http://portfolio.du.edu/shick)**: GIS, GPS, crime mapping and analysis.
 
 ### 乔治梅森大学
-** George Mason University (GMU) **
+**George Mason University (GMU)**
 
 美国，弗吉尼亚州，费尔法克斯市
+
 GIS相关系所：[地理与地理信息科学系](https://science.gmu.edu/academics/departments-units/geography-geoinformation-science)
 
 乔治梅森大学是美国的一所公立高校，距离华盛顿DC只有三十分钟，其地理系具有强劲的地理信息计算科学和数据科学的实力。该系的硕士研究生项目有三类，包含地理信息系统，地球科学，和地理与制图学三个方向的硕士学位。博士生项目只有一个：地球系统与地理信息科学博士学位，本科毕业生也可以申请。所有研究生项目都是STEM，所以OPT可以延长到三年。
@@ -219,9 +218,7 @@ GIS相关系所：[地理与地理信息科学系](https://science.gmu.edu/acade
 
 GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 
-亚利桑那州立大学地理与城市规划系在空间分析、空间统计、城市气象学等方面实力强劲。目前有三名美国科学院院士。主要研究方向下分为三个研究中心 [SPARC 空间分析中心] (https://sgsup.asu.edu/SPARC) , [CGDC 全球发现与保护科学中心](https://gdcs.asu.edu)  和 [UCRC 城市气候研究中心](https://sustainability.asu.edu/urban-climate/) 。
-
-GIS相关项目包括[研究性硕士和PhD]( https://sgsup.asu.edu/degree-programs/graduate-degrees/phd-geography), 以及[授课型硕士 (1 – 2年, STEM)]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis)
+亚利桑那州立大学地理与城市规划系在空间分析、空间统计、城市气象学等方面实力强劲。目前有三名美国科学院院士。主要研究方向下分为三个研究中心 [SPARC 空间分析中心](https://sgsup.asu.edu/SPARC)、[CGDC 全球发现与保护科学中心](https://gdcs.asu.edu) 和 [UCRC城市气候研究中心](https://sustainability.asu.edu/urban-climate/) 。GIS相关项目包括[研究性硕士和PhD]( https://sgsup.asu.edu/degree-programs/graduate-degrees/phd-geography), 以及[授课型硕士]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis) (1 – 2年, STEM)。
 
 相关导师 ：
 - **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
@@ -271,6 +268,7 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 
 ### 佛罗里达大学
 **University of Florida (UFL)**
+
 美国，佛罗里达州，盖恩斯维尔市
 
 GIS相关系所：[地理系](https://geog.ufl.edu)
@@ -298,7 +296,7 @@ TBA
 
 GIS相关系所：[地理系](https://geography.osu.edu/)
 
-俄亥俄州立大学的地理系国际学生占比很高，要谈到对OSU地理系的第一印象，脑子里的第一个关键词是diverse，国际学生占比很高。据不完全统计，中国学生在研究生中占比高达约30%。而且国际学生的比例也是呈现逐年增高趋势（2020-2021年可能除外）。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年（可能少于或多于这个时间），研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作，但是可能对国际生来说比较少见；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案还是更倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。系里的资助机会很充足，大部分（95%以上）的研究生都有助学金，分为TA和RA；系里每年一般还会有一个名额的来自学校资助的全额奖学金（fellowship）；另外，系里、学校会有一些奖学金用来资助学生开会或者进行不同方向的研究等，整体来说，给博士的各类奖学金机会比硕士多一些。该系人文地理做得好的教授较多（虽然做人文的中国学生比较少），GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
+俄亥俄州立大学的地理系国际学生占比很高，是一个diverse的系。据不完全统计，中国学生在研究生中占比约为30%。而且国际学生的比例也是呈现逐年增高趋势（2020-2021年可能除外）。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年（可能少于或多于这个时间），研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作，但是可能对国际生来说比较少见；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案还是更倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。系里的资助机会很充足，大部分（95%以上）的研究生都有助学金，分为TA和RA；系里每年一般还会有一个名额的来自学校资助的全额奖学金（fellowship）；另外，系里、学校会有一些奖学金用来资助学生开会或者进行不同方向的研究等，整体来说，给博士的各类奖学金机会比硕士多一些。该系人文地理做得好的教授较多（虽然做人文的中国学生比较少），GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
 
 相关导师:
 - **[Ningchuan Xiao](https://geography.osu.edu/people/xiao.37)**: WebGIS, GIS algorithms, visualization
@@ -362,7 +360,7 @@ GIS相关系所：[地理系]( https://geog.okstate.edu/)
 
 GIS相关系所：[地理系](https://geography.uoregon.edu)
 
-俄勒冈大学地理系是该校历史最为悠久的院系之一，原与地质系同一学院，后于1957年独立成系。美国地理学家协会前任主席Alex Murphy和现任主席Amy Lobben皆在此任教。该系以人文地理、地图制图学和空间认知等方向著称，近年来大力发展GIScience和空间数据科学，包括空间分析和空间统计方向。除了传统的地理学学位，其还提供空间数据科学与技术（Spatial Data Science & Technology）的本科学位。本科毕业生可申请该系2年的硕士项目，硕士毕业生可申请4-5年的博士项目。值得注意的是，申请该系的博士项目需具有硕士学位。 系里鼓励在UO完成硕士学位的学生继续攻读博士学位（3-4年时间）。该系对所有被录取的研究生申请者以助研、助教或者其他工作岗位的形式提供奖学金。特别优秀的申请者，系里还会帮着申请学校的奖学金，如[Raymund Fellowship](https://gradschool.uoregon.edu/funding/awards/raymund-fellows)和[Promising Scholar Award](https://gradschool.uoregon.edu/funding/awards/promising-scholar-award).
+俄勒冈大学地理系是该校历史最为悠久的院系之一，原与地质系同一学院，后于1957年独立成系。美国地理学家协会前任主席Alex Murphy和现任主席Amy Lobben皆在此任教。该系以人文地理、地图制图学和空间认知等方向著称，近年来大力发展GIScience和空间数据科学，包括空间分析和空间统计方向。除了传统的地理学学位，其还提供空间数据科学与技术（Spatial Data Science & Technology）的本科学位。本科毕业生可申请该系2年的硕士项目，硕士毕业生可申请4-5年的博士项目。值得注意的是，申请该系的博士项目需具有硕士学位。 系里鼓励在UO完成硕士学位的学生继续攻读博士学位（3-4年时间）。该系对所有被录取的研究生申请者以助研、助教或者其他工作岗位的形式提供奖学金。特别优秀的申请者，系里还会帮着申请学校的奖学金，如[Raymund Fellowship](https://gradschool.uoregon.edu/funding/awards/raymund-fellows)和[Promising Scholar Award](https://gradschool.uoregon.edu/funding/awards/promising-scholar-award)。
 
 相关导师：
 
@@ -399,18 +397,17 @@ GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonsta
 
 ### 克拉克大学
 **Clark University (Clark)**
+
 美国，马萨诸塞州，伍斯特
 
 GIS相关系所：[地理系](https://www.clarku.edu/departments/geography/)
 
-克拉克大学以地理学和心理学最为著名。
+克拉克大学的地理系是美国最早授予地理学研究生学位的地理系之一，并在一定程度上可视为已解散的哈佛大学地理系的继承者。著名地图制图学家Richard Harrison（美国制图学院系第一次大发展的引领人）和Erwin Raizs（世界上第一本地图学教材《制图学基础》的作者）曾在此任教。该系研究生项目有MS和PhD。其中MS项目是和该校的[国际发展、建设和环境系](https://www.clarku.edu/schools/idce/)合作开设，主要方向就是GIS。
 
 相关导师：
 
 - **[J. Ronald Eastman](https://www2.clarku.edu/faculty/facultybio.cfm?id=61)**: GIS, earth system informatics, conservation GIS, remote sensing, and cartography;
-
 - **[John Rogan](https://www2.clarku.edu/faculty/facultybio.cfm?id=460)**: landscape ecology, fire ecology, optical remote sensing and GIScience;
-
 - **[Florencia Sangermano](https://www2.clarku.edu/faculty/facultybio.cfm?id=896&progid=15)**: conservation biology, GIS, remote sensing and landscape ecology.
 
 ### 加州大学圣巴巴拉分校
@@ -421,7 +418,7 @@ GIS相关系所：[地理系](https://www.clarku.edu/departments/geography/)
 
 GIS相关系所: [地理系](https://geog.ucsb.edu/)
 
-UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Center for Geographic Information and Analysis)三校之一，退休的著名教授包括地理学第一定律提出者[Waldo Tobler](https://en.wikipedia.org/wiki/Waldo_R._Tobler)教授，美国国家科学院院士[Michael Goodchild](http://www.geog.ucsb.edu/~good/Goodchild-CV.html)教授，空间优化和区域科学学家[Richard Church](http://www.geog.ucsb.edu/~forest/RLC/Index.html)教授，GIS和空间认知学家[Helen Couclelis](http://geog.ucsb.edu/archive/people/faculty_members/couclelis_helen.htm)教授。UCSB NCGIA在1988年建立，Michael Goodchild 教授任第一任中心主任，是[UCSB Center for Spatial Studies (spatial@ucsb)](http://spatial.ucsb.edu/) (2007-)的前身，目前 spatial@ucsb 的中心主任是Krzysztof Janowicz教授。目前UCSB地理系提供硕士和博士项目，本科毕业的学生可以申请2年的MA和2+3的硕博连读项目(MA/PhD)，硕士毕业的同学可申请5年博士项目，历届地理录取的GRE和GPA分数统计可见: [https://geog.ucsb.edu/admission-stats/](https://geog.ucsb.edu/admission-stats/)。UCSB地理系教授研究领域包括Geospatial Semantic and Knowledge Graph, Social Sensing and Urban Computing, GeoAI, Transportation and Traffic management, Mobility Study, Spatial Optimization, Cartography, Climate Change, Remote Sensing, Land Use and Land Cover Change等.
+UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Center for Geographic Information and Analysis)三校之一，退休的著名教授包括地理学第一定律提出者[Waldo Tobler](https://en.wikipedia.org/wiki/Waldo_R._Tobler)教授，美国国家科学院院士[Michael Goodchild](http://www.geog.ucsb.edu/~good/Goodchild-CV.html)教授，空间优化和区域科学学家[Richard Church](http://www.geog.ucsb.edu/~forest/RLC/Index.html)教授，GIS和空间认知学家[Helen Couclelis](http://geog.ucsb.edu/archive/people/faculty_members/couclelis_helen.htm)教授。UCSB NCGIA在1988年建立，Michael Goodchild 教授任第一任中心主任，是[UCSB Center for Spatial Studies (spatial@ucsb)](http://spatial.ucsb.edu/) (2007-)的前身，目前 spatial@ucsb 的中心主任是Krzysztof Janowicz教授。目前UCSB地理系提供硕士和博士项目，本科毕业的学生可以申请2年的MA和2+3的硕博连读项目(MA/PhD)，硕士毕业的同学可申请5年博士项目，历届地理录取的GRE和GPA分数统计可见: [https://geog.ucsb.edu/admission-stats/](https://geog.ucsb.edu/admission-stats/)。UCSB地理系教授研究领域包括：Geospatial Semantic and Knowledge Graph, Social Sensing and Urban Computing, GeoAI, Transportation and Traffic management, Mobility Study, Spatial Optimization, Cartography, Climate Change, Remote Sensing, Land Use and Land Cover Change等。
 
 相关导师：
 
@@ -436,11 +433,13 @@ UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Cen
 
 ###  华盛顿大学
 **University of Washington (UW)**
+
 美国，华盛顿州，西雅图市
 
 GIS相关系所：[地理系](https://geography.washington.edu/)
 
-华大地理系是Critial GIS/Geography的基地，人文地理及理论研究实力强劲。这边申请比较特别，要求必须与至少两位Faculty联系并获得对方支持（但实际上你只有一个主导师，建议先套主导师套上后再让对方推荐其他老师进一步联系）——弱委员会，导师意见非常重要。除[一年制针对就业的GIS项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=661)外，华大地理系的[2年制硕士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=48)和[4-5年制（没有野外考察的话是4年）博士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=219)是完全独立的，不能直接申请硕博连读，且博士项目原则上要求申请者具有地理学相关硕士学位。博士进来必有四年TA/RA保底（暑期得自己找RA或博士后两年自己开暑期课），Phd前两年是中档工资，每月2500+。硕博的必修课包括当代地理思想，当代地理研究设计，三个quaters的地理研讨会，此外至少选一门计量方法课，可选范围包括计量地理、GIS分析、城市GIS、海岸GIS、GIS决策支持系统。
+华大地理系是Critial GIS/Geography的基地，人文地理及理论研究实力强劲。历史上，引领地图学计算机化潮流的John Sherman和发起了“地理学计量化变革”的William Garrison曾在此任教。这边申请比较特别，要求必须与至少两位Faculty联系并获得对方支持（但实际上你只有一个主导师，建议先套主导师套上后再让对方推荐其他老师进一步联系）——弱委员会，导师意见非常重要。除[一年制针对就业的GIS项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=661)外，华大地理系的[2年制硕士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=48)和[4-5年制（没有野外考察的话是4年）博士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=219)是完全独立的，不能直接申请硕博连读，且博士项目原则上要求申请者具有地理学相关硕士学位。博士进来必有四年TA/RA保底（暑期得自己找RA或博士后两年自己开暑期课），PhD前两年是中档工资，每月2500+。硕博的必修课包括当代地理思想，当代地理研究设计，三个quaters的地理研讨会，此外至少选一门计量方法课，可选范围包括计量地理、GIS分析、城市GIS、海岸GIS、GIS决策支持系统。
+
 相关导师：
 - **[Bo Zhao](https://hgis.uw.edu/)**：Big Data, Geographic Information Systems, Geovisualization, Mapping Science and Technology, Social Media, Cartography, Mininformation
 -  **[Sarah Elwood](https://geography.washington.edu/people/mark-ellis)**：Geographic, Information Systems, Geovisualization, Justice, Mapping, Poverty Social
@@ -478,7 +477,7 @@ GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
 
 GIS 相关系所：[地理系](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/index.php)
 
-南卡罗来纳大学地理系综合实力强劲。教职员工研究领域覆盖人文地理，自然灾害，遥感，社会感知，深度学习等。John R. Jensen, David J. Cowen曾在此任教。该系GIS专业招收硕士和博士。博士生需要有硕士文聘（thesis based）。该系的GIS课程主要包含空间分析，气象水文，灾害管理，遥感科学与技术，空间大数据，网络GIS，LiDAR信息技术，无人机数据处理等。
+南卡罗来纳大学地理系综合实力强劲。教职员工研究领域覆盖人文地理，自然灾害，遥感，社会感知，深度学习等。遥感界教育家、畅销书作者John R. Jensen和著名的GIS教育、应用和科普专家David J. Cowen曾在此任教。该系GIS专业招收硕士和博士。博士生需要有硕士学位（thesis based）。该系的GIS课程主要包含空间分析，气象水文，灾害管理，遥感科学与技术，空间大数据，网络GIS，LiDAR信息技术，无人机数据处理等。
 
 相关导师：
 - **[Cuizhen Wang](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: environmental Remote Sensing, spatial analysis;
@@ -533,7 +532,7 @@ TBA
 
 GIS相关系所：[地理系](https://geography.wisc.edu/)
 
-威斯康辛麦迪逊地理系历史悠久，在人文地理，空间分析，地图学等方面实力强劲，Yi-Fu Tuan、Arthur Robinson曾在此任教。该系GIS主要有两个项目，传统项目主要针对走学术道路的学生，本科毕业申请可修2年硕士+3年博士，硕士毕业申请可修4年博士；另外还有个一年制的授课型项目，主要针对计划就业的学生。其GIS项目主要包含cartography, spatial analysis, geospatial big data analysis等课程。
+威斯康辛麦迪逊地理系历史悠久，在人文地理，空间分析，地图学等方面实力强劲，著名华裔地理学家Yi-Fu Tuan (段义孚) 和制图学家Arthur Robinson曾在此任教。该系GIS主要有两个项目，传统项目主要针对走学术道路的学生，本科毕业申请可修2年硕士+3年博士，硕士毕业申请可修4年博士；另外还有个一年制的授课型项目，主要针对计划就业的学生。其GIS项目主要包含cartography, spatial analysis, geospatial big data analysis等课程。
 
 相关导师：
 
@@ -542,7 +541,7 @@ GIS相关系所：[地理系](https://geography.wisc.edu/)
 - **[Qunying Huang](https://geography.wisc.edu/gis/staff/huang-qunying/)**: high performance computing; natural hazards; social media data analytics;
 - **[Robert Roth](https://geography.wisc.edu/cartography/people/Roth.html)**: cartography, story map, WebGIS.
 - **[Christian Andresen](http://www.christiangandresen.com/)**: arctic ecosystems, remote sensing, surface hydrology, wetlands, environmental change, carbon cycling, geospatial analytics, LiDAR, photogrammetry, unmanned aerial systems;
-- **[John W. (Jack) Williams](https://williamspaleolab.github.io)**: paleoecology, paleoclimatology, novel ecosystems, vegetation dynamics, global climate change, quaternary environments;
+- **[John W. (Jack) Williams](https://williamspaleolab.github.io)**: paleoecoinformatics, geo-cyberinfrastructure, paleoecology, paleoclimatology, novel ecosystems, vegetation dynamics, global climate change, quaternary environments;
 
 ### 宾夕法尼亚大学
 
@@ -550,7 +549,7 @@ GIS相关系所：[地理系](https://geography.wisc.edu/)
 
 美国，宾夕法尼亚州，费城
 
-GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)、[设计学院]( https://www.design.upenn.edu/) 联合项目
+GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)和[设计学院]( https://www.design.upenn.edu/) 联合项目
 
 宾夕法尼亚大学城市研究所和设计学院联合提供城市空间分析硕士（MUSA）学位，该学位为9个月授课型硕士，核心课程包括5门GIS和空间分析课程、2门城市学课程以及1门选修课。学生需要完成一项毕业课题。对于GIS基础薄弱的新生，学校会在秋季学期开学之前提供一门GIS入学培训课程。
 
@@ -567,7 +566,7 @@ GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)、[设计学�
 
 GIS相关系所：[地理系](https://www.geog.psu.edu/)
 
-宾夕法尼亚州立大学是美国的顶尖公立高校，其地理系具有强劲的综合实力，包含地理信息系统，自然地理，人文地理，自然与社会关系四个方向。该系的非网课研究生项目有三类，本科毕业可以申请 2年硕士，或者2年硕士+3年博士，硕士毕业申请可修4年博士。博士项目只要申请成功，系里会负责四年的学费（提供RA或者TA职位）。另外还有一个硕士项目Master of Geographic Information Systems（MGIS），是world campus的online program，主要针对于已工作人士，但毕业证和resident program的毕业证并没有任何区别。该系提供的毕业证目前为止非STEM，因此OPT只有一年，通常国际学生会选择enroll之后读一个dual degree (双学位)，只要另外一个学位是STEM，OPT就可以延长到三年，具体信息详见[官网]（https://www.geog.psu.edu/degree-programs/graduate-degrees/interdisciplinary-programs）。
+宾夕法尼亚州立大学是美国的顶尖公立高校，其地理系具有强劲的综合实力，包含地理信息系统，自然地理，人文地理，自然与社会关系四个方向。该系的非网课研究生项目有三类，本科毕业可以申请 2年硕士，或者2年硕士+3年博士，硕士毕业申请可修4年博士。博士项目只要申请成功，系里会负责四年的学费（提供RA或者TA职位）。另外还有一个硕士项目Master of Geographic Information Systems（MGIS），是world campus的online program，主要针对于已工作人士，但毕业证和resident program的毕业证并没有任何区别。该系提供的毕业证目前为止非STEM，因此OPT只有一年，通常国际学生会选择enroll之后读一个dual degree (双学位)，只要另外一个学位是STEM，OPT就可以延长到三年，具体信息详见[官网](https://www.geog.psu.edu/degree-programs/graduate-degrees/interdisciplinary-programs)。
 
 相关导师：
 
@@ -586,7 +585,7 @@ GIS相关系所：[地理系](https://www.geog.psu.edu/)
 
 GIS相关系所：[环境和可持续发展学院](https://seas.umich.edu/)
 
-历史上，密歇根大学是美国制图学传统名校之一，是Waldo Tobler的母校。目前，该校的School for Environment and Sustainability开设有环境生态相关的Environmental Informatics硕士项目，该项目的宗旨是运用GIS、遥感及空间分析来检测和研究生态环境；博士项目中有Resource Ecology Management方向可与该方向结合。主要的课程和科研内容包括：environmental spatial data analysis, GIS and natural resource applications, GIS in landscape modeling, environmental remote sensing。硕士项目为2年制，博士一般需要4到5年。此外在攻读该硕士的同时，还可选择2.5年的能源工程硕士、3年的城市规划硕士、3年的MBA以及4年的法学博士等一些双学位计划。
+历史上，密歇根大学是美国制图学传统名校之一，是地理学第一定律提出者Waldo Tobler的母校。目前，该校的环境和可持续发展学院（SEAS）开设有环境生态相关的Environmental Informatics硕士项目，该项目的宗旨是运用GIS、遥感及空间分析来检测和研究生态环境；博士项目中有Resource Ecology Management方向可与该方向结合。主要的课程和科研内容包括：environmental spatial data analysis, GIS and natural resource applications, GIS in landscape modeling, environmental remote sensing。硕士项目为2年制，博士一般需要4到5年。此外在攻读该硕士的同时，还可选择2.5年的能源工程硕士、3年的城市规划硕士、3年的MBA以及4年的法学博士等一些双学位计划。
 
 相关导师：
 - **[Runzi Wang]( https://seas.umich.edu/research/faculty/runzi-wang
@@ -606,7 +605,6 @@ GIS相关系所：[环境和可持续发展学院](https://seas.umich.edu/)
 
 
 ### 密歇根州立大学
-
 **Michigan State University (MSU)**
 
 美国，密歇根州，东兰辛
@@ -688,7 +686,6 @@ GIS相关系所：[地理系](https://geography.tamu.edu/)
 - **[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
 
 ### 德克萨斯大学奥斯汀分校
-
 **University of Texas at Austin (UT Austin)**
 
 美国，德克萨斯州，奥斯汀市
@@ -703,9 +700,10 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots Remote Sensing, Land Change Science, & Healthy Socio-ecological Systems in Developing States;
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, Movement pattern analysis, Spatial statistics, Biogeography.
 
-### 德克萨斯大学达拉斯分校 
+### 德克萨斯大学达拉斯分校
 **University of Texas at Dallas (UT Dallas)**
-美国，德克萨斯州，理查德森市
+
+美国，德克萨斯州，理查德森市（达拉斯北部）
 
 GIS相关系所：[经济政治与政策科学学院]( https://epps.utdallas.edu/about/programs/geospatial-information-sciences/)
 
@@ -743,9 +741,9 @@ GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
 
 美国，新墨西哥州，阿尔伯克基
 
-GIS相关系所：[地理与环境研究系 geography and environmental studies](https://geography.unm.edu/)
+GIS相关系所：[地理与环境研究系](https://geography.unm.edu/)
 
-美国新墨西哥大学地理与环境研究系提供博士和硕士学位，博士项目由新墨西哥大学地理与环境研究系(The Department of Geography and Environmental Studies at the University of New Mexico)和 **新墨西哥州立大学** 地理系（The Department of Geography at New Mexico State University）合作提供，学生可以在两所院所获得学术资源支持。研究生可从两个项目（Plan Ⅰ，Plan Ⅱ）中选择。Plan Ⅰ注重学术培养，要求学生以论文答辩（thesis defense）形式毕业，Plan Ⅱ则偏向技能培养，要求学生完成一项独立项目（Master’s Project）。
+美国新墨西哥大学地理与环境研究系提供博士和硕士学位，博士项目由新墨西哥大学地理与环境研究系(The Department of Geography and Environmental Studies at the University of New Mexico)和 **新墨西哥州立大学** [地理系](https://geography.nmsu.edu/)（位于该州南部的拉斯克鲁塞斯）合作提供，学生可以在两所院所获得学术资源支持。研究生可从两个项目（Plan Ⅰ，Plan Ⅱ）中选择。Plan Ⅰ注重学术培养，要求学生以论文答辩（thesis defense）形式毕业，Plan Ⅱ则偏向技能培养，要求学生完成一项独立项目（Master’s Project）。
 GIS所涉及的研究领域包括Geospatial Data Science, Cartography, Geovisualization, Remote Sensing, GeoAI, Health GIS等，ASPIRE研究中心 (Center for the Advancement of Spatial Informatics Research and Education)，与Sandia 国家实验室，Los Alamos国家实验室有合作交流机会。
 
 相关导师：
@@ -824,7 +822,7 @@ GIS 相关系所：[地理系](https://geography.utk.edu)
 
 GIS相关系所：[地理系](https://www.colorado.edu/geography/)
 
-科罗拉多大学波尔德分校是科罗拉多大学的旗舰校区，位于落基山脚下，临近落基山国家公园，是美国地质调查局（USGS）所在地，因此该校的地质、地理等学科为优势学科。地理系可以授予硕士和博士学位，自然地理为强项，也有许多GIS相关的科研机会，Babs Buttenfield（著名的地图学教育家、UCGIS及美国测绘协会ACSM的终身fellow）任教于此。
+科罗拉多大学波尔德分校是科罗拉多大学的旗舰校区，位于落基山脚下，临近落基山国家公园，是美国地质调查局（USGS）所在地，因此该校的地质、地理等学科为优势学科。地理系可以授予硕士和博士学位，自然地理为强项，也有许多GIS相关的科研机会，Babs Buttenfield（著名的地图学教育家、UCGIS及美国测绘协会ACSM的终身会士）任教于此。
 
 相关导师：
 - **[Guofeng Cao](http://www.spatstat.com/)**: spatial data science, uncertainty, machine learning
@@ -869,28 +867,26 @@ GIS相关系所：[地理系](http://www.buffalo.edu/cas/geography.html)
 相关导师：
 
 地理信息科学方向：
-
 - **[Yingjie Hu 胡英杰](http://www.buffalo.edu/cas/geography/faculty/faculty_directory.host.html/content/shared/cas/geography/faculty-staff/faculty-profiles/hu-yingjie.html)**: Geospatial artificial intelligence; Spatial data mining; Geographic informational retrieval;
 - **[Le Wang 王乐](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html)**: Remote sensing; Forest characterization; Environment modeling; Land cover and land use change; Urban population estimation; Invasive species modeling;
 - **[Ling Bian 卞玲](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/ling-bian.html)**: Individual-based epidemiological modeling; Inter-operable environmental models;
 
 空间统计方向：
-
 - **[Jared Aldstadt](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/jared-aldstadt.html)**: Medical geography; Spatial epidemiology; Spatiotemporal analysis;
 - **[Peter A. Rogerson](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/peter-a--rogerson.html)**: Spatial statistics; Dynamic migration modeling; Demographic forecasting; Mathematical modeling;
 - **[Eun-Hye Enki Yoo](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/eun-hye-enki-yoo.html)**: Geostatistics; Spatial statistics; Public health and environmental modeling; Spatial hedonic modeling; Uncertainty analysis;
 
 自然地理方向：
-
 - **[Adam Wilson]( http://www.buffalo.edu/cas/geography/faculty/faculty_directory/Adam-Wilson.html)**: Geostatistics; Spatial statistics; Public health and environmental modeling; Spatial hedonic modeling; Uncertainty analysis;
 
 自2020年秋季起，**[Andrew Crooks](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/andrew-crooks.html)** 加盟本系，研究方向Geocomputation, Agent-based modeling, Social Network Analysis, Urban Geography, Computational Social Science。
 
-### 缅因大学 
+### 缅因大学
 **University of Maine**
+
 美国，缅因州，奥朗诺
 
-GIS相关系所：[计算信息科学学院] (https://umaine.edu/scis/)
+GIS相关系所：[计算信息科学学院](https://umaine.edu/scis/)
 
 缅因大学地理系历史悠久，是美国三大地理分析中心（National Center for Geographic Information and Analysis，NCGIA）之一。在空间分析和GIS可视化方面尤为突出，Max Egenhofer在此任教。缅因大学GIS项目在计算机信息科学学院，有许多计算机课程可供选择。该系主要有两个项目，Information Systems硕士偏向于就业，Spatial Information Science and Engineering偏向于学术科研。该系硕士博士一般都可以拿到TA或者GRA位置。其GIS核心课程包括 Spatial Analysis, Spatial Interaction Design，Spatial Database Systems等课程。
 
@@ -924,8 +920,7 @@ spatial learning and navigation;
  - **[Alex Haberlie](https://www.lsu.edu/ga/people/faculty/alex-haberlie/index.php)**: remote sensing, machine learning, climate changes
 
 ### 阿拉斯加大学费尔班克斯分校
-
- **University of Alaska Fairbanks (UAF)**
+ **University of Alaska, Fairbanks (UAF)**
 
  美国，阿拉斯加州，费尔班克斯
 
@@ -965,7 +960,8 @@ spatial learning and navigation;
 
 ### 雪城大学
 **Syracuse University (SU)**
-美国，纽约州，雪城市  
+
+美国，纽约州，雪城市 (锡拉丘茨)
 
 GIS相关系所：[地理系](https://www.maxwell.syr.edu/geography-and-the-environment/)
 
@@ -973,11 +969,10 @@ GIS相关系所：[地理系](https://www.maxwell.syr.edu/geography-and-the-envi
 授课班级规模很小，多是10人左右的小班，招生规模也较小，每年招生的规模在硕博一起5人左右（其中自然地理/GIS应用 1-2 人左右）
 
 相关导师 ：
-[Peng Gao](http://pegao.expressions.syr.edu/): Erosion and sediment transport in rivers and watersheds, 3D GIS design and analysis for urban environments
-
-[Jane Read](https://www.maxwell.syr.edu/geo/Read,_Jane_M_/): Geographic information systems and remote sensing, human-environment interactions, geohumanities, indigenous livelihoods, Latin America
-
-[Jonnell Robinson](https://www.maxwell.syr.edu/geo/Robinson,_Jonnell_A_/)Community geography, participatory geographic information systems (GIS)
+- **[Peng Gao](http://pegao.expressions.syr.edu/)**: Erosion and sediment transport in rivers and watersheds, 3D GIS design and analysis for urban environments
+- **[Jane Read](https://www.maxwell.syr.edu/geo/Read,_Jane_M_/)**: Geographic information systems and remote sensing, human-environment interactions, geohumanities, indigenous livelihoods, Latin America
+- **[Jonnell Robinson](https://www.maxwell.syr.edu/geo/Robinson,_Jonnell_A_/)**: Community geography, participatory geographic information systems (GIS)
+- **[Tao Wen](https://thecollege.syr.edu/people/faculty/tao-wen/)** (地球和环境科学系): spatiotemporal data science for hydrology, environmental informatics, geoscience data mining, big data
 
 
 ### 马里兰大学
@@ -1230,7 +1225,7 @@ GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_
 - **[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: Smart Cities and Sustainable Development, Remote Sensing of Urban Environment;
 
 
-### 香港浸会大学 
+### 香港浸会大学
 TBA
 
 ### 香港理工大学
@@ -1282,7 +1277,6 @@ GIS相关系所：[农业和环境学院](https://www.uwa.edu.au/science/schools
 西澳大利亚大学的农业和环境学院提供地理信息系统硕士（Master of GIS）项目，学制时长为1.5到2年之间。该硕士为授课型，核心课程有六门，包括GIS编程、遥感、GIScience、GIS环境资源管理、高级空间分析以及GIS环境科学。此外，该学院所在的自然科学部也提供博士项目，具体方向需和相关院系导师确定。
 
 ### 科廷大学
-
 **Curtin University (Curtin)**
 
 澳大利亚，西澳大利亚州，珀斯
@@ -1324,27 +1318,23 @@ GIS相关系所：[空间科学组]( http://www.spatialpoints.com/
 )**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use
 
 ### 伦敦大学学院
-**University College London (UCL：[地理系](https://www.geog.ucl.ac.uk/), [土木测绘系](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/), [先进空间分析中心](https://www.ucl.ac.uk/bartlett/casa/))**
-_信息提供：Dr. 陈焕发_
+**University College London (UCL)**
+
+英国，伦敦
+
+GIS相关系所：[地理系](https://www.geog.ucl.ac.uk/)、[土木测绘系](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/)、[先进空间分析中心](https://www.ucl.ac.uk/bartlett/casa/)
 
 伦敦大学学院的GIS研究团队方向多元化有多个GIS研究团队，各有侧重。地理系团队侧重人口统计/消费者数据分析/空间分析，土木测绘系SpaceTimeLab团队侧重时空数据挖掘/地理人工智能，CASA（先进空间分析中心）侧重城市研究/复杂系统/可视化/多智能体系统。
 
 相关导师：
 
 - **Tao Cheng**: spatio-temporal analytics and machine learning, transportation, crime prediction, social media analysis;
-
 - **James Haworth**: spatio-temporal statistics, transportation, geocomputation;
-
 - **Paul Longley**: GIScience, geo-demography, consumer data analysis;
-
 - **Ana Basiri**: 3D mapping, VGI, crowd-sourced data;
-
 - **Sarah Wise**: agent-based model, social media, disaster prevention;
-
 - **Elsa Arcaute**: complexity science, urban systems;
-
 - **Jens Kandt**: urban geography, social and spatial health disparities;
-
 - **Huanfa Chen**: spatial optimisation, spatial data science, crime prediction, transportation.
 
 
@@ -1374,7 +1364,7 @@ TBA
 
 ### 曼彻斯特大学
 **The University of Manchester (UoM)**
-英国，曼彻斯特市 
+英国，曼彻斯特市
 
 GIS相关系所：[环境，教育与发展学院](https://www.seed.manchester.ac.uk/geography/)
 
@@ -1412,6 +1402,7 @@ GIS相关系所：[地理与地球科学学院]( https://www.gla.ac.uk/schools/g
 
 ### 爱丁堡大学  
 **The University of Edinburgh**
+
 英国，苏格兰，爱丁堡
 
 GIS相关系所：[地理科学学院](https://www.ed.ac.uk/geosciences)
@@ -1451,54 +1442,42 @@ Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目总共需�
 ### 谢菲尔德大学
 **The University of Sheffield**
 
-英国 谢菲尔德
+英国，谢菲尔德
 
 GIS相关系所：[地理系](https://www.sheffield.ac.uk/geography)
 
 谢菲尔德大学应用地理信息系统理学硕士项目由城市研究与规划系和地理系联合办学，授课型硕士全日制一年。在谢菲尔德大学GIS硕士项目学习期间，学生将掌握在地理信息系统、应用政策研究、全球问题空间数据分析领域工作所需的技术技能、实践经验和理论知识，深入学习高级空间分析、地理可视化、实践中的地理信息系统政策应用、专题制图和图表创建等。
 
 主要课程包括：
-数据、可视化和地理信息系统	Data、Visualisation and GIS
-
-定量分析导论	Introduction to Quantitative Analysis
-
-开源地理信息系统和空间分析	Open Source GIS and Spatial Analysis
-
-地理信息系统应用	Application of GIS
-
-社会和空间分析研究设计	Research Design for Social and Spatial Analysis
-
-高级地理信息系统应用方法	Advanced GIS Methods
-
-专业地理信息系统项目	The Professional GIS Project
-
-运输规划	Transport Planning
-
-住房议题	Issues in Housing
-
-多样性城市	Cities of Diversity
+- 数据、可视化和地理信息系统	Data、Visualisation and GIS
+- 定量分析导论	Introduction to Quantitative Analysis
+- 开源地理信息系统和空间分析	Open Source GIS and Spatial Analysis
+- 地理信息系统应用	Application of GIS
+- 社会和空间分析研究设计	Research Design for Social and Spatial Analysis
+- 高级地理信息系统应用方法	Advanced GIS Methods
+- 专业地理信息系统项目	The Professional GIS Project
+- 运输规划	Transport Planning
+- 住房议题	Issues in Housing
+- 多样性城市	Cities of Diversity
 
 相关导师：
 
-- **[Rowland Atkinson](https://www.sheffield.ac.uk/usp/people/academic-staff/rowland-atkinson)：urban and housing studies,sociology, geography and criminology
-
-- **[Chris Clark](https://www.sheffield.ac.uk/geography/people/academic-staff/chris-clark)：Glacial Geomorphology and Glaciology, and on GIS
-
-- **[Simon Marvin](https://www.sheffield.ac.uk/geography/people/academic-staff/simon-marvin)：systemic transitions, climate change, ecological security and smart cities.
-
-- **[Andrew McGonigle](https://www.sheffield.ac.uk/geography/people/academic-staff/andrew-mcgonigle)：Volcano Remote Sensing，Volcano Atmosphere Interactions，Other Environmental Sensing
-
-- **[Stephen Livingstone(https://www.sheffield.ac.uk/geography/people/academic-staff/stephen-livingstone)**:
+- **[Rowland Atkinson](https://www.sheffield.ac.uk/usp/people/academic-staff/rowland-atkinson)**：urban and housing studies,sociology, geography and criminology
+- **[Chris Clark](https://www.sheffield.ac.uk/geography/people/academic-staff/chris-clark)**：Glacial Geomorphology and Glaciology, and on GIS
+- **[Simon Marvin](https://www.sheffield.ac.uk/geography/people/academic-staff/simon-marvin)**：systemic transitions, climate change, ecological security and smart cities.
+- **[Andrew McGonigle](https://www.sheffield.ac.uk/geography/people/academic-staff/andrew-mcgonigle)**：Volcano Remote Sensing，Volcano Atmosphere Interactions，Other Environmental Sensing
+- **[Stephen Livingstone](https://www.sheffield.ac.uk/geography/people/academic-staff/stephen-livingstone)**:
 Surface meltwater
 
 
 ### 乌特勒支大学
 **Utrecht University (UU)**
-荷兰， 乌特勒支市
 
-GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/faculty-of-geosciences）
+荷兰，乌特勒支市
 
-乌特勒支地理系综合实力较强，将地理学与自然界的多个领域结合，在世界范围内广受人可。博士申请方面，获得硕士专业的学生查找博士岗位(https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)， 申请四年的博士。
+GIS相关系所：[地球科学学院](https://www.uu.nl/en/organisation/faculty-of-geosciences)
+
+乌特勒支地理系综合实力较强，将地理学与自然界的多个领域结合，在世界范围内广受人可。博士申请方面，获得硕士专业的学生查找[博士岗位](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)，申请四年的博士。
 
 相关导师：
 - **[Steven de Jong]( https://www.uu.nl/staff/SMdeJong)**: Geohazards; Landscape Functioning, Geo-computation and Hydrology; Land Degradation and Remote Sensing;
@@ -1507,13 +1486,17 @@ GIS相关系所：[地球科学学院]（https://www.uu.nl/en/organisation/facul
 - **[Dick Ettema]( https://www.uu.nl/staff/DFEttema)**: Dynamics of Youth; Pathways to Sustainability; Sport and Society.
 
 ### 代尔夫特理工大学
-** Delft University of Technology (TUDelft)  **
+**Delft University of Technology (TUDelft)**
+
 荷兰，南荷兰省，代尔夫特市
-GIS相关系所：[Urbanism-Track Geomatics]( https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/)  [Civil-Track Geoscience & Remote Sensing]( https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/)
+
+GIS相关系所：[Urbanism-Track Geomatics]( https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/) 和 [Civil-Track Geoscience & Remote Sensing]( https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/)
+
 代尔夫特理工是欧洲顶尖的理工院校，在工程领域有着悠久的历史与深厚实力。学校中与GIS/RS相关的系所主要有两个：位于建筑学院的Geomatics以及位于土木学院的Geoscience & Remote Sensing. 其中Geomatics归口在建筑学院的urbanism系下面，研究方向与课程设置主要侧重3D Geoinformation, Smart Cities, building environment.而 Geoscience & Remote Sensing. Geomatics的研究方向与课程设置侧重于Remote Sensing与Geodesy在Atmospheric science与Earth system science中的应用。学位项目方面两个部门各提供一个120EC的两年制硕士项目，使学生在专业知识与学术技能训练之间能实现平衡。TUDelft的博士项目通常在4-5年，学制与入学时间都相对自由，但通常要求申请人必须要有硕士学位。
+
 相关导师 ：
 Geomatics:
-- **[J.E. Stoter] (https://www.tudelft.nl/staff/j.e.stoter/) **: 3D geoinformation infrastructure, 3D indoor modelling and navigation, data structures and algorithms for 3D modelling;
+- **[J.E. Stoter](https://www.tudelft.nl/staff/j.e.stoter/)**: 3D geoinformation infrastructure, 3D indoor modelling and navigation, data structures and algorithms for 3D modelling;
 - **[H. Ledoux](https://www.tudelft.nl/staff/h.ledoux/)**: 3D geographic information system (GIS), computational geometry, 3D modelling, point could modelling and analysis;
 - **[P.J.M. van Oosterom](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/professors/profdrir-pjm-van-oosterom/)**: 3D land administration, spatial information infrastructure;
 Geoscience & Remote Sensing:
@@ -1525,16 +1508,18 @@ Geoscience & Remote Sensing:
 - **[P.J.G. Teunissen](https://www.tudelft.nl/en/staff/p.j.g.teunissen/)**: navigation, positioning, GNSS, geodesy;
 
 ### 格罗宁根大学
-** University of Groningen (UG) **
+**University of Groningen (UG)**
+
 荷兰，格罗宁根市
+
 GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
+
 格罗宁根大学空间科学学院提供文化地理，人口统计学，经济地理和规划方面的教育和研究。该系GIS主要在城市与区域研究所中进行，和规划结合较多。该学院GIS相关的项目是空间科学硕士，主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
+
 相关导师：
 - **[Claudia Yamu](https://www.rug.nl/staff/claudia.yamu/)**: urban analytics and modeling, computation, space syntax, tool and method development, participatory planning, and decision support for urban performance and change;
 - **[Gerd Weitkamp](https://www.rug.nl/staff/s.g.weitkamp/)**: GIS analysis and gps-data, Qualitative and quantitative methods, Health geography, Active transportation, Landscape research;
 - **[Daniella Vos](https://www.rug.nl/staff/d.vos/)**: GIS, machine learning techniques and Bayesian inference, transformations in human subsistence and settlement patterns.
-
-
 
 ### 特温特大学
 **University of Twente(UT)**
@@ -1590,13 +1575,57 @@ ITC的博士申请主要根据下属的六个系进行对应的申请，学制�
 - [ITC官网导师联系方式](https://www.itc.nl/about-itc/contact/whoiswho/)
 
 ### 阿姆斯特丹自由大学
-** Vrije University Amsterdam (VU) **
+**Vrije University Amsterdam (VU)**
+
 荷兰，阿姆斯特丹市
+
 GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
+
 阿姆斯特丹自由大学空间信息实验室主要进行空间分析与建模、地理设计、风险管理、空间数字人文学科的研究。该校GIS硕士主要是online项目，可分3年完成，前两年主要关注授课，第三年完成论文，项目主要包含Geovisualisation, Geoprocessing, Geodatabases, Geodata capture, standards and quality等课程。
+
 相关导师：
 - **[Eric Koomen](https://research.vu.nl/en/persons/eric-koomen)**: urban development, land-use change, spatial modelling and policy support;
 - **[Niels van Manen](https://spinlab.vu.nl/staff/niels-van-manen/)**: historical GIS, urban risk mapping and Geodesign for urban heritage planning.
+
+### 柏林工业大学
+**Technische Universität Berlin (TUB)**
+
+德国，柏林州，柏林市
+
+GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/)
+
+柏林工业大学在规划建筑环境学院下设大地测量与地理信息技术研究所，着重大地测量、GNSS测量、地理信息学方法论等研究，夏坚白、王之卓等人曾在此就读。该校GIS主要是正常的2年制硕士，分成测量、计算机视觉与遥感、GIS等方向授课。硕士毕业后，可寻求funding读博，时间3-5年。
+
+相关导师：
+- **[Martin Kada](https://www.gis.tu-berlin.de/menue/mitarbeiter/martin_kada/parameter/en/)**: Algorithms, Segmentation, 3D Computer Graphics, 3D Modeling, Visualization, Real-Time Rendering.
+
+### 明斯特大学
+**Universität Münster (WWU)**
+
+德国，北威州，明斯特市
+
+GIS相关系所：[地理信息研究所](https://www.uni-muenster.de/Geoinformatics/en/)
+
+明斯特大学下设的地理信息研究所主要研究空间动态过程，语义互操作性，空间辅助系统，认知工程和传感器网络等，Gilberto Camara、Werner Kuhn曾在此任教。该校GIS主要是正常的2年制硕士，期间有一学期需要进行实习。硕士毕业后，可利用3-5年的时间完成博士学位。
+
+相关导师：
+- **[Christian Kray](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/118/Christian_Kray)**: Geoinformatics, Human-Computer Interaction, and mobile and ubiquitous computing;
+- **[Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)**: spatial statistics, environmental modelling, geoinformatics and GIScience, semantic technology for spatial analysis, optimizing environmental monitoring;
+- **[Angela Schwering](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/109/Angela_Schwering)**: Spatial cognition, Qualitative spatial reasoning, Cognitive navigation;
+- **[Judith Verstegen]( https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/274/Judith_Verstege)**: Geosimulatiom models (agent-based models, cellular automata), Spatial statistics, Error propagation methods, Spatial optimization.
+
+### 柏林洪堡大学
+**Humboldt-Universitat zu Berlin (HUB)**
+
+德国，柏林州，柏林市
+
+GIS相关系所：[地理系](https://www.geographie.hu-berlin.de/en/geography_department)
+
+柏林洪堡大学的地理系历史悠久，在200余年的发展中几乎涵盖了自然地理、人文地理共9个方向的研究，是德国地理研究的枢纽。该校GIS主要是在正常的2年制硕士（全球变化地理）中下设课程内容，硕士毕业后可利用3-5年的时间完成博士学位。
+
+相关导师：
+- **[Tobia Lakes](https://www.geographie.hu-berlin.de/de/Members/lakes_tobia)**: Spatial Analysis, Land Use Change and Modelling, Urbanism, Spatial Statistics, Geostatistical Analysis, Geomatics;
+- **[Patrick Hostert](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/patrick_hostert)**: Spatial Analysis, Geographic Information System, Satellite Image Processing, Sustainability, Ecology, Environment, Climate Change and Agriculture, Remote Sensing.
 
 
 ### 德累斯顿工业大学
@@ -1621,7 +1650,9 @@ GIS和制图相关导师：
 瑞士, 苏黎世州, 苏黎世市
 
 GIS相关系所: [Institute of Cartography and Geoinformation](https://ikg.ethz.ch/en/)
+
 苏黎世联邦理工学院GIS相关系所位于Dept. of Civil, Environmental and Geomatic Engineering (D-BAUG)。D-BAUG下设很多研究所，包括Geodesy and Photogrammetry (IGP)、Cartography and Geoinformation (IKG)、Spatial and Landscape Development (IRL)、Transport Planning and Systems (IVT)等。该系也有老师参与Singapore-ETH Future Cities Laboratory的相关研究。硕士项目有Master in Geomatics，该项目可从Engineering Geodesy and Photogrammetry、Space Geodesy and Navigation、GIS and Cartography、Planning(德语)选择两个方向。博士职位根据项目需要不定期放出，可在每个系或实验室主页查看Open Positions。
+
 相关导师:
 - **[Lorenz Hurni](https://ikg.ethz.ch/en/people/staff-a-z/person-detail.MzU4MDA=.TGlzdC8xMDMwLC05MDgxNDI5Mg==.html)**: cartographic data models and tools; multidimensional multimedia maps;
 - **[Martin Raubal](http://www.raubal.ethz.ch/)**: mobile GIS & LBS; spatial cognitive engineering; mobile eye-tracking; GIS for renewable energy analysis;
@@ -1637,6 +1668,7 @@ GIS相关系所: [Institute of Cartography and Geoinformation](https://ikg.ethz.
 瑞士，苏黎世州，苏黎世市
 
 GIS相关系所: [地理系](https://www.geo.uzh.ch/en.html)
+
 苏黎世大学简称UZH，位于瑞士德语区苏黎世，是瑞士最大的综合性大学。苏黎世大学地理系发展全面、综合实力很强，涵盖自然地理、人文地理、GIS和遥感等。该系硕士项目主要有地理学硕士项目（包含普通地理学方向，自然地理学方向，人文地理学方向，遥感方向和GIS方向），和地球系统科学硕士项目。同大多数欧陆院校一样，该系没有统一的博士项目，但会根据项目需要不定期放出有针对性的[博士职位](https://www.geo.uzh.ch/en/services/open-positions.html)供申请。
 
 相关导师：
@@ -1650,47 +1682,63 @@ GIS相关系所: [地理系](https://www.geo.uzh.ch/en.html)
 - **[Kneubühler Mathias](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=mathiaskneubuehler)**: Earth Observation, Remote sensing, Imaging Spectroscopy.
 
 ### 伯尔尼大学
-** Universität Bern (Unibe) **
+**Universität Bern (Unibe)**
+
 瑞士，伯尔尼州，伯尔尼市
+
 GIS相关系所：[地理研究所](https://www.geography.unibe.ch)
+
 伯尔尼大学地理研究所于19世纪末成立，较侧重传统意义上的地理研究，下设11个研究单位。该研究所的GIS和RS主要的是学术型项目，平均毕业年限：硕士1.5-2年，博士3-4年，课程方向：Human geography, Physical geography, Integrative Geography, Land use等。
+
 相关导师：
 - **[Margreth Keiler](https://www.geography.unibe.ch/about_us/staff/prof_dr_keiler_margreth/index_eng.html)**: Physical Geography, Spatial Analysis, Digital Mapping, Geographic Information System, Risk Management, Climate Change, Sedimentology, Rivers;
 - **[Chinwe IFEJIKA SPERANZA](https://www.geography.unibe.ch/about_us/staff/prof_dr_ifejika_speranza_chinwe/index_eng.html)**: GIS, Social-ecological systems modelling and Sustainable Land Management, Land use and land cover analysis, Social-ecological resilience, Environmental policy;
 - **[Peter Messerli]( https://www.cde.unibe.ch/about_us/personen/prof_dr_messerli_peter/index_eng.html)**: Spatial Analysis, Ecology, Ecological Economics, Geography, Sustainable Development, Land Use Change;
 - **[Andreas Zischg](https://www.geography.unibe.ch/about_us/staff/prof_dr_zischg_andreas/index_eng.html)**: GIS and geodata analysis, Coupled component modelling, Impacts of extreme events.
- 
+
 ### 洛桑联邦理工学院
-** École Polytechnique Fédérale de Lausanne (EPFL) **
+**École Polytechnique Fédérale de Lausanne (EPFL)**
+
 瑞士，沃州，洛桑市
-GIS相关系所：[LASIG实验室](https://www.epfl.ch/labs/lasig/)
-             [TOPO实验室](https://www.epfl.ch/labs/topo/)
+
+GIS相关系所：[LASIG实验室](https://www.epfl.ch/labs/lasig/)、
+             [TOPO实验室](https://www.epfl.ch/labs/topo/)、
              [ALPOLE研究中心]( https://www.epfl.ch/schools/enac/research/environmental-engineering-institute-iie/alpole-alpine-and-polar-environment-research-center/)
+
 洛桑联邦理工学院的GIS / RS相关的老师主要集中在建筑、土木与环境工程系中，包括Laboratory of Geographic Information Systems (LASIG)、Geodetic Engineering Laboratory (TOPO), EPFL’s Alpine and Polar Research Centre三个实验室及研究中心，涵盖了GIS应用、卫星定位、RS算法等研究方向。该校GIS主要有硕士和博士项目，主要针对走学术道路的学生。本科毕业申请可修2年硕士or 5年博士，硕士毕业申请可修4年博士。
+
 相关导师：
 - **[Francois Golay](https://people.epfl.ch/francois.golay/?lang=en)**: Web-GIS, Spatial Analysis, Geospatial Science, Geoinformation, Geomatics;
 - **[Stéphane Joost](https://people.epfl.ch/stephane.joost)**: Geographic Information Science, Landscape genomics, Seascape genomics, Spatial epidemiology, Geomedicine & Precision population health;
 - **[Bertrand Merminod](https://people.epfl.ch/bertrand.merminod?lang=en)**: Satellite location, Geodetic networks, Navigation devices and algorithms, Least-squares estimate, Recurring filtering and smoothing;
 - **[Jan Skaloud](https://people.epfl.ch/jan.skaloud)**: Satellite positioning, Inertial and integrated navigation, Sensor orientation and calibration, Mobile mapping, airborne laser scanning, Adjustment methods, Kalman Filtering;
 - **[Devis Tuia](https://people.epfl.ch/devis.tuia)**: Earth Observation, remote sensing: from drones to satellites, Machine learning, deep learning, Image processing.
- 
-###日内瓦大学
-** University of Geneva (Unige) **
+
+### 日内瓦大学
+**University of Geneva (Unige)**
+
 瑞士，日内瓦州，日内瓦市
+
 GIS相关系所：[环境科学研究所](https://www.unige.ch/environnement/en/)
+
 日内瓦大学的环境科学研究历史悠久，本世纪初在此前的地理系基础上进行整合成立研究所。该系对GIS的研究主要分布在Metadata & Socio-Economics, Data & Information Sustainability, Spatially-Explicit Environment Modelling。该系GIS有两个项目，传统项目主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-5年博士；另外还有个30学分的授课型项目，可以获得辅修证书。
+
 相关导师：
 - **[Dao Hy](https://www.unige.ch/gedt/membres/dao/)**: GIS, webmapping, Spatial Data Infrastructure, development indicators, risk assessment, Planetary Boundaries, population mapping;
 - **[Anthony Lehmann](https://www.unige.ch/envirospace/people/lehmann/)**: Spatial and statistical analyses, Modeling for biodiversity, Hydrology, Ecosystem services, Climate-water-ecosystem nexus, Sustainability assessments;
 - **[Nicolas Ray](https://www.unige.ch/medecine/isg/en/staff/nicolas-ray/)**: spatial ecology, population genetics, spatial data infrastructure, GIS, and global health;
 - **[Gregory Giuliani](https://geography.wisc.edu/cartography/people/Roth.html)**: Land Change Science, GIS, Remote Sensing, Spatial Data Infrastructure, Earth Observations, GEO/GEOSS, Digital Earth;
 - **[Pierre Lacroix](https://www.unige.ch/medecine/isg/en/staff/nicolas-ray/)**: spatial ecology, population genetics, spatial data infrastructure, GIS, and global health.
- 
+
 ### 洛桑大学
-** University of Lausanne (Unil) **
+**University of Lausanne (Unil)**
+
 瑞士，沃州，洛桑市
+
 GIS相关系所：[地理系]( https://www.unil.ch/igd/home.html)
+
 作为跨学科的研究所，洛桑大学的地理与可持续性研究所涵盖了自然地理、人文地理、GIS等领域的研究。该系GIS主要的是正常走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-5年博士。
+
 相关导师：
 - **[François Bavaud]( https://igd.unil.ch/fbavaud/en/recherche/)**: Modeling of flows, Spatial autocorrelation, Visualization, Clustering and navigation in weighted networks, Information theory;
 - **[Mikhail Kanevski]( https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=47033&LanCode=37)**: Analysis and modeling of environmental risks and natural hazards, Environmental data mining, Geoinformatics, Geomatics, Geostatistics, Machine learning of geospatialized data;
@@ -1699,38 +1747,50 @@ GIS相关系所：[地理系]( https://www.unil.ch/igd/home.html)
 - **[Grégoire Mariéthoz](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=34402&LanCode=37)**: Remote Sensing, Earth Surface Processes, Geostatistics, Hydroclimatology;
 - **[Antoine Guisan](https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-antoine-guisan.html)**: Spatial Ecology, Habitat suitability and distribution modeling, Conservation Biology, Species Diversity, Natural Resource Management.
 
- 
+
 ### 隆德大学
-** Lund University (Lund) **
+**Lund University (Lund)**
+
 瑞典，斯科讷省，隆德市
-GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)
+
+GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)、
              [人文地理系](https://www.keg.lu.se/en/start)
+
 隆德大学下设自然地理与生态系统系和人文地理系，GIS和RS应用在两个系中均有所涉及，相对侧重自然与生态。该校GIS主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士；另外还有个线上的授课型项目，主要针对计划就业的学生。
+
 相关导师：
 - **[Lars Eklundh](http://web.nateko.lu.se/personal/Lars.Eklundh/)**: Remote sensing, Land surface information, Vegetation;
 - **[Marko Scholze](https://portal.research.lu.se/portal/en/persons/marko-scholze(25a93782-441c-4844-9744-dbdc2a002f96).html)**: Climate Research, Meteorology and Atmospheric Sciences, Remote Sensing, Data Assimilation, Global Carbon Cycle, Inverse modelling;
-- **[Zheng Duan]()**: high performance computing; natural hazards; social media data analytics;
+- **[Zheng Duan](https://portal.research.lu.se/portal/en/persons/zheng-duan(fcc64e94-9665-4647-8dfe-0e3d2b541994).html)**: high performance computing; natural hazards; social media data analytics;
 - **[Abdulghani Hasan](https://www.nateko.lu.se/abdulghani-hasan)**: Hydrology, Water Resources, Remote Sensing, Hydrological modelling, GIS and Geomatics;
 - **[Lars Harrie](https://www.nateko.lu.se/lars-harrie)**: Algorithms for processing, analyzing and visualizing geographic data, Methods to improve the national spatial data infrastructure;
 - **[Ali Mansourian](https://www.nateko.lu.se/ali-mansourian)**: Spatial Data Infrastructures (SDI), Web GIS and Geospatial Web services, Advanced modeling for applied GISs;
 - **[Ola Hall](https://www.keg.lu.se/en/ola-hall)**: GIS, Social geographic analysis..
- 
+
 ### 瑞典皇家理工学院
-** KTH Royal Institute of Technology (KTH) **
+**KTH Royal Institute of Technology (KTH)**
+
 瑞典，斯德哥尔摩省，斯德哥尔摩市
+
 GIS相关系所：[城市规划与环境系](https://www.kth.se/en/som/avdelningar/gis/gis-1.62043)
+
 KTH的GIS / RS下设在城市规划与环境部门下面，其研究重点是方法开发以及GeoIT在可持续城市/区域规划，环境监测，犯罪分析和健康研究中的应用。和GIS相关的项目主要针对走学术道路的学生，本科毕业申请可修2年硕士（运输+GIS），硕士毕业申请可修4年博士。
+
 相关导师：
 - **[Yifang Ban](https://www.kth.se/profile/yifang)**: Multitemporal remote sensing, SAR and optical image analysis, Multisensor data fusion, Image segmentation and classification, Urban analysis, 3D visualization, Spatial analysis and modelling, Environmental impact assessment;
 - **[Takeshi Shirabe](https://www.kth.se/profile/shirabe)**: Combinatorial optimization in geography, Route planning and improvisation, Computer-aided spatial planning and design, Spatial decision support systems, Computational methods for addressing indecisiveness in spatial decision making;
 - **[Gyözö Gidofalvi](https://www.kth.se/profile/gyozo)**: Spatio-temporal data mining and analysis, Location-Based Services (LBS), Locations privacy, Intelligent Transportation Systems (ITS), and related GIS areas such as web and mobile GIS and spatial databases.
- 
+
 ### 斯德哥尔摩大学
-** Stockholm University (SU) **
+**Stockholm University (SU)**
+
 瑞典，斯德哥尔摩省，斯德哥尔摩市
-GIS相关系所：[自然地理系](https://www.natgeo.su.se/)
+
+GIS相关系所：[自然地理系](https://www.natgeo.su.se/)、
              [人文地理系](https://www.humangeo.su.se/english/)
+
 斯德哥尔摩大学下设自然地理系和人文地理系，对GIS / RS应用均有涉及，关注人口、移民及GIS，以及遥感在自然地理中的应用等。该校主要在自然地理系下设置有GIS相关的硕士项目，本科毕业申请可修2年硕士+3年博士，硕士毕业申请可修4年博士。
+
 相关导师：
 - **[Ian Brown](https://www.su.se/english/profiles/brown-1.182843)**: The uses of interferometric and polarimetric synthetic aperture radar, Radar applications to the measurement of the properties of snowpacks and mangrove forests;
 - **[Gustaf Hugelius](https://www.su.se/english/profiles/chuge-1.184251)**: Applications of GIS and geomatics within Physical Geography and Environmental Science, The stocks and turnover of carbon in soils and ecosystems;
@@ -1739,39 +1799,47 @@ GIS相关系所：[自然地理系](https://www.natgeo.su.se/)
 - **[Ulf Jansson](https://www.su.se/english/profiles/ulfjan-1.183939)**: Land Use, Spatial Analysis, Rural Geography, Historical geography;
 - **[Bo Malmberg](https://www.su.se/english/profiles/bmalm-1.184229)**: Applied Econometrics, Economic Geography, Population geography; Urban geography, GIS and remote sensing, Spatial Statistics;
 - **[Anders Wästfelt](https://www.su.se/english/profiles/wastf-1.183689)**: Remote Sensing, Earth Observation, Satellite Image Analysis and Processing, Spatial Analysis, Geoinformation, Vegetation Mapping.
- 
+
 ### 哥德堡大学
-** University of Gothenburg (GU) **
+**University of Gothenburg (GU)**
+
 瑞典，西约特兰省，哥德堡市
-GIS相关系所：[地球科学系]( https://gvc.gu.se/english)
-[人文地理单元]( https://es.handels.gu.se/english/units/unit-for-human-geography)
+
+GIS相关系所：[地球科学系]( https://gvc.gu.se/english)、
+             [人文地理单元]( https://es.handels.gu.se/english/units/unit-for-human-geography)
+
 哥德堡大学下设地球科学系和人文地理单元，地球科学系主要研究气候、自然资源、灾害等，GIS / RS多为地球科学方面应用。该校的GIS项目下设地球科学系中，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
+
 相关导师：
 - **[Fredrik Lindberg](https://www.gu.se/english/about_the_university/staff?languageId=100001&userId=xlinfr)**: Spatial modelling of urban climates, Modelling of mean radiant temperature in complex urban settings, The use of LiDAR technology within urban climate research;
 - **[Heather Reese](https://gvc.gu.se/english/personnel?languageId=100001&userId=xreehe)**: Remote sensing of alpine vegetation types, Change detection of alpine vegetation, Mapping of other land cover types;
 - **[Deliang Chen](https://geography.wisc.edu/gis/staff/huang-qunying/)**: Statistical Data Analysis, Spatial Analysis, Climate Variability, Climate Change, Hydrology, Hydrological Modeling, Water Balance, Water Resources Management;
 - **[Anders Larsson](https://www.gu.se/english/about_the_university/staff/?userId=xlarss/)**: Industrial and economic geography, Regional development and innovation, Regional planning and policy, GIS, Transport and accessibility methodology.
- 
+
 ### 奥斯陆大学
-** University of Oslo (UiO) **
+**University of Oslo (UiO)**
+
 挪威，奥斯陆市
-GIS相关系所：[地球科学系]( https://www.mn.uio.no/geo/english/)
-[地球科学系]( https://www.sv.uio.no/iss/english/)
+
+GIS相关系所：[地球科学系]( https://www.mn.uio.no/geo/english/)、
+             [社会学与人文地理系]( https://www.sv.uio.no/iss/english/)
+
 奥斯陆大学下设地球科学系和社会学与人文地理系，GIS / RS多集中在地球科学系中，主要侧重于冰川研究。该校GIS在地球科学系开设硕士项目，本科毕业申请可修2年硕士，硕士毕业申请可修3-6年的博士。
+
 相关导师：
 - **[Andreas MaxKääb](https://www.mn.uio.no/geo/english/people/aca/geohyd/kaeaeb/)**: Earth observation technologies, Geoinformatics, GIS and RS’s application to cold regions, and to natural hazards in such regions;
 - **[François Renard](https://www.mn.uio.no/geo/english/people/aca/geopgp/francoir/)**: Geology, Geophysics, Geochemistry, Remote sensing, Geohazards, Hydrogeology, Geomechanics, Environmental Geology.
- 
+
 ### 挪威科技大学
 **Norwegian University of Science and Technology (NTNU)**
 
 挪威，特隆姆瑟市
 
-GIS相关系所：[地理系](https://www.ntnu.edu/geography)
-
-[地理系](https://www.ntnu.edu/ibm/road-transort-and-geomatics)
+GIS相关系所：[地理系](https://www.ntnu.edu/geography)、
+[道路交通和地信系](https://www.ntnu.edu/ibm/road-transort-and-geomatics)
 
 挪威科技大学的GIS / RS分别在地理系和土木与环境工程系中，地理系的GIS / RS相对侧重冰川、气候等，土木与环境工程系的GIS / RS相对侧重交通运输、建筑、城市规划等。该校的GIS项目主要在地理系下，本科毕业申请可修2年硕士，硕士毕业申请可修3-6年博士。
+
 相关导师：
 - **[Ola Fredin](https://www.ntnu.edu/employees/ola.fredin)**: GIS and remote sensing, Glaciology, Glacial landforms, Geomorphology;
 - **[Tomasz Opach](https://www.ntnu.edu/employees/tomasz.opach)**: Geographic visualization, Cartographic animation, Thematic mapping, Cartographic representation of cultural landscapes;
@@ -1780,21 +1848,23 @@ GIS相关系所：[地理系](https://www.ntnu.edu/geography)
 - **[Lizhen Huang](https://www.ntnu.edu/employees/lizhen.huang)**: Information modelling for GIS-ITS-BIM integration, Smart and Sustainable Built environment, Digital twin, Energy demand analysis;
 - **[Erling Onstein](https://www.ntnu.edu/employees/erling.onstein)**: GIS and geomatics in general, Modelling, Standardisation and Specification of geographical information, Validation and quality assessment of information, Building information modelling (BIM);
 - **[Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan)**: 3D city modeling, Laser Scanning, Photogrammetry, Spatial data mining and knowledge discovering by using crowdsourcing data;
- 
+
 ### 赫尔辛基大学
 **University of Helsinki (UH)**
 
 芬兰，南芬兰省，赫尔辛基市
 
 GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography)
+
 赫尔辛基大学下设地球科学与地理系，其中GIS / RS的研究集中在数字地理实验室、地理信息实验室、地球变化观测实验室、生物地理气候建模实验室等，综合实力较强。该校的GIS项目主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-4年博士。
+
 相关导师：
 - **[Tuuli Toivonen](https://researchportal.helsinki.fi/en/persons/tuuli-toivonen)**: Biodiversity and Conservation, Land Use Planning, Remote Sensing, Spatial Analysis, Open Data, Landscape, Landsat, GIS Analysis, Geographic Information System;
 - **[Pet­teri Muukkonen](https://researchportal.helsinki.fi/en/persons/petteri-muukkonen)**: Geoinformatics, Carbon sequestration and Carbon cycle, Biomass surveys and monitoring, Spatial autocorrelation of soil characteristics, Landscape fragmentation, Habitat changes, Remote sensing of forest landscapes;
 - **[Petri Pellikka](https://researchportal.helsinki.fi/en/persons/petri-pellikka)**: Spatial Analysis, Digital Mapping, Satellite Image Analysis and Processing, Geoinformation, Sustainable Development, Vegetation, Land Use Planning;
 - **[Janne Heiskanen](https://researchportal.helsinki.fi/en/persons/janne-heiskanen)**: Mapping land cover and forest attributes, Time series analysis of satellite imagery for land cover monitoring, Validation of remotely sensed data products using field measurements;
 - **[Miska Luoto](https://researchportal.helsinki.fi/en/persons/miska-luoto)**: Species distribution modelling, Climate change impact modelling, Modelling of Earth system processes, Biogeography and macroecology, Arctic environmental change.
- 
+
 ### 阿尔托大学
 
 **Aalto University (Aalto)**
@@ -1802,24 +1872,29 @@ GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-
 芬兰，南芬兰省，赫尔辛基市
 
 GIS相关系所：[建筑环境系]( https://www.aalto.fi/en/department-of-built-environment/geoinformatics)
+
 阿尔托大学的GIS / RS 在工学院的建筑环境系下，主要集中在大地测量学，地球信息技术，数字摄影测量以及激光扫描和遥感等研究领域。该校的GIS项目主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-4年博士。
+
 相关导师：
 - **[Kirsi-Kanerva Virrantaus](https://research.aalto.fi/en/persons/kirsi-kanerva-virrantaus)**: Spacial data analysis, Spacial data modelling, Quality of GI, GIS for safety and defence, GIS, Geoinformatics;
 - **[Martin Vermeer](https://people.aalto.fi/martin.vermeer)**: Satellite positioning, Geodesy, Coordinate reference systems, Geodynamics, Photogrammetry, Navigation technologies;
 - **[Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen)**: Earth observation, Remote Sensing, Albedo, Global satellite products, Forests and vegetation;
 - **[Matti Vaaja](https://people.aalto.fi/matti.t.vaaja)**: Laser scanning, Mobile mapping, Change detection, 3D-models.
- 
+
 ### 哥本哈根大学
-** University of Copenhagen (KU) **
+**University of Copenhagen (KU)**
+
 丹麦，哥本哈根郡，哥本哈根市
-GIS相关系所：[地理研究科]( https://ign.ku.dk/english/research/geography/)
-[景观建筑规划研究科](https://ign.ku.dk/english/research/landscape-architecture-planning/)
+
+GIS相关系所：[地理研究科]( https://ign.ku.dk/english/research/geography/)、[景观建筑规划研究科](https://ign.ku.dk/english/research/landscape-architecture-planning/)
+
 哥本哈根大学下设地球科学与自然资源管理系，GIS / RS集中在地理和景观建筑规划两个研究科，综合实力较强。该校GIS的项目设在地球科学与自然资源管理系下，主要针对走学术道路的学生，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
+
 相关导师：
 - **[Lasse Møller-Jensen](https://ign.ku.dk/english/employees/geography/?pure=en/persons/116185)**: Urban applications of GIS and satellite remote sensing, GIS-based spatial analysis, Application of methods from Geoinformatics in an urban planning context, Research collaboration and capacity building in developing countries, Transport network and infrastructure analysis, Web-based and mobile GIS;
 - **[Martin Rudbeck Jepsen](https://ign.ku.dk/english/employees/geography/?pure=en/persons/81138)**: Land use change, farming systems, natural resource management, agent-based modeling;
 - **[Christian Fertner](https://ign.ku.dk/english/employees/landscape-architecture-planning/?pure=en/persons/317763)**: Spatial planning, Sustainable urban development, Resource and energy efficient cities, Land use change, Urban sprawl, Functional regions, Small towns, Spatial analysis, Digital planning.
- 
+
 ### 奥尔堡大学
 
 **Aalborg University (AAU)**
@@ -1827,31 +1902,39 @@ GIS相关系所：[地理研究科]( https://ign.ku.dk/english/research/geograph
 丹麦，北日德兰大区，奥尔堡市
 
 GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/organisations/arealforvaltning-og-geoinformatik)
+
 奥尔堡大学有关GIS / RS的研究集中在规划系下的土地管理与地理信息小组，研究规模较小。该校的GIS项目设在地理系下，但由该小组授课，本科毕业申请可修2年硕士，硕士毕业申请可修3-5年博士。
+
 相关导师：
 - **[Jamal Jokar Arsanjani](https://vbn.aau.dk/en/persons/137426)**: Spatial Analysis, Mapping, Satellite Image Analysis, Modeling and Simulation, Urbanism, Simulation, Probability, Modeling, Image Processing;
 - **[Lars Bodum](https://vbn.aau.dk/en/persons/107658)**: Geography and Geology, 3D Geovisualization, Virtual Reality, Geoinformatics, Spatial Data Infrastructure;
 - **[Jan Kloster Staunstrup](https://vbn.aau.dk/en/persons/110412)**: GIS, Spatial statistics, Geoinformatics, Sociology and Social Conditions, Urban development and urbanization;
 - **[ Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: Urban Development, Spatial Analysis, Sustainable Development, Climate Change, Land Use Planning, Environment, Sustainability, Geoinformation, Satellite Image Processing.
- 
+
 ### 维也纳大学
 
-**University of Vienna (Wisc)**
+**University of Vienna (UWien)**
 
 奥地利，维也纳市
 
 GIS相关系所：[制图与地理信息工作小组](https://geographie.univie.ac.at/en/working-groups/cartography-and-geographic-information/)
+
 维也纳大学的制图与地理信息工作小组历史悠久，在制图学和空间信息处理上有一定的科研实力。该系GIS主要有两个项目，传统项目主要针对走学术道路的学生，本科毕业申请可修2-3年硕士，硕士毕业申请可修3-6年博士。
+
 相关导师：
 - **[Wolfgang Kainz](https://homepage.univie.ac.at/Wolfgang.Kainz/)**: the theoretical issues of GIS, spatiotemporal modeling, uncertainty, and topology, spatial relationships;
 - **[Karel Kriz](https://homepage.univie.ac.at/karel.kriz/)**: cartographic design, web-based cartography, GIScience and thematic aspects of mountain cartography;
 - **[Andreas RIEDL](https://homepage.univie.ac.at/andreas.riedl/)**: Multimedia technologies in geocommunication, GIS and applied geographic information (GI),  Animation in geovisualization, Virtual Reality & Hyperglobes (digital / interactive globes).
- 
+
 ### 维也纳工业大学
-** Vienna University of Technology (TU Wien) **
+**Vienna University of Technology (TU Wien)**
+
 奥地利，维也纳市
+
 GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.at/)
+
 维也纳工业大学的大地测量与地理信息学系在上世纪90年代以来声名显赫，下设遥感、地理信息、大地测量、地球物理等研究小组，Andrew U. Frank曾在此任教24年，多位欧洲的GIS老师曾在此读博。该系GIS主要有两个项目，一个项目是本校的学生，本科毕业申请可修2年硕士，硕士毕业申请可修3-5年博士，另一个项目是欧洲的Erasmus制图学硕士，其中一个学期要在TU Wien就读。
+
 相关导师：
 - **[Ioannis Giannopoulos](https://www.geo.tuwien.ac.at/staff/991/giannopoulos-ioannis)**: Spatial HCI, Urban Computing, LBS, Mobile Decision Making, Machine Learning, Mobile and Remote Eye Tracking, Pedestrian Navigation, Augmented Reality as well as Interaction in Virtual and Mixed Environments;
 - **[Gartner, Georg](https://www.geo.tuwien.ac.at/staff/1071/gartner-georg)**: Cartography; Maps; Web Mapping; Spatial Analysis; Atlases; Geoinformation; Location-Based Services; Crowdsourcing.
@@ -1862,6 +1945,7 @@ GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.
 奥地利，维也纳市
 
 GIS相关系所：[Interfaculty Dept. of Geoinformatics-Z_GIS](https://zgis.at/)
+
 萨尔茨堡大学（Paris Lodron University Salzburg, PLUS）建立于1622年，由当时的大主教Paris Lodron创建，是一所奥地利国立综合性大学，拥有神学、法学、人文科学、自然科学四大主要经典院系。其中由Strobl Josef领头的Z_GIS学院成立超过35年，拥有30余名研究人员，主要的研究领域包括空间图形理解、图像分析、真实世界建模、对地观测技术、地学可视化等。近年来，Z_GIS在欧洲框架项目、国家研究项目等取得不少成果，例如减灾、自然资源管理、规划和政策支持等。
 Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AGIT)，另一个UNGIS国际项目。AGIT每年在7月初在萨尔茨堡的Nawi举办，是应用地理信息学论坛和展览盛会。UNGIS联合会是全球最大的地理信息科学远程学习网络。当前已经包括了15个全球合作伙伴。它提供了地理信息科学专业学习、硕士学位两个主要的课程。
 学位：Geography Bachelor； Applied Geoinformatics MSc.
@@ -1874,78 +1958,69 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 - **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等。邮箱：shahnawaz.shahnawaz@sbg.ac.at
 - **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：Application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented Image Analysis，Geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at
 
- 
+
 ### 荷语鲁汶大学
-** Katholieke Universiteit Leuven (KU Leuven) **
+**Katholieke Universiteit Leuven (KU Leuven)**
+
 比利时，鲁汶市
+
 GIS相关系所：[地理与观光科](https://ees.kuleuven.be/geography/)
+
 荷语鲁汶大学的地理学着重于地球表面物理现象和人为现象的空间格局，以及社会与环境之间的相互作用。该系GIS主要和布鲁塞尔自由大学（VUB）进行合作开设项目。本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。其GIS项目主要着重于获取，管理，分析和映射空间数据的新方法和技术，还可以选择包括为期两个月的GIS实习。
+
 相关导师：
 - **[Govers Gerard](https://www.kuleuven.be/wieiswie/en/person/00007263)**: Spatial modeling, Geomorphological processes, Soil science, Physical geography;
 - **[Ate Poorthuis]( https://www.kuleuven.be/wieiswie/en/person/00129301)**: urban geography, geographic data science, visualization, geocomputation;
 - **[Van Rompaey Anton](https://www.kuleuven.be/wieiswie/en/person/00016134)**: Socio-ecological systems, land use change, rural-urban migrations.
- 
+
 ### 荷语布鲁塞尔自由大学
-** Vrije Universiteit Brussel (VUB) **
+**Vrije Universiteit Brussel (VUB)**
+
 比利时，布鲁塞尔市
+
 GIS相关系所：[地理系]( https://we.vub.ac.be/en/geography-department)
+
 荷语布鲁塞尔自由大学的地理研究着重关注城市、社会与空间的变化。该系GIS主要和布鲁塞尔自由大学（VUB）进行合作开设项目。本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。其GIS项目主要着重于获取，管理，分析和映射空间数据的新方法和技术，还可以选择包括为期两个月的GIS实习。
+
 相关导师：
 - **[Frank Canters](https://urbanstudies.brussels/people/frank-canters)**: Urban remote sensing, Monitoring and modeling of urban dynamics, Uncertainty in spatial data, Map projection research.
- 
+
 ### 根特大学
-** Ghent University (UGhent) **
+**Ghent University (UGhent)**
+
 比利时，根特市
+
 GIS相关系所：[地理系](http://www.geografie.ugent.be/en)
+
 根特大学地理系历史悠久，范围全面，在3D数据采集、制图和GIS、自然地理学、景观研究、社会经济地理等方面有所涉猎，。本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。该系GIS主要有两个硕士项目，均为荷兰语授课，一个是传统的地理学项目，另外还有个专门的测绘项目。
+
 相关导师：
 - **[Philippe De Maeyer]( http://www.geografie.ugent.be/members/801001291571)**: Geographic Information System, Land Use, Geography, Remote Sensing, Flood Modelling, Digital Mapping;
 - **[Haosheng Huang](http://www.geografie.ugent.be/members/802003272572)**: Geographic Information Science, Cartography, Location Based Services (LBS), Indoor/Outdoor Navigation Systems, Spatial Cognition, Computational Mobility and Activity Analytics, Urban Informatics;
 - **[Nico Van de Weghe](http://www.geografie.ugent.be/members/801001472437)**: analysis and modelling of spatiotemporal information, going from mobility research to sports analytics, tracking of moving objects and location based services.
- 
+
 ### 米兰理工大学
-** Polytechnic University of Milan (POLIMI) **
+**Polytechnic University of Milan (POLIMI)**
+
 意大利，米兰市
+
 GIS相关系所：[地理信息和地球观测实验室GIS开发组](https://www.gisgeolab.polimi.it/)
+
 米兰理工大学作为意大利GIS / RS较强的学校，在土木与环境工程系下设地理信息与地球观测实验室。本科毕业申请可修2年硕士，硕士毕业申请可修3年博士。该校GIS的硕士项目是整合了环境、地理信息学、计算机科学的地理信息工程硕士，相对更加侧重计算机方面的教学。
+
 相关导师：
 - **[Maria Antonia Brovelli](https://www.gisgeolab.polimi.it/)**: GIS, webGIS, geospatial web platform, VGI (Volunteer Geographic Information), Citizen Science and Big Geo Data;
 - **[Daniela Carrion](https://www.gisgeolab.polimi.it/)**: ‪GIS,Remote Sensing,Geodesy.‬
- 
+
 ### 国立都柏林大学
-** University College Dublin (UCD) **
+**University College Dublin (UCD)**
+
 爱尔兰，都柏林市
+
 GIS相关系所：[地理系](https://www.ucd.ie/geography/)
+
 国立都柏林大学地理系历史悠久，在人文地理、地缘政治、环境评估等方面实力强劲。该系GIS主要是1年授课制项目，本科毕业即可申请，课程多与自然/人文地理相结合的GIS为主。同时，该系也有2年制的研究型硕士，需要提交proposal，毕业申请可修3年博士。
+
 相关导师：
 - **[Ainhoa Gonzalez Del Campo](https://people.ucd.ie/ainhoa.gonzalez)**: developing and applying geospatial analysis tools and methods for assessing environmental change and impacts, to better inform planning and decision-making;
 - **[Michela Bertolotto](https://people.ucd.ie/michela.bertolotto)**: spatio-temporal data modelling and mining, mobile and web-based GIS, map personalisation, open and crowd-sourced spatial data.
- 
-### 柏林工业大学
-** Technische Universität Berlin (TUB) **
-德国，柏林州，柏林市
-GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/)
-柏林工业大学在规划建筑环境学院下设大地测量与地理信息技术研究所，着重大地测量、GNSS测量、地理信息学方法论等研究，夏坚白、王之卓等人曾在此就读。该校GIS主要是正常的2年制硕士，分成测量、计算机视觉与遥感、GIS等方向授课。硕士毕业后，可寻求funding读博，时间3-5年。
-相关导师：
-- **[Martin Kada](https://www.gis.tu-berlin.de/menue/mitarbeiter/martin_kada/parameter/en/)**: Algorithms, Segmentation, 3D Computer Graphics, 3D Modeling, Visualization, Real-Time Rendering.
- 
-### 明斯特大学
-** Universität Münster (WWU) **
-德国，北威州，明斯特市
-GIS相关系所：[地理系](https://geography.wisc.edu/)
-明斯特大学下设的地理信息研究所主要研究空间动态过程，语义互操作性，空间辅助系统，认知工程和传感器网络等，Gilberto Camara、Werner Kuhn曾在此任教。该校GIS主要是正常的2年制硕士，期间有一学期需要进行实习。硕士毕业后，可利用3-5年的时间完成博士学位。
-相关导师：
-- **[Christian Kray](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/118/Christian_Kray)**: Geoinformatics, Human-Computer Interaction, and mobile and ubiquitous computing;
-- **[Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)**: spatial statistics, environmental modelling, geoinformatics and GIScience, semantic technology for spatial analysis, optimizing environmental monitoring;
-- **[Angela Schwering](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/109/Angela_Schwering)**: Spatial cognition, Qualitative spatial reasoning, Cognitive navigation;
-- **[Judith Verstegen]( https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/274/Judith_Verstege)**: Geosimulatiom models (agent-based models, cellular automata), Spatial statistics, Error propagation methods, Spatial optimization.
- 
-### 柏林洪堡大学
-** Humboldt-Universitat zu Berlin (HUB) **
-德国，柏林州，柏林市
-GIS相关系所：[地理系](https://www.geographie.hu-berlin.de/en/geography_department)
-柏林洪堡大学的地理系历史悠久，在200余年的发展中几乎涵盖了自然地理、人文地理共9个方向的研究，是德国地理研究的枢纽。该校GIS主要是在正常的2年制硕士（全球变化地理）中下设课程内容，硕士毕业后可利用3-5年的时间完成博士学位。
-相关导师：
-- **[Tobia Lakes](https://www.geographie.hu-berlin.de/de/Members/lakes_tobia)**: Spatial Analysis, Land Use Change and Modelling, Urbanism, Spatial Statistics, Geostatistical Analysis, Geomatics;
-- **[Patrick Hostert](https://www.geographie.hu-berlin.de/en/professorships/eol/people/labmembers/patrick_hostert)**: Spatial Analysis, Geographic Information System, Satellite Image Processing, Sustainability, Ecology, Environment, Climate Change and Agriculture, Remote Sensing.
- 
