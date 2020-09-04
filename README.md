@@ -396,19 +396,20 @@ GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonsta
 - **[Mark Raleigh](https://ceoas.oregonstate.edu/people/mark-raleigh)**: remote sensing, image processing, polar climate, spatial analysis on snow distribution, geo-data science
 
 ### 克拉克大学
+**Clark University (Clark)**
+美国，马萨诸塞州，伍斯特
 
-**Clark University ([Clark](https://www.clarku.edu/))**
-
+GIS相关系所：[地理系](https://www.clarku.edu/departments/geography/)
 
 克拉克大学以地理学和心理学最为著名。
 
 相关导师：
 
-- **J. Ronald Eastman**: GIS, earth system informatics, conservation GIS, remote sensing, and cartography;
+- **[J. Ronald Eastman](https://www2.clarku.edu/faculty/facultybio.cfm?id=61)**: GIS, earth system informatics, conservation GIS, remote sensing, and cartography;
 
-- **John Rogan**: landscape ecology, fire ecology, optical remote sensing and GIScience;
+- **[John Rogan](https://www2.clarku.edu/faculty/facultybio.cfm?id=460)**: landscape ecology, fire ecology, optical remote sensing and GIScience;
 
-- **Florencia Sangermano**: conservation biology, GIS, remote sensing and landscape ecology.
+- **[Florencia Sangermano](https://www2.clarku.edu/faculty/facultybio.cfm?id=896&progid=15)**: conservation biology, GIS, remote sensing and landscape ecology.
 
 ### 加州大学圣巴巴拉分校
 
@@ -883,9 +884,24 @@ GIS相关系所：[地理系](http://www.buffalo.edu/cas/geography.html)
 
 自2020年秋季起，**[Andrew Crooks](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/andrew-crooks.html)** 加盟本系，研究方向Geocomputation, Agent-based modeling, Social Network Analysis, Urban Geography, Computational Social Science。
 
-### 缅因大学
+### 缅因大学 
+**University of Maine**
+美国，缅因州，奥朗诺
 
-TBA
+GIS相关系所：[计算信息科学学院] (https://umaine.edu/scis/)
+
+缅因大学地理系历史悠久，是美国三大地理分析中心（National Center for Geographic Information and Analysis，NCGIA）之一。在空间分析和GIS可视化方面尤为突出，Max Egenhofer在此任教。缅因大学GIS项目在计算机信息科学学院，有许多计算机课程可供选择。该系主要有两个项目，Information Systems硕士偏向于就业，Spatial Information Science and Engineering偏向于学术科研。该系硕士博士一般都可以拿到TA或者GRA位置。其GIS核心课程包括 Spatial Analysis, Spatial Interaction Design，Spatial Database Systems等课程。
+
+相关导师：
+- **[Kate Beard-Tisdale](https://umaine.edu/scis/people/kate-beard-tisdale/)**: map generalization, data quality and the visualization of spatial data quality, geographic information retrieval, analysis and visualization of spatio-temporal phenomena, and spatio-temporal information integration;
+- **[Max Egenhofer](https://umaine.edu/scis/people/max-egenhofer/)**: spatio-temporal reasoning, user interfaces for geographic information systems, the design of spatial database systems, and mobile spatial information appliances;
+- **[Nicholas Giudice](https://umaine.edu/scis/people/nicholas-giudice/)**: virtual reality (VR)， augmented reality (AR)，human-computer interaction
+spatial learning and navigation;
+- **[Torsten Hahmann](https://umaine.edu/scis/people/torsten-hahmann/)**: spatial informatics and artificial intelligence, specifically, knowledge representation, logic, and automated reasoning；
+- **[Silvia Nittel](https://umaine.edu/scis/people/silvia-nittel/)**: data management technology for geosensor networks, wireless sensor networks and sensor data streams；
+- **[Harlan Onsrud](https://umaine.edu/scis/people/harlan-onsrud/)**: analysis of legal, ethical, and institutional issues affecting the creation and use of digital databases and the assessment of the social impacts of spatial technologies；
+- **[Nimesha Ranasinghe](https://umaine.edu/scis/people/nimesha-ranasinghe/)**: multisensory interactive media, augmented reality, and human-computer interaction.
+
 
 ### 路易斯安纳州立大学
 
