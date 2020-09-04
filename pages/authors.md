@@ -1,17 +1,33 @@
-# 关于作者
-
 # 本页面尚未完工，完成后会公开发布.当前请勿传播扩散，谢谢！
 
-下面是撰写条目和提供院校信息的作者名单。排名不分先后。
+# 作者及联系方式
 
+GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
+
+如果有问题、勘误、意见或建议，欢迎在[issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言，也可以通过邮件联系我们。
+
+### 联系人
+[康雨豪](https://www.kkyyhh96.site) - 威斯康星大学麦迪逊分校 [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
+
+[叶山](https://yeshancqcq.github.io/): [yeshantulsa@hotmail.com](mailto:yeshantulsa@hotmail.com)
+
+[饶锦蒙](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
+
+[李肖](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
+
+[刘昊坤](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
+
+叶翔 - 深圳大学
+
+赵群山 - 格拉斯哥大学
+
+### 作者名单
+
+下面是撰写条目和提供院校信息的作者名单。排名不分先后。
 
 请注意，为保护隐私，作者单位为作者当前单位，并非其所提供信息的学校.
 
 再次衷心感谢所有作者的辛苦付出。
-
-[返回指南](https://gis-info.github.io/)
-
-### 作者名单
 
 张桂铭 - 丹佛大学
 
@@ -19,7 +35,7 @@
 
 李子奇 - 伊利诺伊大学香槟分校
 
-崔文聪 - 
+崔文聪 -
 
 吕方正 - 伊利诺伊大学香槟分校
 
@@ -33,7 +49,7 @@
 
 赵雨潇 - Esri
 
-周建雄 - 切萨皮克能源
+周建雄 - Chesapeake Energy
 
 Henry Luan - 俄勒冈大学
 
@@ -55,15 +71,15 @@ Henry Luan - 俄勒冈大学
 
 Wendy Liu - 芝加哥大学
 
-Jade Huang - 宾夕法尼亚州立大学
+黄佳玮 - 宾夕法尼亚州立大学
 
-徐芳洁 - 通用
+徐芳洁 - GE
 
 赖佳梦 - 康奈尔大学
 
-张蔚行 
+张蔚行
 
-杨家鑫 - 德克萨斯州立大学达拉斯分校
+杨家鑫 - 德克萨斯州立大学
 
 杨梅
 
@@ -79,15 +95,15 @@ Jade Huang - 宾夕法尼亚州立大学
 
 赵家彦 - 宾夕法尼亚州立大学
 
-邓成斌 - 纽约州立大学宾汉姆顿分校
+邓成斌 - 纽约州立大学宾厄姆顿分校
 
 叶翔 - 深圳大学
 
 魏辛源
 
-Xiao Han - 康菲
+Xiao Han - ConocoPhillips
 
-宋秋然 - 德文能源
+宋秋然 - Devon Energy
 
 黄啸 - 阿肯色大学
 
@@ -99,16 +115,13 @@ Xiao Han - 康菲
 
 胡英杰 - 纽约州立大学布法罗分校
 
-
-<!--加拿大-->
-
 李烁 - 汇丰
 
 费庆源 - 国家电网
 
 谢雨潭 - 网易
 
-皮心月 
+皮心月
 
 Stanley Du - Pathea
 
@@ -118,11 +131,10 @@ Stanley Du - Pathea
 
 周璐 - 东北林业大学
 
-Weichen Cao - 安达保险
+Weichen Cao - Chubb Limited
 
 张婧祎 - 北京四中
 
-<!--英国-->
 赵群山 - 格拉斯哥大学
 
 陈焕发 - 伦敦大学学院
@@ -137,8 +149,6 @@ Weichen Cao - 安达保险
 
 乔天 - 谢菲尔德大学
 
-<!--荷兰-->
-
 付圣 - 乌特勒支大学
 
 刘振宇 - 代尔夫特理工大学
@@ -147,13 +157,11 @@ Weichen Cao - 安达保险
 
 刘晓健- 特温特大学
 
-<!--亚澳-->
-
 宋万营 - 香港中文大学
 
 张帆 - 麻省理工学院
 
-陈龙 
+陈龙
 
 黄冠
 
@@ -163,11 +171,7 @@ Weichen Cao - 安达保险
 
 彭倩 - 香港理工大学
 
-<!--新加坡-->
-
 王单桐 - 剑桥大学
-
-<!--澳大利亚-->
 
 王瑶莉 - 北京大学
 
