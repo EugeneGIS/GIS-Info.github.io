@@ -203,17 +203,17 @@ GIS相关系所：[地理与环境系](https://science.du.edu/geography)
 
 GIS相关系所：[地理与地理信息科学系](https://science.gmu.edu/academics/departments-units/geography-geoinformation-science)
 
-乔治梅森大学是美国的一所公立高校，距离华盛顿DC只有三十分钟，其地理系具有强劲的地理信息计算科学和数据科学的实力。该系的硕士研究生项目有三类，包含地理信息系统，地球科学，和地理与制图学三个方向的硕士学位。博士生项目只有一个：地球系统与地理信息科学博士学位，本科毕业生也可以申请。所有研究生项目都是STEM，所以OPT可以延长到三年。
+乔治梅森大学是美国的一所公立高校，距离华盛顿DC只有三十分钟，其地理系具有强劲的地理信息计算科学和数据科学的实力。该系的硕士研究生项目有三类，包含地理信息系统，地球科学，和地理与制图学三个方向的硕士学位。博士生项目只有一个：地球系统与地理信息科学博士学位，本科毕业生也可以申请，以上均为STEM。
 
 相关导师：
-- **[Chaowei Yang]( https://science.gmu.edu/directory/chaowei-yang)**: high-performance geo-computation, spatiotemporal theories and applications;
-- **[Andreas Zufle](https://science.gmu.edu/directory/andreas-zufle)**: Computer Science, Data Sciences, Geoinformation Science, Geospatial Intelligence, Smart Cities;
-- **[David Wong](https://science.gmu.edu/directory/david-wong)**: Population, spatial statistics, Geography of China, Thoughts and Methodology, Biochemistry;
+- **[Chaowei Yang](https://science.gmu.edu/directory/chaowei-yang)**: high-performance geo-computation, spatiotemporal theories and applications;
+- **[Andreas Zufle](https://science.gmu.edu/directory/andreas-zufle)**: computer science, data sciences, geoinformation science, geospatial intelligence, smart cities;
+- **[David Wong](https://science.gmu.edu/directory/david-wong)**: population, spatial statistics, geography of China, thoughts and methodology, biochemistry;
 - **[Nathan Burtch](https://science.gmu.edu/directory/nathan-burtch)**: urban planning, urban geography, geoinformation technologies, GIS, quantitative methods, and cartography;
-- **[Arie Croitoru](https://science.gmu.edu/directory/arie-croitoru)**: Computational GeoInformatics, Image Processing and Image Analysis, Digital Photogrammetry and Remote Sensing, Spatial Statistics in GIS for data quality evaluation;
-- **[Matt Rice](https://science.gmu.edu/directory/matthew-rice)**: Geocrowdsourcing, cartography;
-- **[Dieter Pfoser](https://science.gmu.edu/directory/dieter-pfoser)**: Computer Science, Data Sciences, Geoinformation Science, Geospatial Intelligence;
-- **[Liping Di]( https://science.gmu.edu/directory/liping-di)**: Geospatial information interoperability and standards.
+- **[Arie Croitoru](https://science.gmu.edu/directory/arie-croitoru)**: computational geoinformatics, image processing and image analysis, digital photogrammetry and remote sensing, spatial statistics in GIS for data quality evaluation;
+- **[Matt Rice](https://science.gmu.edu/directory/matthew-rice)**: geocrowdsourcing, cartography;
+- **[Dieter Pfoser](https://science.gmu.edu/directory/dieter-pfoser)**: computer science, data sciences, geoinformation science, geospatial intelligence;
+- **[Liping Di](https://science.gmu.edu/directory/liping-di)**: geospatial information interoperability and standards.
 
 ### 亚利桑那州立大学
 **Arizona State University (ASU)**
@@ -241,15 +241,15 @@ GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 
 美国，伊利诺伊州，香槟市
 
-GIS相关系所：[地理与地理信息科学系]( https://ggis.illinois.edu/)
+GIS相关系所：[地理与地理信息科学系](https://ggis.illinois.edu/)
 
-伊利诺伊大学香槟分校地理与地理信息科学系于时空间分析，地理大数据分析，人文地理，与水文方向实力强劲。该系GIS主要有两个硕士项目，分别是偏向传统地理学习的2年硕士与偏向GIS应用的Professional Science Master项目。 针对有有读博意愿的同学，硕士抑或是本科毕业的同学都可申请该系的博士项目。
+伊利诺伊大学香槟分校地理与地理信息科学系于时空间分析，地理大数据分析，人文地理，与水文方向实力强劲。该系GIS主要有两个硕士项目，分别是偏向传统地理学习的2年硕士与偏向GIS应用的Professional Science Master项目。 
 
 相关导师：
-- **[Shaowen Wang]( https://ggis.illinois.edu/directory/profile/shaowen)**: geo-big data, high-performance geospatial computing, CyberGIS;
-- **[Julie Cidell]( https://ggis.illinois.edu/directory/profile/jcidell)**: cities, policy, transportation;
-- **[Bruce Rhoads]( https://ggis.illinois.edu/directory/profile/brhoads)**: River, Watershed, and Landscape Dynamics
-- **[Chunyuan Diao]( https://ggis.illinois.edu/directory/profile/chunyuan)**: remote sensing;
+- **[Shaowen Wang](https://ggis.illinois.edu/directory/profile/shaowen)**: geo-big data, high-performance geospatial computing, CyberGIS;
+- **[Julie Cidell](https://ggis.illinois.edu/directory/profile/jcidell)**: cities, policy, transportation;
+- **[Bruce Rhoads](https://ggis.illinois.edu/directory/profile/brhoads)**: River, Watershed, and Landscape Dynamics
+- **[Chunyuan Diao](https://ggis.illinois.edu/directory/profile/chunyuan)**: remote sensing;
 - **[James Leonard Best]( https://ggis.illinois.edu/directory/profile/jimbest)**: River, Spatial-time analysis
 
 ### 佐治亚大学
@@ -277,7 +277,7 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 
 GIS相关系所：[地理系](https://geog.ufl.edu)
 
-佛罗里达大学是美国的顶尖公立高校。被誉为公立常春藤，位列全美公立大学第七（2020年）。其地理系综合实力强劲，包含地理信息系统、健康地理、自然地理、人文地理四个方向。
+佛罗里达大学是美国的顶尖公立高校，被誉为公立常春藤。其地理系综合实力强劲，包含地理信息系统、健康地理、自然地理、人文地理四个方向。
 
 相关导师：
 - **[Jane Southworth](https://geog.ufl.edu/faculty/southworth/)**: human-environment interactions, land change science, remote sensing;
@@ -294,13 +294,13 @@ TBA
 
 ### 俄亥俄州立大学
 
-**Ohio State University (Ohio State)**
+**Ohio State University (OSU)**
 
 美国，俄亥俄州，哥伦布市
 
 GIS相关系所：[地理系](https://geography.osu.edu/)
 
-俄亥俄州立大学的地理系国际学生占比很高，是一个diverse的系。据不完全统计，中国学生在研究生中占比约为30%。而且国际学生的比例也是呈现逐年增高趋势（2020-2021年可能除外）。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年（可能少于或多于这个时间），研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作，但是可能对国际生来说比较少见；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案还是更倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。系里的资助机会很充足，大部分（95%以上）的研究生都有助学金，分为TA和RA；系里每年一般还会有一个名额的来自学校资助的全额奖学金（fellowship）；另外，系里、学校会有一些奖学金用来资助学生开会或者进行不同方向的研究等，整体来说，给博士的各类奖学金机会比硕士多一些。该系人文地理做得好的教授较多（虽然做人文的中国学生比较少），GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
+俄亥俄州立大学的地理系国际学生占比很高。地理系研究生有地理和大气科学这两个项目。硕士项目一般两年，博士一般四年，研究生攻读方向分为：环境和社会，GIS和空间分析，自然地理和气候研究，城市、区域和全球研究。该系大部分毕业生都往学术界发展，硕士毕业后一般都继续留在本系或者去其他高校攻读博士，博士毕业生在美国或者其他国家找到了教职、博士后的岗位；还有一部分人去政府机构单位工作；还有少部分人会去工业界，主要是GIS、遥感或者数据分析方向，或者偏向科研性质的岗位。该系整体的培养方案倾斜于学术人才（参看：[毕业生去向记录](https://geography.osu.edu/graduate-student-placement)）。该系人文地理做得好的教授较多，GIS和自然地理的各个方向也都有人在做。专门做GIS、遥感的老师很少，大多数的老师是将GIS和遥感与一个应用领域结合在做，例如公共健康、交通、资源、环境等。
 
 相关导师:
 - **[Ningchuan Xiao](https://geography.osu.edu/people/xiao.37)**: WebGIS, GIS algorithms, visualization
@@ -314,9 +314,9 @@ GIS相关系所：[地理系](https://geography.osu.edu/)
 - **[Max Woodworth](https://geography.osu.edu/people/woodworth.42)**: regional geography, urban geography
 - **[Mathew Coleman](https://geography.osu.edu/people/coleman.373)**: political geography
 - **[Bryan Mark](https://geography.osu.edu/people/mark.9)**: tropical glaciers, climate changes, spatial modeling of glaciers
-- **[David Bromwich](https://geography.osu.edu/people/bromwich.1)**: polar climate, Weather Research and Forecast Model, sea ice physics
+- **[David Bromwich](https://geography.osu.edu/people/bromwich.1)**: polar climate, weather research and forecast model, sea ice physics
 - **[Steven Quiring](https://geography.osu.edu/people/quiring.10)**: soil science, energy, natural hazard, eolian environment, draught
-- **[Zhengyu Liu](https://aos.wisc.edu/~zliu/)**: climate data-model comparison, Community Earth System Model, spatiotemporal atmospheric modeling, ocean-atmosphere interaction
+- **[Zhengyu Liu](https://aos.wisc.edu/~zliu/)**: climate data-model comparison, community earth system model, spatiotemporal atmospheric modeling, ocean-atmosphere interaction
 - **[Alvaro Montenegro](https://geography.osu.edu/people/montenegro.8)**: climate modeling, large-scaled climate simulation, numerical methods
 
 ### 俄克拉荷马大学
@@ -332,9 +332,9 @@ GIS相关系所：[地理与环境可持续发展系](https://www.ou.edu/ags/geo
 相关导师：  
 
 - **[Jennifer A. M. Koch](http://landusechange.net/)**: GIS application in land use, environmental informatics;   
-- **[Rebecca W. Loraamm](https://naturallyspatial.net/)**: Time geography, spatiotemporal data analysis, spatial optimization
+- **[Rebecca W. Loraamm](https://naturallyspatial.net/)**: time geography, spatiotemporal data analysis, spatial optimization
 - **[Mike Wimberly](http://ecograph.net/)**: environmental informatics, remote sensing
-- **[Hernan Moreno](http://moreno.oucreate.com/index.html)**: Hydrological remote sensing, environmental remote sensing, hydrological modeling
+- **[Hernan Moreno](http://moreno.oucreate.com/index.html)**: hydrological remote sensing, environmental remote sensing, hydrological modeling
 - **[Jeff Widener](http://ou.academia.edu/JeffreyWidener)**: GIS in human geography, cartography and visual analytics
 
 ### 俄克拉荷马州立大学
@@ -343,12 +343,12 @@ GIS相关系所：[地理与环境可持续发展系](https://www.ou.edu/ags/geo
 
 美国，俄克拉荷马州，静水（斯提尔沃特）
 
-GIS相关系所：[地理系]( https://geog.okstate.edu/)
+GIS相关系所：[地理系](https://geog.okstate.edu/)
 
 俄克拉荷马州立大学地理系有理学硕士（MS）和博士两种项目，其中包括空间技术方向（Geospatial Technologies）。俄克拉荷马州立大学GIS项目的特色是交通地理和自然资源管理，其中交通是本校的优势方向，和[工业工程及管理系]( https://iem.okstate.edu/)有合作项目，也和西南交通大学是合作院校。
 
 相关导师：  
-- **[Hongbo Yu]( https://geog.okstate.edu/people/faculty?id=458)**: GIS, time geography, transportation
+- **[Hongbo Yu](https://geog.okstate.edu/people/faculty?id=458)**: GIS, time geography, transportation
 - **[Yuting Zhou](https://geog.okstate.edu/people/faculty?id=489)**: GIS, remote sensing, climate, land use
 - **[Brad A. Bays](https://geog.okstate.edu/people/faculty?id=446)**: GIS for Native American landscape, historical GIS
 - **[Jonathan C. Comer](https://geog.okstate.edu/people/faculty?id=327)**: transportation, geostatistics, location analysis, spatial analysis in wireless network
@@ -368,17 +368,17 @@ GIS相关系所：[地理系](https://geography.uoregon.edu)
 
 相关导师：
 
-- **[Amy Lobben](https://geography.uoregon.edu/profile/lobben/)**: Neurogeography; human-environmental interaction; spatial decision making; geospatial cognition and thinking
-- **[Carolyn Fish](https://geography.uoregon.edu/profile/cfish11/)**: Cartography; map design; climate change communication; mapping environment-society interactions
-- **[Hui(Henry) Luan 栾辉](https://geography.uoregon.edu/profile/hluan/)**: Spatiotemporal statistics; Bayesian analysis; public health; crime; big data analytics
+- **[Amy Lobben](https://geography.uoregon.edu/profile/lobben/)**: neurogeography; human-environmental interaction; spatial decision making; geospatial cognition and thinking
+- **[Carolyn Fish](https://geography.uoregon.edu/profile/cfish11/)**: cartography; map design; climate change communication; mapping environment-society interactions
+- **[Hui(Henry) Luan 栾辉](https://geography.uoregon.edu/profile/hluan/)**: spatiotemporal statistics; Bayesian analysis; public health; crime; big data analytics
 
 （注：以上三位导师为该系与GIS相关的[空间认知、计算和复杂性实验室](https://blogs.uoregon.edu/s3clab/)的主要成员)
 
-- **[Patrick Bartlein](https://geography.uoregon.edu/profile/bartlein/)**: Data analysis and visualization; environmental modelling; paleoclimatology
-- **[W.Andrew Markus](https://geography.uoregon.edu/profile/marcus/)**: Hydrology; geomorphology; remote sensing
-- **[Mark Fonstad](https://geography.uoregon.edu/profile/fonstad/)**: Geomorphology; hydrology; remote sensing; environmental simulation
-- **[Sarah Cooley](https://geography.uoregon.edu/profile/scooley2/)**: Hydrology; climate change; the Arctic; remote sensing and spatial data analysis
-- **[Johnny Ryan](https://geography.uoregon.edu/profile/jryan4/)**: Glaciology; climatology; remote sensing; drones; spatial data analysis
+- **[Patrick Bartlein](https://geography.uoregon.edu/profile/bartlein/)**: data analysis and visualization; environmental modelling; paleoclimatology
+- **[W.Andrew Markus](https://geography.uoregon.edu/profile/marcus/)**: hydrology; geomorphology; remote sensing
+- **[Mark Fonstad](https://geography.uoregon.edu/profile/fonstad/)**: geomorphology; hydrology; remote sensing; environmental simulation
+- **[Sarah Cooley](https://geography.uoregon.edu/profile/scooley2/)**: hydrology; climate change; the Arctic; remote sensing and spatial data analysis
+- **[Johnny Ryan](https://geography.uoregon.edu/profile/jryan4/)**: glaciology; climatology; remote sensing; drones; spatial data analysis
 
 
 ### 俄勒冈州立大学
@@ -422,7 +422,7 @@ GIS相关系所：[地理系](https://www.clarku.edu/departments/geography/)
 
 GIS相关系所: [地理系](https://geog.ucsb.edu/)
 
-UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Center for Geographic Information and Analysis)三校之一，退休的著名教授包括地理学第一定律提出者[Waldo Tobler](https://en.wikipedia.org/wiki/Waldo_R._Tobler)教授，美国国家科学院院士[Michael Goodchild](http://www.geog.ucsb.edu/~good/Goodchild-CV.html)教授，空间优化和区域科学学家[Richard Church](http://www.geog.ucsb.edu/~forest/RLC/Index.html)教授，GIS和空间认知学家[Helen Couclelis](http://geog.ucsb.edu/archive/people/faculty_members/couclelis_helen.htm)教授。UCSB NCGIA在1988年建立，Michael Goodchild 教授任第一任中心主任，是[UCSB Center for Spatial Studies (spatial@ucsb)](http://spatial.ucsb.edu/) (2007-)的前身，目前 spatial@ucsb 的中心主任是Krzysztof Janowicz教授。目前UCSB地理系提供硕士和博士项目，本科毕业的学生可以申请2年的MA和2+3的硕博连读项目(MA/PhD)，硕士毕业的同学可申请5年博士项目，历届地理录取的GRE和GPA分数统计可见: [https://geog.ucsb.edu/admission-stats/](https://geog.ucsb.edu/admission-stats/)。UCSB地理系教授研究领域包括：Geospatial Semantic and Knowledge Graph, Social Sensing and Urban Computing, GeoAI, Transportation and Traffic management, Mobility Study, Spatial Optimization, Cartography, Climate Change, Remote Sensing, Land Use and Land Cover Change等。
+UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Center for Geographic Information and Analysis)三校之一，退休的著名教授包括地理学第一定律提出者[Waldo Tobler](https://en.wikipedia.org/wiki/Waldo_R._Tobler)教授，美国国家科学院院士[Michael Goodchild](http://www.geog.ucsb.edu/~good/Goodchild-CV.html)教授，空间优化和区域科学学家[Richard Church](http://www.geog.ucsb.edu/~forest/RLC/Index.html)教授，GIS和空间认知学家[Helen Couclelis](http://geog.ucsb.edu/archive/people/faculty_members/couclelis_helen.htm)教授。UCSB NCGIA在1988年建立，Michael Goodchild 教授任第一任中心主任，是[UCSB Center for Spatial Studies (spatial@ucsb)](http://spatial.ucsb.edu/) (2007-)的前身，目前 spatial@ucsb 的中心主任是Krzysztof Janowicz教授。UCSB地理系提供硕士和博士项目，本科毕业的学生可以申请2年的MA和2+3的硕博连读项目(MA/PhD)，硕士毕业的同学可申请5年博士项目，历届地理录取的GRE和GPA分数统计可见: [https://geog.ucsb.edu/admission-stats/](https://geog.ucsb.edu/admission-stats/)。UCSB地理系教授研究领域包括：Geospatial Semantic and Knowledge Graph, Social Sensing and Urban Computing, GeoAI, Transportation and Traffic management, Mobility Study, Spatial Optimization, Cartography, Climate Change, Remote Sensing, Land Use and Land Cover Change等。
 
 相关导师：
 
@@ -442,7 +442,7 @@ UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Cen
 
 GIS相关系所：[地理系](https://geography.washington.edu/)
 
-华大地理系是Critial GIS/Geography的基地，人文地理及理论研究实力强劲。历史上，引领地图学计算机化潮流的John Sherman和发起了“地理学计量化变革”的William Garrison曾在此任教。这边申请比较特别，要求必须与至少两位Faculty联系并获得对方支持（但实际上你只有一个主导师，建议先套主导师套上后再让对方推荐其他老师进一步联系）——弱委员会，导师意见非常重要。除[一年制针对就业的GIS项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=661)外，华大地理系的[2年制硕士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=48)和[4-5年制（没有野外考察的话是4年）博士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=219)是完全独立的，不能直接申请硕博连读，且博士项目原则上要求申请者具有地理学相关硕士学位。博士进来必有四年TA/RA保底（暑期得自己找RA或博士后两年自己开暑期课），PhD前两年是中档工资，每月2500+。硕博的必修课包括当代地理思想，当代地理研究设计，三个quaters的地理研讨会，此外至少选一门计量方法课，可选范围包括计量地理、GIS分析、城市GIS、海岸GIS、GIS决策支持系统。
+华大地理系是Critial GIS/Geography的基地，人文地理及理论研究实力强劲。历史上，引领地图学计算机化潮流的John Sherman和发起了“地理学计量化变革”的William Garrison曾在此任教。申请要求必须与至少两位Faculty联系并获得对方支持，导师意见非常重要。除[一年制针对就业的GIS项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=661)外，华大地理系的[2年制硕士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=48)和[4-5年制（没有野外考察的话是4年）博士项目](https://grad.uw.edu/admission/find-a-program/program-detail/#!?progid=219)是完全独立的，不能直接申请硕博连读，且博士项目原则上要求申请者具有地理学相关硕士学位。硕博的必修课包括当代地理思想，当代地理研究设计，三个quaters的地理研讨会，此外至少选一门计量方法课，可选范围包括计量地理、GIS分析、城市GIS、海岸GIS、GIS决策支持系统。
 
 相关导师：
 - **[Bo Zhao](https://hgis.uw.edu/)**：Big Data, Geographic Information Systems, Geovisualization, Mapping Science and Technology, Social Media, Cartography, Mininformation
@@ -475,7 +475,7 @@ GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
 
 ### 南卡罗来纳大学
 
-**University of South Carolina (UoSC)**
+**University of South Carolina (SC)**
 
 美国，南卡罗来纳州，哥伦比亚市
 
@@ -564,13 +564,13 @@ GIS相关系所：[城市研究所IUR](https://penniur.upenn.edu/)和[设计学�
 
 ### 宾夕法尼亚州立大学
 
-**Pennsylvania State University (Penn State)**
+**Pennsylvania State University (PSU)**
 
 美国，宾夕法尼亚州，州学院（斯泰特科里奇）
 
 GIS相关系所：[地理系](https://www.geog.psu.edu/)
 
-宾夕法尼亚州立大学是美国的顶尖公立高校，其地理系具有强劲的综合实力，包含地理信息系统，自然地理，人文地理，自然与社会关系四个方向。该系的非网课研究生项目有三类，本科毕业可以申请 2年硕士，或者2年硕士+3年博士，硕士毕业申请可修4年博士。博士项目只要申请成功，系里会负责四年的学费（提供RA或者TA职位）。另外还有一个硕士项目Master of Geographic Information Systems（MGIS），是world campus的online program，主要针对于已工作人士，但毕业证和resident program的毕业证并没有任何区别。该系提供的毕业证目前为止非STEM，因此OPT只有一年，通常国际学生会选择enroll之后读一个dual degree (双学位)，只要另外一个学位是STEM，OPT就可以延长到三年，具体信息详见[官网](https://www.geog.psu.edu/degree-programs/graduate-degrees/interdisciplinary-programs)。
+宾夕法尼亚州立大学是美国的顶尖公立高校，其地理系具有强劲的综合实力，包含地理信息系统，自然地理，人文地理，自然与社会关系四个方向。该系的非网课研究生项目有三类，本科毕业可以申请 2年硕士，或者2年硕士+3年博士，硕士毕业申请可修4年博士。另外还有一个硕士项目Master of Geographic Information Systems（MGIS），是world campus的online program，主要针对于已工作人士，但毕业证和resident program的毕业证并没有任何区别。该系提供的毕业证目前为止非STEM，通常国际学生会选择enroll之后读一个dual degree (双学位)。
 
 相关导师：
 
