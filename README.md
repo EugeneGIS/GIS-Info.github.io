@@ -1018,7 +1018,7 @@ UBC的地理系开设MA、MSc和PhD三种研究生学位。GIS为该系的主要
 
 GIS相关系所：[地理系](https://arts.ucalgary.ca/geography)
 
-卡尔加里大学地理系提供地理空间科学（geospatial science）方向的研究生项目，包括遥感、地信、导航、制图、空间统计、地理数据挖掘等。该方向也和同系的其他方向（比如资源地理、社会地理、地貌学、冰川学等）有合作项目。研究生项目又分为课题型（包括MA、MSc和PhD学位）和授课型（MGIS学位）两种。课题型学位需要参与科研工作，并完成毕业论文，在此期间需要上和科研内容紧密相关的一些课程。MA和MSc一般需要2年完成，PhD一般要5年。授课型学位MGIS不需要参与科研，但需要上更多、覆盖面更全的地信和遥感相关进阶课程，一般也需要2年完成。具体来说，需要上至少24学分课程编号600以上的课程，剩下还需至少6学分编号500以上的课程。
+卡尔加里大学地理系提供地理空间科学（geospatial science）方向的研究生项目，包括遥感、地信、导航、制图、空间统计、地理数据挖掘等。该方向也和同系的其他方向（比如资源地理、社会地理、地貌学、冰川学等）有合作项目。研究生项目又分为课题型（包括MA、MSc和PhD学位）和授课型（MGIS学位）两种。课题型学位需要参与科研工作，并完成毕业论文，在此期间需要上和科研内容紧密相关的一些课程。MA和MSc一般需要2年完成，PhD一般要5年。授课型学位MGIS不需要参与科研，但需要上更多、覆盖面更全的地信和遥感相关进阶课程，一般也需要2年完成。
 
 相关导师：
 - **[Darren Bender](http://contacts.ucalgary.ca/info/geog/profiles/124-3766)**: GIS, quantitative spatial analysis, biogeography, ecology
@@ -1151,6 +1151,7 @@ GIS相关系所：[地球、环境和社会学院](https://www.science.mcmaster.
 GIS相关系所：[地理系]( https://mcgill.ca/geography/)
 
 麦吉尔大学地理系开设MA、MS和PhD三种研究生学位，其中MS项目在第一年里需要上4门所在方向的核心课程，以及1门地理学科研方法课程，第一年剩余时间及第二年需要完成一个硕士课题。PhD项目在此基础上需要在第二年完成一次综合考试，之后继续完成博士课题。MA选项则有机会和经济系、社会学系、人类学系和历史系等院系自行组建跨学科的自定义专业项目。GIS之父Roger Tomlinson为该系校友。该系的[Platial Analysis Lab](https://platial.science/)研究空间感知行为地理学；[Roger Tomlinson Lab for GIScience](http://tomlinson.lab.mcgill.ca)主要研究geospatial big data以及GeoAI。
+
 相关导师：
 
 - **[Raja Sengupta](http://tomlinson.lab.mcgill.ca/Sengupta/index.html)**：GIS, spatial analysis, spatial decision, agent-based modeling, watershed management
@@ -1169,9 +1170,9 @@ GIS相关系所：[建筑与土木工程系](http://bccw.cityu.edu.hk/main/wp_ho
 香港城市大学研究GIS的老师主要集中在建筑系，GIS应用在城市规划与设计，建筑工程等领域目前受到重视。
 
 相关导师：
-- **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: Built environment; Healthy city; Travel behavior; Street view imagery
-- **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: Transportation; Smart cities and mobility; Urban transport analytics
-- **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: Urban and land use planning;  Spatial planning for pedestrian movement and evacuation modeling
+- **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: built environment; healthy city; travel behavior; street view imagery
+- **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: transportation; smart cities and mobility; urban transport analytics
+- **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: urban and land use planning;  spatial planning for pedestrian movement and evacuation modeling
 
 ### 香港中文大学
 **The Chinese University of Hong Kong**
@@ -1186,10 +1187,10 @@ GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/in
 相关导师：
 
 - **[Mei-Po Kwan](http://meipokwan.org/Index.html)**: environmental health, human mobility, healthy cities, social justice, and GIScience.
-- **[Bo Huang](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HuangBo.html)**: Spatio-temporal data analytics; GIS for sustainable urban/transportation/land use planning; Unified image fusion for sustainable urban environment; Spatial statistics for land use change modeling; Multi-objective optimization for spatial planning with consideration of vulnerability and resilience
-- **[Jianfa Shen](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_ShenJF.html)**: Urbanization and migration analysis; Spatial population modeling; Inter-city competition and cooperation; Urban and regional development; Pearl River Delta and China
-- **[Tung FUNG](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_FungTung.html)**: Digital image analysis; Spatial modelling; Land cover change detection
-- **[Ying He](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HeSylvia.html)**: Transportation ; planning and policy; Travel behavior; Activity-based modeling; GIS/Spatial analysis; Urban and regional economics
+- **[Bo Huang](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HuangBo.html)**: spatio-temporal data analytics; GIS for sustainable urban/transportation/land use planning; unified image fusion for sustainable urban environment; spatial statistics for land use change modeling; multi-objective optimization for spatial planning with consideration of vulnerability and resilience
+- **[Jianfa Shen](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_ShenJF.html)**: urbanization and migration analysis; spatial population modeling; inter-city competition and cooperation; urban and regional development; pearl river delta and China
+- **[Tung FUNG](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_FungTung.html)**: digital image analysis; spatial modelling; land cover change detection
+- **[Ying He](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HeSylvia.html)**: transportation ; planning and policy; travel behavior; activity-based modeling; GIS/spatial analysis; urban and regional economics
 
 
 ### 香港大学
@@ -1206,27 +1207,27 @@ GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_
 
 城市规划及设计系相关导师：
 
-- **[葉嘉安]( http://hub.hku.hk/cris/rp/rp01033)**: Big Data and Smart Cities, GIS, Urban studies, Intelligent Transport System;
-- **[何深靜]( https://fac.arch.hku.hk/upad/shenjinghe/)**: Housing differentiation and socio-spatial inequality, Urban poverty, Urban redevelopment;
-- **[李衛鋒]( http://fac.arch.hku.hk/upad/wfli/)**: Remote sensing, GIS and big data in urban environmental analysis, Urban Modelling;
-- **[劉行健]( http://hub.hku.hk/cris/rp/rp01999)**: Regional development, Urban spatial structure;
-- **[周江評]( https://www.arch.hku.hk/staff/upad/zhou-jiangping/)**: Big-data Applications and Analytics for Transport/Urban Studies, Transport Policy and Planning;
-- **[黃健翔]( http://fac.arch.hku.hk/upad/JianxiangHuang/)**: Thermal, acoustic and building energy performances in high density cities, Environmental Modeling;
-- **[何鴻澤]( http://hub.hku.hk/cris/rp/rp02482)**: Urban Health and Environmental Epidemiology, Geospatial Modelling;
-- **[孫貴博]( http://hub.hku.hk/cris/rp/rp02274)**: Built environment and health, Applied GIS;
-- **[Sarkar, Chinmoy]( http://hub.hku.hk/cris/rp/rp01980)**: Urban epidemiology, Urban and environmental modelling;
-- **[Nam, Kyung-min]( http://hub.hku.hk/cris/rp/rp01953)**: Spatial Planning and Policy, Air Pollution;
+- **[葉嘉安]( http://hub.hku.hk/cris/rp/rp01033)**: big data and smart cities, GIS, urban studies, intelligent transport system;
+- **[何深靜]( https://fac.arch.hku.hk/upad/shenjinghe/)**: housing differentiation and socio-spatial inequality, urban poverty, urban redevelopment;
+- **[李衛鋒]( http://fac.arch.hku.hk/upad/wfli/)**: remote sensing, GIS and big data in urban environmental analysis, urban modelling;
+- **[劉行健]( http://hub.hku.hk/cris/rp/rp01999)**: regional development, urban spatial structure;
+- **[周江評]( https://www.arch.hku.hk/staff/upad/zhou-jiangping/)**: big-data applications and analytics for transport/urban studies, transport policy and planning;
+- **[黃健翔]( http://fac.arch.hku.hk/upad/JianxiangHuang/)**: thermal, acoustic and building energy performances in high density cities, environmental modeling;
+- **[何鴻澤]( http://hub.hku.hk/cris/rp/rp02482)**: urban health and environmental epidemiology, geospatial modelling;
+- **[孫貴博]( http://hub.hku.hk/cris/rp/rp02274)**: built environment and health, applied GIS;
+- **[Sarkar, Chinmoy]( http://hub.hku.hk/cris/rp/rp01980)**: urban epidemiology, urban and environmental modelling;
+- **[Nam, Kyung-min]( http://hub.hku.hk/cris/rp/rp01953)**: spatial planning and policy, air pollution;
 
 地理系相关导师：
 
-- **[盧佩瑩]( https://www.bpyloo.hku.hk/)**: Information and communication technologies, Spatial analysis, Transport and society, Economic geography;
-- **[賴寶珍]( http://hub.hku.hk/cris/rp/rp00565)**: Transportation studies and network analysis, GIS, Cartographic modelling and spatial analyses;
-- **[陳艷]( http://hub.hku.hk/cris/rp/rp00589)**: Ecological Economics, Environmental Economics;
-- **[林初昇]( http://hub.hku.hk/cris/rp/rp00609)**: Urban and regional development in China, Economic geography;
-- **[李金豹]( http://hub.hku.hk/cris/rp/rp01699)**: Climate Change, Paleo Climate, Drought;
-- **[高金錫]( http://hub.hku.hk/cris/rp/rp02476)**: Health/Medical Geography, GIS;
-- **[林潤發]( http://hub.hku.hk/cris/rp/rp02573)**: Climate change and air quality, Air quality modelling;
-- **[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: Smart Cities and Sustainable Development, Remote Sensing of Urban Environment;
+- **[盧佩瑩]( https://www.bpyloo.hku.hk/)**: information and communication technologies, spatial analysis, transport and society, economic geography;
+- **[賴寶珍]( http://hub.hku.hk/cris/rp/rp00565)**: transportation studies and network analysis, GIS, cartographic modelling and spatial analyses;
+- **[陳艷]( http://hub.hku.hk/cris/rp/rp00589)**: ecological economics, environmental economics;
+- **[林初昇]( http://hub.hku.hk/cris/rp/rp00609)**: urban and regional development in China, economic geography;
+- **[李金豹]( http://hub.hku.hk/cris/rp/rp01699)**: climate change, paleo climate, drought;
+- **[高金錫]( http://hub.hku.hk/cris/rp/rp02476)**: health/medical geography, GIS;
+- **[林潤發]( http://hub.hku.hk/cris/rp/rp02573)**: climate change and air quality, air quality modelling;
+- **[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: smart cities and sustainable development, remote sensing of urban environment;
 
 
 ### 香港浸会大学
@@ -1244,13 +1245,13 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 相关导师：
 
 - **[Prof. SHI Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modelling.
-- **Prof. LI Zhi-lin**: Cartography, GIS-Based Spatial Data Modelling, Feature Extraction from Remote Sensing Images;
-- **[Prof. WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: Photogrammetry and Robotic Vision, Planetary Mapping and Planetary Science, 3D GIS and Applications.
-- **[Dr. PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: Intelligent Transport System, Cartographic Visualization, Spatial Analysis, Spatial Networking;
-- **[Dr. LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, Complex Network, Transportation Geography, Urban Computing.
-- **[Dr. XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, Urban Informatics, Mobility, Transportation
-- **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: Spatial Analysis and Modelling, Activity-based Travel Demand Modelling, Smart Cities, Land Use and Transport Interaction, Agent-based Modelling, Complex Urban System.
-- **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: Remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies.
+- **Prof. LI Zhi-lin**: cartography, GIS-Based spatial data modelling, feature extraction from remote sensing images;
+- **[Prof. WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: photogrammetry and robotic vision, planetary mapping and planetary science, 3D GIS and applications.
+- **[Dr. PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: intelligent transport system, cartographic visualization, spatial analysis, spatial networking;
+- **[Dr. LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, complex network, transportation geography, urban computing.
+- **[Dr. XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, urban informatics, mobility, transportation
+- **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: spatial analysis and modelling, activity-based travel demand modelling, smart cities, land use and transport interaction, agent-based modelling, complex urban system.
+- **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies.
 
 
 ### 新加坡国立大学
@@ -1261,11 +1262,12 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 
 新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
+
 相关导师：  
 
-- **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: Spatial data modelling and spatial information theory; Cyberinfrastructure; GIS and Education;   
-- **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: Spatial big data analytics, Citizen GIScience, Volunteered geographic information
-- **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, Spatial epidemiology
+- **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: spatial data modelling and spatial information theory; Cyberinfrastructure; GIS and education;   
+- **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: spatial big data analytics, citizen GIScience, volunteered geographic information
+- **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology
 
 ### 墨尔本大学
 TBA
@@ -1301,7 +1303,7 @@ GIS相关系所：[空间科学系](https://scieng.curtin.edu.au/schools/school-
 - **[Ahmed El-Mowafy](https://staffportal.curtin.edu.au/staff/profile/view/ahmed-el-mowafy-8eb0c147/)**: surveying, satellite image
 - **[Michael Kuhn](https://staffportal.curtin.edu.au/staff/profile/view/michael-kuhn-0ad64f27/)**: surveying, geodesy, gravity
 - **[Will Featherstone](https://staffportal.curtin.edu.au/staff/profile/view/will-featherstone-0312e6c3/)**: surveying, geodesy, GPS
-- **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization 可能即将退休
+- **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization 
 
 ### 阿德莱德大学
 
@@ -1321,25 +1323,31 @@ GIS相关系所：[空间科学组]( http://www.spatialpoints.com/
 - **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis
 )**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use
 
-### 伦敦大学学院
+### 伦敦大学学院 
 **University College London (UCL)**
 
-英国，伦敦
+英国，大伦敦地区，伦敦
 
-GIS相关系所：[地理系](https://www.geog.ucl.ac.uk/)、[土木测绘系](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/)、[先进空间分析中心](https://www.ucl.ac.uk/bartlett/casa/)
+GIS相关系所： 
+[高级空间分析中心CASA](https://www.ucl.ac.uk/bartlett/casa/)
+[土木工程系CEGE](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/)
+[地理系Geography](https://www.geog.ucl.ac.uk/)
 
-伦敦大学学院的GIS研究团队方向多元化有多个GIS研究团队，各有侧重。地理系团队侧重人口统计/消费者数据分析/空间分析，土木测绘系SpaceTimeLab团队侧重时空数据挖掘/地理人工智能，CASA（先进空间分析中心）侧重城市研究/复杂系统/可视化/多智能体系统。
+UCL的GIS研究机构三足鼎立，各有特色，涵盖了GIS的理论和应用的各个方向。代表人物有Michael Batty和Paul Longley。CASA侧重城市研究/复杂系统/可视化/多智能体系统，GIS硕士项目包括MSc in Smart City and Urban Analytics, MSc in Spatial Data Science and Visualisation, MSc in Connected Environments (2021年首次招生)。CEGE侧重时空数据挖掘/地理人工智能/3D GIS/导航/BIM，GIS硕士项目包括MSc in Geospatial Sciences (GIS and Computing), MSc in Spatio-temporal Analytics and Big Data Mining等。地理系侧重人口统计/消费者数据分析/空间分析/遥感，GIS硕士项目包括MSc in Social and Geographic Data Science等。
 
 相关导师：
 
-- **Tao Cheng**: spatio-temporal analytics and machine learning, transportation, crime prediction, social media analysis;
-- **James Haworth**: spatio-temporal statistics, transportation, geocomputation;
-- **Paul Longley**: GIScience, geo-demography, consumer data analysis;
-- **Ana Basiri**: 3D mapping, VGI, crowd-sourced data;
-- **Sarah Wise**: agent-based model, social media, disaster prevention;
-- **Elsa Arcaute**: complexity science, urban systems;
-- **Jens Kandt**: urban geography, social and spatial health disparities;
-- **Huanfa Chen**: spatial optimisation, spatial data science, crime prediction, transportation.
+- **[Paul Longley](https://www.geog.ucl.ac.uk/people/academic-staff/paul-longley)**: geographic information science; geo-temporal demographic classifications; micro-demographics of residential and social mobility.
+- **[Tao Cheng](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/prof-tao-cheng)**: Geocomputation; space-time analytics; big data mining; network complexity.
+- **[James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth)**: spatio-temporal modelling and analytics; transportation.
+- **[Adam Dennett](https://www.ucl.ac.uk/bartlett/casa/dr-adam-dennett)**: migration modelling; crowd-sourcing GIS; residential mobilities; urban health; beer and brewing geographies.
+- **[Elsa Arcaute](https://www.ucl.ac.uk/bartlett/casa/dr-elsa-arcaute)**: complexity science, urban systems.
+- **[Sarah Wise](https://www.ucl.ac.uk/bartlett/casa/dr-sarah-wise)**: agent-based model, social media, disaster prevention.
+- **[Jens Kandt](https://www.ucl.ac.uk/bartlett/casa/jens-kandt)**: urban geography, social and spatial health disparities.
+- **[Neave O’Clery](https://www.ucl.ac.uk/bartlett/casa/people/dr-neave-oclery)**: data and network modelling of economic development and urban systems.
+- **[Max Nathan](https://www.ucl.ac.uk/bartlett/casa/people/dr-max-nathan)**: economics of cultural diversity; innovation systems and clusters; public policy for cities (especially policy design and evaluation).
+- **[Huanfa Chen](https://www.ucl.ac.uk/bartlett/casa/people/huanfa-chen)**: spatial optimisation, spatial data science, transportation behaviour modelling.
+
 
 
 ### 利兹大学  
@@ -1432,7 +1440,7 @@ GIS相关系所：[地理科学学院](https://www.ed.ac.uk/geosciences)
 
 学院相关项目众多，还有几个硕士项目和online master项目，可以在[School of Geosciences: Taught Masters Programmes](https://www.ed.ac.uk/geosciences/postgraduate/taught-masters)自行查阅
 
-Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目总共需要完成180个学分：其中必修课程包括Research Practice and Project Planning, Dissertation in GIS, Spatial Modelling and Analysis, Technological Infrastructures for GIS；其他选修课程内容可[在此查询](http://www.drps.ed.ac.uk/current/dpt/ptmscgisci1f.htm)。
+Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目必修课程包括Research Practice and Project Planning, Dissertation in GIS, Spatial Modelling and Analysis, Technological Infrastructures for GIS；其他选修课程内容可[在此查询](http://www.drps.ed.ac.uk/current/dpt/ptmscgisci1f.htm)。
 
 相关导师 ：
 
@@ -1451,18 +1459,6 @@ Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目总共需�
 GIS相关系所：[地理系](https://www.sheffield.ac.uk/geography)
 
 谢菲尔德大学应用地理信息系统理学硕士项目由城市研究与规划系和地理系联合办学，授课型硕士全日制一年。在谢菲尔德大学GIS硕士项目学习期间，学生将掌握在地理信息系统、应用政策研究、全球问题空间数据分析领域工作所需的技术技能、实践经验和理论知识，深入学习高级空间分析、地理可视化、实践中的地理信息系统政策应用、专题制图和图表创建等。
-
-主要课程包括：
-- 数据、可视化和地理信息系统	Data、Visualisation and GIS
-- 定量分析导论	Introduction to Quantitative Analysis
-- 开源地理信息系统和空间分析	Open Source GIS and Spatial Analysis
-- 地理信息系统应用	Application of GIS
-- 社会和空间分析研究设计	Research Design for Social and Spatial Analysis
-- 高级地理信息系统应用方法	Advanced GIS Methods
-- 专业地理信息系统项目	The Professional GIS Project
-- 运输规划	Transport Planning
-- 住房议题	Issues in Housing
-- 多样性城市	Cities of Diversity
 
 相关导师：
 
@@ -1494,7 +1490,7 @@ GIS相关系所：[地球科学学院](https://www.uu.nl/en/organisation/faculty
 
 荷兰，南荷兰省，代尔夫特市
 
-GIS相关系所：[Urbanism-Track Geomatics]( https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/) 和 [Civil-Track Geoscience & Remote Sensing]( https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/)
+GIS相关系所：[Urbanism-Track Geomatics](https://www.tudelft.nl/en/architecture-and-the-built-environment/research/research-at-bk-bouwkunde/urbanism/) 和 [Civil-Track Geoscience & Remote Sensing](https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-remote-sensing/)
 
 代尔夫特理工是欧洲顶尖的理工院校，在工程领域有着悠久的历史与深厚实力。学校中与GIS/RS相关的系所主要有两个：位于建筑学院的Geomatics以及位于土木学院的Geoscience & Remote Sensing. 其中Geomatics归口在建筑学院的urbanism系下面，研究方向与课程设置主要侧重3D Geoinformation, Smart Cities, building environment.而 Geoscience & Remote Sensing. Geomatics的研究方向与课程设置侧重于Remote Sensing与Geodesy在Atmospheric science与Earth system science中的应用。学位项目方面两个部门各提供一个120EC的两年制硕士项目，使学生在专业知识与学术技能训练之间能实现平衡。TUDelft的博士项目通常在4-5年，学制与入学时间都相对自由，但通常要求申请人必须要有硕士学位。
 
@@ -1532,7 +1528,7 @@ GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
 
 GIS相关系所：[地理信息与对地观测学院（ITC）](https://www.itc.nl/)
 
-特文特/特温特/屯特大学地理信息与对地观测学院（ITC）成立于1950年，最初是响应联合国帮助发展中国家航空测绘进展培养相关专业人才而成立。在此基础上， ITC逐渐发展壮大成为一支经验丰富，科研人员多元化的团队，演变为International Institute for Geo-Information Science and Earth Observation(国际地理信息科学和地球科学研究所)。2010年1月1日起，ITC正式成为特文特大学的下属学院，双方的教育、科研资源得以整合升级。ITC下属共有六个系：Department of Earth Observation Science, Department of Earth Systems Analysis, Department of Geo-information Processing, Department of Natural Resources, Department of Urban and Regional Planning and Geo-information Management, Department of Water Resources。 专业覆盖方向广泛：GIS，遥感，摄影测量，自然资源，水资源，地球系统科学，城市与区域规划等。ITC的遥感技术在软科世界大学学术排名（ARWU）学科排名中长期位居世界前十，2020年最新排名为世界第7，地理信息科学和地球观测专业已经连续多年获得荷兰教育评测机构授予的“Top Rated Programme”称号。
+特文特/特温特/屯特大学地理信息与对地观测学院（ITC）成立于1950年，最初是响应联合国帮助发展中国家航空测绘进展培养相关专业人才而成立。在此基础上， ITC逐渐发展壮大成为一支经验丰富，科研人员多元化的团队，演变为International Institute for Geo-Information Science and Earth Observation(国际地理信息科学和地球科学研究所)。2010年1月1日起，ITC正式成为特文特大学的下属学院，双方的教育、科研资源得以整合升级。ITC下属共有六个系：Department of Earth Observation Science, Department of Earth Systems Analysis, Department of Geo-information Processing, Department of Natural Resources, Department of Urban and Regional Planning and Geo-information Management, Department of Water Resources。 专业覆盖方向广泛：GIS，遥感，摄影测量，自然资源，水资源，地球系统科学，城市与区域规划等。
 
 ITC学院目前硕士项目主要包括以下5个，均为研究型硕士。
 
@@ -1542,7 +1538,7 @@ ITC学院目前硕士项目主要包括以下5个，均为研究型硕士。
 - Geographic Information Science and Earth Observation for Environmental Modeling and Natural Resource Management（2年制，英文授课），在线课程。
 - Geogrphical Inforamtion management and Application（2年制，英文授课）。
 
-ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。因此套磁导师时可以先从daily supervisor进行。有关于硕士与博士奖学金申请可以点击参考文章与链接中的微信推送“特文特大学ITC学院是一种怎样的存在？【附奖学金大全】”一文了解。
+ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。因此套磁导师时可以先从daily supervisor进行。
 
 相关导师：
 - **[Alfred Stein](https://research.utwente.nl/en/persons/alfred-stein)**: Spatial (and temporal) statistics, General statistics, Fuzzy techniques and quality of spatial data, Bayesian networks, Image fusion.
@@ -1571,12 +1567,13 @@ ITC的博士申请主要根据下属的六个系进行对应的申请，学制�
 - **[Daphne van der Wal](https://research.utwente.nl/en/persons/daphne-van-der-wal)**: Understanding the functioning of aquatic systems, with focus on the physical processes in the coastal zone and their interaction with biology. The response of aquatic systems to climate change and human impact, as well as risks (e.g., flooding) and services (e.g., nature-based flood risk reduction) of the coastal zone. Satellite, airborne and near-surface remote sensing in the optical, radar/SAR, and TIR domain, combined with big data analyses and modelling tools. Remote sensing, geo-information, spatial patterns, coastal processes, river-sea interactions, water quality, wetlands, bio-geomorphology, morphology, sediment dynamics, aeolian dynamics, nature-based solutions.
  - **[Yijian Zeng](https://research.utwente.nl/en/persons/yijian-zeng)**: Land-atmosphere interaction via hydrologic processes and how the interaction affects the climate system, Generation of consistent climate data record using multi-sources of geo-datasets, Physical mechanisms of land surface models, Application of data assimilation.
 
-参考文章与链接：
+<!-- 参考文章与链接：
 - [特文特大学ITC学院是一种怎样的存在？【附奖学金大全】](https://mp.weixin.qq.com/s/1nzk_apt9C1QwzF7aS4IPA)
 - [ITC硕士项目官网首页](https://www.itc.nl/education/programmes/masters/)
 - [ITC硕士项目官网简介](https://www.itc.nl/education/studyfinder/?itcprogrammetype=master-of-science)
 - [ITC博士申请官网](https://www.itc.nl/research/study-for-phd/)
 - [ITC官网导师联系方式](https://www.itc.nl/about-itc/contact/whoiswho/)
+ -->
 
 ### 阿姆斯特丹自由大学
 **Vrije University Amsterdam (VU)**
@@ -1606,17 +1603,17 @@ GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.
 ### 明斯特大学
 **Universität Münster (WWU)**
 
-德国，北威州，明斯特市
+德国，北威斯特法伦州，明斯特市
 
 GIS相关系所：[地理信息研究所](https://www.uni-muenster.de/Geoinformatics/en/)
 
-明斯特大学下设的地理信息研究所主要研究空间动态过程，语义互操作性，空间辅助系统，认知工程和传感器网络等，Gilberto Camara、Werner Kuhn曾在此任教。该校GIS主要是正常的2年制硕士，期间有一学期需要进行实习。硕士毕业后，可利用3-5年的时间完成博士学位。
+明斯特大学地理信息系在地理信息理论，空间统计，时空数据分析，地理认知，人机交互方面实力雄厚。 Gilberto Camara、Werner Kuhn 曾在此任教。该系有一个两年制Geoinformation 的英语授课硕士项目，以及一个1.5年欧盟伊拉姆斯 Geospatial technologies 硕士项目。博士不定时提供DAAD或者DFG, EU H2020项目资助位置。明斯特市有很多地理信息企业 比如 ESRI，52 north, con terra, GeoIT etc.
 
 相关导师：
 - **[Christian Kray](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/118/Christian_Kray)**: Geoinformatics, Human-Computer Interaction, and mobile and ubiquitous computing;
 - **[Edzer Pebesma](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)**: spatial statistics, environmental modelling, geoinformatics and GIScience, semantic technology for spatial analysis, optimizing environmental monitoring;
 - **[Angela Schwering](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/109/Angela_Schwering)**: Spatial cognition, Qualitative spatial reasoning, Cognitive navigation;
-- **[Judith Verstegen]( https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/274/Judith_Verstege)**: Geosimulatiom models (agent-based models, cellular automata), Spatial statistics, Error propagation methods, Spatial optimization.
+- **[Judith Verstegen](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/274/Judith_Verstege)**: Geosimulatiom models (agent-based models, cellular automata), Spatial statistics, Error propagation methods, Spatial optimization.
 
 ### 柏林洪堡大学
 **Humboldt-Universitat zu Berlin (HUB)**
