@@ -13,7 +13,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 
 [饶锦蒙](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
-[李肖](https://github.com/kkyyhh96): 德州农工大学交通研究所[x-li@tti.tamu.edu](mailto:x-li@tti.tamu.edu)
+[李肖](https://github.com/kkyyhh96): 德州农工大学交通研究所 [x-li@tti.tamu.edu](mailto:x-li@tti.tamu.edu)
 
 [刘昊坤](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
