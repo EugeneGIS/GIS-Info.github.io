@@ -122,11 +122,24 @@
 #### 德国
 - [慕尼黑工业大学 (TUM)](#慕尼黑工业大学)
 - [柏林工业大学 (TUB)](#柏林工业大学)
+- [卡尔斯鲁厄理工学院(KTH)](#卡尔斯鲁厄理工学院)
 - [斯图加特大学 (Uni-Stuttgart)](#斯图加特大学)
+- [亚琛工业大学 (RWTH Aachen)](#斯图加特大学)
 - [德累斯顿工业大学 (TUD)](#德累斯顿工业大学)
+- [汉诺威大学 Universität Hannover (Uni-Hannover)](#汉诺威大学)
 - [明斯特大学 (Uni-Muenster)](#明斯特大学)
-- [柏林洪堡大学( Hu-Berlin)](#柏林洪堡大学)
+- [波茨坦大学 (Uni-Potsdam)](#波茨坦大学)
+- [柏林洪堡大学 (HUB)](#柏林洪堡大学)
+- [柏林自由大学 (Fu-Berlin)](#柏林自由大学)
+- [哥廷根大学 (Uni-Goettingen)](#哥廷根大学)
+- [奥格斯堡大学 (Uni-Augsburg)](#奥格斯堡大学)
 - [海德堡大学 (Uni-Heidelberg)](#海德堡大学)
+- [慕尼黑大学 (LMU)](#慕尼黑大学)
+- [波恩大学 (Uni-Bonn)](#波恩大学)
+- [科隆大学 (Uni-Koeln)](#科隆大学)
+- [弗莱堡大学 (Uni-Freiburg)](#弗莱堡大学)
+- [汉堡大学 (Uni-Hamburg)](#汉堡大学)
+- [耶拿大学 (Uni-Jena)](#耶拿大学)
 
 #### 荷兰
 - [乌特勒支大学 (Utrecht)](#乌特勒支大学)
@@ -1840,7 +1853,7 @@ GIS相关系所：[地理系](https://www.geographie.uni-bonn.de/department)
 - **[Prof. Dr. Wolfram Mauser](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=3)**: Remote sensing of land surface dynamics, land degradation and drought monitoring & assessment, Use of Earth observation and Geo-information for policy support, international cooperation support, and disaster risk reduction.
 
 ### 科隆大学
-** University of Cologne (Uni-Koeln)**
+**University of Cologne (Uni-Koeln)**
 
 德国，北莱茵－威斯特法伦州，科隆市
 
@@ -1865,7 +1878,7 @@ GIS相关系所：[地理所](https://geographie.uni-freiburg.de/en/geographie-n
 - **[Prof. Dr. Tim Freytag](https://geographie.uni-freiburg.de/en/professorships/human-geography/team-contact-details/freytag-tim)**: Tourism and mobility studies (in particular, European urban tourism), Urban studies and sustainable urban development,Social geography and geography of education.
 
 ### 汉堡大学
-**UUniversity of Hamburg (Uni-Hamburg)**
+**University of Hamburg (Uni-Hamburg)**
 
 德国，汉堡市
 
