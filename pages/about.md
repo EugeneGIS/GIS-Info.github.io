@@ -4,12 +4,12 @@
 
 GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
-如果有问题、勘误、意见或建议，欢迎在[issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言，也可以通过邮件联系我们。
+如果有问题、勘误、意见或建议，欢迎在[Issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言，也可以通过邮件联系我们。
 
 #### 联系人
 [康雨豪](https://www.kkyyhh96.site) - 威斯康星大学麦迪逊分校 [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
-[叶山](https://yeshancqcq.github.io/): [yeshantulsa@hotmail.com](mailto:yeshantulsa@hotmail.com)
+[叶山](https://www.ye-shan.com/): [yeshantulsa@hotmail.com](mailto:yeshantulsa@hotmail.com)
 
 [饶锦蒙](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
