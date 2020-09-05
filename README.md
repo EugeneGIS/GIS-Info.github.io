@@ -699,6 +699,7 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 - **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIS, movement pattern analysis, spatial statistics, biogeography.
 
 ### 德克萨斯大学达拉斯分校
+
 **University of Texas at Dallas (UT Dallas)**
 
 美国，德克萨斯州，理查德森市（达拉斯北部）
@@ -716,7 +717,7 @@ UT Dallas 的GIS专业是美国老牌强势专业，研究水平处于全美前�
 
 ### 德克萨斯州立大学
 
-**Texas State University (TXST)**CLU
+**Texas State University (TXST)**
 
 美国，德克萨斯州，圣马科斯市
 
