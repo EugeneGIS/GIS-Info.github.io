@@ -13,7 +13,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 
 [饶锦蒙](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
-[李肖](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
+[李肖](https://github.com/kkyyhh96): 德州农工大学交通研究所[x-li@tti.tamu.edu](mailto:x-li@tti.tamu.edu)
 
 [刘昊坤](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
@@ -35,7 +35,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 
 李子奇 - 伊利诺伊大学香槟分校
 
-崔文聪 -
+崔文聪 - 德克萨斯农工大学
 
 吕方正 - 伊利诺伊大学香槟分校
 
@@ -77,17 +77,17 @@ Wendy Liu - 芝加哥大学
 
 赖佳梦 - 康奈尔大学
 
-张蔚行
+张蔚行 - 哈佛大学
 
 杨家鑫 - 德克萨斯州立大学
 
-杨梅
+杨梅 - 德克萨斯州立大学
 
 刘卓明 - 新墨西哥大学
 
 张雅璇 - 明尼苏达大学双城分校
 
-徐浩文
+徐浩文 - 橡树岭国家实验室
 
 吴秋生 - 田纳西大学
 
