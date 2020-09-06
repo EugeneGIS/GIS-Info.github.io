@@ -1638,20 +1638,25 @@ GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
 德国，巴伐利亚州，慕尼黑市
 
 GIS相关系所：[航空航天与大地测量系（LRG）]( https://www.lrg.tum.de/en/flr/home/)，[地理信息科学主页](https://www.lrg.tum.de/en/gis/home/)
-慕尼黑工业大学航空航天与大地测量系（LRG）于2018年在巴伐利亚州总理Markus Söder博士在政府宣言中宣布成立， 该系整合了原土木、地理与环境工程系（BGU）中的地理相关专业与原航空航天系（LRT）中的相关专业。
+
+慕尼黑工业大学航空航天与大地测量系（LRG）于2018年在巴伐利亚州总理Markus Söder博士在政府宣言中宣布成立，该系整合了原土木、地理与环境工程系（BGU）中的地理相关专业与原航空航天系（LRT）中的相关专业。
+
 LRG是成立于TUM的第15个系，并将成为欧洲同类中最大的系，共有55个教授职位。 它将占德国大学在航空航天和大地测量学方面研究总量的50％左右，因此将成为慕尼黑大都市区太空相关行业的核心。
 慕尼黑工业大学航空航天与大地测量系拥有包括地理信息系在内的多个地信相关方向，涵盖遥感、制图、摄影测量、土地管理、大地测量以及其他卫星相关方向。
-该系硕士项目包括地理学硕士项目（航空航天，制图方向，ESPACE方向，大地测量与地理信息方向，土地管理&地理空间科学硕方向）和航空航天硕士项目。 (https://www.lrg.tum.de/en/flr/study-programs/prospective-students/master/)
-同大多数欧陆院校一样，该系没有统一的博士项目，但会根据项目需要不定期放出有针对性的博士职位， 需要具体与教授洽谈了解。申请博士学位的流程指导详见(https://www.lrg.tum.de/en/flr/doctorate/)。
+
+该系[硕士项目](https://www.lrg.tum.de/en/flr/study-programs/prospective-students/master/)包括地理学硕士项目（航空航天，制图方向，ESPACE方向，大地测量与地理信息方向，土地管理&地理空间科学硕方向）和航空航天硕士项目。
+
+同大多数欧陆院校一样，该系没有统一的博士项目，但会根据项目需要不定期放出有针对性的博士职位，需要具体与教授洽谈了解。[申请博士学位的流程](https://www.lrg.tum.de/en/flr/doctorate/)。
+
 相关导师：
--**[ Prof. Dr. Richard Hans Georg Bamler](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Remote Sensing Technology;
--**[Prof. Dr. Walter Timo de Vries](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Land Management;
--**[Prof. Dr. Thomas H. Kolbe](https://www.professoren.tum.de/en/kolbe-thomas-h/)**: Geoinformatics;
--**[Prof. Dr.-Ing. Liqiu Meng](https://www.professoren.tum.de/en/meng-liqiu/)**: Cartography;
--**[Prof. Dr.-Ing. Uwe Stilla](https://www.professoren.tum.de/en/stilla-uwe/)**: Photogrammetry and Remote Sensing;
--**[Prof. Dr. Martin Werner](https://www.professoren.tum.de/en/werner-martin/)**: Big Geospatial Data Management;
--**[Prof. Dr. Thomas A. Wunderlich](https://www.professoren.tum.de/en/wunderlich-thomas/)**: Geodesy;
--**[Prof. Dr. Xiaoxiang Zhu](https://www.professoren.tum.de/en/zhu-xiaoxiang/)**: Signal Processing in Earth Observation.
+- **[ Prof. Dr. Richard Hans Georg Bamler](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Remote Sensing Technology;
+- **[Prof. Dr. Walter Timo de Vries](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Land Management;
+- **[Prof. Dr. Thomas H. Kolbe](https://www.professoren.tum.de/en/kolbe-thomas-h/)**: Geoinformatics;
+- **[Prof. Dr.-Ing. Liqiu Meng](https://www.professoren.tum.de/en/meng-liqiu/)**: Cartography;
+- **[Prof. Dr.-Ing. Uwe Stilla](https://www.professoren.tum.de/en/stilla-uwe/)**: Photogrammetry and Remote Sensing;
+- **[Prof. Dr. Martin Werner](https://www.professoren.tum.de/en/werner-martin/)**: Big Geospatial Data Management;
+- **[Prof. Dr. Thomas A. Wunderlich](https://www.professoren.tum.de/en/wunderlich-thomas/)**: Geodesy;
+- **[Prof. Dr. Xiaoxiang Zhu](https://www.professoren.tum.de/en/zhu-xiaoxiang/)**: Signal Processing in Earth Observation.
 
 ### 柏林工业大学
 **Technische Universität Berlin (TUB)**
