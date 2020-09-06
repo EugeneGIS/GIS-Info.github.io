@@ -555,7 +555,7 @@ GIS相关系所：[地理系](https://geography.wisc.edu/)
 - **[Qunying Huang](https://geography.wisc.edu/gis/staff/huang-qunying/)**: high performance computing, natural hazards, social media data analytics;
 - **[Robert Roth](https://geography.wisc.edu/cartography/people/Roth.html)**: cartography, story map, WebGIS;
 - **[Christian Andresen](http://www.christiangandresen.com/)**: arctic ecosystems, remote sensing, surface hydrology, wetlands, environmental change, carbon cycling, geospatial analytics, LiDAR, photogrammetry, unmanned aerial systems;
-- **[John W. (Jack) Williams](https://williamspaleolab.github.io)**: paleoecoinformatics, geo-cyberinfrastructure, paleoecology, paleoclimatology, novel ecosystems, vegetation dynamics, global climate change, quaternary environments;
+- **[John W. (Jack) Williams](https://williamspaleolab.github.io)**: paleoecoinformatics, geo-cyberinfrastructure, paleoecology, paleoclimatology, novel ecosystems, vegetation dynamics, global climate change, quaternary environments.
 
 ### 宾夕法尼亚大学
 
