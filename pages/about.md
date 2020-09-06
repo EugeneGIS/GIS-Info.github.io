@@ -11,7 +11,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 
 [叶山](https://www.ye-shan.com/): [yeshantulsa@hotmail.com](mailto:yeshantulsa@hotmail.com)
 
-[饶锦蒙](https://github.com/kkyyhh96): [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
+[饶锦蒙](www.jinmengrao.com) - 威斯康星大学麦迪逊分校 [jinmeng.rao@wisc.edu](mailto:jinmeng.rao@wisc.edu)
 
 [李肖](https://github.com/kkyyhh96) - 德州农工大学交通研究所 [x-li@tti.tamu.edu](mailto:x-li@tti.tamu.edu)
 
