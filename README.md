@@ -28,7 +28,7 @@
 ## 目录
 由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校中文缩写排序）：
 
-北美洲56所：[美国46所](#美国)，[加拿大10所](#加拿大)
+北美洲58所：[美国48所](#美国)，[加拿大10所](#加拿大)
 
 亚洲大洋洲10所：[中国香港5所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
@@ -41,12 +41,14 @@
 - [伊利诺伊大学香槟分校 (UIUC)](#伊利诺伊大学香槟分校)
 - [佐治亚大学 (UGA)](#佐治亚大学)
 - [佛罗里达大学 (UFL)](#佛罗里达大学)
+- [佛罗里达州立大学 (FSU)](#佛罗里达州立大学)
 - [南佛罗里达大学 (USF)](#南佛罗里达大学)
 - [俄亥俄州立大学 (OSU)](#俄亥俄州立大学)
 - [俄克拉荷马大学 (OU)](#俄克拉荷马大学)
 - [俄克拉荷马州立大学 (Ok State)](#俄克拉荷马州立大学)
 - [俄勒冈大学 (Oregon)](#俄勒冈大学)
 - [俄勒冈州立大学 (Oregon State)](#俄勒冈州立大学)
+- [堪萨斯大学 (KU)](#堪萨斯大学)
 - [克拉克大学 (Clark)](#克拉克大学)
 - [加州大学圣巴巴拉分校 (UCSB)](#加州大学圣巴巴拉分校)
 - [华盛顿大学 (UW)](#华盛顿大学)
@@ -300,6 +302,24 @@ GIS相关系所：[地理系](https://geog.ufl.edu)
 - **[Liang Mao](https://geog.ufl.edu/faculty/mao/)**: agent-based modeling, GIS and health, network analysis;
 - **[Yujie Hu](https://geonavilab.geog.ufl.edu)**: transportation, human mobility, spatial accessibility, spatial networks.
 
+### 佛罗里达州立大学
+
+**Florida State University (FSU)**
+
+美国，佛罗里达州，塔拉哈希
+
+GIS相关系所：[地理系](https://geography.fsu.edu/)
+
+FSU的地理系的科研重点包括社会地理、空间分析和自然环境。该系研究生项目有MS/MA，MGIS和PhD。其中，MS/MA又分为课程型和论文型两类，时长都是两年。课程型需要上30个学分的指定课程，其中以地理学理论、方法论和地理思维的训练为主，论文型需要在一个教授组成的委员会的辅导下完成一个课题。MGIS是另一种课程型的硕士，和前一种课程型硕士的区别是其规定的课程更偏向于GIS及其应用，且其时长只有一年。PhD项目一般需要4到5年。
+
+相关导师:
+
+- **[Xiaojun Yang](https://geography.fsu.edu/people/xiaojun-yang/)**: remote sensing, hazard, land cover, urban ecology;
+- **[Xiao Feng](https://geography.fsu.edu/people/5692/)**: GIS, big data, modeling, bioinformatics, biogeography;
+- **[Tingting Zhao](https://geography.fsu.edu/people/tingting-zhao/)**: GIS, landscape;
+- **[Sandy Wong](https://geography.fsu.edu/people/sandy-wong/)**: health GIS, public health, environment;
+- **[Vector Mesev](https://geography.fsu.edu/people/victor-mesev/)**: cartography, image processing, remote sensing, sports;
+- **[Mark Horner](https://geography.fsu.edu/people/mark-horner/)**: spatial analysis, transportation, urban geography.
 
 ### 南佛罗里达大学
 
@@ -411,6 +431,22 @@ GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonsta
 - **[James R. Watson](https://ceoas.oregonstate.edu/people/james-watson)**: GIS and spatial modeling on marine environment studies;
 - **[Jamon Van Den Hoek](https://ceoas.oregonstate.edu/people/jamon-van-den-hoek)**: GIS and remote sensing on marine resource management, GeoAI, remote sensing, GIS programming;
 - **[Mark Raleigh](https://ceoas.oregonstate.edu/people/mark-raleigh)**: remote sensing, image processing, polar climate, spatial analysis on snow distribution, geo-data science.
+
+### 堪萨斯大学
+
+**University of Kansas (KU)**
+
+美国，堪萨斯州，劳伦斯市
+
+GIS相关系所：[地理和大气科学系](https://geog.ku.edu/)
+
+在堪萨斯大学的地理和大气科学系，地理学项目提供MA和PhD两种研究生学位，以及地理学和城市规划双硕士项目。该系有悠久的历史，许多著名地理学家曾在这里任教过，例如早期制图学教育家George Jenks、德裔植被测绘家A.W. Kuchler、地图设计专家George McCleary和Terry Slocum、遥感教材及科普作家Stan Morain、UCSB地理系的创建者David Simonett等。目前，该系有将近20名教授和超过50名研究生，研究方向包括自然地理、生物地理、大气科学、人文地理、区域地理、城市地理、遥感及地理信息技术，各个方向通有合作项目。
+
+相关导师：
+- **[Xingong Li](https://geog.ku.edu/xingong-li)**: GIS, spatial data science, computational methods;
+- **[Ting Lei](https://geog.ku.edu/lei-ting-0)**: GIS, transportation, remote sensing;
+- **[Peter Herlihy](https://geog.ku.edu/peter-herlihy#link2)**: place-based GIS, participatory mapping, digital cultural landscape, Latin American historical geography;
+- **[David Rahn](https://geog.ku.edu/david-rahn#link2)**: remote sensing, cloud, wind, numerical modeling.
 
 ### 克拉克大学
 **Clark University (Clark)**
@@ -1088,10 +1124,10 @@ GIS相关系所: [Department of Geography and Environmental Management (GEM)](ht
 滑铁卢大学GIS相关的专业和老师主要分布在环境系，研究领域集中在人文地理、自然地理、测绘地理信息，遥感和航空等，实力强劲。GIS相关硕博项目有MA/MSc/PhD in Geography。该系面向武汉大学，南京大学，中国地质大学等的资环、遥感、测绘学院开设本科生2+2联合培养项目。此外，滑铁卢大学规划系(Department of planning) 和工程系(Faculty  of Engineering) 也有GIS相关导师。
 
 相关导师:
-- **[Richard Kelly](https://uwaterloo.ca/scholar/rejkelly/)**: remote sensing; snow hydrology; snow climatology; geospatial modelling of snow; citizen science; 
-- **[Derek T. Robinson](https://uwaterloo.ca/scholar/dtrobins)**: modeling and spatial analysis; land-use and land-cover change; land-management and the carbon cycle; land grabs; land policy; agent-based modelling; GIS; 
+- **[Richard Kelly](https://uwaterloo.ca/scholar/rejkelly/)**: remote sensing; snow hydrology; snow climatology; geospatial modelling of snow; citizen science;
+- **[Derek T. Robinson](https://uwaterloo.ca/scholar/dtrobins)**: modeling and spatial analysis; land-use and land-cover change; land-management and the carbon cycle; land grabs; land policy; agent-based modelling; GIS;
 - **[Jonathan Li](https://uwaterloo.ca/geospatial-sensing/)**: mobile laser scanning; HD mapping; point cloud processing; machine learning; environmental monitoring; autonomous driving; geospatial intelligence;
-- **[Peter Johnson](https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson)**: agent-based models; GIS; GeoWeb; social media; 
+- **[Peter Johnson](https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson)**: agent-based models; GIS; GeoWeb; social media;
 - **[Peter Deadman](https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-deadman)**: land use change; agent based models; wetland vegetation models; climate change impacts on water resources; enterprise GIS; geodatabase design;
 - **[Su-Yin Tan](https://www.appliedgeomatics.net/)**: RS; GIS; spatial statistics and data analysis; vegetation and climatology; public health and crime mapping; medical geography; environmental monitoring; GIS education;
 - **[Jane Law](https://uwaterloo.ca/planning/people-profiles/jane-law)**: health and crime GIS; spatial demography; spatial statistics; bayesian spatial analysis; hierarchical spatial modeling; spatial epidemiology; geomatics; land information systems;
