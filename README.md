@@ -1521,10 +1521,10 @@ GIS相关系所：[环境，教育与发展学院](https://www.seed.manchester.a
 地信专业侧重地理信息系统和遥感方面的理论、软件知识学习，在各种专业领域的空间数据分析，以及在GIS项目中的广泛应用。
 
 相关导师：
-- **[Jonny Huck](https://www.research.manchester.ac.uk/portal/en/researchers/jonny-huck(815ff89f-b2ac-4758-8e7a-e7b8d4ac32ce.html)**: mathematical geography. cartography, geography (General);
-- **[Claire Goulsbra](https://www.research.manchester.ac.uk/portal/en/researchers/claire-goulsbra(f32116aa-65da-4df3-8bec-f0a4db559f00.html)**: the hydrology and geomorphology of the South Pennine peatlands,carbon losses from eroding peatland systems;
-- **[Angela Harris](https://www.research.manchester.ac.uk/portal/en/researchers/angela-harris(f1103ce3-8a6f-4780-a1f1-6396618a4f53.html)**: remote sensing, ecology, Peatlands, vegetation;
-- **[Sarah Lindley](https://www.research.manchester.ac.uk/portal/en/researchers/sarah-lindley(776b25e7-0fea-4c46-9f53-eb86c150705e.html)**: geography's environmental processes, urban and regional ecology.
+- **[Jonny Huck]( https://www.research.manchester.ac.uk/portal/en/researchers/jonny-huck(815ff89f-b2ac-4758-8e7a-e7b8d4ac32ce.html)**: mathematical geography. cartography, geography (General);
+- **[Claire Goulsbra]( https://www.research.manchester.ac.uk/portal/en/researchers/claire-goulsbra(f32116aa-65da-4df3-8bec-f0a4db559f00.html)**: the hydrology and geomorphology of the South Pennine peatlands,carbon losses from eroding peatland systems;
+- **[Angela Harris]( https://www.research.manchester.ac.uk/portal/en/researchers/angela-harris(f1103ce3-8a6f-4780-a1f1-6396618a4f53.html)**: remote sensing, ecology, Peatlands, vegetation;
+- **[Sarah Lindley]( https://www.research.manchester.ac.uk/portal/en/researchers/sarah-lindley(776b25e7-0fea-4c46-9f53-eb86c150705e.html)**: geography's environmental processes, urban and regional ecology.
 
 
 ### 格拉斯哥大学
