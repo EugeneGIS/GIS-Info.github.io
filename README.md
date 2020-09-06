@@ -2279,7 +2279,7 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 - **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: scientific methods and writing;
 - **[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: geovisualization and advanced cartography;
 - **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等;
-- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented image analysis，geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at.
+- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented image analysis，geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at.
 
 
 ### 荷语鲁汶大学
