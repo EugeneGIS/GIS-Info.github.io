@@ -185,6 +185,10 @@ Angel Tang - 长安汽车
 
 徐雅雯 - 中信
 
+马超 - 爱达荷大学
+
+廖倩儒 -
+
 TBA
 
 [返回指南](https://gis-info.github.io/)
