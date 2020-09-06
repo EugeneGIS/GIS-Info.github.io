@@ -2238,11 +2238,11 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 学位：Geography Bachelor； Applied geoinformatics MSc.
 
 相关导师：
-- **[Prof. Josef Strobl](http://jstrobl.zgis.net)**: 奥地利地理信息科学的领军人物之一，担任奥地利科学院地理信息研究负责人、UNGIS共同主席。教授课程：Topographics cartography; Methods in spatial analysis; Foundations of geoinformatics; analysis and modeling等。邮箱：josef.strobl@sbg.ac.at;
-- **[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: 主要研究Human-centred geoinformatics, geospatial machine learning, urban geoinformatics, real-time and smart cities, Crowdsourcing，Digital health等。教授课程：Basics of Software Development, Data Information management、Geo-application Development、Geo-communicate and Geo-medium、Web GIS等。邮箱：bernd.resch@sbg.ac.at;
-- **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: 教授课程：Scientific Methods and Writing等。邮箱：stefan.lang@sbg.ac.at;
-- **[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: 教授课程：geovisualization and Advanced cartography等。邮箱：barbara.hofer@sbg.ac.at;
-- **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等。邮箱：shahnawaz.shahnawaz@sbg.ac.at;
+- **[Prof. Josef Strobl](http://jstrobl.zgis.net)**: topographics cartography; methods in spatial analysis; foundations of geoinformatics; analysis and modeling;
+- **[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: human-centred geoinformatics, geospatial machine learning, urban geoinformatics, real-time and smart cities, crowdsourcing，digital health;
+- **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: scientific methods and writing;
+- **[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: geovisualization and advanced cartography;
+- **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等;
 - **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented image analysis，geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at.
 
 
