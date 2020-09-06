@@ -2264,7 +2264,7 @@ GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.
 
 ### 萨尔茨堡大学
 
-**University of Salzburg (uni-salzburg)**
+**University of Salzburg (Uni-Salzburg)**
 
 奥地利，维也纳市
 
@@ -2275,12 +2275,12 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 学位：Geography Bachelor； Applied geoinformatics MSc.
 
 相关导师：
-- **[Prof. Josef Strobl](http://jstrobl.zgis.net)**: topographics cartography; methods in spatial analysis; foundations of geoinformatics; analysis and modeling;
-- **[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: human-centred geoinformatics, geospatial machine learning, urban geoinformatics, real-time and smart cities, crowdsourcing，digital health;
-- **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: scientific methods and writing;
-- **[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: geovisualization and advanced cartography;
-- **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等;
-- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented image analysis，geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at.
+- **[Prof. Josef Strobl](http://jstrobl.zgis.net)**: topographics cartography, methods in spatial analysis, foundations of geoinformatics, analysis and modeling;
+- **[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: human-centred geoinformatics, geospatial machine learning, urban geoinformatics, real-time and smart cities, crowdsourcing, digital health;
+- **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: Object-based image analysis (OBIA), systemic thinking, multi-scalar and multi-dimensional spatial analysis, Decision support;
+- **[Assoz.Prof. Barbara Hofer](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: geovisualization and advanced cartography;
+- **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: image processing, rainfall and temperature analysis;
+- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: application Development, Arcpy/QGIS development, Big Earth Data, Object-oriented image analysis, geoprocessing.
 
 
 ### 荷语鲁汶大学
