@@ -87,7 +87,7 @@
 - [卡尔加里大学 (Calgary)](#卡尔加里大学)
 - [圭尔夫大学 (Guelph)](#圭尔夫大学)
 - [多伦多大学 (UToronto)](#多伦多大学)
-- [滑铁卢大学 (waterloo)](#滑铁卢大学)
+- [滑铁卢大学 (UWaterloo)](#滑铁卢大学)
 - [维多利亚大学 (UVic)](#维多利亚大学)
 - [萨斯喀彻温大学 (USask)](#萨斯喀彻温大学)
 - [阿尔伯塔大学 (Alberta)](#阿尔伯塔大学)
@@ -1082,8 +1082,20 @@ GIS相关系所：[地理和规划系](https://geography.utoronto.ca/department/
 - **[Steven Farber]( https://geography.utoronto.ca/profiles/steven-farber/)**: spatial analysis, transportation.
 
 ### 滑铁卢大学
+**University of Waterloo (UWaterloo)**
+加拿大, 安大略省, 滑铁卢市
+GIS相关系所: [Department of Geography and Environmental Management (GEM)](https://uwaterloo.ca/geography-environmental-management)
+滑铁卢大学GIS相关的专业和老师主要分布在环境系，研究领域集中在人文地理、自然地理、测绘地理信息，遥感和航空等，实力强劲。GIS相关硕博项目有MA/MSc/PhD in Geography。该系面向武汉大学，南京大学，中国地质大学等的资环、遥感、测绘学院开设本科生2+2联合培养项目。此外，滑铁卢大学规划系(Department of planning) 和工程系(Faculty  of Engineering) 也有GIS相关导师。
 
-TBA
+相关导师:
+- **[Richard Kelly](https://uwaterloo.ca/scholar/rejkelly/)**: remote sensing; snow hydrology; snow climatology; geospatial modelling of snow; citizen science; 
+- **[Derek T. Robinson](https://uwaterloo.ca/scholar/dtrobins)**: modeling and spatial analysis; land-use and land-cover change; land-management and the carbon cycle; land grabs; land policy; agent-based modelling; GIS; 
+- **[Jonathan Li](https://uwaterloo.ca/geospatial-sensing/)**: mobile laser scanning; HD mapping; point cloud processing; machine learning; environmental monitoring; autonomous driving; geospatial intelligence;
+- **[Peter Johnson](https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson)**: agent-based models; GIS; GeoWeb; social media; 
+- **[Peter Deadman](https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-deadman)**: land use change; agent based models; wetland vegetation models; climate change impacts on water resources; enterprise GIS; geodatabase design;
+- **[Su-Yin Tan](https://www.appliedgeomatics.net/)**: RS; GIS; spatial statistics and data analysis; vegetation and climatology; public health and crime mapping; medical geography; environmental monitoring; GIS education;
+- **[Jane Law](https://uwaterloo.ca/planning/people-profiles/jane-law)**: health and crime GIS; spatial demography; spatial statistics; bayesian spatial analysis; hierarchical spatial modeling; spatial epidemiology; geomatics; land information systems;
+- **[Robert D. Feick](https://uwaterloo.ca/planning/people-profiles/robert-d-feick)**: smart city; spatial data quality; volunteered geographic information (VGI); spatial data mining; spatial multi-criteria analysis;
 
 ### 维多利亚大学
 
