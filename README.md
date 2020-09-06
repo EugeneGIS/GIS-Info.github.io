@@ -1151,7 +1151,9 @@ GIS相关系所：[地理和规划系](https://geography.utoronto.ca/department/
 
 ### 滑铁卢大学
 **University of Waterloo (UWaterloo)**
+
 加拿大, 安大略省, 滑铁卢市
+
 GIS相关系所: [Department of Geography and Environmental Management (GEM)](https://uwaterloo.ca/geography-environmental-management)
 滑铁卢大学GIS相关的专业和老师主要分布在环境系，研究领域集中在人文地理、自然地理、测绘地理信息，遥感和航空等，实力强劲。GIS相关硕博项目有MA/MSc/PhD in Geography。该系面向武汉大学，南京大学，中国地质大学等的资环、遥感、测绘学院开设本科生2+2联合培养项目。此外，滑铁卢大学规划系(Department of planning) 和工程系(Faculty  of Engineering) 也有GIS相关导师。
 
