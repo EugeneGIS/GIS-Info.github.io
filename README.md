@@ -1915,13 +1915,13 @@ GIS相关系所: [Institute of cartography and geoinformation](https://ikg.ethz.
 苏黎世联邦理工学院GIS相关系所位于Dept. of Civil, environmental and Geomatic Engineering (D-BAUG)。D-BAUG下设很多研究所，包括geodesy and photogrammetry (IGP)、cartography and geoinformation (IKG)、Spatial and landscape Development (IRL)、Transport planning and Systems (IVT)等。该系也有老师参与Singapore-ETH Future cities Laboratory的相关研究。硕士项目有Master in geomatics，该项目可从Engineering geodesy and photogrammetry、Space geodesy and Navigation、GIS and cartography、planning(德语)选择两个方向。博士职位根据项目需要不定期放出，可在每个系或实验室主页查看Open Positions。
 
 相关导师:
-- **[Lorenz Hurni](https://ikg.ethz.ch/en/people/staff-a-z/person-detail.MzU4MDA=.TGlzdC8xMDMwLC05MDgxNDI5Mg==.html)**: cartographic data models and tools; multidimensional multimedia maps;
-- **[Martin Raubal](http://www.raubal.ethz.ch/)**: mobile GIS & LBS; spatial cognitive engineering; mobile eye-tracking; GIS for renewable energy analysis;
-- **[Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986)**: photogrammetry; remote sensing; Computer Vision; image understanding;
-- **[Adrienne Grêt-Regamey](https://istp.ethz.ch/people/person-detail.adgret.html)**: landscape planning; Human-environment interaction; environmental management;
-- **[David Kaufmann](https://david-kaufmann.org/)**: public policy; urban studies; planning; migration studies;
-- **[Kay W. Axhausen](https://www.ivt.ethz.ch/en/people/profile.kay-axhausen.html)**: transport planning; big data transport models; traffic behaviour modeling;
-- **[Francesco Corman](https://www.ivt.ethz.ch/en/people/profile.francesco-corman.html)**: public transport; railway networks; transport operations; logistics systems;
+- **[Lorenz Hurni](https://ikg.ethz.ch/en/people/staff-a-z/person-detail.MzU4MDA=.TGlzdC8xMDMwLC05MDgxNDI5Mg==.html)**: cartographic data models and tools, multidimensional multimedia maps;
+- **[Martin Raubal](http://www.raubal.ethz.ch/)**: mobile GIS & LBS, spatial cognitive engineering, mobile eye-tracking, GIS for renewable energy analysis;
+- **[Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986)**: photogrammetry, remote sensing, Computer Vision, image understanding;
+- **[Adrienne Grêt-Regamey](https://istp.ethz.ch/people/person-detail.adgret.html)**: landscape planning, Human-environment interaction, environmental management;
+- **[David Kaufmann](https://david-kaufmann.org/)**: public policy, urban studies, planning, migration studies;
+- **[Kay W. Axhausen](https://www.ivt.ethz.ch/en/people/profile.kay-axhausen.html)**: transport planning, big data transport models, traffic behaviour modeling;
+- **[Francesco Corman](https://www.ivt.ethz.ch/en/people/profile.francesco-corman.html)**: public transport, railway networks, transport operations, logistics systems.
 
 ### 苏黎世大学
 
@@ -1935,7 +1935,6 @@ GIS相关系所: [地理系](https://www.geo.uzh.ch/en.html)
 
 相关导师：
 - **[Sara Irina Fabrikant](https://visualizegeo.info/website/index.html)**: GIS, geovisualization;
-- **[Haosheng Huang](https://users.ugent.be/~haohuang/)**: LBS, navigation;
 - **[Robert Weibel](https://www.geo.uzh.ch/~weibel/)**: GIS, cartography, map generalization;
 - **[Ross Purves](https://www.geo.uzh.ch/~rsp/)**: geocomputing;
 - **[Morsdorf Felix](https://www.geo.uzh.ch/geolean/en/units/rsl/staff/?content=felixmorsdorf)**: LiDAR, Computer vision, vegetation structure;
@@ -2028,7 +2027,7 @@ GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)、
 相关导师：
 - **[Lars Eklundh](http://web.nateko.lu.se/personal/Lars.Eklundh/)**: remote sensing, land surface information, vegetation;
 - **[Marko Scholze](https://portal.research.lu.se/portal/en/persons/marko-scholze(25a93782-441c-4844-9744-dbdc2a002f96).html)**: climate research, Meteorology and atmospheric Sciences, remote sensing, data assimilation, global carbon cycle, Inverse modeling;
-- **[Zheng Duan](https://portal.research.lu.se/portal/en/persons/zheng-duan(fcc64e94-9665-4647-8dfe-0e3d2b541994).html)**: high performance computing; natural hazards; social media data analytics;
+- **[Zheng Duan](https://portal.research.lu.se/portal/en/persons/zheng-duan(fcc64e94-9665-4647-8dfe-0e3d2b541994).html)**: high performance computing, natural hazards, social media data analytics;
 - **[Abdulghani Hasan](https://www.nateko.lu.se/abdulghani-hasan)**: hydrology, water resources, remote sensing, hydrological modeling, GIS and geomatics;
 - **[Lars Harrie](https://www.nateko.lu.se/lars-harrie)**: Algorithms for processing, analyzing and visualizing geographic data, methods to improve the national spatial data infrastructure;
 - **[Ali Mansourian](https://www.nateko.lu.se/ali-mansourian)**: spatial data infrastructures (SDI), Web GIS and geospatial web services, advanced modeling for applied GISs;
@@ -2066,7 +2065,7 @@ GIS相关系所：[自然地理系](https://www.natgeo.su.se/)、
 - **[Lowe Börjeson](https://www.su.se/english/profiles/lowe-1.183305)**: cartography, society-nature and farmer-environment relations, rural landscapes;
 - **[Tola Gemechu Ango](https://www.su.se/english/profiles/tgeme-1.188275)**: Geographic information systems and cartography, forest and agro-ecosystem services (and disservices) and management, land change, rural livelihoods and development;
 - **[Ulf Jansson](https://www.su.se/english/profiles/ulfjan-1.183939)**: land Use, spatial analysis, Rural Geography, Historical geography;
-- **[Bo Malmberg](https://www.su.se/english/profiles/bmalm-1.184229)**: applied econometrics, economic Geography, population geography; urban geography, GIS and remote sensing, Spatial statistics;
+- **[Bo Malmberg](https://www.su.se/english/profiles/bmalm-1.184229)**: applied econometrics, economic Geography, population geography, urban geography, GIS and remote sensing, Spatial statistics;
 - **[Anders Wästfelt](https://www.su.se/english/profiles/wastf-1.183689)**: remote sensing, Earth Observation, satellite image analysis and processing, spatial analysis, geoinformation, vegetation mapping.
 
 ### 哥德堡大学
@@ -2119,7 +2118,7 @@ GIS相关系所：[地理系](https://www.ntnu.edu/geography)、
 - **[Terje Midtbø](https://www.ntnu.no/ansatte/terje.midtbo)**: Data structures for terrain modeling, Methods for distribution of geographic information on the Internet, Handling of geographic phenomena which includes a temporal component;
 - **[Lizhen Huang](https://www.ntnu.edu/employees/lizhen.huang)**: Information modeling for GIS-ITS-BIM integration, smart and sustainable Built environment, Digital twin, Energy demand analysis;
 - **[Erling Onstein](https://www.ntnu.edu/employees/erling.onstein)**: GIS and geomatics in general, modeling, Standardisation and Specification of geographical information, Validation and quality assessment of information, Building information modeling (BIM);
-- **[Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan)**: 3D city modeling, Laser Scanning, photogrammetry, Spatial data mining and knowledge discovering by using crowdsourcing data;
+- **[Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan)**: 3D city modeling, Laser Scanning, photogrammetry, Spatial data mining and knowledge discovering by using crowdsourcing data.
 
 ### 赫尔辛基大学
 
@@ -2212,7 +2211,7 @@ GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.
 
 相关导师：
 - **[Ioannis Giannopoulos](https://www.geo.tuwien.ac.at/staff/991/giannopoulos-ioannis)**: Spatial HCI, urban Computing, LBS, Mobile Decision Making, machine learning, Mobile and remote Eye Tracking, Pedestrian Navigation, Augmented reality as well as interaction in virtual and Mixed environments;
-- **[Gartner, Georg](https://www.geo.tuwien.ac.at/staff/1071/gartner-georg)**: cartography; Maps; Web mapping; spatial analysis; Atlases; geoinformation; location-Based Services; Crowdsourcing.
+- **[Gartner, Georg](https://www.geo.tuwien.ac.at/staff/1071/gartner-georg)**: cartography, Maps, Web mapping, spatial analysis, Atlases, geoinformation, location-Based Services, Crowdsourcing.
 
 ### 萨尔茨堡大学
 
@@ -2232,7 +2231,7 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 - **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: 教授课程：Scientific Methods and Writing等。邮箱：stefan.lang@sbg.ac.at;
 - **[Assoz.Prof. Hofer, Barbara](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: 教授课程：geovisualization and Advanced cartography等。邮箱：barbara.hofer@sbg.ac.at;
 - **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: 课程：图像处理、降雨与气温分析等。邮箱：shahnawaz.shahnawaz@sbg.ac.at;
-- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented image analysis，geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at
+- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: OBIA实验室领头人。课程：application Development, Arcpy二次开发、QGIS开发，Big Earth Data、Object-oriented image analysis，geoprocessing with Python等。邮箱：dirk.tiede@sbg.ac.at.
 
 
 ### 荷语鲁汶大学
