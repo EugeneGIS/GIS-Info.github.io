@@ -29,7 +29,7 @@
 ## 目录
 由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校中文缩写排序）：
 
-北美洲58所：[美国48所](#美国)，[加拿大10所](#加拿大)
+北美洲59所：[美国49所](#美国)，[加拿大10所](#加拿大)
 
 亚洲大洋洲10所：[中国香港5所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
@@ -72,6 +72,7 @@
 - [德克萨斯州立大学 (TXST)](#德克萨斯州立大学)
 - [新墨西哥大学 (UNM)](#新墨西哥大学)
 - [明尼苏达大学双城分校 (UMN)](#明尼苏达大学双城分校)
+- [爱达荷大学 (Idaho)](#爱达荷大学)
 - [爱荷华大学 (UI)](#爱荷华大学)
 - [田纳西大学 (UTK)](#田纳西大学)
 - [科罗拉多大学 (CU Boulder)](#科罗拉多大学波尔德分校)
@@ -238,7 +239,7 @@ GIS相关系所：[地理与地理信息科学系](https://science.gmu.edu/acade
 
 GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 
-亚利桑那州立大学地理与城市规划系在空间分析、空间统计、城市气象学等方面实力强劲。目前有三名美国科学院院士。主要研究方向下分为三个研究中心 [SPARC 空间分析中心](https://sgsup.asu.edu/SPARC)、[CGDC 全球发现与保护科学中心](https://gdcs.asu.edu) 和 [UCRC城市气候研究中心](https://sustainability.asu.edu/urban-climate/) 。GIS相关项目包括[研究性硕士和PhD]( https://sgsup.asu.edu/degree-programs/graduate-degrees/phd-geography), 以及[授课型硕士]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis) (1到2年, STEM)。
+亚利桑那州立大学地理与城市规划系在空间分析、空间统计、城市气象学等方面实力强劲。目前有三名美国科学院院士。主要研究方向下分为三个研究中心 [SPARC空间分析中心](https://sgsup.asu.edu/SPARC)、[GDCS全球发现与保护科学中心](https://gdcs.asu.edu) 和 [UCRC城市气候研究中心](https://sustainability.asu.edu/urban-climate/) 。GIS相关项目包括[研究性硕士和PhD]( https://sgsup.asu.edu/degree-programs/graduate-degrees/phd-geography), 以及[授课型硕士]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis) (1到2年, STEM)。
 
 相关导师 ：
 - **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
@@ -250,7 +251,11 @@ GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 - **[David Sailor](https://geography.wisc.edu/cartography/people/Roth.html)**: climate with the built environment;
 - **[Soe Myint](https://sgsup.asu.edu/soe-myint)**: remote sensing, GIS;
 - **[Peter Kedron](https://sgsup.asu.edu/peter-kedron)**: spatial analysis and statistics;
-- **[Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: remote sensing, GIS, UAV.
+- **[Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: remote sensing, GIS, UAV;
+- **[Elizabeth Wentz](https://sgsup.asu.edu/elizabeth-wentz)**:  shape and pattern analysis, geographic information science, applications of GIS to urban environment, urban remote sensing, water resource management;
+- **[Roberta Martin](https://sgsup.asu.edu/roberta-martin)**: remote sensing, biodiversity;
+- **[Matthew Quick](https://sgsup.asu.edu/matthew-quick)**: spatiotemporal analytical methods, urban planning, urban geography, criminology, public health;
+- **[Dylan Connor](https://sgsup.asu.edu/dylan-connor)**: big historical data, immigration, demography, intergenerational inequality, urban and regional development.
 
 ### 伊利诺伊大学香槟分校
 **University of Illinois at Urbana-Champaign (UIUC)**
@@ -521,7 +526,8 @@ GIS 相关系所：[空间科学研究所](https://spatial.usc.edu/)
 - **[Fleming, Steven D.](https://spatial.usc.edu/team-view/steven-d-fleming/)**: geospatial intelligence, remote sensing, physical geography, GIS, cartography, photogrammetry;
 - **[Marx, Andrew J.](https://spatial.usc.edu/team-view/andrew-j-marx-2/)**: geospatial intelligence, remote sensing, spatio-temporal analysis, human rights, GIS;
 - **[Shahabi, Cyrus](https://spatial.usc.edu/?team=cyrus-shahabi)**: databases, GIS, multi-media;
-- **[Wilson, John P.](https://spatial.usc.edu/?team=john-p-wilson)**: GIS，spatial analysis, environmental modeling, environment and human health, geodesign education.
+- **[Wilson, John P.](https://spatial.usc.edu/?team=john-p-wilson)**: GIS，spatial analysis, environmental modeling, environment and human health, geodesign education;
+- **[Kenan Li](https://spatial.usc.edu/team-view/kenan-li/)**: spatial computation and modeling of community resilience/sustainability, data science and statistics in environmental health, geosimulation of human and environmental systems.
 
 ### 南卡罗来纳大学
 
@@ -553,7 +559,10 @@ GIS相关系所：[地理系](https://geography.sdsu.edu/)
 - **[Atsushi Nara](https://geography.sdsu.edu/People/Faculty/nara.php)**: applied GIS, geocomputation, spatial analysis and modeling, data science;
 - **[Ming-Hsiang Tsou](https://map.sdsu.edu/tsou/)**: applied GIS, cartography and geovisualization, geocomputation, spatial analysis and modeling, data science;
 - **[Trent Biggs](https://geography.sdsu.edu/People/Faculty/biggs.php)**: hydrological processes and modeling, remote sensing for watershed science, social-ecological Systems, spatial analysis and modeling, land cover and land use change analysis, environmental planning and Policy, sediment, erosion, and water quality, data science;
-- **[Fernando De Sales](https://scholar.google.com/citations?user=YPPRiA4AAAAJ&hl=en)**: regional climate modeling, remote sensing and watershed science, land cover and land use, Wildfire processes, landscape ecology.
+- **[Fernando De Sales](https://scholar.google.com/citations?user=YPPRiA4AAAAJ&hl=en)**: regional climate modeling, remote sensing and watershed science, land cover and land use, Wildfire processes, landscape ecology;
+- **[Piotr Jankowski](https://geography.sdsu.edu/People/Faculty/jankowski.php)**: models and methods of spatial decision support, GIS approaches to planning and decision making, sensitivity analysis in space-time models;
+- **[Li An](https://geography.sdsu.edu/People/Faculty/an.php)**: land cover and land change, environment, applied GIS, cartography, visualization, spatial analysis and modeling;
+- **[André Skupin](https://geography.sdsu.edu/People/Faculty/skupin.php)**: geovisualization, geocomputation, spatial analysis, applied GIS, data science.
 
 ### 夏威夷大学
 
@@ -623,7 +632,8 @@ GIS相关系所：[地理系](https://www.geog.psu.edu/)
 - **[Guido Cervone](https://www.geog.psu.edu/directory/guido-cervone)**: environmental hazards, remote sensing, geoinformatics, social media;
 - **[Anthony Robinson](https://www.geog.psu.edu/directory/anthony-robinson)**: geovisual analytics, cartography, user-centered design, geovisualization, information visualization;
 - **[Manzhu Yu](https://www.geog.psu.edu/directory/manzhu-yu)**: spatiotemporal theories and applications, natural hazards and extreme weather, environmental informatics, spatial data science and deep learning;
-- **[Helen Greatrex](https://www.geog.psu.edu/directory/anthony-robinson)**: weather risk management, geostatistics, uncertainty estimation, historical weather analysis, satellite rainfall estimation, index insurance, agricultural modeling, social equity.
+- **[Helen Greatrex](https://www.geog.psu.edu/directory/anthony-robinson)**: weather risk management, geostatistics, uncertainty estimation, historical weather analysis, satellite rainfall estimation, index insurance, agricultural modeling, social equity;
+- **[Shujie Wang](https://www.geog.psu.edu/directory/shujie-wang)**: remote sensing, numerical modeling, cryosphere, climate system.
 
 ### 密歇根大学
 
@@ -744,7 +754,8 @@ GIS 相关系所：[地理与环境系](https://liberalarts.utexas.edu/geography
 
 - **[Eugenio Arima](https://liberalarts.utexas.edu/geography/faculty/ea9267)**: human-environment interactions, land change science, GIS/science, applied quantitative methods, Latin America;
 - **[Kelley A. Crews](https://liberalarts.utexas.edu/geography/faculty/kac2869)**: Muddy Boots remote sensing, Land change science, & healthy socio-ecological systems in developing states;
-- **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, movement pattern analysis, spatial statistics, biogeography.
+- **[Jennifer A. Miller](https://liberalarts.utexas.edu/geography/faculty/profile.php?eid=jam5889)**: GIScience, movement pattern analysis, spatial statistics, biogeography;
+- **[Tony Grubesic](https://www.ischool.utexas.edu/people/people-details?PersonID=384)** (信息学院): GIS, urban informatics, sustainability, hazards.
 
 ### 德克萨斯大学达拉斯分校
 
@@ -761,7 +772,8 @@ UT Dallas的GIS专业是美国老牌强势专业，研究水平处于全美前�
 - **[Daniel Griffith](https://personal.utdallas.edu/~dag054000/)**: spatial statistics, quantitative/urban/economic geography, applied statistics & statistical consulting, research proposal design;
 - **[Brian Berry](https://brianjlberry.com/)**: spatial analysis of urban economic systems, geography and urban research, economy, society and polity;
 - **[Denis Dean](https://personal.utdallas.edu/~djd081000/)**: spatial optimization, the application of machine learning techniques and ideas to spatial analysis, and accuracy assessment of spatial analysis techniques;
-- **[Fang Qiu](https://personal.utdallas.edu/~ffqiu/)**: remote sensing digital image processing, LiDAR and hyperspectral remote sensing, neural network and fuzzy logic, spatial analysis and modeling, GIS application software development, web-based mapping and information processing.
+- **[Fang Qiu](https://personal.utdallas.edu/~ffqiu/)**: remote sensing digital image processing, LiDAR and hyperspectral remote sensing, neural network and fuzzy logic, spatial analysis and modeling, GIS application software development, web-based mapping and information processing;
+- **[Yongwan Chun](https://personal.utdallas.edu/~yxc070300/)**: GIS, spatial statistics, urban.
 
 ### 德克萨斯州立大学
 
@@ -822,6 +834,24 @@ GIS相关系所：[地理系]( https://cla.umn.edu/geography)
 - **[Eric Shook](https://cla.umn.edu/about/directory/profile/eshook)**: spatio-temporal computing, machine learning, CyberGIS;
 - **[Ying Song](https://cla.umn.edu/about/directory/profile/yingsong)**: time geography, spatio-temporal modeling, transportation;
 - **[Di Zhu](http://dizhu-gis.com/)**: geospatial modeling, GeoAI, social sensing.
+
+
+### 爱达荷大学
+
+**University of Idaho (Idaho)**
+
+美国，爱达荷州，莫斯科
+
+GIS相关系所：[地理系](https://www.uidaho.edu/sci/geography)
+
+爱达荷大学地理系开设有MS和PhD学位，其中MS学位有研究型和课程型两种选择。研究型学位需要完成thesis，课程型学位除了上课之外也要完成一个规模较小的研究项目并提交report。地理系的GIS项目之科研方向主要有城市发展、生态学、自然资源等方面的应用。此外，本校计算机系的[IDEA实验室](https://webpages.uidaho.edu/max/idea-lab.html)也有geoinformatics相关的科研机会。
+
+相关导师：
+- **[Chao Fan](https://www.uidaho.edu/sci/geography/people/faculty/chao-fan)**: GIScience, remote sensing, spatial analysis and modeling, urban heat island mitigation, vegetation modeling, land cover land use change, agriculture management;
+- **[Felix Liao](https://www.uidaho.edu/sci/geography/people/faculty/hliao)**: GIS, spatial analysis, urban informatics, planning;
+- **[Raymond J. Dezzani](https://www.uidaho.edu/sci/geography/people/faculty/dezzani)**: spatial statistics and modeling, globalization, economic geography;
+- **[Karen Humes](https://www.uidaho.edu/sci/geography/people/faculty/khumes)**: application of GIS and remote sensing on hydrology, environmental informatics, water and energy nexus;
+- **[Xiaogang Ma](https://webpages.uidaho.edu/max/index.html)** (计算机系): geoinformatics, semantic web, knowledge graph, participatory knowledge engineering, data interoperability.
 
 ### 爱荷华大学
 
@@ -918,7 +948,7 @@ GIS相关系所：[地理系](http://www.buffalo.edu/cas/geography.html)
 - **[Yingjie Hu 胡英杰](http://www.buffalo.edu/cas/geography/faculty/faculty_directory.host.html/content/shared/cas/geography/faculty-staff/faculty-profiles/hu-yingjie.html)**: geospatial artificial intelligence; Spatial data mining; Geographic informational retrieval;
 - **[Le Wang 王乐](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/le-wang.html)**: remote sensing, Forest characterization, environment modeling, land cover and land use change, urban population estimation, Invasive species modeling;
 - **[Ling Bian 卞玲](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/ling-bian.html)**: Individual-based epidemiological modeling, Inter-operable environmental models;
-**[Andrew Crooks](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/andrew-crooks.html)**: geocomputation, Agent-based modeling, social network analysis, urban geography, computational social science.
+- **[Andrew Crooks](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/andrew-crooks.html)**: geocomputation, Agent-based modeling, social network analysis, urban geography, computational social science.
 空间统计方向：
 - **[Jared Aldstadt](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/jared-aldstadt.html)**: medical geography, Spatial epidemiology, spatiotemporal analysis;
 - **[Peter A. Rogerson](http://www.buffalo.edu/cas/geography/faculty/faculty_directory/peter-a--rogerson.html)**: spatial statistics, dynamic migration modeling, demographic forecasting, Mathematical modeling;
@@ -963,7 +993,8 @@ LSU研究生院有地理学的硕士（M.S.）和博士项目。硕士需要完�
 - **[Fahui Wang](https://www.lsu.edu/ga/people/faculty/fahui-wang/index.php)**: spatial analysis, regional planning, social geography;
 - **[Xuelian Meng](https://www.lsu.edu/ga/people/faculty/shelley-meng/index.php)**: remote sensing, image processing;
 - **[Michael Leitner](https://www.lsu.edu/ga/people/faculty/michael-leitner/index.php)**: GIS, spatial analysis, spatial crime modeling;
-- **[Alex Haberlie](https://www.lsu.edu/ga/people/faculty/alex-haberlie/index.php)**: remote sensing, machine learning, climate changes.
+- **[Alex Haberlie](https://www.lsu.edu/ga/people/faculty/alex-haberlie/index.php)**: remote sensing, machine learning, climate changes;
+- **[Nina Lam](https://www.lsu.edu/cce/research/faculty_profiles/nina_lam.php)** (环境科学系): GIS, remote sensing, spatial analysis, environmental health, disaster resilience, sustainability.
 
 ### 阿拉斯加大学费尔班克斯分校
 
@@ -1216,7 +1247,8 @@ GIS相关系所：[地理系]( https://mcgill.ca/geography/)
 - **[Raja Sengupta](http://tomlinson.lab.mcgill.ca/Sengupta/index.html)**：GIS, spatial analysis, spatial decision, agent-based modeling, watershed management;
 - **[Margaret Kalacska](http://geog.mcgill.ca/faculty/kalacska/)**: spatial analysis, machine learning, remote sensing;
 - **[Grant McKenzie](https://www.grantmckenzie.com/)**: GIS, spatial analysis, geospatial data science, spatial behavior;
-- **[Kevin Manaugh](https://www.mcgill.ca/mse/kevin-manaugh)**: urban GIS, urban environment, social justice, transportation system.
+- **[Kevin Manaugh](https://www.mcgill.ca/mse/kevin-manaugh)**: urban GIS, urban environment, social justice, transportation system;
+- **[Renee Sieber](https://www.mcgill.ca/geography/people-0/sieber)**: participatory GIS, use of GIS in the environmental movement.
 
 
 ### 香港城市大学
@@ -1289,7 +1321,26 @@ GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_
 - **[張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: smart cities and sustainable development, remote sensing of urban environment.
 
 ### 香港浸会大学
-TBA
+**Hong Kong Baptist University (HKBU)**
+
+中国，香港特别行政区
+
+GIS相关系所：[地理系](http://geog.hkbu.edu.hk/)
+
+香港浸会大学地理系历史悠久，前身为1960年成立的历史与地理系，后于1978年独立成系，隶属于社会科学学院。部门内设有三个研究中心：中国城市与区域研究中心（CURS）；亚洲能源研究中心（AESC，原称为香港能源研究中心），以及地理计算研究中心（CGS）。地理系主要的4个研究方向是：
+- 地理分析，GIS和遥感
+- 能源，可持续发展和资源管理
+- 自然景观与环境变化
+- 城市与区域研究
+
+研究型学位提供MPhil和PhD学位，涉及主题广泛，包括：GIS和遥感、人类生物气象学、环境规划与管理、城市绿化问题、古环境和海洋自然环境、沉积学、城市住房市场、城市规划、交通运输研究、中国从农村向城市的迁移、能源研究、政治地理；另外还与其他部门联合培养2个基于课程型的研究生项目：当代中国研究（MS，专注于城市发展与环境管理）和全球社会（MA）。
+
+相关导师：
+
+- **[Qiming Zhou](http://geog.hkbu.edu.hk/?page_id=613)**: change detection and land cover modelling with remote sensing, digital terrain analysis and hydrological modelling, climate change and its impacts on water resources and ecosystems, aridzone studies;
+- **[Donggen Wang](http://geog.hkbu.edu.hk/?page_id=578)**: activity-travel behavior, transport and time geography, activity-based socio-spatial segregation, geography of wellbeing, housing choice and residential satisfaction;
+- **[Jianfeng Li]( http://geog.hkbu.edu.hk/?page_id=2227)**: hydroclimatology, hydrology and water resources, climate extremes and water hazards, climate change, regional water cycle。
+
 
 ### 香港理工大学
 **The Hong Kong Polytechnic University (PolyU)**
