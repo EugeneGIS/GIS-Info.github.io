@@ -131,6 +131,8 @@ Stanley Du - Pathea
 
 周璐 - 东北林业大学
 
+李佳 - 国泰君安
+
 Weichen Cao - Chubb Limited
 
 张婧祎 - 北京四中
@@ -181,6 +183,9 @@ Angel Tang - 长安汽车
 
 高鹏 - 中海地产
 
+孟凡林 - Capital One
+
+徐雅雯 - 中信
 
 TBA
 
