@@ -507,8 +507,6 @@ GIS相关系所：[地理系](https://geography.washington.edu/)
 - **[Michael Brown](https://geography.washington.edu/people/michael-brown)**：cities, critical theory, feminism and feminist theory, health, history, queer studies, research methods, urban studies, urban politics, political geography;
 - **[Suzanne Davies Withers](https://geography.washington.edu/people/suzanne-davies-withers)**：population, poverty, research methods, urban studies.
 
-
-
 ### 南加州大学
 
 **The University of Southern California (USC)**
@@ -573,7 +571,9 @@ TBA
 
 **Temple University (Temple)**
 
-美国，
+美国，宾夕法尼亚州，费城
+
+GIS相关系所：[地理和城市研究系](https://www.cla.temple.edu/geography-and-urban-studies/)
 
 天普大学地理和城市研究系研究方向涵盖GIS，城市研究，可持续发展等。
 
@@ -826,7 +826,7 @@ GIS所涉及的研究领域包括geospatial data science, cartography, geovisual
 
 GIS相关系所：[地理系]( https://cla.umn.edu/geography)
 
-明尼苏达双城分校地理系涉猎广泛，其中涉及GIS的研究领域主要包括 cartography and visualization, Global Data Research, health and population, and movement and space-time analytics等。明大有U-Spatial、Minnesota population Center(MPC)等组织机构来支持各类跨院系的GIS科研合作与数据共享. 该系有两个2年制硕士项目，一个是研究型硕士，一个是授课型项目MGIS; 以及geography博士项目，本科与硕士毕业均可申请。
+明尼苏达双城分校地理系涉猎广泛，其中涉及GIS的研究领域主要包括 cartography and visualization, Global Data Research, health and population, and movement and space-time analytics等。明大有U-Spatial、Minnesota population Center (MPC)等组织机构来支持各类跨院系的GIS科研合作与数据共享. 该系有两个2年制硕士项目，一个是研究型硕士，一个是授课型项目MGIS; 以及geography博士项目，本科与硕士毕业均可申请。
 
 相关导师：
 
