@@ -17,7 +17,7 @@
 
 此外，我们组织了两个微信群：一个是GIS海外留学群，主要针对有意向出国留学的同学；另一个是GIS海外志愿者和交流群（需验证身份），为海外GIS学者学生交流提供平台。欢迎大家按需加入讨论。
 
-官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)或[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich)，或通过邮件[联系我们](https://gis-info.github.io/pages/authors)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
+官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)，[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich) 或 [PhanTask](https://www.zhihu.com/people/phantask93)，或通过邮件[联系我们](https://gis-info.github.io/pages/authors)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
 
 本文中各个学校顺序不分先后,如果需要了解学校的综合排名等情况，请查询[times](https://www.timeshighereducation.com/world-university-rankings), [QS](https://www.topuniversities.com/qs-world-university-rankings), [USNews](https://www.usnews.com/education/best-global-universities/rankings), [ARWU](http://www.shanghairanking.com/)等大学排名以及各个大学的官网。
 
@@ -33,7 +33,7 @@
 
 亚洲大洋洲10所：[中国香港5所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
-欧洲56所：[英国7所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典4所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰1所](#爱尔兰)
+欧洲58所：[英国7所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰1所](#爱尔兰)
 
 #### 美国
 - [丹佛大学 (DU)](#丹佛大学)
@@ -165,6 +165,7 @@
 - [瑞典皇家理工学院 (KTH)](#瑞典皇家理工学院)
 - [斯德哥尔摩大学 (SU)](#斯德哥尔摩大学)
 - [哥德堡大学 (GU)](#哥德堡大学)
+- [耶夫勒大学 (HIG)](#耶夫勒大学)
 
 #### 挪威
 - [奥斯陆大学 (UiO)](#奥斯陆大学)
@@ -570,19 +571,19 @@ TBA
 
 ### 天普大学
 
-**Temple University ([Temple](https://www.cla.temple.edu/geography-and-urban-studies))**
+**Temple University (Temple)**
 
 美国，
 
-天普大学地理和城市研究系研究方向涵盖GIS，城市研究，可持续发展等
+天普大学地理和城市研究系研究方向涵盖GIS，城市研究，可持续发展等。
 
 相关导师：
 
-- **Xiaojiang Li**: spatial data science, urban analytics for sustainability, urban science, urban computing based on Google Street View;
-- **Jeremy Mennis**: GIS, public health, environmental science;
-- **Victor Hugo Gutierrez-Velez**: GIS, remote sensing, land use/land cover change;
-- **Hamil Pearsall**: GIS, urban sustainability, social justice;
-- **Kevin A. Henry**: geography and urban studies, public health, GIS.
+- **[Xiaojiang Li](https://sites.google.com/site/xiaojiangligis/home)**: spatial data science, urban analytics for sustainability, urban science, urban computing based on Google Street View;
+- **[Jeremy Mennis](https://liberalarts.temple.edu/academics/faculty/mennis-jeremy)**: GIS, public health, environmental science;
+- **[Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**: GIS, remote sensing, land use/land cover change;
+- **[Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**: GIS, urban sustainability, social justice;
+- **[Kevin A. Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: geography and urban studies, public health, GIS.
 
 ### 威斯康辛大学麦迪逊分校  
 
@@ -1356,13 +1357,14 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 相关导师：
 
 - **[Prof. SHI Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modeling;
-- **[Prof. LI Zhi-lin]()**: cartography, GIS-Based spatial data modeling, feature extraction from remote sensing images;
+- **[Prof. LI Zhi-lin](http://www.lsgi.polyu.edu.hk/people/academic/li-zhi-lin/index.asp)**: cartography, GIS-Based spatial data modeling, feature extraction from remote sensing images;
 - **[Prof. WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: photogrammetry and robotic vision, planetary mapping and planetary science, 3D GIS and applications;
 - **[Dr. PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: intelligent transport system, cartographic visualization, spatial analysis, spatial networking;
 - **[Dr. LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, complex network, transportation geography, urban computing;
 - **[Dr. XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, urban informatics, mobility, transportation;
 - **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: spatial analysis and modeling, activity-based travel demand modeling, smart cities, land use and transport interaction, agent-based modeling, complex urban system;
-- **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies.
+- **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies;
+- **[Dr. JIA Peng](https://scholar.google.com/citations?user=eR1sDXYAAAAJ&hl=en)**: Spatial lifecourse epidemiology, health geography, obesity, health cares, spatial technology.
 
 ### 新加坡国立大学
 
@@ -2187,6 +2189,19 @@ GIS相关系所：[地球科学系]( https://gvc.gu.se/english)、
 - **[Deliang Chen](https://geography.wisc.edu/gis/staff/huang-qunying/)**: statistical Data analysis, spatial analysis, climate variability, climate change, hydrology, hydrological modeling, water Balance, water resources management;
 - **[Anders Larsson](https://www.gu.se/english/about_the_university/staff/?userId=xlarss/)**: industrial and economic geography, regional development and innovation, regional planning and policy, GIS, transport and accessibility methodology.
 
+### 耶夫勒大学
+
+**University of Gavle (HIG)**
+
+瑞典，耶夫勒堡省，耶夫勒市
+
+GIS相关系所：[计算机与地理空间科学系]( https://www.hig.se/Ext/En/University-of-Gavle/Organisation/Akademier/Faculty-of-Engineering-and-Sustainable-Development/Departments-at-the-Faculty/Department-of-Computer-and-Geospatial-Sciences.html)
+
+耶夫勒大学位于瑞典耶夫勒市中心，建成于1977年。耶夫勒大学工程与可持续发展学院下辖计算机与地理空间科学系（亦作工业发展、IT与土地管理系），主要研究计算机科学、地理空间科学以及决策、风险和政策分析。相关硕士项目有[Geomatics硕士项目](https://www.hig.se/TAGEM_en)和[Geospatial Information Science](https://www.hig.se/TAGSM_en)硕士项目。
+
+相关导师：
+- **[Bin Jiang](http://giscience.hig.se/binjiang/)**: GIScience, GeoInformatics, Spatial Analysis, Cartography, Space Syntax.
+
 ### 奥斯陆大学
 
 **University of Oslo (UiO)**
@@ -2253,7 +2268,8 @@ GIS相关系所：[建筑环境系]( https://www.aalto.fi/en/department-of-built
 - **[Kirsi-Kanerva virrantaus](https://research.aalto.fi/en/persons/kirsi-kanerva-virrantaus)**: spatial data analysis, spatial data modeling, GIS for safety and defence, GIS, geoinformatics;
 - **[Martin Vermeer](https://people.aalto.fi/martin.vermeer)**: satellite positioning, geodesy, coordinate reference systems, geodynamics, photogrammetry, navigation technologies;
 - **[Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen)**: Earth observation, remote sensing, albedo, global satellite products, forests and vegetation;
-- **[Matti Vaaja](https://people.aalto.fi/matti.t.vaaja)**: laser scanning, mobile mapping, change detection, 3D-models.
+- **[Matti Vaaja](https://people.aalto.fi/matti.t.vaaja)**: laser scanning, mobile mapping, change detection, 3D-models;
+- **[Henrikki Tenkanen](https://people.aalto.fi/henrikki.tenkanen**: GIS, multimodal spatio-temporal accessibility modelling, mobility analytics, dynamic accessibility patterns;
 
 ### 哥本哈根大学
 
