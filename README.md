@@ -39,6 +39,7 @@
 - [丹佛大学 (DU)](#丹佛大学)
 - [乔治梅森大学 (GMU)](#乔治梅森大学)
 - [亚利桑那州立大学 (ASU)](#亚利桑那州立大学)
+- [亚拉巴马大学 (UA)](#亚拉巴马大学)
 - [伊利诺伊大学香槟分校 (UIUC)](#伊利诺伊大学香槟分校)
 - [佐治亚大学 (UGA)](#佐治亚大学)
 - [佛罗里达大学 (UFL)](#佛罗里达大学)
@@ -49,15 +50,16 @@
 - [俄克拉荷马州立大学 (Ok State)](#俄克拉荷马州立大学)
 - [俄勒冈大学 (Oregon)](#俄勒冈大学)
 - [俄勒冈州立大学 (Oregon State)](#俄勒冈州立大学)
-- [堪萨斯大学 (KU)](#堪萨斯大学)
 - [克拉克大学 (Clark)](#克拉克大学)
 - [加州大学圣巴巴拉分校 (UCSB)](#加州大学圣巴巴拉分校)
 - [华盛顿大学 (UW)](#华盛顿大学)
 - [南加州大学 (USC)](#南加州大学)
 - [南卡罗来纳大学 (SC)](#南卡罗来纳大学)
 - [圣迭戈州立大学 (SDSU)](#圣迭戈州立大学)
+- [堪萨斯大学 (KU)](#堪萨斯大学)
 - [夏威夷大学 (UHawaii)](#夏威夷大学)
 - [天普大学 (Temple)](#天普大学)
+- [奥本大学 (Auburn)](#奥本大学)
 - [威斯康辛大学麦迪逊分校 (Wisc)](#威斯康辛大学麦迪逊分校)
 - [宾夕法尼亚大学 (UPenn)](#宾夕法尼亚大学)
 - [宾夕法尼亚州立大学 (PSU)](#宾夕法尼亚州立大学)
@@ -258,6 +260,25 @@ GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 - **[Matthew Quick](https://sgsup.asu.edu/matthew-quick)**: spatiotemporal analytical methods, urban planning, urban geography, criminology, public health;
 - **[Dylan Connor](https://sgsup.asu.edu/dylan-connor)**: big historical data, immigration, demography, intergenerational inequality, urban and regional development.
 
+### 亚拉巴马大学
+
+**University of Alabama (UA)**
+
+美国，亚拉巴马州，塔斯卡鲁萨
+
+GIS相关系所：[地理系](https://geography.ua.edu/)
+
+亚拉巴马大学拥有美国南方最古老的地理系（成立于1903年）。这个系有MS和PhD学位的研究生项目，研究生科研内容分为地球系统科学、环境和资源、环境和社会、地理信息科学4大方向，而地理信息科学的科研方向主要包括空间建模、遥感、地理信息系统和计算机制图学。大部分被录取的研究生都会获得奖学金。
+
+相关导师:
+- **[Hongxing Liu](https://geography.ua.edu/profiles/hongxing-liu/)**: remote sensing, LiDAR, hydrology, limnology, cryosphere;
+- **[Luoheng Han](https://geography.ua.edu/profiles/luoheng-han/)**: remote sensing, spatial modeling, nutrients, water quality;
+- **[David J. Keellings](https://geography.ua.edu/profiles/david-keellings/)**: spatial analysis, quantitative methods, climate;
+- **[Sagy Cohen](https://geography.ua.edu/profiles/sagy-cohen/)**: GIS, numerical modeling, geomorphology;
+- **[Seth Appiah-Opoku](https://geography.ua.edu/profiles/seth-appiah-opoku/)**: spatial analysis, urban planning, transportation, ecology, environment;
+- **[Nicholas Magliocca](https://geography.ua.edu/profiles/nicholas-magliocca/)**: computational geography, agent-based models, human-environment interaction, food and energy;
+- **[Kevin M. Curtin](https://geography.ua.edu/profiles/kevin-m-curtin/)**: GIS, urban science, location science, transportation, geodatabase design.
+
 ### 伊利诺伊大学香槟分校
 **University of Illinois at Urbana-Champaign (UIUC)**
 
@@ -439,22 +460,6 @@ GIS相关系所：[地球、海洋和大气科学学院](https://ceoas.oregonsta
 - **[Jamon Van Den Hoek](https://ceoas.oregonstate.edu/people/jamon-van-den-hoek)**: GIS and remote sensing on marine resource management, GeoAI, remote sensing, GIS programming;
 - **[Mark Raleigh](https://ceoas.oregonstate.edu/people/mark-raleigh)**: remote sensing, image processing, polar climate, spatial analysis on snow distribution, geo-data science.
 
-### 堪萨斯大学
-
-**University of Kansas (KU)**
-
-美国，堪萨斯州，劳伦斯市
-
-GIS相关系所：[地理和大气科学系](https://geog.ku.edu/)
-
-在堪萨斯大学的地理和大气科学系，地理学项目提供MA和PhD两种研究生学位，以及地理学和城市规划双硕士项目。该系有悠久的历史，许多著名地理学家曾在这里任教过，例如早期制图学教育家George Jenks、德裔植被测绘家A.W. Kuchler、地图设计专家George McCleary和Terry Slocum、遥感教材及科普作家Stan Morain、UCSB地理系的创建者David Simonett等。目前，该系有将近20名教授和超过50名研究生，研究方向包括自然地理、生物地理、大气科学、人文地理、区域地理、城市地理、遥感及地理信息技术，各个方向通有合作项目。
-
-相关导师：
-- **[Xingong Li](https://geog.ku.edu/xingong-li)**: GIS, spatial data science, computational methods;
-- **[Ting Lei](https://geog.ku.edu/lei-ting-0)**: GIS, transportation, remote sensing;
-- **[Peter Herlihy](https://geog.ku.edu/peter-herlihy#link2)**: place-based GIS, participatory mapping, digital cultural landscape, Latin American historical geography;
-- **[David Rahn](https://geog.ku.edu/david-rahn#link2)**: remote sensing, cloud, wind, numerical modeling.
-
 ### 克拉克大学
 **Clark University (Clark)**
 
@@ -563,6 +568,22 @@ GIS相关系所：[地理系](https://geography.sdsu.edu/)
 - **[Li An](https://geography.sdsu.edu/People/Faculty/an.php)**: land cover and land change, environment, applied GIS, cartography, visualization, spatial analysis and modeling;
 - **[André Skupin](https://geography.sdsu.edu/People/Faculty/skupin.php)**: geovisualization, geocomputation, spatial analysis, applied GIS, data science.
 
+### 堪萨斯大学
+
+**University of Kansas (KU)**
+
+美国，堪萨斯州，劳伦斯市
+
+GIS相关系所：[地理和大气科学系](https://geog.ku.edu/)
+
+在堪萨斯大学的地理和大气科学系，地理学项目提供MA和PhD两种研究生学位，以及地理学和城市规划双硕士项目。该系有悠久的历史，许多著名地理学家曾在这里任教过，例如早期制图学教育家George Jenks、德裔植被测绘家A.W. Kuchler、地图设计专家George McCleary和Terry Slocum、遥感教材及科普作家Stan Morain、UCSB地理系的创建者David Simonett等。目前，该系有将近20名教授和超过50名研究生，研究方向包括自然地理、生物地理、大气科学、人文地理、区域地理、城市地理、遥感及地理信息技术，各个方向通有合作项目。
+
+相关导师：
+- **[Xingong Li](https://geog.ku.edu/xingong-li)**: GIS, spatial data science, computational methods;
+- **[Ting Lei](https://geog.ku.edu/lei-ting-0)**: GIS, transportation, remote sensing;
+- **[Peter Herlihy](https://geog.ku.edu/peter-herlihy#link2)**: place-based GIS, participatory mapping, digital cultural landscape, Latin American historical geography;
+- **[David Rahn](https://geog.ku.edu/david-rahn#link2)**: remote sensing, cloud, wind, numerical modeling.
+
 ### 夏威夷大学
 
 TBA
@@ -584,6 +605,24 @@ GIS相关系所：[地理和城市研究系](https://www.cla.temple.edu/geograph
 - **[Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**: GIS, remote sensing, land use/land cover change;
 - **[Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**: GIS, urban sustainability, social justice;
 - **[Kevin A. Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: geography and urban studies, public health, GIS.
+
+### 奥本大学
+
+**Auburn University (Auburn)**
+
+美国，亚拉巴马州，奥本市
+
+GIS相关系所：[地球科学系](http://www.auburn.edu/cosam/departments/geosciences/index.htm)
+
+奥本大学的地球科学系里包括了构造地质学、沉积和古生物、地球物理学、行星科学、环境地理、人文地理、地理信息等诸多方向，其中地理信息方向主要会在地貌学、气候学和石油勘探等领域。该系有MS和PhD学位，其中PhD学位的方向是地球系统科学，即地球科学的各个分支的一个交叉学科，会运用到很多包括GIS、遥感和空间分析在内的计量化手段；MS学位有地理学方向，分为授课型和研究型两种选择。
+
+相关导师：
+- **[Luke Marzen](http://www.auburn.edu/academic/cosam/faculty/geosciences/marzen/index.htm)**: GIS, remote sensing, climate, water, biogeography;
+- **[Chandana Mitra](http://www.auburn.edu/academic/cosam/faculty/geosciences/mitra/index.htm)**: GIS, remote sensing, climate, urban study, sustainability;
+- **[Philip Chaney](http://www.auburn.edu/academic/cosam/faculty/geosciences/chaney/index.htm)**: remote sensing, water resource, coastal geography;
+- **[Stephanie Shepherd](http://www.auburn.edu/academic/cosam/faculty/geosciences/shepherd/index.htm)**: GIS application to geomorphology, landscape evolution;
+- **[Ming-Kuo Lee](http://www.auburn.edu/academic/cosam/faculty/geosciences/lee/index.htm)**: spatial modeling, hydrogeology modeling, microbiology, hydrological seismicity, petroleum exploration.
+
 
 ### 威斯康辛大学麦迪逊分校  
 
@@ -1386,6 +1425,21 @@ GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 ### 墨尔本大学
 TBA
 
+### 阿德莱德大学
+
+**University of Adelaide (U-Adel)**
+
+澳大利亚，南澳大利亚州，阿德莱德
+
+GIS相关系所：[空间科学组]( http://www.spatialpoints.com/)，[生物系]( https://sciences.adelaide.edu.au/biological-sciences/)，[光学和遥感研究所](https://www.adelaide.edu.au/ipas/)，[地理、环境和人口学系]( https://arts.adelaide.edu.au/socialsciences/departments/department-of-geography-environment-and-population#our-research)
+
+阿德莱德大学的空间科学组（Spatial Sciences Group）是由从事GIS和遥感研究的博士生、博士后、教职员工组成，他们来自不同的院系，其中以生物系居多，该组目前由两位生物系的教授管理。空间科学组的博士生从事科研的方向包括地理信息系统、环境遥感、航空图像分析、空间生态分析、GIS对土壤环境的分析、生态学地图绘制和可视化分析等等。此外，在社会科学部的地理、环境和人口学系还有urban informatics的项目，比如在[Hugo Center for population and Housing]( https://www.adelaide.edu.au/hugo-centre/)就有social applications of GIS方向。
+
+相关导师：
+
+- **[Bertram Ostendorf]( https://researchers.adelaide.edu.au/profile/bertram.ostendorf)**: GIS, spatial analysis, soil science, spatial decision making for natural resource management;
+- **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis)**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use.
+
 ### 西澳大利亚大学
 
 **University of Western Australia (UWA)**
@@ -1419,21 +1473,6 @@ GIS相关系所：[空间科学系](https://scieng.curtin.edu.au/schools/school-
 - **[Michael Kuhn](https://staffportal.curtin.edu.au/staff/profile/view/michael-kuhn-0ad64f27/)**: surveying, geodesy, gravity;
 - **[Will Featherstone](https://staffportal.curtin.edu.au/staff/profile/view/will-featherstone-0312e6c3/)**: surveying, geodesy, GPS;
 - **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization.
-
-### 阿德莱德大学
-
-**University of Adelaide (U-Adel)**
-
-澳大利亚，南澳大利亚州，阿德莱德
-
-GIS相关系所：[空间科学组]( http://www.spatialpoints.com/)，[生物系]( https://sciences.adelaide.edu.au/biological-sciences/)，[光学和遥感研究所](https://www.adelaide.edu.au/ipas/)，[地理、环境和人口学系]( https://arts.adelaide.edu.au/socialsciences/departments/department-of-geography-environment-and-population#our-research)
-
-阿德莱德大学的空间科学组（Spatial Sciences Group）是由从事GIS和遥感研究的博士生、博士后、教职员工组成，他们来自不同的院系，其中以生物系居多，该组目前由两位生物系的教授管理。空间科学组的博士生从事科研的方向包括地理信息系统、环境遥感、航空图像分析、空间生态分析、GIS对土壤环境的分析、生态学地图绘制和可视化分析等等。此外，在社会科学部的地理、环境和人口学系还有urban informatics的项目，比如在[Hugo Center for population and Housing]( https://www.adelaide.edu.au/hugo-centre/)就有social applications of GIS方向。
-
-相关导师：
-
-- **[Bertram Ostendorf]( https://researchers.adelaide.edu.au/profile/bertram.ostendorf)**: GIS, spatial analysis, soil science, spatial decision making for natural resource management;
-- **[Megan Lewis]( https://researchers.adelaide.edu.au/profile/megan.lewis)**: spatial data, remote sensing, hyperspectral sensing, multi-temporal imagery, soil and vegetation mapping, land use.
 
 ### 伦敦大学学院
 
