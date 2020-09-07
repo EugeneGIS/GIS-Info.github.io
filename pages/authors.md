@@ -199,6 +199,8 @@ Angel Tang - 长安汽车
 
 薛凯 - 萨尔茨堡大学
 
+陈昱 - 塔尔萨大学
+
 TBA
 
 [返回指南](https://gis-info.github.io/)
