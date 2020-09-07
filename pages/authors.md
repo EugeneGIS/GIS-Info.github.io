@@ -9,7 +9,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 ### 联系人
 [康雨豪](https://www.kkyyhh96.site) - 威斯康星大学麦迪逊分校 [yuhao.kang@wisc.edu](mailto:yuhao.kang@wisc.edu)
 
-[叶山](https://www.ye-shan.com/): [yeshantulsa@hotmail.com](mailto:yeshantulsa@hotmail.com)
+[叶山](https://www.ye-shan.com/) - 威斯康星大学麦迪逊分校  [yeshantulsa@hotmail.com](mailto:yeshantulsa@hotmail.com)
 
 [饶锦蒙](http://www.jinmengrao.com) - 威斯康星大学麦迪逊分校 [jinmeng.rao@wisc.edu](mailto:jinmeng.rao@wisc.edu)
 
@@ -99,7 +99,7 @@ Wendy Liu - 芝加哥大学
 
 魏辛源
 
-Xiao Han - ConocoPhillips
+韩笑 - ConocoPhillips
 
 宋秋然 - Devon Energy
 
@@ -111,7 +111,7 @@ Xiao Han - ConocoPhillips
 
 胡昊 - Esri
 
-胡英杰 - 纽约州立大学布法罗分校
+胡英杰 - 纽约州立大学水牛城分校
 
 李烁 - 汇丰
 
