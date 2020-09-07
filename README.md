@@ -347,7 +347,7 @@ GIS相关系所：[地理系](https://geography.osu.edu/)
 - **[Harvey Miller](https://geography.osu.edu/people/miller.81)**: transportation, sustainability, time geography;
 - **[Desheng Liu](https://geography.osu.edu/people/liu.738)**: remote sensing, land cover, spatial analysis;
 - **[Huyen Le](https://geography.osu.edu/people/le.253)**: ITC, transportation, health;
-- **[Qin Yue](https://geography.osu.edu/people/qin.548)**: sustainability, energy, environment;
+- **[Yue Qin](https://geography.osu.edu/people/qin.548)**: sustainability, energy, environment;
 - **[Joel Wainwright](https://geography.osu.edu/people/wainwright.11)**: environmental change, social geography;
 - **[Kendra McSweeney](https://geography.osu.edu/people/mcsweeney.14)**: political ecology, human-environment interactions;
 - **[Darla Munroe](https://geography.osu.edu/people/munroe.9)**: land use change, economic geography;
