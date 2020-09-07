@@ -119,7 +119,7 @@ Wendy Liu - 芝加哥大学
 
 谢雨潭 - 网易
 
-皮心月
+饶婧 - 麦吉尔大学
 
 Stanley Du - Pathea
 
