@@ -33,7 +33,7 @@
 
 亚洲大洋洲10所：[中国香港5所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
-欧洲57所：[英国7所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰1所](#爱尔兰)
+欧洲58所：[英国7所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)
 
 #### 美国
 - [丹佛大学 (DU)](#丹佛大学)
@@ -209,7 +209,7 @@
 
 #### 爱尔兰
 - [国立都柏林大学 (UC Dublin)](#国立都柏林大学)
-
+- [梅努斯大学 (MU)](#梅努斯大学)
 
 ## 学校信息
 
@@ -2644,3 +2644,29 @@ GIS相关系所：[地理系](https://www.ucd.ie/geography/)
 相关导师：
 - **[Ainhoa Gonzalez Del Campo](https://people.ucd.ie/ainhoa.gonzalez)**: developing and applying geospatial analysis tools and methods for assessing environmental change and impacts, to better inform planning and decision-making;
 - **[Michela Bertolotto](https://people.ucd.ie/michela.bertolotto)**: spatio-temporal data modeling and mining, mobile and web-based GIS, map personalisation, open and crowd-sourced spatial data.
+
+### 梅努斯大学
+**Maynooth University (MU)**
+
+爱尔兰，基尔代尔郡，梅努斯市
+
+GIS相关系所：[地理系](https://www.maynoothuniversity.ie/geography)、[爱尔兰国家地学计算中心](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg)
+
+梅努斯大学历史悠久，是爱尔兰四大国立大学之一，计算机科学、地理学等在国际上具有重要影响力。梅努斯大学地理系是欧洲最大的地理系之一，研究范围涵盖人文地理，自然地理，经济地理，景观学，健康地理，GIS与遥感等。爱尔兰国家地学计算中心由地理加权回归模型的作者Stewart Fotheringham成立，模型的合作开发者目前均在该中心任职。该中心重点研究空间数据的获取、存储、分析和可视化，具体方向包括地理加权回归模型，健康地理信息学，城市分析，卫星测探，道路基础设施监测，激光与无人机数据分析应用等。
+
+相关导师：
+- **[Prof Chris Brunsdon](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/chris-brunsdon)**: GIS, geographically weighted regression, spatial analysis, geocomputation, human geography;
+- **[Dr Martin Charlton](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/martin-charlton)**: geographically weighted regression, spatial statistics, GIS, environment;
+- **[Dr Tim McCarthy](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/tim-mccarthy)**: Geospatial Analysis & Modelling, Earth Observation, Autonomous Technologies including Unmanned Aircraft Systems (UAS) - Drones, Web & Mobile Geospatial Information Services, Spatial Decision Support (Cloud-based) Platforms;
+- **[Dr Rowan Fealy](https://www.maynoothuniversity.ie/geography/our-people/rowan-fealy)**:	Physical Climatology, Climate Change, Climate Modelling and Uncertainty;
+- **[Dr Ronan Foley](https://www.maynoothuniversity.ie/geography/our-people/ronan-foley)**:	Health Geographies, GIS, Therapeutic Landscapes, Cultural Geographies;
+- **[Prof Mary Gilmartin](https://www.maynoothuniversity.ie/geography/our-people/mary-gilmartin)**:	Migration, Political, Social and Cultural Geography;
+- **[Dr Adrian Kavanagh](https://www.maynoothuniversity.ie/geography/our-people/adrian-kavanagh)**:	Electoral Geography (geographies of candidate selections, voter turnout and political support), Geographical perspectives on the Eurovision Song Contest;
+- **[Prof Gerry Kearns](https://www.maynoothuniversity.ie/geography/our-people/gerry-kearns)**:	Public Geographies, Geopolitics, Cultural Geography, Historical Geographies;
+- **[Dr Conor Murphy](https://www.maynoothuniversity.ie/geography/our-people/conor-murphy)**:	Climate Change, Hydro-Climatology, Adaptation, Resilience;
+- **[Dr Lisa Orme](https://www.maynoothuniversity.ie/geography/our-people/lisa-orme)**:	Palaeoclimatology;
+- **[Prof Jan Rigby](https://www.maynoothuniversity.ie/geography/our-people/jan-rigby)**:	Geographies of health, Poverty, GIS;
+- **[Dr Helen Shaw](https://www.maynoothuniversity.ie/geography/our-people/helen-shaw)**:	Biogeography;
+- **[Prof Peter Thorne](https://www.maynoothuniversity.ie/geography/our-people/peter-thorne)**:	Climate Science;
+- **[Prof Karen Till](https://www.maynoothuniversity.ie/geography/our-people/karen-till)**:	Memory politics, Urban Design and Planning, Art and Geography;
+- **[Dr Chris van Egeraat](https://www.maynoothuniversity.ie/geography/our-people/chris-van-egeraat)**:	Economic and Regional Geographies.
