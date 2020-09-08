@@ -19,7 +19,7 @@ GitHub项目网站：[GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.g
 
 叶翔 - 深圳大学
 
-赵群山 - 格拉斯哥大学
+[赵群山](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/) - 格拉斯哥大学 [Qunshan.Zhao@glasgow.ac.uk](mailto:Qunshan.Zhao@glasgow.ac.uk)
 
 ### 作者名单
 
