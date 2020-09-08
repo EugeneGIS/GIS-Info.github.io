@@ -207,6 +207,14 @@ Angel Tang
 
 易健 - Hess
 
+吴迪
+
+冯瑶
+
+章静
+
+杨建方
+
 TBA
 
 [返回指南](https://gis-info.github.io/)
