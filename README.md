@@ -52,9 +52,12 @@
 - [俄勒冈州立大学 (Oregon State)](#俄勒冈州立大学)
 - [克拉克大学 (Clark)](#克拉克大学)
 - [加州大学圣巴巴拉分校 (UCSB)](#加州大学圣巴巴拉分校)
+- [北卡罗来纳大学 (UNC)](#北卡罗来纳大学教堂山分校)
+- [北卡罗来纳州立大学 (NC State)](#北卡罗来纳州立大学)
 - [华盛顿大学 (UW)](#华盛顿大学)
 - [南加州大学 (USC)](#南加州大学)
 - [南卡罗来纳大学 (SC)](#南卡罗来纳大学)
+- [印第安纳大学 (IUB)](#印第安纳大学)
 - [圣迭戈州立大学 (SDSU)](#圣迭戈州立大学)
 - [堪萨斯大学 (KU)](#堪萨斯大学)
 - [夏威夷大学 (UHawaii)](#夏威夷大学)
@@ -78,11 +81,13 @@
 - [爱荷华大学 (UI)](#爱荷华大学)
 - [田纳西大学 (UTK)](#田纳西大学)
 - [科罗拉多大学 (CU Boulder)](#科罗拉多大学波尔德分校)
+- [科罗拉多矿业学校 (Mines)](#科罗拉多矿业学校)
 - [纽约州立大学奥尔巴尼分校 (UAlbany)](#纽约州立大学奥尔巴尼分校)
 - [纽约州立大学宾厄姆顿分校 (Binghamton)](#纽约州立大学宾厄姆顿分校)
 - [纽约州立大学水牛城分校 (UB)](#纽约州立大学水牛城分校)
 - [缅因大学 (Maine)](#缅因大学)
 - [路易斯安纳州立大学 (LSU)](#路易斯安纳州立大学)
+- [辛辛那提大学 (Cincinnati)](#辛辛那提大学)
 - [阿拉斯加大学 (UAF)](#阿拉斯加大学费尔班克斯分校)
 - [阿肯色大学 (UARK)](#阿肯色大学)
 - [雪城大学 (Syracuse)](#雪城大学)
@@ -496,6 +501,40 @@ UCSB地理系是全美最好的博士地理系项目之一，NCGIA (National Cen
 - **[Dar Robert](http://geog.ucsb.edu/archive/people/faculty_members/roberts_dar.htm)**: imaging spectrometry, remote sensing of vegetation, spectroscopy (urban and natural cover), land-use/land-cover change mapping with satellite time series, height mapping with lidar, fire danger assessment;
 - **[Vena Chu](http://www.venachu.com/)**: remote sensing, Greenland ice sheet meltwater dynamics.
 
+### 北卡罗来纳大学教堂山分校
+
+**University of North Carolina, Chapel Hill (UNC)**
+
+美国，北卡罗来纳州，教堂山
+
+GIS相关系所：[地理系](https://geography.unc.edu/)
+
+UNC是北卡罗来纳州公立大学系统的旗舰院校，该校地理系历史悠久，不仅在二战期间为大西洋战场的美国海军提供地理学培训和技术支持，其本科项目还毕业过著名篮球运动员乔丹。地理系的科研方向中，包括地理信息科学及地理信息可视化。该系的研究生项目分为硕博连读（MA/PhD）和直博（PhD）两种。理论上该校也录取只读硕士（MA）的学生，但这种情况比较少见，因为该校鼓励研究生获得博士学位。
+
+相关导师：
+- **[Conghe Song](https://csong.web.unc.edu/)**: remote sensing, ecosystem, land cover, land use, GIS;
+- **[Aaron Moody](https://aaron.web.unc.edu/)**: remote sensing, GIS, biogeography, ecology;
+- **[Javier Arce-Nazario](https://gri.unc.edu/past-fellows/javier-arce-nazario/)**: GIS, remote sensing, landscape, translational geoscience;
+- **[Diego Riveros-Iregui](http://diegori.web.unc.edu/)**: remote sensing, climate modeling, land cover, hydrology;
+- **[Paul L. Delamater](https://www.cpc.unc.edu/people/fellows/paul-delamater/)**: spatial analysis, GIS, health geography;
+- **[Michael Emch](http://emch.web.unc.edu/)**: medical geography, spatial epidemiology, GIS;
+- **[Stephen Walsh](http://swalsh.web.unc.edu/)**: GIS, spatial analysis, remote sensing, human-environment interaction;
+- **[Clark Gray](http://clarkgray.web.unc.edu/)**: survey, spatial statistics, population, environment.
+
+### 北卡罗来纳州立大学
+**North Carolina State University (NC State)**
+
+美国，北卡罗来纳州，罗利市
+
+GIS相关系所：[空间分析中心](https://cnr.ncsu.edu/geospatial)
+
+北卡州立的空间分析中心在行政上隶属于该校的自然资源学院，是一个以GIS为核心的科研机构，其教师成员来自于多个不同的学院，他们都从事和GIS相关的科研项目，并具有不同的应用方向。该中心和美国地质调查局（USGS）、美国国家公园署（NPS）、美国太空署（NASA）以及Esri有深度合作，目前有超过250名学生，包括硕士和博士。其中硕士项目为地理信息科学技术硕士（MGIST），在全国类似项目中开设时间最早，这是一个2年制授课型硕士，有21个规定学分的GIS相关课程以及12个选修学分，最后还需要完成一个综合课题，并建立自己的portfolio，毕业生的去向多为业界。空间分析中心的博士（PhD)项目为跨学科博士，时长为4到5年，学生需要用GIS等方法来完成一项自然科学或社会科学方向的科研任务，根据学生的选题，毕业论文答辩委员会的老师会来自不同的院系，并且该项目还要求学生在前两年进行一次业界的实习，从而更好地在将来的科研生涯里进行产学研结合。
+
+相关导师：
+
+该中心的老师都为教学型老师，负责GIS等核心课程的教学指导工作，博士生需要先找到自己的科研兴趣点和方向，然后在参与该中心项目的8个院系里去找到自己在具体科研方向上的指导老师。目前该中心博士生的导师来自的院系包括：统计系、海洋地球和大气科学系、商学院、生物和农业工程系、公共卫生学院、公园管理和旅游管理系、园林系、土木工程系、植物学系、林业系、计算机系等。详见：[目前的教师列表](https://cnr.ncsu.edu/geospatial/subgroup/fellows/)。
+
+
 ###  华盛顿大学
 **University of Washington (UW)**
 
@@ -547,6 +586,22 @@ GIS 相关系所：[地理系](https://www.sc.edu/study/colleges_schools/artsand
 - **[Cuizhen Wang](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/wang_cuizhen.php)**: environmental remote sensing, spatial analysis;
 - **[Zhenlong Li](http://gis.cas.sc.edu/zhenlong/)**: geocomputation, cyberinfrastructure, spatial analysis, social media, population dynamics;
 - **[Michael Hodgson](https://www.sc.edu/study/colleges_schools/artsandsciences/geography/our_people/our_people_directory/hodgson_michael.php)**: remote sensing (LiDAR), GIS modeling, cognitive studies.
+
+### 印第安纳大学
+
+**Indiana University, Bloomington (IUB)**
+
+美国，印第安纳州，布卢明顿市
+
+GIS相关系所：[地理系](https://geography.indiana.edu/about/index.html)
+
+IUB的地理系有硕士和博士授予资格，其中硕士学位分为文硕士（MA）和理硕士（MS），理硕士主要授予地理信息系统、遥感或环境地理学方向的学生。博士（PhD）学位也有地理信息系统和遥感方向。IUB在地理信息系统和遥感方向的科研重点包括全球定位系统（GPS）、遥感图像分析、电子地图及计算机制图、空间信息可视化、空间分析及建模等。
+
+相关导师：
+- **[Yuri Kim](https://geography.indiana.edu/about/faculty/kim-yuri.html)**: GIS, remote sensing, land cover, land use, climate;
+- **[Taehee Hwang](https://geography.indiana.edu/about/faculty/hwang-taehee.html)**: remote sensing, ecology, hydrology;
+- **[Natasha Macbean](https://geography.indiana.edu/about/faculty/macbean-natasha.html)**: environmental remote sensing, modeling, land cover, biogeography;
+- **[Scott Robeson](https://geography.indiana.edu/about/faculty/robeson-scott.html)**: spatial analysis, geostatistics, time series, climate.
 
 ### 圣迭戈州立大学
 
@@ -949,6 +1004,21 @@ GIS相关系所：[地理系](https://www.colorado.edu/geography/)
 - **[Stefan Leyk](https://www.colorado.edu/geography/stefan-leyk-0)**: GIS, spatial modeling, cartographic pattern recognization;
 - **[Seth Spielman](https://www.colorado.edu/geography/seth-spielman-0)**: spatial analysis, GISciences, public health.
 
+### 科罗拉多矿业学校
+
+**Colorado School of Mines (Mines)**
+
+美国，科罗拉多州，戈尔登（丹佛以西）
+
+GIS相关系所：[大学直属的跨学科项目](https://gis.mines.edu/)
+
+科罗拉多矿业学校有跨学科的GIS & Geoinformatics硕士项目，该硕士为授课型工学硕士（ME），授课内容除了GIS本身的理论课程以外，还有GIS和流域治理、地质工程、采矿工程、地貌学、地球科学等相结合的应用课程。学生也可以在攻读该校的其他研究型研究生学位的同时攻读该项目。
+
+相关导师：
+- **[Wendy Zhou](https://inside.mines.edu/~wzhou/)**: GIS applications in natural resource management, remote sensing, SAR, hazards, environment, numerical methods;
+- **[H. SEBNEM DUZGUN](https://mining.mines.edu/project/duzgun-h-sebnem/)**: geoinformatics, VR and gaming in earth science, mine environment monitoring;
+- **[Terri Hogue](https://cee.mines.edu/project/hogue-terri/)**: remote sensing, hydrology, urbanization, civil engineering.
+
 ### 纽约州立大学奥尔巴尼分校  
 
 **University at Albany, State University of New York (UAlbany)**  
@@ -1036,6 +1106,10 @@ LSU研究生院有地理学的硕士（M.S.）和博士项目。硕士需要完�
 - **[Michael Leitner](https://www.lsu.edu/ga/people/faculty/michael-leitner/index.php)**: GIS, spatial analysis, spatial crime modeling;
 - **[Alex Haberlie](https://www.lsu.edu/ga/people/faculty/alex-haberlie/index.php)**: remote sensing, machine learning, climate changes;
 - **[Nina Lam](https://www.lsu.edu/cce/research/faculty_profiles/nina_lam.php)** (环境科学系): GIS, remote sensing, spatial analysis, environmental health, disaster resilience, sustainability.
+
+### 辛辛那提大学
+
+TBA
 
 ### 阿拉斯加大学费尔班克斯分校
 
