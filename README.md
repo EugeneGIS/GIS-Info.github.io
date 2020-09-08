@@ -29,7 +29,7 @@
 ## 目录
 由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校中文缩写排序）：
 
-北美洲61所：[美国51所](#美国)，[加拿大10所](#加拿大)
+北美洲74所：[美国64所](#美国)，[加拿大10所](#加拿大)
 
 亚洲大洋洲10所：[中国香港5所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
@@ -38,10 +38,12 @@
 #### 美国
 - [丹佛大学 (DU)](#丹佛大学)
 - [乔治梅森大学 (GMU)](#乔治梅森大学)
+- [亚利桑那大学 (UAZ)](#亚利桑那大学)
 - [亚利桑那州立大学 (ASU)](#亚利桑那州立大学)
 - [亚拉巴马大学 (UA)](#亚拉巴马大学)
 - [伊利诺伊大学香槟分校 (UIUC)](#伊利诺伊大学香槟分校)
 - [佐治亚大学 (UGA)](#佐治亚大学)
+- [佐治亚理工学院 (Ga Tech)](#佐治亚理工学院)
 - [佛罗里达大学 (UFL)](#佛罗里达大学)
 - [佛罗里达州立大学 (FSU)](#佛罗里达州立大学)
 - [南佛罗里达大学 (USF)](#南佛罗里达大学)
@@ -51,6 +53,8 @@
 - [俄勒冈大学 (Oregon)](#俄勒冈大学)
 - [俄勒冈州立大学 (Oregon State)](#俄勒冈州立大学)
 - [克拉克大学 (Clark)](#克拉克大学)
+- [内华达大学 (Nevada)](#内华达大学)
+- [内布拉斯加大学林肯分校 (UNL)](#内布拉斯加大学林肯分校)
 - [加州大学圣巴巴拉分校 (UCSB)](#加州大学圣巴巴拉分校)
 - [北卡罗来纳大学 (UNC)](#北卡罗来纳大学教堂山分校)
 - [北卡罗来纳州立大学 (NC State)](#北卡罗来纳州立大学)
@@ -71,6 +75,7 @@
 - [密歇根理工大学 (MTU)](#密歇根理工大学)
 - [康奈尔大学 (Cornell)](#康奈尔大学)
 - [康涅狄格大学 (UConn)](#康涅狄格大学)
+- [弗吉尼亚理工大学 (VT)](#弗吉尼亚理工大学)
 - [德克萨斯农工大学 (TAMU)](#德克萨斯农工大学)
 - [德克萨斯大学奥斯汀分校 (UT Austin)](#德克萨斯大学奥斯汀分校)
 - [德克萨斯大学达拉斯分校 (UT Dallas)](#德克萨斯大学达拉斯分校)
@@ -79,6 +84,7 @@
 - [明尼苏达大学双城分校 (UMN)](#明尼苏达大学双城分校)
 - [爱达荷大学 (Idaho)](#爱达荷大学)
 - [爱荷华大学 (UI)](#爱荷华大学)
+- [犹他大学 (Utah)](#犹他大学)
 - [田纳西大学 (UTK)](#田纳西大学)
 - [科罗拉多大学 (CU Boulder)](#科罗拉多大学波尔德分校)
 - [科罗拉多矿业学校 (Mines)](#科罗拉多矿业学校)
@@ -86,6 +92,8 @@
 - [纽约州立大学宾厄姆顿分校 (Binghamton)](#纽约州立大学宾厄姆顿分校)
 - [纽约州立大学水牛城分校 (UB)](#纽约州立大学水牛城分校)
 - [缅因大学 (Maine)](#缅因大学)
+- [肯塔基大学 (UKY)](#肯塔基大学)
+- [西弗吉尼亚大学 (WVU)](#西弗吉尼亚大学)
 - [路易斯安纳州立大学 (LSU)](#路易斯安纳州立大学)
 - [辛辛那提大学 (Cincinnati)](#辛辛那提大学)
 - [阿拉斯加大学 (UAF)](#阿拉斯加大学费尔班克斯分校)
@@ -240,6 +248,24 @@ GIS相关系所：[地理与地理信息科学系](https://science.gmu.edu/acade
 - **[Dieter Pfoser](https://science.gmu.edu/directory/dieter-pfoser)**: computer science, data sciences, geoinformation science, geospatial intelligence;
 - **[Liping Di](https://science.gmu.edu/directory/liping-di)**: geospatial information interoperability and standards.
 
+### 亚利桑那大学
+**University of Arizona (UAZ)**
+
+美国，亚利桑那州，图森市
+
+GIS相关系所：[地理、发展和环境系](https://geography.arizona.edu/)
+
+亚利桑那大学地理系授予MA和PhD学位。MA是两年制研究型硕士，PhD是四年制博士项目，需要在入学前已获得硕士学位。此外该校还有MGIST（地理信息科学技术硕士）的授课型硕士学位，时长为一年半，该项目不需要GRE。
+
+相关导师：
+
+- **[Keiron Bailey](https://geography.arizona.edu/people/keiron-bailey)**: GIScience, participation, social justice;
+- **[Gary Christopherson](https://geography.arizona.edu/people/gary-christopherson)**: GIScience, spatial analysis;
+- **[John Paul Jones III](https://geography.arizona.edu/people/john-paul-jones-iii)**: spatial science, social geography;
+- **[Chris Lukinbeal](https://geography.arizona.edu/people/chris-lukinbeal)**: GIScience, cartography, cultural geography;
+- **[Fernando Sanchez](https://geography.arizona.edu/people/fernando-sanchez)**: GIScience, spatial analysis, geostatistics, applied GIS;
+- **[Willem van Leeuwen](https://geography.arizona.edu/people/willem-van-leeuwen)**: remote sensing, earth system science.
+
 ### 亚利桑那州立大学
 **Arizona State University (ASU)**
 
@@ -317,6 +343,15 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 - **[Marguerite Madden](http://cgr.uga.edu/index.html)**: GIScience and landscape ecology, including remote sensing, geographic information systems (GIS), spatio-temporal analysis, geovisualization and geographic object-based image analysis, as applied to landscape-scale biological/physical processes and human-impacts on the environment;
 - **[deepak Mishra](https://geography.uga.edu/directory/people/deepak-r-mishra)**: combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
 - **[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human health, hydroclimatology.
+
+### 佐治亚理工学院
+**Georgia Institue of Technology (Ga Tech)**
+
+美国，佐治亚州，亚特兰大
+
+GIS相关系所：[城市和区域规划学院](https://planning.gatech.edu/)
+
+佐治亚理工有MS-GIST（地理信息科技硕士）项目以及相应的PhD项目。MS-GIST项目是一年制的硕士项目，其授课方向为GIS及其在不同学科领域（比如城市规划、大气科学、土木工程等）的应用。学生一共要学24学分的课程，并完成一个结业项目报告（类似于毕设）。博士的方向更偏向与城市规划、交通和设计。
 
 ### 佛罗里达大学
 **University of Florida (UFL)**
@@ -479,6 +514,44 @@ GIS相关系所：[地理系](https://www.clarku.edu/departments/geography/)
 - **[J. Ronald Eastman](https://www2.clarku.edu/faculty/facultybio.cfm?id=61)**: GIS, earth system informatics, conservation GIS, remote sensing, and cartography;
 - **[John Rogan](https://www2.clarku.edu/faculty/facultybio.cfm?id=460)**: landscape ecology, fire ecology, optical remote sensing and GIScience;
 - **[Florencia Sangermano](https://www2.clarku.edu/faculty/facultybio.cfm?id=896&progid=15)**: conservation biology, GIS, remote sensing and landscape ecology.
+
+### 内华达大学
+**University of Nevada, Reno (Nevada)**
+
+美国，内华达州，雷诺
+
+GIS相关系所：[地理系](https://www.unr.edu/geography)
+
+内华达大学地理系有MS和PhD项目。MS通常2年完成，需要进行科研工作，呈现方式有两种选择，一是提交毕业论文，二是提交实验报告代替毕业论文。PhD为五年项目，如果已经有硕士学位，则可能4年完成。
+
+相关导师：
+- **[Douglas Boyle](https://www.unr.edu/geography/faculty/doug-boyle)**: GIS, remote sensing, climate, hydrology, water resource;
+- **[Thomas Albright](https://www.unr.edu/geography/faculty/thomas-albright)**: spatial analysis, biogeography;
+- **[Scott Bassett](https://www.unr.edu/geography/faculty/scott-bassett)**: spatial modeling, environment issues, landscape ecology. urban planning;
+- **[Anne Nolin](https://www.unr.edu/geography/faculty/anne-nolin)**: remote sensing, hydrology, modeling;
+- **[Ken Nussear](https://www.unr.edu/geography/faculty/kenneth-nussear)**: GIS, spatial ecology, species distribution;, biogeography
+- **[Scott Kelley](https://www.unr.edu/geography/faculty/scott-kelley)**: spatial analysis, energy, transportation, quantitative methods.
+
+### 内布拉斯加大学林肯分校
+**University of Nebraska, Lincoln (UNL)**
+
+美国，内布拉斯加州，林肯市
+
+GIS相关系所：[全球综合科研学院](https://sgis.unl.edu/)
+
+内布拉斯加大学林肯分校的人类学、地理学和全球研究三个院系组成了全球综合科研学院，其中的地理项目有map design, spatial modeling, remote sensing等和GIS密切相关的科研方向。地理项目有MA和PhD学位授予。其中，MA学位有3种选项，分别为：
+
+- 38学分课程 + 毕业论文
+- 36学分课程 + 辅修
+- 36学分课程 + 发表一篇学术论文
+
+博士为4-5年项目，该系是密西西比河以西的美国授予博士学位历史最长的院系。
+
+相关导师：
+- **[J. Clark Archer](https://sgis.unl.edu/j-clark-archer)**: GIS, cartography, political geography;
+- **[Patrick Bitterman](https://sgis.unl.edu/patrick-bitterman)**: GIS, geosimulation, spatial decision support, climate;
+- **[Robert Shepard](https://sgis.unl.edu/robert-shepard)**: spatial pattern, visualization, cartography, interaction maps.
+
 
 ### 加州大学圣巴巴拉分校
 
@@ -816,6 +889,19 @@ GIS相关系所：[地理系](https://geography.uconn.edu/)
 - **[William Ouimet]( https://geography.uconn.edu/people/faculty/william-ouimet/)**: erosion processes, landform & landscape evolution;
 - **[Chuanrong (Cindy) Zhang]( https://geography.uconn.edu/people/faculty/cindy-zhang/)**: GIS, geostatistics, WebGIS.
 
+### 弗吉尼亚理工大学
+**Virginia Polytechnic Institute and State University (VT)**
+
+美国，弗吉尼亚州，黑堡
+
+GIS相关系所：[资环学院](https://cnre.vt.edu/)
+
+弗吉尼亚理工大学资环学院有一个跨学科的[地理空间和环境分析博士](https://geography.vt.edu/Academics/gea.html)项目，该项目是跨学科项目，由地理、生物、土壤、渔业、林业等不同院系的教授联合指导。进入该项目的博士生需要运用GIS、GPS、RS等方法和技术去研究和自然资源、环境、生态等内容相关的课题，并可以根据自己擅长的方向和兴趣来选择自己的博士导师委员会。
+
+相关导师：
+
+- [来自不同的院系](https://geography.vt.edu/students/graduate/gea-faculty.html)
+
 ### 德克萨斯农工大学
 
 **Texas A&M University (TAMU)**
@@ -967,6 +1053,27 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 - **[Heather Sander](https://clas.uiowa.edu/geography/people/heather-sander)**: urban ecology, ecosystem services, urban wildlife ecology and conservation, urban social-ecological systems;
 - **[Caglar Koylu](https://clas.uiowa.edu/geography/people/caglar-koylu)**: GIScience, spatial data science, information visualization, human-computer interaction, mobility and geo-social networks.
 
+### 犹他大学
+**University of Utah (Utah)**
+
+美国，犹他州，盐湖城
+
+GIS相关系所：[地理系](https://geog.utah.edu/)
+
+地理信息科学是犹他大学地理系的重点科研方向，并有用遥感科技研究山地冰川的特色项目。该系开办MS、MSGIS和PhD等学位。MS是两年制研究型的硕士，PhD是4年制研究型博士，这两种学位的录取者可以获得奖学金。MSGIS是两年制授课型硕士学位，不能申请奖学金，但不需要GRE成绩。
+
+相关导师：
+- **[MEMG WAMG](https://faculty.utah.edu/u0982452-Neng_Wan/research/index.hml)**: GIS, health, environment;
+- **[SIMON BREWER
+](https://faculty.utah.edu/u0784726-SIMON_C._BREWER/research/index.hml)**: spatial modeling, data mining, environment, climate;
+- **[TOM COVA](https://faculty.utah.edu/u0085652-THOMAS_J_COVA/hm/index.hml)**: GIS, transportation, hazard;
+- **[PHILIP DENNISON](https://ursa.utah.edu/dennison.php)**: remote sensing, LiDAR;
+- **[ALEXANDER HOHL](https://faculty.utah.edu/u6025895-Alexander_Hohl/hm/index.hml)**: spatiotemporal analysis, spatial data science, machine learning;
+- **[RICHARD (RICK) FORSTER](https://faculty.utah.edu/u0085651-RICHARD_R_FORSTER,_PHD/research/index.hml)**: remote sensing, cryosphere, glaciers;
+- **[SUMMER B. RUPPER](https://faculty.utah.edu/u6002212-Summer_Burton_Rupper/research/index.hml)**: remote sensing, environment, glaciers, geomorphology;
+- **[RICHARD MEDINA](https://faculty.utah.edu/u0477925-RICHARD_MATTHEW_MEDINA/research/index.hml)**: GIS, spatial analysis, social geography, complex social space;
+- **[MCKENZIE SKILES](https://faculty.utah.edu/u0458147-SARA_MCKENZIE_SKILES/research/index.hml)**: remote sensing, glacier, cryosphere, snow.
+
 ### 田纳西大学
 
 **University of Tennessee, Knoxville (UTK)**
@@ -1086,6 +1193,39 @@ GIS相关系所：[计算信息科学学院](https://umaine.edu/scis/)
 - **[Silvia Nittel](https://umaine.edu/scis/people/silvia-nittel/)**: data management technology for geosensor networks, wireless sensor networks and sensor data streams;
 - **[Harlan Onsrud](https://umaine.edu/scis/people/harlan-onsrud/)**: analysis of legal, ethical, and institutional issues affecting the creation and use of digital databases and the assessment of the social impacts of spatial technologies;
 - **[Nimesha Ranasinghe](https://umaine.edu/scis/people/nimesha-ranasinghe/)**: multisensory interactive media, augmented reality, and human-computer interaction.
+
+### 肯塔基大学
+**University of Kentucky (UKY)**
+
+美国，肯塔基州，莱克星顿
+
+GIS相关系所：[地理系](https://geography.as.uky.edu/)
+
+肯塔基大学地理系提供MA和PhD学位。这个系的科研特色是critical mapping and critical GIS项目，即对自发地理系统和和大众参与的社区地理信息系统的研究。此外，该系还有digital geography和web mapping的重点科研课题，在虚拟的网络传媒中重新定义地理空间。
+
+相关导师：
+- **[Liang Liang](https://geography.as.uky.edu/users/lli225)**: remote sensing, cliamte, biogeography;
+- **[Rich Donohue](https://geography.as.uky.edu/users/rgdo225)**: critical GIS, spatial analysis, web mapping, cartography;
+- **[Jack Gieseking](https://geography.as.uky.edu/users/jgi253)**: digital geography, geo-visualization, critical GIS;
+- **[Nick Lally](https://geography.as.uky.edu/users/npla224)**: GIS, cartography. GIS software;
+- **[Matthew Zook](https://geography.as.uky.edu/users/zook)**: spatial media, big data, GeoWeb.
+
+### 西弗吉尼亚大学
+**West Virginia University (WVU)**
+
+美国，西弗吉尼亚州，莫干敦
+
+GIS相关系所：[地质和地理系](https://www.geo.wvu.edu/)
+
+西弗吉尼亚大学的地质和地理系以古生物、古环境最为有名，但也有和GIS相关的科研项目和导师。该系有MS和PhD学位的授予权。
+
+相关导师：
+
+- **[Jamison Conley](https://www.geo.wvu.edu/faculty-and-staff/faculty/jamison-conley)**: spatial analysis, geostatistics, algorithms;
+- **[Rick Landenberger](https://www.geo.wvu.edu/faculty-and-staff/faculty/rick-landenberger)**: spatial analysis, mapping, ecosystem;
+- **[Brenden McNeil](https://www.geo.wvu.edu/faculty-and-staff/faculty/brenden-mcneil)**: GIS, remote sensing, ecology, forest;
+- **[Aaron Maxwell](https://www.geo.wvu.edu/faculty-and-staff/faculty/aaron-maxwell)**: GIS, remote sensing, geospatial modeling, spatial analysis, teaching methods of GIS;
+- **[Timothy Warner](https://www.geo.wvu.edu/faculty-and-staff/faculty/timothy-warner)**: remote sensing, image processing, machine learning, biogeography.
 
 
 ### 路易斯安纳州立大学
