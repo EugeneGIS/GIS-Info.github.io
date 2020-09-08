@@ -121,7 +121,7 @@ Wendy Liu - 芝加哥大学
 
 饶婧 - 麦吉尔大学
 
-Stanley Du - Pathea
+Stanley Du
 
 曾可欣 - 字节跳动
 
@@ -129,7 +129,7 @@ Stanley Du - Pathea
 
 周璐 - 东北林业大学
 
-李佳 - 国泰君安
+李佳
 
 Weichen Cao - Chubb Limited
 
@@ -175,7 +175,7 @@ Weichen Cao - Chubb Limited
 
 王瑶莉 - 北京大学
 
-Angel Tang - 长安汽车
+Angel Tang
 
 谭孟荀 - 重庆工商大学
 
@@ -183,7 +183,7 @@ Angel Tang - 长安汽车
 
 孟凡林 - Capital One
 
-徐雅雯 - 中信
+徐雅雯
 
 马超 - 爱达荷大学
 
@@ -200,6 +200,12 @@ Angel Tang - 长安汽车
 薛凯 - 萨尔茨堡大学
 
 陈昱 - 塔尔萨大学
+
+李博文 - 重庆师范大学
+
+李清华
+
+易健 - Hess
 
 TBA
 
