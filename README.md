@@ -1985,6 +1985,97 @@ GIS相关系所：[空间信息实验室](https://spinlab.vu.nl/)
 - **[Eric Koomen](https://research.vu.nl/en/persons/eric-koomen)**: urban development, land-use change, spatial modeling and policy support;
 - **[Niels van Manen](https://spinlab.vu.nl/staff/niels-van-manen/)**: historical GIS, urban risk mapping, geodesign for urban heritage planning.
 
+### 亚琛工业大学
+**Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen)**
+
+德国，北莱茵-威斯特法伦州，亚琛市
+
+GIS相关系所：[城市区域监测与分析组](https://www.amur.rwth-aachen.de/cms/~ofpe/AMUR/?lidx=1)
+
+亚琛工业大学是是德国最大的理工大学，是TU9、IDEA联盟、TIME、UNITECH等一系列学术联合体以及ALMA Snowevent的成员。该校地理系研究范围涵盖自然地理，文化地理，经济地理和城市区域监测与分析。其中GIS相关研究主要集中在城市区域监测与分析组，由Prof. Dr. Stefan Fina牵头。
+
+相关导师：
+- **[Prof. Dr. Stefan Fina](https://www.ils-forschung.de/en/the-ils/ils-staff/fina-stefan/)**: Methods of spatial analysis in geography, spatial and environmental planning，Monitoring and controlling of transport and urban development，Health promotion in urban development.
+
+### 卡尔斯鲁厄理工学院
+**Karlsruher Institut für Technologie (KIT)**
+
+德国，巴登符腾堡州，卡尔斯鲁厄市
+
+GIS相关系所：[地理与地球生态研究所](https://www.ifgg.kit.edu/english/index.php)
+
+卡尔斯鲁厄理工学院是德国历史悠久的理工大学，德国理工大学九校联盟TU9成员之一，在自然科学及工程领域颇有建树。卡尔斯鲁厄理工学院的地理与地球生态研究所（IFGG）内有多位从事GIS相关研究的导师，研究覆盖城市地理、交通地理、自然地理和环境生态。
+
+相关导师：
+- **[Prof. Dr. Caroline Kramer](https://www.ifgg.kit.edu/english/society/staff_132.php)**: Urban Geography, Timegeography, Geography of Knowledge and Education, Gender in Urban and Regional Planning, Transport Geography, Empirical Social Research and social indicators, Interdisciplinarity in the social sciences, Methods in Empirical Social Research
+- **[Prof. Dr. Wolfgang Wilcke](https://www.ifgg.kit.edu/english/soil/staff_699.php)**: Soil biogeochemistry, Ecosystem research, Pollutant dynamics;
+- **[Prof. Dr. Sebastian Schmidtlein](https://www.ifgg.kit.edu/english/vegetation/staff_schmidtlein.php)**: Remote sensing of vegetation, Ecoinformatics, Vegetation ecology;
+- **[Prof. Dr. Florian Wittmann](https://www.ifgg.kit.edu/english/rivers/staff_wittmann.php)**: floodplain ecology, botanical geography, biomass/primary production.
+
+### 哥廷根大学
+**Universität Göttingen (Uni-Goettingen)**
+
+德国，下萨克森州，哥廷根市
+
+GIS相关系所：[制图学、GIS与遥感系](https://www.uni-goettingen.de/en/36647.html)
+
+哥廷根大学地质科学与地理学院是较大规模的综合性地学学院，涵盖横跨地质科学和地理学的十二个系，发展非常全面。其中，GIS相关研究主要集中在制图学、GIS与遥感系，牵头人为Prof. Dr. Martin Kappas。
+
+相关导师：
+- **[Prof. Dr. Martin Kappas](https://www.uni-goettingen.de/en/40585.html)**: Remote Sensing / GIS in Climatology and Ecology, Field- and Laboratory-Spectrometry (ASD FieldSpec), Assessment of natural landscape potenzial with IT-Methods and Ground-Truth-Data, Land Cover / Land Use Change, Landscape degradation, Health Geography.
+
+### 奥格斯堡大学
+**Universitat Augsburg (Uni-Augsburg)**
+
+德国，巴伐利亚州，奥格斯堡市
+
+GIS相关系所：[地理所](https://www.uni-augsburg.de/de/fakultaet/fai/geo/)
+
+奥格斯堡大学地理所隶属于应用计算机科学学院，距今已有50余年的历史。由于显著的计算机学科特色，奥格斯堡大学地理所除了传统的自然地理、人文地理研究方向，还发展了较为突出的地理信息科学方向和空间规划方向。该系也开设地理信息方向的[两年期硕士项目](https://www.uni-augsburg.de/de/fakultaet/fai/geo/studium/studienangebot/master-geoinformatik/)，涵盖遥感、地理信息的建模仿真，数据库和软件开发等。
+
+相关导师：
+- **[Prof. Dr. Jukka Krisp](https://www.uni-goettingen.de/en/40585.html)**: Location Based Services (LBS), Geographic Visualization / Visual Analytics, Spatial Modeling, Geographic Information Systems (GIS) applications, GIS in ecological network planning;
+- **[Prof. Dr. Sabine Timpf](https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoinf/geoinf-team/s-timpf/)**: spatial cognition in geo-spatial activities (wayfinding and navigation, landscape planning), enabling modern mobility using information technology, urban intelligent (and complex) systems, agent-based modelling and simulation, appropriation of spaces and health, data mining for spatio-temporal phenomena.
+
+### 弗莱堡大学
+**University of Freiburg (Uni-Freiburg)**
+
+德国，巴登－符腾堡州，弗莱堡市
+
+GIS相关系所：[地理所](https://geographie.uni-freiburg.de/en/geographie-nahtstelle-zwischen-mensch-und-natur)
+
+弗莱堡大学是德国最为古老的大学之一。学校由11个院系组成，有着教授人文、社会科学和自然科学的传统。弗莱堡大学的GIS研究分散在自然地理系和人文地理系中，偏向于实际应用。自然地理系关注环境方面的地理信息系统和遥感应用，空间数据管理以及空间数据基础设施建设。人文地理系关注城市地理学研究，以及社交媒体语料的相关分析方法。同时，弗莱堡大学也开设了Environmental Modelling and GIS硕士项目，重点教授针对土壤、森林等环境数据的收集、存储、处理、分析与可视化技术课程。
+
+相关导师：
+- **[Prof. Dr. Rüdiger Glaser](https://geographie.uni-freiburg.de/en/professorships/physical-geography/team-contact-details)**: Environment Climate Change, Risk Analysis, Climatology, Global Change;
+- **[Prof. Dr. Tim Freytag](https://geographie.uni-freiburg.de/en/professorships/human-geography/team-contact-details/freytag-tim)**: Tourism and mobility studies (in particular, European urban tourism), Urban studies and sustainable urban development,Social geography and geography of education.
+
+### 德累斯顿工业大学
+**Technische Universität Dresden (TUD)**
+
+德国，萨克森州，德累斯顿市
+
+GIS相关系所：[环境科学学院](https://tu-dresden.de/bu/umwelt)
+
+德累斯顿工业大学是德国理工大学九校联盟TU9成员之一，其环境科学学院主要针对森林科学、地理科学、水科学进行研究，其中地理科学中设有[行星大地测量系](https://tu-dresden.de/bu/umwelt/geo/ipg)、[大地测量系](https://tu-dresden.de/bu/umwelt/geo/gi/startseite)、[地理信息系](https://tu-dresden.de/bu/umwelt/geo/geoinformatik)、[地图制图系](https://tu-dresden.de/bu/umwelt/geo/ifk/startseite)、[摄影测量和遥感系](https://tu-dresden.de/bu/umwelt/geo/ipf/startseite)、[地理系](https://tu-dresden.de/bu/umwelt/geo/geographie/startseite)。
+
+GIS和制图相关导师：
+- **[Prof. Dr. Lars Bernard](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/prof.bernard)**: (Geo-)Information Infrastructures, Geoinformation Usability, Distributed Geoprocessing and Smart Environmental Monitoring;
+- **[Prof. Dipl.-Phys. Dr.-Ing. habil. Dirk Burghardt](https://tu-dresden.de/bu/umwelt/geo/ifk/professur-fuer-kartographische-kommunikation)**: VGI, map generalization.
+
+### 慕尼黑大学
+**The Ludwig-Maximilians University (LMU)**
+
+德国，巴伐利亚州，慕尼黑市
+
+GIS相关系所：[地理系](https://www.geographie.uni-muenchen.de/department/fiona_eng/index.php)
+
+慕尼黑大学为欧洲历史最为悠久的大学之一，为德国学术资源最为集中、声誉最佳的前三大高校之一。其地理系是欧洲中部最大的地理系之一，主要研究自然地理（水文学，遥感和景观生态学）和人文地理（着重于经济地理学和人与环境的关系）。遥感和GIS在这些研究项目中经常被涉及。
+
+相关导师：
+- **[Prof. Dr. Wolfram Mauser](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=3)**: Hydrology, Remote sensing, Global Change Research, Regional and global potential for a sustainable production of biomass for food, energy and industry;
+- **[Prof. Dr. Lukas Lehnert](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=339)**: Mobility in Transition, Environmental remote sensing;
+- **[Prof. Dr. Jürgen Schmude](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=113)**: Tourism research, sustainability and CSR, France.
 
 ### 慕尼黑工业大学
 **Technical University of Munich (TUM)**
@@ -2012,33 +2103,6 @@ LRG是成立于TUM的第15个系，并将成为欧洲同类中最大的系，共
 - **[Prof. Dr. Thomas A. Wunderlich](https://www.professoren.tum.de/en/wunderlich-thomas/)**: Geodesy;
 - **[Prof. Dr. Xiaoxiang Zhu](https://www.professoren.tum.de/en/zhu-xiaoxiang/)**: Signal Processing in Earth Observation.
 
-### 柏林工业大学
-**Technische Universität Berlin (TUB)**
-
-德国，柏林市
-
-GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/)
-
-柏林工业大学在规划建筑环境学院下设大地测量与地理信息技术研究所，着重大地测量、GNSS测量、地理信息学方法论等研究，夏坚白、王之卓等人曾在此就读。该校GIS主要是正常的2年制硕士，分成测量、计算机视觉与遥感、GIS等方向授课。硕士毕业后，可寻求funding读博，时间3-5年。
-
-相关导师：
-- **[Martin Kada](https://www.gis.tu-berlin.de/menue/mitarbeiter/martin_kada/parameter/en/)**: Algorithms, Segmentation, 3D Computer Graphics, 3D Modeling, Visualization, Real-Time Rendering.
-
-### 卡尔斯鲁厄理工学院
-**Karlsruher Institut für Technologie (KIT)**
-
-德国，巴登符腾堡州，卡尔斯鲁厄市
-
-GIS相关系所：[地理与地球生态研究所](https://www.ifgg.kit.edu/english/index.php)
-
-卡尔斯鲁厄理工学院是德国历史悠久的理工大学，德国理工大学九校联盟TU9成员之一，在自然科学及工程领域颇有建树。卡尔斯鲁厄理工学院的地理与地球生态研究所（IFGG）内有多位从事GIS相关研究的导师，研究覆盖城市地理、交通地理、自然地理和环境生态。
-
-相关导师：
-- **[Prof. Dr. Caroline Kramer](https://www.ifgg.kit.edu/english/society/staff_132.php)**: Urban Geography, Timegeography, Geography of Knowledge and Education, Gender in Urban and Regional Planning, Transport Geography, Empirical Social Research and social indicators, Interdisciplinarity in the social sciences, Methods in Empirical Social Research
-- **[Prof. Dr. Wolfgang Wilcke](https://www.ifgg.kit.edu/english/soil/staff_699.php)**: Soil biogeochemistry, Ecosystem research, Pollutant dynamics;
-- **[Prof. Dr. Sebastian Schmidtlein](https://www.ifgg.kit.edu/english/vegetation/staff_schmidtlein.php)**: Remote sensing of vegetation, Ecoinformatics, Vegetation ecology;
-- **[Prof. Dr. Florian Wittmann](https://www.ifgg.kit.edu/english/rivers/staff_wittmann.php)**: floodplain ecology, botanical geography, biomass/primary production.
-
 ### 斯图加特大学
 **Karlsruher Institut für Technologie (KIT)**
 
@@ -2052,46 +2116,6 @@ GIS相关系所：[摄影测量研究所](https://www.ifp.uni-stuttgart.de/en/in
 - **[Prof. Volker Schwieger](https://www.iigs.uni-stuttgart.de/en/team/Schwieger-00002/)**: Remote sensing，SAR, 3D Construction;
 - **[Dr.-Ing. Volker Walter](https://www.ifp.uni-stuttgart.de/en/institute/team/Walter-00001/)**: Automatic Map Retrieval in the Internet, Generalization of 2D and 3D Data, Conflation of Spatial Data;
 - **[Prof. Nico Sneeuw](https://www.gis.uni-stuttgart.de/team/Sneeuw-00003/)**: Geodesy and Surveying, Hydrology, Oceanography,Spatial Analysis, Climate Change, Geomatics, Harmonics, Earth Observation, Earth Sciences.
-
-
-### 亚琛工业大学
-**Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen)**
-
-德国，北莱茵-威斯特法伦州，亚琛市
-
-GIS相关系所：[城市区域监测与分析组](https://www.amur.rwth-aachen.de/cms/~ofpe/AMUR/?lidx=1)
-
-亚琛工业大学是是德国最大的理工大学，是TU9、IDEA联盟、TIME、UNITECH等一系列学术联合体以及ALMA Snowevent的成员。该校地理系研究范围涵盖自然地理，文化地理，经济地理和城市区域监测与分析。其中GIS相关研究主要集中在城市区域监测与分析组，由Prof. Dr. Stefan Fina牵头。
-
-相关导师：
-- **[Prof. Dr. Stefan Fina](https://www.ils-forschung.de/en/the-ils/ils-staff/fina-stefan/)**: Methods of spatial analysis in geography, spatial and environmental planning，Monitoring and controlling of transport and urban development，Health promotion in urban development.
-
-### 德累斯顿工业大学
-**Technische Universität Dresden (TUD)**
-
-德国，萨克森州，德累斯顿市
-
-GIS相关系所：[环境科学学院](https://tu-dresden.de/bu/umwelt)
-
-德累斯顿工业大学是德国理工大学九校联盟TU9成员之一，其环境科学学院主要针对森林科学、地理科学、水科学进行研究，其中地理科学中设有[行星大地测量系](https://tu-dresden.de/bu/umwelt/geo/ipg)、[大地测量系](https://tu-dresden.de/bu/umwelt/geo/gi/startseite)、[地理信息系](https://tu-dresden.de/bu/umwelt/geo/geoinformatik)、[地图制图系](https://tu-dresden.de/bu/umwelt/geo/ifk/startseite)、[摄影测量和遥感系](https://tu-dresden.de/bu/umwelt/geo/ipf/startseite)、[地理系](https://tu-dresden.de/bu/umwelt/geo/geographie/startseite)。
-
-GIS和制图相关导师：
-- **[Prof. Dr. Lars Bernard](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/prof.bernard)**: (Geo-)Information Infrastructures, Geoinformation Usability, Distributed Geoprocessing and Smart Environmental Monitoring;
-- **[Prof. Dipl.-Phys. Dr.-Ing. habil. Dirk Burghardt](https://tu-dresden.de/bu/umwelt/geo/ifk/professur-fuer-kartographische-kommunikation)**: VGI, map generalization.
-
-### 汉诺威大学
-**Universität Hannover (Uni-Hannover)**
-
-德国，下萨克森州，汉诺威市
-
-GIS相关系所：[地图与地理信息研究所](https://www.ikg.uni-hannover.de/en)
-
-汉诺威大学是德国理工大学九校联盟TU9成员之一，其地理学研究存在于多个机构，覆盖自然地理、人文地理和GIS。Viktor Heißler和Günter Hake曾在此任教。其中GIS相关研究主要集中在地图与地理信息研究所，该所研究方向主要偏向于大数据、机器学习、激光点云、SLAM等。
-
-相关导师：
-- **[Prof. Dr.-Ing. habil. Monika Sester](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Big Data und Machine Learning, Laser Scanning, Mobility;
-- **[apl. Prof. Dr.-Ing. Claus Brenner](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/brenner/)**: Laser Scanning, SLAM, Point Clouds;
-- **[Prof. Dr. Philipp Otto](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Spatiotemporal Statistics and Modelling, Change Point Detection, Environmetrics, Computational Statistics.
 
 ### 明斯特大学
 **Universität Münster (WWU)**
@@ -2108,17 +2132,17 @@ GIS相关系所：[地理信息研究所](https://www.uni-muenster.de/Geoinforma
 - **[Angela Schwering](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/109/Angela_Schwering)**: Spatial cognition, Qualitative spatial reasoning, Cognitive navigation;
 - **[Judith Verstegen](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/274/Judith_Verstege)**: Geosimulatiom models (agent-based models, cellular automata), Spatial statistics, Error propagation methods, Spatial optimization.
 
-### 波茨坦大学
-**Universität Potsdam (Uni-Potsdam)**
+### 柏林工业大学
+**Technische Universität Berlin (TUB)**
 
-德国，勃兰登堡州，波茨坦市
+德国，柏林市
 
-GIS相关系所：[环境科学与地理研究所](https://www.uni-potsdam.de/en/umwelt/)
+GIS相关系所：[大地测量与地理信息技术研究所]( https://www.igg.tu-berlin.de/menue/ueber_uns/parameter/en/)
 
-波茨坦大学环境科学与地理研究所在人文地理，景观，自然灾害，水文气候等方面有广泛的研究基础。GIS相关研究主要由Prof. Dr. Manfred Rolfes牵头。此外，波茨坦大学地质研究所开设了Remote Sensing, geoInformation and Visualization两年期硕士项目，英语授课，重点教授遥感影像和地理信息的处理、分析与可视化相关技术课程。
+柏林工业大学在规划建筑环境学院下设大地测量与地理信息技术研究所，着重大地测量、GNSS测量、地理信息学方法论等研究，夏坚白、王之卓等人曾在此就读。该校GIS主要是正常的2年制硕士，分成测量、计算机视觉与遥感、GIS等方向授课。硕士毕业后，可寻求funding读博，时间3-5年。
 
 相关导师：
-- **[Prof. Dr. Manfred Rolfes](https://www.uni-potsdam.de/en/umwelt/institut/alle-mitarbeiterinnen/rolfes-manfred)**: Urban Studies, (In-)security, risk and space, Tourist space semantics and tourism spaces.
+- **[Martin Kada](https://www.gis.tu-berlin.de/menue/mitarbeiter/martin_kada/parameter/en/)**: Algorithms, Segmentation, 3D Computer Graphics, 3D Modeling, Visualization, Real-Time Rendering.
 
 ### 柏林洪堡大学
 **Humboldt-Universitat zu Berlin (HUB)**
@@ -2145,59 +2169,31 @@ GIS相关系所：[地理所](https://www.geo.fu-berlin.de/en/geog/fachrichtunge
 相关导师：
 - **[Prof. Dr. Hannes Feilhauer](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/geoinformatik/mitarbeiter/hfeilhauer/index.html)**: biogeography, ecology, geoinformatics and remote sensing.
 
-### 哥廷根大学
-**Universität Göttingen (Uni-Goettingen)**
+### 汉堡大学
+**University of Hamburg (Uni-Hamburg)**
 
-德国，下萨克森州，哥廷根市
+德国，汉堡市
 
-GIS相关系所：[制图学、GIS与遥感系](https://www.uni-goettingen.de/en/36647.html)
+GIS相关系所：[地理所](https://www.geo.uni-hamburg.de/geographie.html)
 
-哥廷根大学地质科学与地理学院是较大规模的综合性地学学院，涵盖横跨地质科学和地理学的十二个系，发展非常全面。其中，GIS相关研究主要集中在制图学、GIS与遥感系，牵头人为Prof. Dr. Martin Kappas。
-
-相关导师：
-- **[Prof. Dr. Martin Kappas](https://www.uni-goettingen.de/en/40585.html)**: Remote Sensing / GIS in Climatology and Ecology, Field- and Laboratory-Spectrometry (ASD FieldSpec), Assessment of natural landscape potenzial with IT-Methods and Ground-Truth-Data, Land Cover / Land Use Change, Landscape degradation, Health Geography.
-
-### 奥格斯堡大学
-**Universitat Augsburg (Uni-Augsburg)**
-
-德国，巴伐利亚州，奥格斯堡市
-
-GIS相关系所：[地理所](https://www.uni-augsburg.de/de/fakultaet/fai/geo/)
-
-奥格斯堡大学地理所隶属于应用计算机科学学院，距今已有50余年的历史。由于显著的计算机学科特色，奥格斯堡大学地理所除了传统的自然地理、人文地理研究方向，还发展了较为突出的地理信息科学方向和空间规划方向。该系也开设地理信息方向的[两年期硕士项目](https://www.uni-augsburg.de/de/fakultaet/fai/geo/studium/studienangebot/master-geoinformatik/)，涵盖遥感、地理信息的建模仿真，数据库和软件开发等。
+汉堡大学地理所于1919年成立，是地球系统与可持续性研究中心（CEN）的成员，并且在“综合气候系统分析预测”（CliSAP）中发挥着核心作用。目前该所隶属于地球科学系，共有八位教授，偏重于气候研究、资源研究与城市研究。同时汉堡大学也开设了“全球转型与环境变化”主题的地理学硕士项目（德语授课+英语材料），该硕士项目面向自然地理学和社会科学的结合，并基于地理信息学方法进行实际训练如地理数据分析和空间研究。
 
 相关导师：
-- **[Prof. Dr. Jukka Krisp](https://www.uni-goettingen.de/en/40585.html)**: Location Based Services (LBS), Geographic Visualization / Visual Analytics, Spatial Modeling, Geographic Information Systems (GIS) applications, GIS in ecological network planning;
-- **[Prof. Dr. Sabine Timpf](https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoinf/geoinf-team/s-timpf/)**: spatial cognition in geo-spatial activities (wayfinding and navigation, landscape planning), enabling modern mobility using information technology, urban intelligent (and complex) systems, agent-based modelling and simulation, appropriation of spaces and health, data mining for spatio-temporal phenomena.
+- **[Prof. Dr. Jürgen Böhner](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis.html)**: Regional climate and environmental modelling, Climate impact research, Geoinformatics and remote sensing, SAGA-GIS development.
 
-### 海德堡大学
-**Universität Heidelberg (Uni-Heidelberg)**
+### 汉诺威大学
+**Universität Hannover (Uni-Hannover)**
 
-德国，巴登符腾堡州，海德堡市
+德国，下萨克森州，汉诺威市
 
-GIS相关系所：[地理信息系](https://www.geog.uni-heidelberg.de/gis/)
+GIS相关系所：[地图与地理信息研究所](https://www.ikg.uni-hannover.de/en)
 
-海德堡大学建立于1386年，是德国最古老的大学。除了GIS系以外，人文地理，经济地理等方向也实力雄厚。GIScience group 主要研究 OSM，VGI，人道主义救援以及 Lidar和摄影测量，科研经费充足。
-
-- **[Johannes Glückler](https://www.geog.uni-heidelberg.de/wiso/glueckler_en.html)**: Economic Geography, Organization Studies, Network Theory;
-- **[Alexander Zipf](https://www.geog.uni-heidelberg.de/gis/zipf.html):**: Volunteered Geographic Information (VGI), Crowdsourcing, Citizen Science, Geoinformatics & GIScience in Geography;
-- **[Bernhard Höfle](https://www.geog.uni-heidelberg.de/gis/hoefle.html):**: Geographic 3D/4D Point Cloud Analysis, Geoprocessing Algorithms for GIS, Virtual Laser Scanning - LiDAR Simulation, 3D Crowdsourcing and 3D Micro-Mapping, Radiometric Calibration of LiDAR Data;
-- **[Anna Growe](https://www.geog.uni-heidelberg.de/regov/growe.html)**: Regional Governance, Spatial development in the knowledge society.
-
-
-### 慕尼黑大学
-**The Ludwig-Maximilians University (LMU)**
-
-德国，巴伐利亚州，慕尼黑市
-
-GIS相关系所：[地理系](https://www.geographie.uni-muenchen.de/department/fiona_eng/index.php)
-
-慕尼黑大学为欧洲历史最为悠久的大学之一，为德国学术资源最为集中、声誉最佳的前三大高校之一。其地理系是欧洲中部最大的地理系之一，主要研究自然地理（水文学，遥感和景观生态学）和人文地理（着重于经济地理学和人与环境的关系）。遥感和GIS在这些研究项目中经常被涉及。
+汉诺威大学是德国理工大学九校联盟TU9成员之一，其地理学研究存在于多个机构，覆盖自然地理、人文地理和GIS。Viktor Heißler和Günter Hake曾在此任教。其中GIS相关研究主要集中在地图与地理信息研究所，该所研究方向主要偏向于大数据、机器学习、激光点云、SLAM等。
 
 相关导师：
-- **[Prof. Dr. Wolfram Mauser](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=3)**: Hydrology, Remote sensing, Global Change Research, Regional and global potential for a sustainable production of biomass for food, energy and industry;
-- **[Prof. Dr. Lukas Lehnert](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=339)**: Mobility in Transition, Environmental remote sensing;
-- **[Prof. Dr. Jürgen Schmude](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=113)**: Tourism research, sustainability and CSR, France.
+- **[Prof. Dr.-Ing. habil. Monika Sester](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Big Data und Machine Learning, Laser Scanning, Mobility;
+- **[apl. Prof. Dr.-Ing. Claus Brenner](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/brenner/)**: Laser Scanning, SLAM, Point Clouds;
+- **[Prof. Dr. Philipp Otto](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Spatiotemporal Statistics and Modelling, Change Point Detection, Environmetrics, Computational Statistics.
 
 ### 波恩大学
 **University of Bonn (Uni-Bonn)**
@@ -2212,6 +2208,32 @@ GIS相关系所：[地理系](https://www.geographie.uni-bonn.de/department)
 - **[Herr Prof. Klaus Greve](https://www.geographie.uni-bonn.de/forschung/ags/ag-greve)**: Geographic Information Systems, Web Mapping, Spatial Data Infrastructure;
 - **[PD Dr. Olena Dubovyk](https://www.geographie.uni-bonn.de/forschung/ags/ag-fernerkundung/staff-2016/prof.-dr.-olena-dubovyk)**: Remote sensing of land surface dynamics, land degradation and drought monitoring & assessment, Use of Earth observation and Geo-information for policy support, international cooperation support, and disaster risk reduction.
 
+### 波茨坦大学
+**Universität Potsdam (Uni-Potsdam)**
+
+德国，勃兰登堡州，波茨坦市
+
+GIS相关系所：[环境科学与地理研究所](https://www.uni-potsdam.de/en/umwelt/)
+
+波茨坦大学环境科学与地理研究所在人文地理，景观，自然灾害，水文气候等方面有广泛的研究基础。GIS相关研究主要由Prof. Dr. Manfred Rolfes牵头。此外，波茨坦大学地质研究所开设了Remote Sensing, geoInformation and Visualization两年期硕士项目，英语授课，重点教授遥感影像和地理信息的处理、分析与可视化相关技术课程。
+
+相关导师：
+- **[Prof. Dr. Manfred Rolfes](https://www.uni-potsdam.de/en/umwelt/institut/alle-mitarbeiterinnen/rolfes-manfred)**: Urban Studies, (In-)security, risk and space, Tourist space semantics and tourism spaces.
+
+### 海德堡大学
+**Universität Heidelberg (Uni-Heidelberg)**
+
+德国，巴登符腾堡州，海德堡市
+
+GIS相关系所：[地理信息系](https://www.geog.uni-heidelberg.de/gis/)
+
+海德堡大学建立于1386年，是德国最古老的大学。除了GIS系以外，人文地理，经济地理等方向也实力雄厚。GIScience group 主要研究 OSM，VGI，人道主义救援以及 Lidar和摄影测量，科研经费充足。
+
+- **[Johannes Glückler](https://www.geog.uni-heidelberg.de/wiso/glueckler_en.html)**: Economic Geography, Organization Studies, Network Theory;
+- **[Alexander Zipf](https://www.geog.uni-heidelberg.de/gis/zipf.html)**: Volunteered Geographic Information (VGI), Crowdsourcing, Citizen Science, Geoinformatics & GIScience in Geography;
+- **[Bernhard Höfle](https://www.geog.uni-heidelberg.de/gis/hoefle.html)**: Geographic 3D/4D Point Cloud Analysis, Geoprocessing Algorithms for GIS, Virtual Laser Scanning - LiDAR Simulation, 3D Crowdsourcing and 3D Micro-Mapping, Radiometric Calibration of LiDAR Data;
+- **[Anna Growe](https://www.geog.uni-heidelberg.de/regov/growe.html)**: Regional Governance, Spatial development in the knowledge society.
+
 ### 科隆大学
 **University of Cologne (Uni-Koeln)**
 
@@ -2223,31 +2245,6 @@ GIS相关系所：[地理所](https://geographie.uni-koeln.de/en/)
 
 相关导师：
 - **[Prof. Dr. Georg Bareth](https://geographie.uni-koeln.de/en/forschung/arbeitsgruppen/gis-fernerkundung/mitarbeiter/bareth/bareth-georg)**: Terrestrial Laserscanning, Unmaned Airborne Vehicles, Scientific data management, Mobile GIS applications and locateion based services, GIS-aided Modelling, GIS-aided regionalisation of N- and C-dynamics in ecosystems, Application of multispectral, hyperspectral and radar data for land-use analysis, Agricultural applications of GIS and Remote Sensing, Spatial data infrastructure.
-
-### 弗莱堡大学
-**University of Freiburg (Uni-Freiburg)**
-
-德国，巴登－符腾堡州，弗莱堡市
-
-GIS相关系所：[地理所](https://geographie.uni-freiburg.de/en/geographie-nahtstelle-zwischen-mensch-und-natur)
-
-弗莱堡大学是德国最为古老的大学之一。学校由11个院系组成，有着教授人文、社会科学和自然科学的传统。弗莱堡大学的GIS研究分散在自然地理系和人文地理系中，偏向于实际应用。自然地理系关注环境方面的地理信息系统和遥感应用，空间数据管理以及空间数据基础设施建设。人文地理系关注城市地理学研究，以及社交媒体语料的相关分析方法。同时，弗莱堡大学也开设了Environmental Modelling and GIS硕士项目，重点教授针对土壤、森林等环境数据的收集、存储、处理、分析与可视化技术课程。
-
-相关导师：
-- **[Prof. Dr. Rüdiger Glaser](https://geographie.uni-freiburg.de/en/professorships/physical-geography/team-contact-details)**: Environment Climate Change, Risk Analysis, Climatology, Global Change;
-- **[Prof. Dr. Tim Freytag](https://geographie.uni-freiburg.de/en/professorships/human-geography/team-contact-details/freytag-tim)**: Tourism and mobility studies (in particular, European urban tourism), Urban studies and sustainable urban development,Social geography and geography of education.
-
-### 汉堡大学
-**University of Hamburg (Uni-Hamburg)**
-
-德国，汉堡市
-
-GIS相关系所：[地理所](https://www.geo.uni-hamburg.de/geographie.html)
-
-汉堡大学地理所于1919年成立，是地球系统与可持续性研究中心（CEN）的成员，并且在“综合气候系统分析预测”（CliSAP）中发挥着核心作用。目前该所隶属于地球科学系，共有八位教授，偏重于气候研究、资源研究与城市研究。同时汉堡大学也开设了“全球转型与环境变化”主题的地理学硕士项目（德语授课+英语材料），该硕士项目面向自然地理学和社会科学的结合，并基于地理信息学方法进行实际训练如地理数据分析和空间研究。
-
-相关导师：
-- **[Prof. Dr. Jürgen Böhner](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis.html)**: Regional climate and environmental modelling, Climate impact research, Geoinformatics and remote sensing, SAGA-GIS development.
 
 ### 耶拿大学
 **University of Jena (Uni-Jena)**
