@@ -29,7 +29,7 @@
 ## 目录
 由于篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文主要包含以下学校（按照学校中文缩写排序）：
 
-北美洲74所：[美国64所](#美国)，[加拿大10所](#加拿大)
+北美洲77所：[美国64所](#美国)，[加拿大13所](#加拿大)
 
 亚洲大洋洲10所：[中国香港5所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚4所](#澳大利亚)
 
@@ -64,7 +64,6 @@
 - [印第安纳大学 (IUB)](#印第安纳大学)
 - [圣迭戈州立大学 (SDSU)](#圣迭戈州立大学)
 - [堪萨斯大学 (KU)](#堪萨斯大学)
-- [夏威夷大学 (UHawaii)](#夏威夷大学)
 - [天普大学 (Temple)](#天普大学)
 - [奥本大学 (Auburn)](#奥本大学)
 - [威斯康辛大学麦迪逊分校 (Wisc)](#威斯康辛大学麦迪逊分校)
@@ -106,9 +105,12 @@
 - [卡尔加里大学 (Calgary)](#卡尔加里大学)
 - [圭尔夫大学 (Guelph)](#圭尔夫大学)
 - [多伦多大学 (UToronto)](#多伦多大学)
+- [布洛克大学 (Brock)](#布洛克大学)
 - [滑铁卢大学 (UWaterloo)](#滑铁卢大学)
+- [约克大学 (York)](#约克大学)
 - [维多利亚大学 (UVic)](#维多利亚大学)
 - [萨斯喀彻温大学 (USask)](#萨斯喀彻温大学)
+- [西安大略大学 (UWO)](#韦仕敦大学)
 - [阿尔伯塔大学 (Alberta)](#阿尔伯塔大学)
 - [麦克马斯特大学 (McMaster)](#麦克马斯特大学)
 - [麦吉尔大学 (McGill)](麦吉尔大学)
@@ -389,9 +391,22 @@ FSU的地理系的科研重点包括社会地理、空间分析和自然环境�
 - **[Vector Mesev](https://geography.fsu.edu/people/victor-mesev/)**: cartography, image processing, remote sensing, sports;
 - **[Mark Horner](https://geography.fsu.edu/people/mark-horner/)**: spatial analysis, transportation, urban geography.
 
-### 南佛罗里达大学
+### 南佛罗里达大学  
 
-TBA
+**University of South Florida (USF)**
+
+美国，佛罗里达州，坦帕市
+
+GIS相关系所：[地球科学系]( http://hennarot.forest.usf.edu/main/depts/geosci/)
+
+南佛罗里达大学始建于1956年，是一所位于美国佛罗里达州的公立研究型大学,全美20所最大的大学之一。南佛罗里达大学拥有强大的科研实力，该校在2011年美国知识产权所有人协会（Intellectual Property Owners Associatio）全美大学研发专利数量排名第10。USF地球科学系是一所综合地理学、大地测量学、地球化学、地球物理学和水力学等多个学科的综合院系。GIS相关研究生项目主要包括地理硕士项目 （M.A. Geography），博士项目（PhD in Geography, Environmental Science and Policy）和一个15个学分的硕士证书项目 (GIS Graduate Certificate). 学生可以选择包括地理信息科学、空间数据科学、遥感科学、公共健康地理信息系统和其它领域的课程来完成学位。
+
+相关导师：
+- **[Ruiliang Pu]( http://hennarot.forest.usf.edu/main/depts/geosci/faculty/rpu/)**: soil mapping, ecology, spatial analysis, environment modeling;
+- **[Joni Firat]( http://hennarot.forest.usf.edu/main/depts/geosci/faculty/jdowns/)**: Geographic Information Science, Wildlife Ecology, Public Health and Safety;
+- **[Steven Reader]( http://hennarot.forest.usf.edu/main/depts/geosci/faculty/sreader/)**: GIScience and Spatial Statistics;
+- **[Ran Tao]( http://hennarot.forest.usf.edu/main/depts/geosci/faculty/rtao/)**: GIScience, spatial interactions (OD flows), spatial statistics, spatial data mining, geovisualization, transportation, migration, crime, civic conflicts;
+- **[Yi Qiang](http://hennarot.forest.usf.edu/main/depts/geosci/faculty/yqiang/)**: GIScience, Spatial Data Science, Disaster Resilience, Visual Analytics, Geocomputation.
 
 ### 俄亥俄州立大学
 
@@ -712,27 +727,22 @@ GIS相关系所：[地理和大气科学系](https://geog.ku.edu/)
 - **[Peter Herlihy](https://geog.ku.edu/peter-herlihy#link2)**: place-based GIS, participatory mapping, digital cultural landscape, Latin American historical geography;
 - **[David Rahn](https://geog.ku.edu/david-rahn#link2)**: remote sensing, cloud, wind, numerical modeling.
 
-### 夏威夷大学
-
-TBA
-
 ### 天普大学
 
 **Temple University (Temple)**
 
 美国，宾夕法尼亚州，费城
 
-GIS相关系所：[地理和城市研究系](https://www.cla.temple.edu/geography-and-urban-studies/)
+GIS相关系所：[地理和城市系](https://www.cla.temple.edu/geography-and-urban-studies/)
 
-天普大学地理和城市研究系研究方向涵盖GIS，城市研究，可持续发展等。
-
+天普大学坐落于美国东部名城费城。这是一座充满人文气息的城市位于纽约和华盛顿之间，距离两个城市一个小时车程。天普大学的地理城市系聚集着城市研究、地理信息、遥感、生态可持续发展等方面的研究学者。该系目前有两个GIS的硕士项目，GIS和空间数据科学，博士项目是地理和城市研究。位于费城都市圈，濒临纽约和华盛顿，为学生提供了更多的实习就业机会。其GIS项目主要包含Geovisualization, GIS Programming, geospatial big data analysis等课程。
 相关导师：
 
-- **[Xiaojiang Li](https://sites.google.com/site/xiaojiangligis/home)**: spatial data science, urban analytics for sustainability, urban science, urban computing based on Google Street View;
-- **[Jeremy Mennis](https://liberalarts.temple.edu/academics/faculty/mennis-jeremy)**: GIS, public health, environmental science;
-- **[Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**: GIS, remote sensing, land use/land cover change;
-- **[Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**: GIS, urban sustainability, social justice;
-- **[Kevin A. Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: geography and urban studies, public health, GIS.
+- **[Xiaojiang Li](http://www.urbanspatial.info/)**: Spatial Data Science, Urban Analytics for Sustainability, Urban Science, urban computing based on Google Street View;
+- **[Jeremy Mennis](https://liberalarts.temple.edu/academics/faculty/mennis-jeremy)**: 目前UCGIS的主席，GIS, Public Health, Environmental Science;
+- **[Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**: GIS, Remote Sensing, Land use/Land cover change;
+- **[Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: GIS, Urban Sustainability, Social justice;
+- **[Kevin A. Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: Geography and Urban Studies, Public Health, GIS.
 
 ### 奥本大学
 
@@ -964,11 +974,11 @@ UT Dallas的GIS专业是美国老牌强势专业，研究水平处于全美前�
 
 GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
 
-德克萨斯州立大学地理系发展迅速全面。学科方向包括环境地理，人文地理, GIS, 地理教育和跨学科研究。 研究生项目涵盖了：地理信息科学硕士（GIS）, 地理科学硕士，应用地理学硕士（地理教育），地理学硕士（资源与环境研究），以及GIS, 地理学，地理教育三个博士生项目。其中GIS 主要研究方向有：public health, geovisualization, remote sensing, land use/land cover change, geospatial data mining, spatial data analytics, geocomputation。
+德克萨斯州立大学地理系发展迅速全面，是全美最大的地理系之一，坐落于风景优美的圣马科斯河畔，距离德州首府奥斯汀约半小时车程。学科方向包括环境地理，人文地理, GIS, 地理教育和跨学科研究。 研究生项目涵盖了：地理信息科学硕士（GIS）, 地理科学硕士，应用地理学硕士（地理教育），地理学硕士（资源与环境研究），以及GIS, 地理学，地理教育三个博士生项目。其中硕士项目包括针对走学术路线的Master of Science和侧重应用的Master of Applied Geography。博士项目包括地理学，地理教育，以及地理信息科学三个方向。GIS项目的主要研究方向有：public health, geovisualization, remote sensing, land use/land cover change, geospatial data mining, spatial data analytics, geocomputation。
 
 相关导师：
 
-- **[Edwin Chow](https://www.geo.txstate.edu/people/faculty/edchow.html)**: geocomputation, hazards, environmental modeling, human dynamics;
+- **[T. Edwin Chow](https://www.geo.txstate.edu/people/faculty/edchow.html)**: geocomputation, hazards, environmental modeling, human dynamics;
 - **[Yongmei Lu](https://www.geo.txstate.edu/people/faculty/yongmeilu.html)**: urban & regional studies, crime, health, China & East Asia;
 - **[Nate Currit](https://www.geo.txstate.edu/people/faculty/nate-currit.html)**: remote sensing, land cover change, human-environment systems;
 - **[Alexander (Sasha) Savelyev](https://www.geo.txstate.edu/people/faculty/alexander--Sasha--savelyev.html)**: geovisualization, geovisual analytics, cartography;
@@ -1126,6 +1136,41 @@ GIS相关系所：[大学直属的跨学科项目](https://gis.mines.edu/)
 - **[H. SEBNEM DUZGUN](https://mining.mines.edu/project/duzgun-h-sebnem/)**: geoinformatics, VR and gaming in earth science, mine environment monitoring;
 - **[Terri Hogue](https://cee.mines.edu/project/hogue-terri/)**: remote sensing, hydrology, urbanization, civil engineering.
 
+### 纽约城市大学研究生中心
+**The Graduate Center, City University of New York (CUNY)**
+
+美国，纽约州，纽约城
+
+GIS相关系所：[地球和环境科学系](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Program-Information)
+
+纽约城市大学研究生中心集中了纽约城市大学系统的研究生项目，该中心有地理学的博士项目，学术范围包括自然地理、人文地理、地理信息系统和城市研究四大方向。博士生导师包括研究生中心的老师，以及纽约城市大学系统其他附属院校的老师。
+
+相关导师：
+
+研究生中心：
+- **[SUNIL BHASKARAN](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Sunil-Bhaskaran)**: GIS, remote sensing, mapping;
+- **[JOHN E. SELEY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/John-E-Seley)**: GIS, urban studies, energy;
+
+亨特分校：
+- **[HONGMIAN GONG](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Hongmian-Gong)**: GIS, transportation, urban geography;
+- **[SEAN C. AHEARN](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Sean-C-Ahearn)**: environmental remote sensing, LiDAR, agent-based models, spatial-temporal models, digital image analysis, ecological modeling;
+- **[MARIANNA E. PAVLOVSKAYA](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Marianna-E-Pavlovskaya)**: GIS, critical GIS, social theory, urban;
+
+莱曼分校：
+- **[YURI GOROKHOVICH](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Yuri-Gorokhovich)**: GIS, hydrology, geomorphology, natural hazards, geology;
+- **[JULIANA MAANTAY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Juliana-Maantay)**: geospatial analysis, urban studies, health, environment;
+- **[ELIA MACHADO](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Elia-Machado)**: GIS, remote sensing, spatial analysis, environment change, vulnerability;
+
+斯塔滕岛分校：
+- **[NERVE MACASPAC](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Nerve-V-Macaspac)**: spatial ethnography, critical GIS, digital geography;
+
+纽约城市大学理工学院：
+- **[HAMIDREZA NOROUZI](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Hamidreza-Norouzi)**: remote sensing, hydrology, climate, earth system science, environmental studies;
+
+布鲁克林分校：
+- **[REBECCA BOGER](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Rebecca-Boger)**: GIS, water resource.
+
+
 ### 纽约州立大学奥尔巴尼分校  
 
 **University at Albany, State University of New York (UAlbany)**  
@@ -1248,8 +1293,21 @@ LSU研究生院有地理学的硕士（M.S.）和博士项目。硕士需要完�
 - **[Nina Lam](https://www.lsu.edu/cce/research/faculty_profiles/nina_lam.php)** (环境科学系): GIS, remote sensing, spatial analysis, environmental health, disaster resilience, sustainability.
 
 ### 辛辛那提大学
+**University of Cincinnati (Cincinnati)**
 
-TBA
+美国，俄亥俄州，辛辛那提
+
+GIS相关系所：[地理系](https://www.artsci.uc.edu/departments/geography.html)
+
+辛辛那提大学地理系规模较大，学生和老师较多，有MA和PhD学位授予权。该系的强项包括GIS、城市地理、经济地理和自然地理。绘制出史上第一幅USGS美国地质全图的前AAG主席、著名地质学和地理学家Nevin Fenneman是这个系的创始人之一。
+
+相关导师：
+- **[Richard Allan Beck](https://researchdirectory.uc.edu/p/beckrd)**: GIS, remote sensing, climate, water resource;
+- **[Diego F. Cuadros](https://researchdirectory.uc.edu/p/cuadrodo)**: GIS applications in epidemiology, environmental studies, mathematical modeling of infectious diseases, medical geogaphy;
+- **[Liu Liu](https://researchdirectory.uc.edu/p/liuln)**: GIS, visualization, crime mapping, quantitative methods, location analysis;
+- **[Changjoo Kim](https://researchdirectory.uc.edu/p/changjkm)**: GIS, urban transportation, spatial modelings;
+- **[Tomasz F Stepinski](https://researchdirectory.uc.edu/p/stepintz)**: spatial informatics, remote sensing, geomorphology.
+
 
 ### 阿拉斯加大学费尔班克斯分校
 
@@ -1404,6 +1462,21 @@ GIS相关系所：[地理和规划系](https://geography.utoronto.ca/department/
 斯卡尔堡校区（多伦多东侧）:
 - **[Steven Farber]( https://geography.utoronto.ca/profiles/steven-farber/)**: spatial analysis, transportation.
 
+### 布洛克大学
+**Brock University (Brock)**
+
+加拿大，安大略省，圣凯瑟琳市
+
+GIS相关系所：[地理和旅游学院](https://brocku.ca/social-sciences/geography/programs/graduate-program/)
+
+布洛克大学临近美加边界的旅游胜地尼亚加拉大瀑布，其地理项目以旅游地理最为著名，其中包括通过GIS来研究旅游业，以及虚拟的网上旅游科技。研究生有MA项目，其中两年项目需要提交毕业论文并通过答辩，一年半项目以上课为主，并提交一份综合毕设作业报告。
+
+相关导师：
+- **[David T. Brown](https://brocku.ca/social-sciences/geography/people-in-our-department/david-t-brown/)**: digital tourism, municipal cultural mapping, trail management;
+- **[Catherine Jean Nash](http://brocku.ca/social-sciences/geography/people-in-our-department/catherine-jean-nash/)**: digital urban, cyberspace, mobility, cultural geography;
+- **[Kevin Turner](http://brocku.ca/social-sciences/geography/people-in-our-department/kevin-turner/)**: GIS, spatial analysis, hydrology, limnology;
+- **[Christopher Fullerton](http://brocku.ca/social-sciences/geography/people-in-our-department/christopher-fullerton/)**: regional planning, rural planning, transportation.
+
 ### 滑铁卢大学
 **University of Waterloo (UWaterloo)**
 
@@ -1421,6 +1494,22 @@ GIS相关系所: [Department of Geography and Environmental Management (GEM)](ht
 - **[Su-Yin Tan](https://www.appliedgeomatics.net/)**: RS; GIS; spatial statistics and data analysis; vegetation and climatology; public health and crime mapping; medical geography; environmental monitoring; GIS education;
 - **[Jane Law](https://uwaterloo.ca/planning/people-profiles/jane-law)**: health and crime GIS; spatial demography; spatial statistics; bayesian spatial analysis; hierarchical spatial modeling; spatial epidemiology; geomatics; land information systems;
 - **[Robert D. Feick](https://uwaterloo.ca/planning/people-profiles/robert-d-feick)**: smart city; spatial data quality; volunteered geographic information (VGI); spatial data mining; spatial multi-criteria analysis;
+
+### 约克大学
+**York University (York)**
+
+加拿大，安大略省，多伦多
+
+GIS相关系所：[地理系](https://geography.gradstudies.yorku.ca/)
+
+约克大学地理系有比较广泛的地理科研覆盖面，其中包括geoinformatics等偏技术和应用的课题方向。具体来说，地理系研究生院有硕士班（MSc/MA）和博士班（PhD）两大类。硕士班顺利的情况是2年毕业，需要提交一篇毕业论文，或者在学术期刊上以第一作者的身份发表一篇论文亦可。博士班时长为4到5年，原则上需要已在知名大学获得地理学的硕士学位，且硕士综合业绩在B+以上，才能入选博士班，但如果有其他专业的硕士学位且成绩十分突出的同学也有机会入选。博士班的同学在第二年需要参加一次资格考试，考试内容是在地理系的各大[科研方向](https://geography.gradstudies.yorku.ca/research/research-clusters/)里任选三个，考察同学的知识积累深度和广度。最终博士班的同学毕业前需要提交博士论文并通过答辩。
+
+相关导师：
+- **[Qiuming Cheng](http://people.laps.yorku.ca/people.nsf/researcherprofile?readform&shortname=qiuming)**: GIS development, spatial analysis, modeling, remote sensing, quantitative geology, mineral resource;
+- **[Baoxin Hu](https://geography.gradstudies.yorku.ca/people/faculty-research-area/#squelch-taas-accordion-shortcode-content-66)**: remote sensing of vegetation, photogrammetry, canopy modeling;
+- **[Ranu Basu](http://people.laps.yorku.ca/people.nsf/researcherprofile?readform&shortname=ranubasu)**: GIS for social sciences, social justice;
+- **[Tarmo Remmel](http://www.yorku.ca/remmelt/)**: GIS algorithm, remote sensing, spatial analysis, forest, land cover.
+
 
 ### 维多利亚大学
 
@@ -1456,6 +1545,25 @@ GIS相关系所：[地理和规划系](https://artsandscience.usask.ca/geography
 - **[Xulin Guo](https://research-groups.usask.ca/guo/biography.php#AboutMe)**: remote sensing, ecology, physical geography, GIS;
 - **[Ehab Diabt](https://artsandscience.usask.ca/profile/EDiab#/research)**: GIS, transportation, land use, spatial big data;
 - **[Avi Akkerman](https://artsandscience.usask.ca/profile/AAkkerman#/research)**: spatial modeling, transportation, urban development.
+
+### 韦仕敦大学
+**Western University (UWO)**
+
+加拿大，安大略省，伦敦
+
+GIS相关系所：[地理和环境系](https://geoenvironment.uwo.ca/)
+
+韦仕敦大学即原来的**西安大略大学**（University of Western Ontario），它的地理和环境系有四大方向，包括：地理信息科学、城市研究、环境发展和健康、自然地理。其中，地理信息科学的研究内容有spatial modeling and visualization, cartography, database structures, pattern recognition以及applied GIS等。授予研究生学位包括MS、MA和PhD。
+
+相关导师：
+- **[Michael Buzzelli](https://geoenvironment.uwo.ca/people/faculty/buzzelli_michael.html)**: GIS, public health, society-space relationships, GeoWeb;
+- **[Isaac Luginaah](https://geoenvironment.uwo.ca/people/faculty/luginaah_isaac2)**: health geography, GIS;
+- **[Irena Creed](https://geoenvironment.uwo.ca/people/faculty/creed_irena)**: remote sensing, GIS, ecology, watershed, hydrology, biology;
+- **[Jinfei Wang](https://geoenvironment.uwo.ca/people/faculty/wang_jinfei2)**: remote sensing;
+- **[Jed Long](http://jedalong.github.io/)**: GPS, movement, space-time models, spatial ecology, open source software;
+- **[Jason Gilliland](https://geoenvironment.uwo.ca/people/faculty/gilliland_jason2)**: GIS, urban studies;
+- **[Jacek Malczewski](https://geoenvironment.uwo.ca/people/faculty/malczewski_jacek2)**: spatial statistics, spatial decision support, GIS, quantitative methods;
+- **[Agnieszka Leszczynski](https://www.agnieszka-leszczynski.com/)**: GIS, digital geography digital platfroms in cities.
 
 ### 阿尔伯塔大学
 
