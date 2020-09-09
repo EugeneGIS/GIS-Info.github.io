@@ -1721,15 +1721,15 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 
 相关导师：
 
-- **[Prof. SHI Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modeling;
-- **[Prof. LI Zhi-lin](http://www.lsgi.polyu.edu.hk/people/academic/li-zhi-lin/index.asp)**: cartography, GIS-Based spatial data modeling, feature extraction from remote sensing images;
-- **[Prof. WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: photogrammetry and robotic vision, planetary mapping and planetary science, 3D GIS and applications;
-- **[Dr. PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: intelligent transport system, cartographic visualization, spatial analysis, spatial networking;
-- **[Dr. LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, complex network, transportation geography, urban computing;
-- **[Dr. XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, urban informatics, mobility, transportation;
-- **[Dr. ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: spatial analysis and modeling, activity-based travel demand modeling, smart cities, land use and transport interaction, agent-based modeling, complex urban system;
-- **[Dr. ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies;
-- **[Dr. JIA Peng](https://scholar.google.com/citations?user=eR1sDXYAAAAJ&hl=en)**: Spatial lifecourse epidemiology, health geography, obesity, health cares, spatial technology.
+- **[SHI Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modeling;
+- **[LI Zhi-lin](http://www.lsgi.polyu.edu.hk/people/academic/li-zhi-lin/index.asp)**: cartography, GIS-Based spatial data modeling, feature extraction from remote sensing images;
+- **[WU Bo](http://www.lsgi.polyu.edu.hk/people/academic/wu-bo/index.asp)**: photogrammetry and robotic vision, planetary mapping and planetary science, 3D GIS and applications;
+- **[PUN Cheng Shuk-ching, Lilian](http://www.lsgi.polyu.edu.hk/people/academic/pun-cheng-shuk-ching/index.asp)**: intelligent transport system, cartographic visualization, spatial analysis, spatial networking;
+- **[LIU Xin-tao](http://www.lsgi.polyu.edu.hk/people/academic/liu-xin-tao/index.asp)**: GIScience, complex network, transportation geography, urban computing;
+- **[XU Yang](http://www.lsgi.polyu.edu.hk/people/academic/xu-yang/index.asp)**: GIScience, urban informatics, mobility, transportation;
+- **[ZHUGE Cheng-xiang, Tony](http://www.lsgi.polyu.edu.hk/people/academic/tony-zhuge/index.asp)**: spatial analysis and modeling, activity-based travel demand modeling, smart cities, land use and transport interaction, agent-based modeling, complex urban system;
+- **[ZHU Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies;
+- **[JIA Peng](https://scholar.google.com/citations?user=eR1sDXYAAAAJ&hl=en)**: Spatial lifecourse epidemiology, health geography, obesity, health cares, spatial technology.
 
 ### 新加坡国立大学
 
@@ -1757,14 +1757,14 @@ GIS相关系所：[Department of Infrastructure Engineering](https://infrastruct
 墨尔本大学是澳大利亚顶尖学府，也是世界知名院校，坐落于环境优美气氛文艺的墨尔本市中心。该校的基础设施工程系下属地理信息科学方向，有8位教职，其中两位教授和两位高级讲师。该系GIS方向偏工程和计算，强于软硬件结合的室内导航、空间认知、交通模拟等。其中Stephan Winter教授和Abbas Rajabifard教授均为国际研究领域享有较高知名度的学者。
 
 相关导师:
-- **[Prof Stephan Winter](https://people.eng.unimelb.edu.au/winter/)**: urban analytics, smart transport, human orientation, wayfinding and navigation, evacuation, information sharing, volunteered geographic information, shared mobility;
-- **[Prof Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard)**: design and development, land administration, marine SDI, capacity development, life sciences and biomedicine, science and technology;
-- **[A/Prof Mohsen Kalantari Soltanieh](https://findanexpert.unimelb.edu.au/profile/99751-mohsen-kalantari-soltanieh)**: construction surveying, land administration, spatial data infrastructure, geospatial standards, building information modeling, 3D cadaster, laser scanning, digital twin;
-- **[Dr Martin Tomko](https://findanexpert.unimelb.edu.au/profile/64610-martin-tomko)**: annotation, spatial communication, mobility analytics, spatial databases, autonomous data cleaning and integration, search and retrieval, spatial data quality, retail analytics;
-- **[Dr Kourosh Khoshelham](https://findanexpert.unimelb.edu.au/profile/710868-kourosh-khoshelham)**: photogrammetry, building information modeling, pattern recognition and machine learning, mobile mapping, indoor location based service, laser scanning- lidar, remote sensing, science and technology;
-- **[Dr Amir Khodabandeh](https://findanexpert.unimelb.edu.au/profile/827368-amir-khodabandeh)**: estimation theory, GNSS, navigation, earth observation, geodesy, Interferometric positioning, surveying, quality control, PPP-RTK ;
-- **[Dr Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal)**: urban analytics, modern land administration, systems modeling, earth observation, spatial statistics, GEOBIA, physical sciences;
-- **[Dr Davood Shojaei](https://findanexpert.unimelb.edu.au/profile/427419-davood-shojaei)**: 3D cadaster, environmental sciences and ecology, environmental studies, eplan, remote sensing, life sciences and biomedicine, science and technology.
+- **[Stephan Winter](https://people.eng.unimelb.edu.au/winter/)**: urban analytics, smart transport, human orientation, wayfinding and navigation, evacuation, information sharing, volunteered geographic information, shared mobility;
+- **[Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard)**: design and development, land administration, marine SDI, capacity development, life sciences and biomedicine, science and technology;
+- **[Mohsen Kalantari Soltanieh](https://findanexpert.unimelb.edu.au/profile/99751-mohsen-kalantari-soltanieh)**: construction surveying, land administration, spatial data infrastructure, geospatial standards, building information modeling, 3D cadaster, laser scanning, digital twin;
+- **[Martin Tomko](https://findanexpert.unimelb.edu.au/profile/64610-martin-tomko)**: annotation, spatial communication, mobility analytics, spatial databases, autonomous data cleaning and integration, search and retrieval, spatial data quality, retail analytics;
+- **[Kourosh Khoshelham](https://findanexpert.unimelb.edu.au/profile/710868-kourosh-khoshelham)**: photogrammetry, building information modeling, pattern recognition and machine learning, mobile mapping, indoor location based service, laser scanning- lidar, remote sensing, science and technology;
+- **[Amir Khodabandeh](https://findanexpert.unimelb.edu.au/profile/827368-amir-khodabandeh)**: estimation theory, GNSS, navigation, earth observation, geodesy, Interferometric positioning, surveying, quality control, PPP-RTK ;
+- **[Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal)**: urban analytics, modern land administration, systems modeling, earth observation, spatial statistics, GEOBIA, physical sciences;
+- **[Davood Shojaei](https://findanexpert.unimelb.edu.au/profile/427419-davood-shojaei)**: 3D cadaster, environmental sciences and ecology, environmental studies, eplan, remote sensing, life sciences and biomedicine, science and technology.
 
 
 ### 阿德莱德大学
@@ -2001,7 +2001,7 @@ GIS相关系所：[城市区域监测与分析组](https://www.amur.rwth-aachen.
 亚琛工业大学是是德国最大的理工大学，是TU9、IDEA联盟、TIME、UNITECH等一系列学术联合体以及ALMA Snowevent的成员。该校地理系研究范围涵盖自然地理，文化地理，经济地理和城市区域监测与分析。其中GIS相关研究主要集中在城市区域监测与分析组，由Prof. Dr. Stefan Fina牵头。
 
 相关导师：
-- **[Prof. Dr. Stefan Fina](https://www.ils-forschung.de/en/the-ils/ils-staff/fina-stefan/)**: Methods of spatial analysis in geography, spatial and environmental planning，Monitoring and controlling of transport and urban development，Health promotion in urban development.
+- **[Stefan Fina](https://www.ils-forschung.de/en/the-ils/ils-staff/fina-stefan/)**: Methods of spatial analysis in geography, spatial and environmental planning，Monitoring and controlling of transport and urban development，Health promotion in urban development.
 
 ### 卡尔斯鲁厄理工学院
 **Karlsruher Institut für Technologie (KIT)**
@@ -2013,10 +2013,10 @@ GIS相关系所：[地理与地球生态研究所](https://www.ifgg.kit.edu/engl
 卡尔斯鲁厄理工学院是德国历史悠久的理工大学，德国理工大学九校联盟TU9成员之一，在自然科学及工程领域颇有建树。卡尔斯鲁厄理工学院的地理与地球生态研究所（IFGG）内有多位从事GIS相关研究的导师，研究覆盖城市地理、交通地理、自然地理和环境生态。
 
 相关导师：
-- **[Prof. Dr. Caroline Kramer](https://www.ifgg.kit.edu/english/society/staff_132.php)**: Urban Geography, Timegeography, Geography of Knowledge and Education, Gender in Urban and Regional Planning, Transport Geography, Empirical Social Research and social indicators, Interdisciplinarity in the social sciences, Methods in Empirical Social Research;
-- **[Prof. Dr. Wolfgang Wilcke](https://www.ifgg.kit.edu/english/soil/staff_699.php)**: Soil biogeochemistry, Ecosystem research, Pollutant dynamics;
-- **[Prof. Dr. Sebastian Schmidtlein](https://www.ifgg.kit.edu/english/vegetation/staff_schmidtlein.php)**: Remote sensing of vegetation, Ecoinformatics, Vegetation ecology;
-- **[Prof. Dr. Florian Wittmann](https://www.ifgg.kit.edu/english/rivers/staff_wittmann.php)**: floodplain ecology, botanical geography, biomass/primary production.
+- **[Caroline Kramer](https://www.ifgg.kit.edu/english/society/staff_132.php)**: Urban Geography, Timegeography, Geography of Knowledge and Education, Gender in Urban and Regional Planning, Transport Geography, Empirical Social Research and social indicators, Interdisciplinarity in the social sciences, Methods in Empirical Social Research;
+- **[Wolfgang Wilcke](https://www.ifgg.kit.edu/english/soil/staff_699.php)**: Soil biogeochemistry, Ecosystem research, Pollutant dynamics;
+- **[Sebastian Schmidtlein](https://www.ifgg.kit.edu/english/vegetation/staff_schmidtlein.php)**: Remote sensing of vegetation, Ecoinformatics, Vegetation ecology;
+- **[Florian Wittmann](https://www.ifgg.kit.edu/english/rivers/staff_wittmann.php)**: floodplain ecology, botanical geography, biomass/primary production.
 
 ### 哥廷根大学
 **Universität Göttingen (Uni-Goettingen)**
@@ -2028,7 +2028,7 @@ GIS相关系所：[制图学、GIS与遥感系](https://www.uni-goettingen.de/en
 哥廷根大学地质科学与地理学院是较大规模的综合性地学学院，涵盖横跨地质科学和地理学的十二个系，发展非常全面。其中，GIS相关研究主要集中在制图学、GIS与遥感系，牵头人为Prof. Dr. Martin Kappas。
 
 相关导师：
-- **[Prof. Dr. Martin Kappas](https://www.uni-goettingen.de/en/40585.html)**: Remote Sensing / GIS in Climatology and Ecology, Field- and Laboratory-Spectrometry (ASD FieldSpec), Assessment of natural landscape potenzial with IT-Methods and Ground-Truth-Data, Land Cover / Land Use Change, Landscape degradation, Health Geography.
+- **[Martin Kappas](https://www.uni-goettingen.de/en/40585.html)**: Remote Sensing / GIS in Climatology and Ecology, Field- and Laboratory-Spectrometry (ASD FieldSpec), Assessment of natural landscape potenzial with IT-Methods and Ground-Truth-Data, Land Cover / Land Use Change, Landscape degradation, Health Geography.
 
 ### 奥格斯堡大学
 **Universitat Augsburg (Uni-Augsburg)**
@@ -2040,8 +2040,8 @@ GIS相关系所：[地理所](https://www.uni-augsburg.de/de/fakultaet/fai/geo/)
 奥格斯堡大学地理所隶属于应用计算机科学学院，距今已有50余年的历史。由于显著的计算机学科特色，奥格斯堡大学地理所除了传统的自然地理、人文地理研究方向，还发展了较为突出的地理信息科学方向和空间规划方向。该系也开设地理信息方向的[两年期硕士项目](https://www.uni-augsburg.de/de/fakultaet/fai/geo/studium/studienangebot/master-geoinformatik/)，涵盖遥感、地理信息的建模仿真，数据库和软件开发等。
 
 相关导师：
-- **[Prof. Dr. Jukka Krisp](https://www.uni-goettingen.de/en/40585.html)**: Location Based Services (LBS), Geographic Visualization / Visual Analytics, Spatial Modeling, Geographic Information Systems (GIS) applications, GIS in ecological network planning;
-- **[Prof. Dr. Sabine Timpf](https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoinf/geoinf-team/s-timpf/)**: spatial cognition in geo-spatial activities (wayfinding and navigation, landscape planning), enabling modern mobility using information technology, urban intelligent (and complex) systems, agent-based modelling and simulation, appropriation of spaces and health, data mining for spatio-temporal phenomena.
+- **[Jukka Krisp](https://www.uni-goettingen.de/en/40585.html)**: Location Based Services (LBS), Geographic Visualization / Visual Analytics, Spatial Modeling, Geographic Information Systems (GIS) applications, GIS in ecological network planning;
+- **[Sabine Timpf](https://www.uni-augsburg.de/en/fakultaet/fai/geo/prof/geoinf/geoinf-team/s-timpf/)**: spatial cognition in geo-spatial activities (wayfinding and navigation, landscape planning), enabling modern mobility using information technology, urban intelligent (and complex) systems, agent-based modelling and simulation, appropriation of spaces and health, data mining for spatio-temporal phenomena.
 
 ### 弗莱堡大学
 **University of Freiburg (Uni-Freiburg)**
@@ -2053,8 +2053,8 @@ GIS相关系所：[地理所](https://geographie.uni-freiburg.de/en/geographie-n
 弗莱堡大学是德国最为古老的大学之一。学校由11个院系组成，有着教授人文、社会科学和自然科学的传统。弗莱堡大学的GIS研究分散在自然地理系和人文地理系中，偏向于实际应用。自然地理系关注环境方面的地理信息系统和遥感应用，空间数据管理以及空间数据基础设施建设。人文地理系关注城市地理学研究，以及社交媒体语料的相关分析方法。同时，弗莱堡大学也开设了Environmental Modelling and GIS硕士项目，重点教授针对土壤、森林等环境数据的收集、存储、处理、分析与可视化技术课程。
 
 相关导师：
-- **[Prof. Dr. Rüdiger Glaser](https://geographie.uni-freiburg.de/en/professorships/physical-geography/team-contact-details)**: Environment Climate Change, Risk Analysis, Climatology, Global Change;
-- **[Prof. Dr. Tim Freytag](https://geographie.uni-freiburg.de/en/professorships/human-geography/team-contact-details/freytag-tim)**: Tourism and mobility studies (in particular, European urban tourism), Urban studies and sustainable urban development,Social geography and geography of education.
+- **[Rüdiger Glaser](https://geographie.uni-freiburg.de/en/professorships/physical-geography/team-contact-details)**: Environment Climate Change, Risk Analysis, Climatology, Global Change;
+- **[Tim Freytag](https://geographie.uni-freiburg.de/en/professorships/human-geography/team-contact-details/freytag-tim)**: Tourism and mobility studies (in particular, European urban tourism), Urban studies and sustainable urban development,Social geography and geography of education.
 
 ### 德累斯顿工业大学
 **Technische Universität Dresden (TU Dresden)**
@@ -2066,8 +2066,8 @@ GIS相关系所：[环境科学学院](https://tu-dresden.de/bu/umwelt)
 德累斯顿工业大学是德国理工大学九校联盟TU9成员之一，其环境科学学院主要针对森林科学、地理科学、水科学进行研究，其中地理科学中设有[行星大地测量系](https://tu-dresden.de/bu/umwelt/geo/ipg)、[大地测量系](https://tu-dresden.de/bu/umwelt/geo/gi/startseite)、[地理信息系](https://tu-dresden.de/bu/umwelt/geo/geoinformatik)、[地图制图系](https://tu-dresden.de/bu/umwelt/geo/ifk/startseite)、[摄影测量和遥感系](https://tu-dresden.de/bu/umwelt/geo/ipf/startseite)、[地理系](https://tu-dresden.de/bu/umwelt/geo/geographie/startseite)。
 
 GIS和制图相关导师：
-- **[Prof. Dr. Lars Bernard](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/prof.bernard)**: (Geo-)Information Infrastructures, Geoinformation Usability, Distributed Geoprocessing and Smart Environmental Monitoring;
-- **[Prof. Dipl.-Phys. Dr.-Ing. habil. Dirk Burghardt](https://tu-dresden.de/bu/umwelt/geo/ifk/professur-fuer-kartographische-kommunikation)**: VGI, map generalization.
+- **[Lars Bernard](https://tu-dresden.de/bu/umwelt/geo/geoinformatik/die-professur/team/prof.bernard)**: (Geo-)Information Infrastructures, Geoinformation Usability, Distributed Geoprocessing and Smart Environmental Monitoring;
+- **[Dirk Burghardt](https://tu-dresden.de/bu/umwelt/geo/ifk/professur-fuer-kartographische-kommunikation)**: VGI, map generalization.
 
 ### 慕尼黑大学
 **The Ludwig-Maximilians University (LMU)**
@@ -2079,9 +2079,9 @@ GIS相关系所：[地理系](https://www.geographie.uni-muenchen.de/department/
 慕尼黑大学为欧洲历史最为悠久的大学之一，为德国学术资源最为集中、声誉最佳的前三大高校之一。其地理系是欧洲中部最大的地理系之一，主要研究自然地理（水文学，遥感和景观生态学）和人文地理（着重于经济地理学和人与环境的关系）。遥感和GIS在这些研究项目中经常被涉及。
 
 相关导师：
-- **[Prof. Dr. Wolfram Mauser](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=3)**: Hydrology, Remote sensing, Global Change Research, Regional and global potential for a sustainable production of biomass for food, energy and industry;
-- **[Prof. Dr. Lukas Lehnert](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=339)**: Mobility in Transition, Environmental remote sensing;
-- **[Prof. Dr. Jürgen Schmude](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=113)**: Tourism research, sustainability and CSR, France.
+- **[Wolfram Mauser](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=3)**: Hydrology, Remote sensing, Global Change Research, Regional and global potential for a sustainable production of biomass for food, energy and industry;
+- **[Lukas Lehnert](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=339)**: Mobility in Transition, Environmental remote sensing;
+- **[Jürgen Schmude](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=113)**: Tourism research, sustainability and CSR, France.
 
 ### 慕尼黑工业大学
 **Technical University of Munich (TUM)**
@@ -2100,14 +2100,14 @@ LRG是成立于TUM的第15个系，并将成为欧洲同类中最大的系，共
 同大多数欧陆院校一样，该系没有统一的博士项目，但会根据项目需要不定期放出有针对性的博士职位，需要具体与教授洽谈了解。[申请博士学位的流程](https://www.lrg.tum.de/en/flr/doctorate/)。
 
 相关导师：
-- **[ Prof. Dr. Richard Hans Georg Bamler](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Remote Sensing Technology;
-- **[Prof. Dr. Walter Timo de Vries](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Land Management;
-- **[Prof. Dr. Thomas H. Kolbe](https://www.professoren.tum.de/en/kolbe-thomas-h/)**: Geoinformatics;
-- **[Prof. Dr.-Ing. Liqiu Meng](https://www.professoren.tum.de/en/meng-liqiu/)**: Cartography;
-- **[Prof. Dr.-Ing. Uwe Stilla](https://www.professoren.tum.de/en/stilla-uwe/)**: Photogrammetry and Remote Sensing;
-- **[Prof. Dr. Martin Werner](https://www.professoren.tum.de/en/werner-martin/)**: Big Geospatial Data Management;
-- **[Prof. Dr. Thomas A. Wunderlich](https://www.professoren.tum.de/en/wunderlich-thomas/)**: Geodesy;
-- **[Prof. Dr. Xiaoxiang Zhu](https://www.professoren.tum.de/en/zhu-xiaoxiang/)**: Signal Processing in Earth Observation.
+- **[Richard Hans Georg Bamler](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Remote Sensing Technology;
+- **[Walter Timo de Vries](https://www.professoren.tum.de/en/bamler-richard-hans-georg/)**: Land Management;
+- **[Thomas H. Kolbe](https://www.professoren.tum.de/en/kolbe-thomas-h/)**: Geoinformatics;
+- **[Liqiu Meng](https://www.professoren.tum.de/en/meng-liqiu/)**: Cartography;
+- **[Uwe Stilla](https://www.professoren.tum.de/en/stilla-uwe/)**: Photogrammetry and Remote Sensing;
+- **[Martin Werner](https://www.professoren.tum.de/en/werner-martin/)**: Big Geospatial Data Management;
+- **[Thomas A. Wunderlich](https://www.professoren.tum.de/en/wunderlich-thomas/)**: Geodesy;
+- **[Xiaoxiang Zhu](https://www.professoren.tum.de/en/zhu-xiaoxiang/)**: Signal Processing in Earth Observation.
 
 ### 斯图加特大学
 **Karlsruher Institut für Technologie (KIT)**
@@ -2119,9 +2119,9 @@ GIS相关系所：[摄影测量研究所](https://www.ifp.uni-stuttgart.de/en/in
 斯图加特大学以工科著名，是德国理工大学九校联盟TU9成员之一，在其跨学科联合体 [Faculty 6](https://www.f06.uni-stuttgart.de/en/) 中下设多个航空，空间和大地测量学领域的相关系所，涉及到GIS相关研究的导师主要集中在摄影测量研究所（IFP），大地测量研究所（IIGS）和测地所（GIS）。斯图加特大学较为出名的还有[GEOENGINE](https://www.geoengine.uni-stuttgart.de/program/)的两年期硕士项目，英语授课，内容覆盖测绘，定位，导航，地图制图等。
 
 相关导师：
-- **[Prof. Volker Schwieger](https://www.iigs.uni-stuttgart.de/en/team/Schwieger-00002/)**: Remote sensing，SAR, 3D Construction;
-- **[Dr.-Ing. Volker Walter](https://www.ifp.uni-stuttgart.de/en/institute/team/Walter-00001/)**: Automatic Map Retrieval in the Internet, Generalization of 2D and 3D Data, Conflation of Spatial Data;
-- **[Prof. Nico Sneeuw](https://www.gis.uni-stuttgart.de/team/Sneeuw-00003/)**: Geodesy and Surveying, Hydrology, Oceanography,Spatial Analysis, Climate Change, Geomatics, Harmonics, Earth Observation, Earth Sciences.
+- **[Volker Schwieger](https://www.iigs.uni-stuttgart.de/en/team/Schwieger-00002/)**: Remote sensing，SAR, 3D Construction;
+- **[Volker Walter](https://www.ifp.uni-stuttgart.de/en/institute/team/Walter-00001/)**: Automatic Map Retrieval in the Internet, Generalization of 2D and 3D Data, Conflation of Spatial Data;
+- **[Nico Sneeuw](https://www.gis.uni-stuttgart.de/team/Sneeuw-00003/)**: Geodesy and Surveying, Hydrology, Oceanography,Spatial Analysis, Climate Change, Geomatics, Harmonics, Earth Observation, Earth Sciences.
 
 ### 明斯特大学
 **Universität Münster (WWU)**
@@ -2173,7 +2173,7 @@ GIS相关系所：[地理所](https://www.geo.fu-berlin.de/en/geog/fachrichtunge
 柏林自由大学地理所属于地球科学系，研究领域包括自然地理，应用自然物理，人文地理和遥感与地理信息，学科实力较强。GIS相关研究主要其中在Prof. Dr. Hannes Feilhauer牵头的[遥感与地理信息工作组](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/geoinformatik/index.html)。
 
 相关导师：
-- **[Prof. Dr. Hannes Feilhauer](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/geoinformatik/mitarbeiter/hfeilhauer/index.html)**: biogeography, ecology, geoinformatics and remote sensing.
+- **[Hannes Feilhauer](https://www.geo.fu-berlin.de/en/geog/fachrichtungen/geoinformatik/mitarbeiter/hfeilhauer/index.html)**: biogeography, ecology, geoinformatics and remote sensing.
 
 ### 汉堡大学
 **University of Hamburg (Uni-Hamburg)**
@@ -2185,7 +2185,7 @@ GIS相关系所：[地理所](https://www.geo.uni-hamburg.de/geographie.html)
 汉堡大学地理所于1919年成立，是地球系统与可持续性研究中心（CEN）的成员，并且在“综合气候系统分析预测”（CliSAP）中发挥着核心作用。目前该所隶属于地球科学系，共有八位教授，偏重于气候研究、资源研究与城市研究。同时汉堡大学也开设了“全球转型与环境变化”主题的地理学硕士项目（德语授课+英语材料），该硕士项目面向自然地理学和社会科学的结合，并基于地理信息学方法进行实际训练如地理数据分析和空间研究。
 
 相关导师：
-- **[Prof. Dr. Jürgen Böhner](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis.html)**: Regional climate and environmental modelling, Climate impact research, Geoinformatics and remote sensing, SAGA-GIS development.
+- **[Jürgen Böhner](https://www.geo.uni-hamburg.de/en/geographie/mitarbeiterverzeichnis.html)**: Regional climate and environmental modelling, Climate impact research, Geoinformatics and remote sensing, SAGA-GIS development.
 
 ### 汉诺威大学
 **Universität Hannover (Uni-Hannover)**
@@ -2197,9 +2197,9 @@ GIS相关系所：[地图与地理信息研究所](https://www.ikg.uni-hannover.
 汉诺威大学是德国理工大学九校联盟TU9成员之一，其地理学研究存在于多个机构，覆盖自然地理、人文地理和GIS。Viktor Heißler和Günter Hake曾在此任教。其中GIS相关研究主要集中在地图与地理信息研究所，该所研究方向主要偏向于大数据、机器学习、激光点云、SLAM等。
 
 相关导师：
-- **[Prof. Dr.-Ing. habil. Monika Sester](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Big Data und Machine Learning, Laser Scanning, Mobility;
-- **[apl. Prof. Dr.-Ing. Claus Brenner](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/brenner/)**: Laser Scanning, SLAM, Point Clouds;
-- **[Prof. Dr. Philipp Otto](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Spatiotemporal Statistics and Modelling, Change Point Detection, Environmetrics, Computational Statistics.
+- **[Monika Sester](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Big Data und Machine Learning, Laser Scanning, Mobility;
+- **[Claus Brenner](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/brenner/)**: Laser Scanning, SLAM, Point Clouds;
+- **[Philipp Otto](https://www.ikg.uni-hannover.de/en/institute/search-for-persons/sester/)**: Spatiotemporal Statistics and Modelling, Change Point Detection, Environmetrics, Computational Statistics.
 
 ### 波恩大学
 **University of Bonn (Uni-Bonn)**
@@ -2212,7 +2212,7 @@ GIS相关系所：[地理系](https://www.geographie.uni-bonn.de/department)
 
 相关导师：
 - **[Herr Prof. Klaus Greve](https://www.geographie.uni-bonn.de/forschung/ags/ag-greve)**: Geographic Information Systems, Web Mapping, Spatial Data Infrastructure;
-- **[PD Dr. Olena Dubovyk](https://www.geographie.uni-bonn.de/forschung/ags/ag-fernerkundung/staff-2016/prof.-dr.-olena-dubovyk)**: Remote sensing of land surface dynamics, land degradation and drought monitoring & assessment, Use of Earth observation and Geo-information for policy support, international cooperation support, and disaster risk reduction.
+- **[Olena Dubovyk](https://www.geographie.uni-bonn.de/forschung/ags/ag-fernerkundung/staff-2016/prof.-dr.-olena-dubovyk)**: Remote sensing of land surface dynamics, land degradation and drought monitoring & assessment, Use of Earth observation and Geo-information for policy support, international cooperation support, and disaster risk reduction.
 
 ### 波茨坦大学
 **Universität Potsdam (Uni-Potsdam)**
@@ -2224,7 +2224,7 @@ GIS相关系所：[环境科学与地理研究所](https://www.uni-potsdam.de/en
 波茨坦大学环境科学与地理研究所在人文地理，景观，自然灾害，水文气候等方面有广泛的研究基础。GIS相关研究主要由Prof. Dr. Manfred Rolfes牵头。此外，波茨坦大学地质研究所开设了Remote Sensing, geoInformation and Visualization两年期硕士项目，英语授课，重点教授遥感影像和地理信息的处理、分析与可视化相关技术课程。
 
 相关导师：
-- **[Prof. Dr. Manfred Rolfes](https://www.uni-potsdam.de/en/umwelt/institut/alle-mitarbeiterinnen/rolfes-manfred)**: Urban Studies, (In-)security, risk and space, Tourist space semantics and tourism spaces.
+- **[Manfred Rolfes](https://www.uni-potsdam.de/en/umwelt/institut/alle-mitarbeiterinnen/rolfes-manfred)**: Urban Studies, (In-)security, risk and space, Tourist space semantics and tourism spaces.
 
 ### 海德堡大学
 **Universität Heidelberg (Uni-Heidelberg)**
@@ -2262,8 +2262,8 @@ GIS相关系所：[地理所](https://www.geographie.uni-jena.de/en)
 耶拿大学地理所中的GIS研究主要集中在GIScience Group，偏重于地理信息系统与环境模型的结合和开发应用，包括环境统计与地学计算，环境建模软件与数据管理，生态水文模拟，以及地表过程监测。在经济地理学方面，也有一个团队着重个体与公司的空间移动性与连通性研究。在硕士培养方面，耶拿大学开设了[两年制地理信息学硕士](https://www.geo.uni-hamburg.de/en/geographie/studium/studiengaenge/master.html)（德语授课），重点介绍地理信息学和遥感领域的内容，并侧重于其在景观系统与土地空间异质性方面的分析应用。
 
 相关导师：
-- **[Prof. Dr. Alexander Brenning](https://www.geographie.uni-jena.de/en/Brenning)**: Computational statistics and machine learning for geographical research, Applied spatial modeling, Cryosphere of the Andes;
-- **[Prof. Dr. Sebastian Henn](https://www.geographie.uni-jena.de/Henn)**: Mobilities & Connectivities, Regional Dynamics & Spatial Management, Actor-centered Methodologies and Research Frameworks.
+- **[Alexander Brenning](https://www.geographie.uni-jena.de/en/Brenning)**: Computational statistics and machine learning for geographical research, Applied spatial modeling, Cryosphere of the Andes;
+- **[Sebastian Henn](https://www.geographie.uni-jena.de/Henn)**: Mobilities & Connectivities, Regional Dynamics & Spatial Management, Actor-centered Methodologies and Research Frameworks.
 
 ### 乌特勒支大学
 **Utrecht University (UU)**
@@ -2337,7 +2337,7 @@ ITC学院目前硕士项目主要包括以下5个，均为研究型硕士。
 - Geographic Information Science and Earth Observation for environmental modeling and natural resource management（2年制，英文授课），在线课程。
 - Geogrphical Inforamtion management and application（2年制，英文授课）。
 
-ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。因此套磁导师时可以先从daily supervisor进行。
+ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。
 
 相关导师：
 - **[Alfred Stein](https://research.utwente.nl/en/persons/alfred-stein)**: Spatial (and temporal) statistics, General statistics, Fuzzy techniques and quality of spatial data, Bayesian networks, image fusion;
@@ -2787,18 +2787,18 @@ GIS相关系所：[地理系](https://www.maynoothuniversity.ie/geography)、[�
 梅努斯大学历史悠久，是爱尔兰四大国立大学之一，计算机科学、地理学等在国际上具有重要影响力。梅努斯大学地理系是欧洲最大的地理系之一，研究范围涵盖人文地理，自然地理，经济地理，景观学，健康地理，GIS与遥感等。爱尔兰国家地学计算中心由地理加权回归模型的作者Stewart Fotheringham成立，模型的合作开发者目前均在该中心任职。该中心重点研究空间数据的获取、存储、分析和可视化，具体方向包括地理加权回归模型，健康地理信息学，城市分析，卫星测探，道路基础设施监测，激光与无人机数据分析应用等。
 
 相关导师：
-- **[Prof Chris Brunsdon](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/chris-brunsdon)**: GIS, geographically weighted regression, spatial analysis, geocomputation, human geography;
-- **[Dr Martin Charlton](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/martin-charlton)**: geographically weighted regression, spatial statistics, GIS, environment;
-- **[Dr Tim McCarthy](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/tim-mccarthy)**: geospatial analysis & modelling, earth observation, autonomous technologies including unmanned aircraft systems (UAS) - drones, web & mobile geospatial information services, spatial decision support (Cloud-based) platforms;
-- **[Dr Rowan Fealy](https://www.maynoothuniversity.ie/geography/our-people/rowan-fealy)**:	physical climatology, climate change, climate modelling and uncertainty;
-- **[Dr Ronan Foley](https://www.maynoothuniversity.ie/geography/our-people/ronan-foley)**:	health geographies, GIS, therapeutic landscapes, cultural geographies;
-- **[Prof Mary Gilmartin](https://www.maynoothuniversity.ie/geography/our-people/mary-gilmartin)**:	migration, political, social and cultural geography;
-- **[Dr Adrian Kavanagh](https://www.maynoothuniversity.ie/geography/our-people/adrian-kavanagh)**:	electoral geography (geographies of candidate selections, voter turnout and political support), geographical perspectives on the Eurovision song contest;
-- **[Prof Gerry Kearns](https://www.maynoothuniversity.ie/geography/our-people/gerry-kearns)**:	public geographies, geopolitics, cultural geography, historical geographies;
-- **[Dr Conor Murphy](https://www.maynoothuniversity.ie/geography/our-people/conor-murphy)**:	climate change, hydro-climatology, adaptation, resilience;
-- **[Dr Lisa Orme](https://www.maynoothuniversity.ie/geography/our-people/lisa-orme)**:	palaeoclimatology;
-- **[Prof Jan Rigby](https://www.maynoothuniversity.ie/geography/our-people/jan-rigby)**:	geographies of health, poverty, GIS;
-- **[Dr Helen Shaw](https://www.maynoothuniversity.ie/geography/our-people/helen-shaw)**:	biogeography;
-- **[Prof Peter Thorne](https://www.maynoothuniversity.ie/geography/our-people/peter-thorne)**:	climate science;
-- **[Prof Karen Till](https://www.maynoothuniversity.ie/geography/our-people/karen-till)**:	memory politics, urban design and planning, art and geography;
-- **[Dr Chris van Egeraat](https://www.maynoothuniversity.ie/geography/our-people/chris-van-egeraat)**:	economic and regional geographies.
+- **[Chris Brunsdon](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/chris-brunsdon)**: GIS, geographically weighted regression, spatial analysis, geocomputation, human geography;
+- **[Martin Charlton](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/martin-charlton)**: geographically weighted regression, spatial statistics, GIS, environment;
+- **[Tim McCarthy](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/tim-mccarthy)**: geospatial analysis & modelling, earth observation, autonomous technologies including unmanned aircraft systems (UAS) - drones, web & mobile geospatial information services, spatial decision support (Cloud-based) platforms;
+- **[Rowan Fealy](https://www.maynoothuniversity.ie/geography/our-people/rowan-fealy)**:	physical climatology, climate change, climate modelling and uncertainty;
+- **[Ronan Foley](https://www.maynoothuniversity.ie/geography/our-people/ronan-foley)**:	health geographies, GIS, therapeutic landscapes, cultural geographies;
+- **[Mary Gilmartin](https://www.maynoothuniversity.ie/geography/our-people/mary-gilmartin)**:	migration, political, social and cultural geography;
+- **[Adrian Kavanagh](https://www.maynoothuniversity.ie/geography/our-people/adrian-kavanagh)**:	electoral geography (geographies of candidate selections, voter turnout and political support), geographical perspectives on the Eurovision song contest;
+- **[Gerry Kearns](https://www.maynoothuniversity.ie/geography/our-people/gerry-kearns)**:	public geographies, geopolitics, cultural geography, historical geographies;
+- **[Conor Murphy](https://www.maynoothuniversity.ie/geography/our-people/conor-murphy)**:	climate change, hydro-climatology, adaptation, resilience;
+- **[Lisa Orme](https://www.maynoothuniversity.ie/geography/our-people/lisa-orme)**:	palaeoclimatology;
+- **[Jan Rigby](https://www.maynoothuniversity.ie/geography/our-people/jan-rigby)**:	geographies of health, poverty, GIS;
+- **[Helen Shaw](https://www.maynoothuniversity.ie/geography/our-people/helen-shaw)**:	biogeography;
+- **[Peter Thorne](https://www.maynoothuniversity.ie/geography/our-people/peter-thorne)**:	climate science;
+- **[Karen Till](https://www.maynoothuniversity.ie/geography/our-people/karen-till)**:	memory politics, urban design and planning, art and geography;
+- **[Chris van Egeraat](https://www.maynoothuniversity.ie/geography/our-people/chris-van-egeraat)**:	economic and regional geographies.
