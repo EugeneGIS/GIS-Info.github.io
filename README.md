@@ -78,7 +78,7 @@
 - [德克萨斯农工大学 (TAMU)](#德克萨斯农工大学)
 - [德克萨斯大学奥斯汀分校 (UT Austin)](#德克萨斯大学奥斯汀分校)
 - [德克萨斯大学达拉斯分校 (UT Dallas)](#德克萨斯大学达拉斯分校)
-- [德克萨斯州立大学 (TXST)](#德克萨斯州立大学)
+- [德克萨斯州立大学 (Texas State)](#德克萨斯州立大学)
 - [新墨西哥大学 (UNM)](#新墨西哥大学)
 - [明尼苏达大学双城分校 (UMN)](#明尼苏达大学双城分校)
 - [爱达荷大学 (Idaho)](#爱达荷大学)
@@ -138,6 +138,7 @@
 - [曼彻斯特大学 (Manchester)](#曼彻斯特大学)
 - [格拉斯哥大学 (Glasgow)](#格拉斯哥大学)
 - [爱丁堡大学 (Edinburgh)](#爱丁堡大学)
+- [纽卡斯尔大学 (Newcastle)](#纽卡斯尔大学)
 - [谢菲尔德大学 (Sheffield)](#谢菲尔德大学)
 
 #### 德国
@@ -146,7 +147,7 @@
 - [哥廷根大学 (Uni-Goettingen)](#哥廷根大学)
 - [奥格斯堡大学 (Uni-Augsburg)](#奥格斯堡大学)
 - [弗莱堡大学 (Uni-Freiburg)](#弗莱堡大学)
-- [德累斯顿工业大学 (TUD)](#德累斯顿工业大学)
+- [德累斯顿工业大学 (TU Dresden)](#德累斯顿工业大学)
 - [慕尼黑大学 (LMU)](#慕尼黑大学)
 - [慕尼黑工业大学 (TUM)](#慕尼黑工业大学)
 - [斯图加特大学 (Uni-Stuttgart)](#斯图加特大学)
@@ -343,7 +344,7 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 - **[Lan Mu](https://geography.uga.edu/directory/people/lan-mu)**: GIScience for health and the environment, location-based social media data, cartography, computational geometry;
 - **[Jerry Shannon](http://jerry.shannons.us/)**: urban development and inequality, geographic information systems, political geography, and place effects on health;
 - **[Marguerite Madden](http://cgr.uga.edu/index.html)**: GIScience and landscape ecology, including remote sensing, geographic information systems (GIS), spatio-temporal analysis, geovisualization and geographic object-based image analysis, as applied to landscape-scale biological/physical processes and human-impacts on the environment;
-- **[deepak Mishra](https://geography.uga.edu/directory/people/deepak-r-mishra)**: combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
+- **[Deepak Mishra](https://geography.uga.edu/directory/people/deepak-r-mishra)**: combining field-based remote sensing (spectroscopy) with the traditional satellite remote sensing to model and map various water quality and vegetation biophysical characteristics of the coastal environments;
 - **[Andrew Grundstein](https://geography.uga.edu/directory/people/andrew-j-grundstein)**: applied climatology, climate and human health, hydroclimatology.
 
 ### 佐治亚理工学院
@@ -738,11 +739,11 @@ GIS相关系所：[地理和城市系](https://www.cla.temple.edu/geography-and-
 天普大学坐落于美国东部名城费城。这是一座充满人文气息的城市位于纽约和华盛顿之间，距离两个城市一个小时车程。天普大学的地理城市系聚集着城市研究、地理信息、遥感、生态可持续发展等方面的研究学者。该系目前有两个GIS的硕士项目，GIS和空间数据科学，博士项目是地理和城市研究。位于费城都市圈，濒临纽约和华盛顿，为学生提供了更多的实习就业机会。其GIS项目主要包含Geovisualization, GIS Programming, geospatial big data analysis等课程。
 相关导师：
 
-- **[Xiaojiang Li](http://www.urbanspatial.info/)**: Spatial Data Science, Urban Analytics for Sustainability, Urban Science, urban computing based on Google Street View;
-- **[Jeremy Mennis](https://liberalarts.temple.edu/academics/faculty/mennis-jeremy)**: 目前UCGIS的主席，GIS, Public Health, Environmental Science;
-- **[Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**: GIS, Remote Sensing, Land use/Land cover change;
-- **[Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: GIS, Urban Sustainability, Social justice;
-- **[Kevin A. Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: Geography and Urban Studies, Public Health, GIS.
+- **[Xiaojiang Li](http://www.urbanspatial.info/)**: spatial data science, urban analytics for sustainability, urban science, urban computing based on Google street view;
+- **[Jeremy Mennis](https://liberalarts.temple.edu/academics/faculty/mennis-jeremy)**: GIS, public health, environmental science;
+- **[Victor Hugo Gutierrez-Velez](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)**: GIS, remote sensing, land use/land cover change;
+- **[Hamil Pearsall](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: GIS, urban sustainability, social justice;
+- **[Kevin A. Henry](https://liberalarts.temple.edu/academics/faculty/henry-kevin)**: geography and urban studies, public health, GIS.
 
 ### 奥本大学
 
@@ -968,7 +969,7 @@ UT Dallas的GIS专业是美国老牌强势专业，研究水平处于全美前�
 
 ### 德克萨斯州立大学
 
-**Texas State University (TXST)**
+**Texas State University (Texas State)**
 
 美国，德克萨斯州，圣马科斯市
 
@@ -983,7 +984,9 @@ GIS 相关系所：[地理系](https://www.geo.txstate.edu/)
 - **[Nate Currit](https://www.geo.txstate.edu/people/faculty/nate-currit.html)**: remote sensing, land cover change, human-environment systems;
 - **[Alexander (Sasha) Savelyev](https://www.geo.txstate.edu/people/faculty/alexander--Sasha--savelyev.html)**: geovisualization, geovisual analytics, cartography;
 - **[Alberto Giordano](https://www.geo.txstate.edu/people/faculty/albertogiordano.html)**: spatial humanities, cartography, historical GIS, spatial forensic anthropology;
-- **[Jennifer Jensen](https://www.geo.txstate.edu/people/faculty/jennifer-jensen.html)**: lidar, remote sensing, biogeography, land use/land cover change;
+- **[Jennifer Jensen](https://www.geo.txstate.edu/people/faculty/jennifer-jensen.html)**: LiDAR, remote sensing, biogeography, land use/land cover change;
+- **[Yihong Yuan](https://www.geo.txstate.edu/people/faculty/yihong-yuan.html)**: GIScience, spatio-temporal data mining, big geo-data analytics, human mobility modeling, urban computing;
+- **[Alberto Giordano](https://www.geo.txstate.edu/people/faculty/albertogiordano.html)**: historical GIS, holocaust and genocide geography, policy applications of GIScience, spatial applications of forensic anthropology;
 - **[F. Benjamin Zhan](https://www.geo.txstate.edu/people/faculty/benjamin-zhan.html)**: health/medical geography, GIScience, spatial data science, transportation, hazards reduction, China.
 
 ### 新墨西哥大学
@@ -1002,7 +1005,7 @@ GIS所涉及的研究领域包括geospatial data science, cartography, geovisual
 - **[Scott M. Freundschuh](http://www.unm.edu/~sfreunds/Home.html)**: Giscience, spatial cognition, spatial information design, cartography;
 - **[Xi Gong](https://xigong.wordpress.com/)**: spatiotemporal data mining, big data science & analytics, machine learning, health & The environment, GIS-based modeling;
 - **[Yan Lin](https://yanlingeo.wordpress.com/)**: Giscience, spatial data analysis, WebGIS, health & medial Geography, spatial epidemiology, health disparities;
-- **[Caitlin Lippitt]**: remote sensing of vegetation, fire ecology, biogeography, invasive species;
+- **Caitlin Lippitt**: remote sensing of vegetation, fire ecology, biogeography, invasive species;
 - **[Chris Lippitt](http://gem.unm.edu/)**: remote sensing, GIScience, time-sensitive geographic information;
 - **Bo Romero**: GIScience, spatial analysis, geoprocessing, geographical uncertainty, representation, and visualization;
 - **[Liping Yang](https://lipingyang.org/ylpCV.html)**: GIScience, GeoAI, visual (image & text) big data analytics, geovisualization, Indoor Navigation;
@@ -1073,16 +1076,16 @@ GIS相关系所：[地理系](https://geog.utah.edu/)
 地理信息科学是犹他大学地理系的重点科研方向，并有用遥感科技研究山地冰川的特色项目。该系开办MS、MSGIS和PhD等学位。MS是两年制研究型的硕士，PhD是4年制研究型博士，这两种学位的录取者可以获得奖学金。MSGIS是两年制授课型硕士学位，不能申请奖学金，但不需要GRE成绩。
 
 相关导师：
-- **[MEMG WAMG](https://faculty.utah.edu/u0982452-Neng_Wan/research/index.hml)**: GIS, health, environment;
+- **[Memg Wamg](https://faculty.utah.edu/u0982452-Neng_Wan/research/index.hml)**: GIS, health, environment;
 - **[SIMON BREWER
 ](https://faculty.utah.edu/u0784726-SIMON_C._BREWER/research/index.hml)**: spatial modeling, data mining, environment, climate;
-- **[TOM COVA](https://faculty.utah.edu/u0085652-THOMAS_J_COVA/hm/index.hml)**: GIS, transportation, hazard;
-- **[PHILIP DENNISON](https://ursa.utah.edu/dennison.php)**: remote sensing, LiDAR;
-- **[ALEXANDER HOHL](https://faculty.utah.edu/u6025895-Alexander_Hohl/hm/index.hml)**: spatiotemporal analysis, spatial data science, machine learning;
-- **[RICHARD (RICK) FORSTER](https://faculty.utah.edu/u0085651-RICHARD_R_FORSTER,_PHD/research/index.hml)**: remote sensing, cryosphere, glaciers;
-- **[SUMMER B. RUPPER](https://faculty.utah.edu/u6002212-Summer_Burton_Rupper/research/index.hml)**: remote sensing, environment, glaciers, geomorphology;
-- **[RICHARD MEDINA](https://faculty.utah.edu/u0477925-RICHARD_MATTHEW_MEDINA/research/index.hml)**: GIS, spatial analysis, social geography, complex social space;
-- **[MCKENZIE SKILES](https://faculty.utah.edu/u0458147-SARA_MCKENZIE_SKILES/research/index.hml)**: remote sensing, glacier, cryosphere, snow.
+- **[Tom Cova](https://faculty.utah.edu/u0085652-THOMAS_J_COVA/hm/index.hml)**: GIS, transportation, hazard;
+- **[Philip Dennison](https://ursa.utah.edu/dennison.php)**: remote sensing, LiDAR;
+- **[Alexander Hohl](https://faculty.utah.edu/u6025895-Alexander_Hohl/hm/index.hml)**: spatiotemporal analysis, spatial data science, machine learning;
+- **[Richard (Rick) Forster](https://faculty.utah.edu/u0085651-RICHARD_R_FORSTER,_PHD/research/index.hml)**: remote sensing, cryosphere, glaciers;
+- **[Summer B. Rupper](https://faculty.utah.edu/u6002212-Summer_Burton_Rupper/research/index.hml)**: remote sensing, environment, glaciers, geomorphology;
+- **[Richard Medina](https://faculty.utah.edu/u0477925-RICHARD_MATTHEW_MEDINA/research/index.hml)**: GIS, spatial analysis, social geography, complex social space;
+- **[Mckenzie Skiles](https://faculty.utah.edu/u0458147-SARA_MCKENZIE_SKILES/research/index.hml)**: remote sensing, glacier, cryosphere, snow.
 
 ### 田纳西大学
 
@@ -1133,7 +1136,7 @@ GIS相关系所：[大学直属的跨学科项目](https://gis.mines.edu/)
 
 相关导师：
 - **[Wendy Zhou](https://inside.mines.edu/~wzhou/)**: GIS applications in natural resource management, remote sensing, SAR, hazards, environment, numerical methods;
-- **[H. SEBNEM DUZGUN](https://mining.mines.edu/project/duzgun-h-sebnem/)**: geoinformatics, VR and gaming in earth science, mine environment monitoring;
+- **[H. Sebnem Duzgun](https://mining.mines.edu/project/duzgun-h-sebnem/)**: geoinformatics, VR and gaming in earth science, mine environment monitoring;
 - **[Terri Hogue](https://cee.mines.edu/project/hogue-terri/)**: remote sensing, hydrology, urbanization, civil engineering.
 
 ### 纽约城市大学研究生中心
@@ -1148,27 +1151,27 @@ GIS相关系所：[地球和环境科学系](https://www.gc.cuny.edu/Page-Elemen
 相关导师：
 
 研究生中心：
-- **[SUNIL BHASKARAN](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Sunil-Bhaskaran)**: GIS, remote sensing, mapping;
-- **[JOHN E. SELEY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/John-E-Seley)**: GIS, urban studies, energy;
+- **[Sunil bhaskaran](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Sunil-Bhaskaran)**: GIS, remote sensing, mapping;
+- **[John E. Seley](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/John-E-Seley)**: GIS, urban studies, energy;
 
 亨特分校：
-- **[HONGMIAN GONG](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Hongmian-Gong)**: GIS, transportation, urban geography;
-- **[SEAN C. AHEARN](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Sean-C-Ahearn)**: environmental remote sensing, LiDAR, agent-based models, spatial-temporal models, digital image analysis, ecological modeling;
-- **[MARIANNA E. PAVLOVSKAYA](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Marianna-E-Pavlovskaya)**: GIS, critical GIS, social theory, urban;
+- **[Hongmian Gong](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Hongmian-Gong)**: GIS, transportation, urban geography;
+- **[Sean C. Ahearn](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Sean-C-Ahearn)**: environmental remote sensing, LiDAR, agent-based models, spatial-temporal models, digital image analysis, ecological modeling;
+- **[Marianna E. PaVLOVSKAYA](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Marianna-E-Pavlovskaya)**: GIS, critical GIS, social theory, urban;
 
 莱曼分校：
-- **[YURI GOROKHOVICH](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Yuri-Gorokhovich)**: GIS, hydrology, geomorphology, natural hazards, geology;
-- **[JULIANA MAANTAY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Juliana-Maantay)**: geospatial analysis, urban studies, health, environment;
-- **[ELIA MACHADO](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Elia-Machado)**: GIS, remote sensing, spatial analysis, environment change, vulnerability;
+- **[Yuri GorokhoviCH](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Yuri-Gorokhovich)**: GIS, hydrology, geomorphology, natural hazards, geology;
+- **[Juliana MaantaY](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Juliana-Maantay)**: geospatial analysis, urban studies, health, environment;
+- **[Elia Machado](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Elia-Machado)**: GIS, remote sensing, spatial analysis, environment change, vulnerability;
 
 斯塔滕岛分校：
-- **[NERVE MACASPAC](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Nerve-V-Macaspac)**: spatial ethnography, critical GIS, digital geography;
+- **[Nerve Macaspac](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Nerve-V-Macaspac)**: spatial ethnography, critical GIS, digital geography;
 
 纽约城市大学理工学院：
-- **[HAMIDREZA NOROUZI](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Hamidreza-Norouzi)**: remote sensing, hydrology, climate, earth system science, environmental studies;
+- **[Hamidreza Norouzi](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Hamidreza-Norouzi)**: remote sensing, hydrology, climate, earth system science, environmental studies;
 
 布鲁克林分校：
-- **[REBECCA BOGER](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Rebecca-Boger)**: GIS, water resource.
+- **[Rebecca Boger](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences/Faculty-Bios/Rebecca-Boger)**: GIS, water resource.
 
 
 ### 纽约州立大学奥尔巴尼分校  
@@ -1646,7 +1649,7 @@ GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/in
 - **[Mei-Po Kwan](http://meipokwan.org/Index.html)**: environmental health, human mobility, healthy cities, social justice, and GIScience;
 - **[Bo Huang](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HuangBo.html)**: spatio-temporal data analytics, GIS for sustainable urban/transportation/land use planning, unified image fusion for sustainable urban environment, spatial statistics for land use change modeling, multi-objective optimization for spatial planning with consideration of vulnerability and resilience;
 - **[Jianfa Shen](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_ShenJF.html)**: urbanization and migration analysis, spatial population modeling, inter-city competition and cooperation, urban and regional development, pearl river delta and China;
-- **[Tung FUNG](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_FungTung.html)**: digital image analysis, spatial modeling, land cover change detection;
+- **[Tung Fung](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_FungTung.html)**: digital image analysis, spatial modeling, land cover change detection;
 - **[Ying He](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HeSylvia.html)**: transportation, planning and policy, travel behavior, activity-based modeling, GIS/spatial analysis, urban and regional economics.
 
 ### 香港大学
@@ -1740,12 +1743,28 @@ GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 
 相关导师：  
 
-- **[FENG, CHEN-CHIEH](https://eminence365.wordpress.com/)**: spatial data modeling and spatial information theory; Cyberinfrastructure; GIS and education;   
+- **[FENG, Chen-Chieh](https://eminence365.wordpress.com/)**: spatial data modeling and spatial information theory; Cyberinfrastructure; GIS and education;   
 - **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: spatial big data analytics, citizen GIScience, volunteered geographic information;
 - **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology.
 
 ### 墨尔本大学
-TBA
+**University of Melbourne (UMelbourne)**
+澳大利亚，维多利亚州，墨尔本市
+
+GIS相关系所：[Department of Infrastructure Engineering](https://infrastructure.eng.unimelb.edu.au/research/geomatics/), Geomatics方向
+
+墨尔本大学是澳大利亚顶尖学府，也是世界知名院校，坐落于环境优美气氛文艺的墨尔本市中心。该校的基础设施工程系下属地理信息科学方向，有8位教职，其中两位教授和两位高级讲师。该系GIS方向偏工程和计算，强于软硬件结合的室内导航、空间认知、交通模拟等。其中Stephan Winter教授和Abbas Rajabifard教授均为国际研究领域享有较高知名度的学者。
+
+相关导师:
+- **[Prof Stephan Winter](https://people.eng.unimelb.edu.au/winter/)**: urban analytics, smart transport, human orientation, wayfinding and navigation, evacuation, information sharing, volunteered geographic information, shared mobility;
+- **[Prof Abbas Rajabifard](https://findanexpert.unimelb.edu.au/profile/6142-abbas-rajabifard)**: design and development, land administration, marine SDI, capacity development, life sciences and biomedicine, science and technology;
+- **[A/Prof Mohsen Kalantari Soltanieh](https://findanexpert.unimelb.edu.au/profile/99751-mohsen-kalantari-soltanieh)**: construction surveying, land administration, spatial data infrastructure, geospatial standards, building information modeling, 3D cadaster, laser scanning, digital twin;
+- **[Dr Martin Tomko](https://findanexpert.unimelb.edu.au/profile/64610-martin-tomko)**: annotation, spatial communication, mobility analytics, spatial databases, autonomous data cleaning and integration, search and retrieval, spatial data quality, retail analytics;
+- **[Dr Kourosh Khoshelham](https://findanexpert.unimelb.edu.au/profile/710868-kourosh-khoshelham)**: photogrammetry, building information modeling, pattern recognition and machine learning, mobile mapping, indoor location based service, laser scanning- lidar, remote sensing, science and technology;
+- **[Dr Amir Khodabandeh](https://findanexpert.unimelb.edu.au/profile/827368-amir-khodabandeh)**: estimation theory, GNSS, navigation, earth observation, geodesy, Interferometric positioning, surveying, quality control, PPP-RTK ;
+- **[Dr Jagannath Aryal](https://findanexpert.unimelb.edu.au/profile/865150-jagannath-aryal)**: urban analytics, modern land administration, systems modeling, earth observation, spatial statistics, GEOBIA, physical sciences;
+- **[Dr Davood Shojaei](https://findanexpert.unimelb.edu.au/profile/427419-davood-shojaei)**: 3D cadaster, environmental sciences and ecology, environmental studies, eplan, remote sensing, life sciences and biomedicine, science and technology.
+
 
 ### 阿德莱德大学
 
@@ -1950,6 +1969,9 @@ Msc of GIS不严格卡本科相关专业背景。其中GIS硕士项目必修课�
 - **[William Mackaness](https://www.ed.ac.uk/geosciences/people?person=12)**: UGC, VGI;
 - **[Zhiqiang Feng](https://www.research.ed.ac.uk/portal/en/persons/zhiqiang-feng.html)**: health geography, population geography, spatial analysis.
 
+### 纽卡斯尔大学
+**Newcastle**
+
 ### 谢菲尔德大学
 **The University of Sheffield**
 
@@ -2033,7 +2055,7 @@ GIS相关系所：[地理所](https://geographie.uni-freiburg.de/en/geographie-n
 - **[Prof. Dr. Tim Freytag](https://geographie.uni-freiburg.de/en/professorships/human-geography/team-contact-details/freytag-tim)**: Tourism and mobility studies (in particular, European urban tourism), Urban studies and sustainable urban development,Social geography and geography of education.
 
 ### 德累斯顿工业大学
-**Technische Universität Dresden (TUD)**
+**Technische Universität Dresden (TU Dresden)**
 
 德国，萨克森州，德累斯顿市
 
@@ -2609,7 +2631,7 @@ GIS相关系所：[建筑环境系]( https://www.aalto.fi/en/department-of-built
 - **[Martin Vermeer](https://people.aalto.fi/martin.vermeer)**: satellite positioning, geodesy, coordinate reference systems, geodynamics, photogrammetry, navigation technologies;
 - **[Miina Rautiainen](https://people.aalto.fi/miina.a.rautiainen)**: Earth observation, remote sensing, albedo, global satellite products, forests and vegetation;
 - **[Matti Vaaja](https://people.aalto.fi/matti.t.vaaja)**: laser scanning, mobile mapping, change detection, 3D-models;
-- **[Henrikki Tenkanen](https://people.aalto.fi/henrikki.tenkanen**: GIS, multimodal spatio-temporal accessibility modelling, mobility analytics, dynamic accessibility patterns;
+- **[Henrikki Tenkanen](https://people.aalto.fi/henrikki.tenkanen)**: GIS, multimodal spatio-temporal accessibility modelling, mobility analytics, dynamic accessibility patterns;
 
 ### 哥本哈根大学
 **University of Copenhagen (KU)**
@@ -2652,7 +2674,7 @@ GIS相关系所：[制图与地理信息工作小组](https://geographie.univie.
 相关导师：
 - **[Wolfgang Kainz](https://homepage.univie.ac.at/Wolfgang.Kainz/)**: the theoretical issues of GIS, spatiotemporal modeling, uncertainty, and topology, spatial relationships;
 - **[Karel Kriz](https://homepage.univie.ac.at/karel.kriz/)**: cartographic design, Web-based cartography, GIScience and thematic aspects of mountain cartography;
-- **[Andreas RIEDL](https://homepage.univie.ac.at/andreas.riedl/)**: multimedia technologies in geocommunication, GIS and applied geographic information (GI),  Animation in geovisualization, virtual reality & Hyperglobes (digital / interactive globes).
+- **[Andreas Riedl](https://homepage.univie.ac.at/andreas.riedl/)**: multimedia technologies in geocommunication, GIS and applied geographic information (GI),  Animation in geovisualization, virtual reality & Hyperglobes (digital / interactive globes).
 
 ### 维也纳工业大学
 **Vienna University of technology (TU Wien)**
@@ -2765,16 +2787,16 @@ GIS相关系所：[地理系](https://www.maynoothuniversity.ie/geography)、[�
 相关导师：
 - **[Prof Chris Brunsdon](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/chris-brunsdon)**: GIS, geographically weighted regression, spatial analysis, geocomputation, human geography;
 - **[Dr Martin Charlton](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/martin-charlton)**: geographically weighted regression, spatial statistics, GIS, environment;
-- **[Dr Tim McCarthy](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/tim-mccarthy)**: Geospatial Analysis & Modelling, Earth Observation, Autonomous Technologies including Unmanned Aircraft Systems (UAS) - Drones, Web & Mobile Geospatial Information Services, Spatial Decision Support (Cloud-based) Platforms;
-- **[Dr Rowan Fealy](https://www.maynoothuniversity.ie/geography/our-people/rowan-fealy)**:	Physical Climatology, Climate Change, Climate Modelling and Uncertainty;
-- **[Dr Ronan Foley](https://www.maynoothuniversity.ie/geography/our-people/ronan-foley)**:	Health Geographies, GIS, Therapeutic Landscapes, Cultural Geographies;
-- **[Prof Mary Gilmartin](https://www.maynoothuniversity.ie/geography/our-people/mary-gilmartin)**:	Migration, Political, Social and Cultural Geography;
-- **[Dr Adrian Kavanagh](https://www.maynoothuniversity.ie/geography/our-people/adrian-kavanagh)**:	Electoral Geography (geographies of candidate selections, voter turnout and political support), Geographical perspectives on the Eurovision Song Contest;
-- **[Prof Gerry Kearns](https://www.maynoothuniversity.ie/geography/our-people/gerry-kearns)**:	Public Geographies, Geopolitics, Cultural Geography, Historical Geographies;
-- **[Dr Conor Murphy](https://www.maynoothuniversity.ie/geography/our-people/conor-murphy)**:	Climate Change, Hydro-Climatology, Adaptation, Resilience;
-- **[Dr Lisa Orme](https://www.maynoothuniversity.ie/geography/our-people/lisa-orme)**:	Palaeoclimatology;
-- **[Prof Jan Rigby](https://www.maynoothuniversity.ie/geography/our-people/jan-rigby)**:	Geographies of health, Poverty, GIS;
-- **[Dr Helen Shaw](https://www.maynoothuniversity.ie/geography/our-people/helen-shaw)**:	Biogeography;
-- **[Prof Peter Thorne](https://www.maynoothuniversity.ie/geography/our-people/peter-thorne)**:	Climate Science;
-- **[Prof Karen Till](https://www.maynoothuniversity.ie/geography/our-people/karen-till)**:	Memory politics, Urban Design and Planning, Art and Geography;
-- **[Dr Chris van Egeraat](https://www.maynoothuniversity.ie/geography/our-people/chris-van-egeraat)**:	Economic and Regional Geographies.
+- **[Dr Tim McCarthy](https://www.maynoothuniversity.ie/national-centre-geocomputation-ncg/our-people/tim-mccarthy)**: geospatial analysis & modelling, earth observation, autonomous technologies including unmanned aircraft systems (UAS) - drones, web & mobile geospatial information services, spatial decision support (Cloud-based) platforms;
+- **[Dr Rowan Fealy](https://www.maynoothuniversity.ie/geography/our-people/rowan-fealy)**:	physical climatology, climate change, climate modelling and uncertainty;
+- **[Dr Ronan Foley](https://www.maynoothuniversity.ie/geography/our-people/ronan-foley)**:	health geographies, GIS, therapeutic landscapes, cultural geographies;
+- **[Prof Mary Gilmartin](https://www.maynoothuniversity.ie/geography/our-people/mary-gilmartin)**:	migration, political, social and cultural geography;
+- **[Dr Adrian Kavanagh](https://www.maynoothuniversity.ie/geography/our-people/adrian-kavanagh)**:	electoral geography (geographies of candidate selections, voter turnout and political support), geographical perspectives on the Eurovision song contest;
+- **[Prof Gerry Kearns](https://www.maynoothuniversity.ie/geography/our-people/gerry-kearns)**:	public geographies, geopolitics, cultural geography, historical geographies;
+- **[Dr Conor Murphy](https://www.maynoothuniversity.ie/geography/our-people/conor-murphy)**:	climate change, hydro-climatology, adaptation, resilience;
+- **[Dr Lisa Orme](https://www.maynoothuniversity.ie/geography/our-people/lisa-orme)**:	palaeoclimatology;
+- **[Prof Jan Rigby](https://www.maynoothuniversity.ie/geography/our-people/jan-rigby)**:	geographies of health, poverty, GIS;
+- **[Dr Helen Shaw](https://www.maynoothuniversity.ie/geography/our-people/helen-shaw)**:	biogeography;
+- **[Prof Peter Thorne](https://www.maynoothuniversity.ie/geography/our-people/peter-thorne)**:	climate science;
+- **[Prof Karen Till](https://www.maynoothuniversity.ie/geography/our-people/karen-till)**:	memory politics, urban design and planning, art and geography;
+- **[Dr Chris van Egeraat](https://www.maynoothuniversity.ie/geography/our-people/chris-van-egeraat)**:	economic and regional geographies.
