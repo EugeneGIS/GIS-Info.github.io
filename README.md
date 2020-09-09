@@ -1900,6 +1900,7 @@ GIS相关系所：[地理与环境系](https://www.southampton.ac.uk/geography/i
 
 ### 曼彻斯特大学
 **The University of Manchester (UoM)**
+
 英国，曼彻斯特市
 
 GIS相关系所：[环境，教育与发展学院](https://www.seed.manchester.ac.uk/geography/)
