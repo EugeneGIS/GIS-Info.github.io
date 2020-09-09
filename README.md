@@ -1926,13 +1926,13 @@ GIS相关系所：[地理与地球科学学院](https://www.gla.ac.uk/schools/ge
 
 相关导师：
 
-- **[Prof. Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/)**: housing and neighborhood, administrative big data;
-- **[Dr. David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/)**: transportation, econometrics;
-- **[Dr. Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/)**: transportation planning, active travel;
-- **[Dr. Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science;
-- **[Dr. Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/)**: remote sensing, terrestrial environment;
-- **[Prof. Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/)**: geospatial data science, navigation, GPS;
-- **[Dr. David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/)**: cartography, GIS.
+- **[Nick Bailey]( https://www.gla.ac.uk/schools/socialpolitical/staff/nickbailey/)**: housing and neighborhood, administrative big data;
+- **[David McArthur]( https://www.gla.ac.uk/schools/socialpolitical/staff/davidmcarthur/)**: transportation, econometrics;
+- **[Jinhyun Hong]( https://www.gla.ac.uk/schools/socialpolitical/staff/jinhyunhong/)**: transportation planning, active travel;
+- **[Qunshan Zhao]( https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)**: GIScience, remote sensing, spatial analysis, location modeling and analysis, urban analytics, urban data science;
+- **[Brian Barrett]( https://www.gla.ac.uk/schools/ges/staff/brianbarrett/)**: remote sensing, terrestrial environment;
+- **[Ana Basiri]( https://www.gla.ac.uk/schools/ges/staff/anabasiri/)**: geospatial data science, navigation, GPS;
+- **[David Forrest]( https://www.gla.ac.uk/schools/ges/staff/davidforrest/)**: cartography, GIS.
 
 
 ### 爱丁堡大学  
@@ -2250,7 +2250,7 @@ GIS相关系所：[地理所](https://geographie.uni-koeln.de/en/)
 科隆大学是一所位于德国科隆的研究型公立大学。其地理所构筑了较为全面的学科体系，其中GIS相关研究主要集中在GIS与遥感工作组，由Prof. Dr. Georg Bareth牵头，研究方向包括基于位置服务，GIS建模，空间数据基础设施，激光雷达，无人机等。
 
 相关导师：
-- **[Prof. Dr. Georg Bareth](https://geographie.uni-koeln.de/en/forschung/arbeitsgruppen/gis-fernerkundung/mitarbeiter/bareth/bareth-georg)**: Terrestrial Laserscanning, Unmaned Airborne Vehicles, Scientific data management, Mobile GIS applications and locateion based services, GIS-aided Modelling, GIS-aided regionalisation of N- and C-dynamics in ecosystems, Application of multispectral, hyperspectral and radar data for land-use analysis, Agricultural applications of GIS and Remote Sensing, Spatial data infrastructure.
+- **[Georg Bareth](https://geographie.uni-koeln.de/en/forschung/arbeitsgruppen/gis-fernerkundung/mitarbeiter/bareth/bareth-georg)**: Terrestrial Laserscanning, Unmaned Airborne Vehicles, Scientific data management, Mobile GIS applications and locateion based services, GIS-aided Modelling, GIS-aided regionalisation of N- and C-dynamics in ecosystems, Application of multispectral, hyperspectral and radar data for land-use analysis, Agricultural applications of GIS and Remote Sensing, Spatial data infrastructure.
 
 ### 耶拿大学
 **University of Jena (Uni-Jena)**
@@ -2272,7 +2272,7 @@ GIS相关系所：[地理所](https://www.geographie.uni-jena.de/en)
 
 GIS相关系所：[地球科学学院](https://www.uu.nl/en/organisation/faculty-of-geosciences)
 
-乌特勒支地理系综合实力较强，将地理学与自然界的多个领域结合，在世界范围内广受人可。博士申请方面，获得硕士专业的学生查找[博士岗位](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)，申请四年的博士。
+乌特勒支地理系综合实力较强，将地理学与自然界的多个领域结合，在世界范围内广受认可。博士申请方面，获得硕士专业的学生查找[博士岗位](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs)，申请四年的博士。
 
 相关导师：
 - **[Steven de Jong]( https://www.uu.nl/staff/SMdeJong)**: geohazards; landscape functioning, geo-computation and hydrology; land degradation and remote sensing;
@@ -2327,15 +2327,15 @@ GIS相关系所：[城市与区域研究所](https://www.rug.nl/research/ursi/)
 
 GIS相关系所：[地理信息与对地观测学院（ITC）](https://www.itc.nl/)
 
-特文特/特温特/屯特大学地理信息与对地观测学院（ITC）成立于1950年，最初是响应联合国帮助发展中国家航空测绘进展培养相关专业人才而成立。在此基础上， ITC逐渐发展壮大成为一支经验丰富，科研人员多元化的团队，演变为International Institute for Geo-Information Science and Earth Observation(国际地理信息科学和地球科学研究所)。2010年1月1日起，ITC正式成为特文特大学的下属学院，双方的教育、科研资源得以整合升级。ITC下属共有六个系：Department of Earth Observation Science, Department of Earth Systems analysis, Department of Geo-information processing, Department of natural resources, Department of urban and regional planning and Geo-information management, Department of water resources。 专业覆盖方向广泛：GIS，遥感，摄影测量，自然资源，水资源，地球系统科学，城市与区域规划等。
+特文特/特温特/屯特大学地理信息与对地观测学院（ITC）成立于1950年，最初是响应联合国帮助发展中国家航空测绘进展培养相关专业人才而成立。在此基础上， ITC逐渐发展壮大成为一支经验丰富，科研人员多元化的团队，演变为International Institute for Geo-Information Science and Earth Observation(国际地理信息科学和地球科学研究所)。2010年1月1日起，ITC正式成为特文特大学的下属学院，双方的教育、科研资源得以整合升级。ITC下属共有六个系：[Department of Earth Observation Science](https://www.itc.nl/about-itc/organization/scientific-departments/earth-observation-science/), [Department of Earth Systems Analysis](https://www.itc.nl/about-itc/organization/scientific-departments/earth-systems-analysis/), [Department of Geo-information Processing](https://www.itc.nl/about-itc/organization/scientific-departments/geo-information-processing/), [Department of Natural Resources](itc.nl/about-itc/organization/scientific-departments/natural-resources/), [Department of Urban and Regional Planning and Geo-information Management](https://www.itc.nl/about-itc/organization/scientific-departments/urban-regional-planning-geo-information-management/), [Department of Water Resources](https://www.itc.nl/about-itc/organization/scientific-departments/water-resources/)。 专业覆盖方向广泛：GIS，遥感，摄影测量，自然资源，水资源，地球系统科学，城市与区域规划等。
 
 ITC学院目前硕士项目主要包括以下5个，均为研究型硕士。
 
-- Geo-Information Science and Earth Observation（2年制，英文授课），该项目下有8个具体专业：Applied remote sensing for Earth Sciences, Free Specialization, Geo-Information management For Land Administration, geoinformatics, natural hazards and Disaster Risk Reduction, natural resources management, urban planning and management, water resources and environmental management。该项目除了直接在ITC攻读的硕士以外。在长安大学，首都师大就读的硕士可以申请该专业“1+1”的联合培养硕士项目。
-- Spatial Engineering（2年制，英文授课）。
-- cartography（1年制，英文授课）， 慕尼黑工业大学，维也纳工业大学，德累斯顿工业大学与特文特大学四校联合的Erasmus项目，[项目网址](https://cartographymaster.eu/)。
-- Geographic Information Science and Earth Observation for environmental modeling and natural resource management（2年制，英文授课），在线课程。
-- Geogrphical Inforamtion management and application（2年制，英文授课）。
+- [Geo-Information Science and Earth Observation](https://www.itc.nl/education/studyfinder/geo-information-science-earth-observation/)（2年制，英文授课），该项目下有8个具体专业：Applied remote sensing for Earth Sciences, Free Specialization, Geo-Information management For Land Administration, geoinformatics, natural hazards and Disaster Risk Reduction, natural resources management, urban planning and management, water resources and environmental management。该项目除了直接在ITC攻读的硕士以外。在长安大学，首都师大就读的硕士可以申请该专业“1+1”的联合培养硕士项目。
+- [Spatial Engineering](https://www.utwente.nl/en/education/master/programmes/spatial-engineering/#consequences-covid-19)（2年制，英文授课）。
+- [Cartography](https://cartographymaster.eu/)（1年制，英文授课）， 慕尼黑工业大学，维也纳工业大学，德累斯顿工业大学与特文特大学四校联合的Erasmus项目。
+- [Geographic Information Science and Earth Observation for Environmental Modeling and Natural Resource Management](https://www.igeon.eu/)（2年制，英文授课），在线课程。
+- [Geogrphical Inforamtion Management and Application](https://www.msc-gima.nl/)（2年制，英文授课）。
 
 ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。
 
@@ -2614,7 +2614,7 @@ GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-
 
 相关导师：
 - **[Tuuli Toivonen](https://researchportal.helsinki.fi/en/persons/tuuli-toivonen)**: biodiversity and Conservation, land use planning, remote sensing, spatial analysis, Open Data, landscape, Landsat, GIS analysis, Geographic Information System;
-- **[Pet­teri Muukkonen](https://researchportal.helsinki.fi/en/persons/petteri-muukkonen)**: geoinformatics, carbon sequestration and carbon cycle, biomass surveys and monitoring, spatial autocorrelation of soil characteristics, landscape fragmentation, habitat changes, remote sensing of forest landscapes;
+- **[Petteri Muukkonen](https://researchportal.helsinki.fi/en/persons/petteri-muukkonen)**: geoinformatics, carbon sequestration and carbon cycle, biomass surveys and monitoring, spatial autocorrelation of soil characteristics, landscape fragmentation, habitat changes, remote sensing of forest landscapes;
 - **[Petri Pellikka](https://researchportal.helsinki.fi/en/persons/petri-pellikka)**: spatial analysis, Digital mapping, satellite image analysis and processing, geoinformation, sustainable Development, vegetation, land use planning;
 - **[Janne Heiskanen](https://researchportal.helsinki.fi/en/persons/janne-heiskanen)**: mapping land cover and forest attributes, time series analysis of satellite imagery for land cover monitoring, validation of remotely sensed data products using field measurements;
 - **[Miska Luoto](https://researchportal.helsinki.fi/en/persons/miska-luoto)**: Species distribution modeling, climate change impact modeling, modeling of Earth system processes, biogeography and macroecology, arctic environmental change.
@@ -2662,7 +2662,7 @@ GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/orga
 - **[Jamal Jokar Arsanjani](https://vbn.aau.dk/en/persons/137426)**: spatial analysis, mapping, satellite image analysis, modeling and Simulation, Urbanism, Simulation, Probability, modeling, image processing;
 - **[Lars Bodum](https://vbn.aau.dk/en/persons/107658)**: Geography and Geology, 3D geovisualization, virtual reality, geoinformatics, spatial data infrastructure;
 - **[Jan Kloster Staunstrup](https://vbn.aau.dk/en/persons/110412)**: GIS, spatial statistics, geoinformatics, Sociology and social Conditions, urban development and urbanization;
-- **[ Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: urban development, spatial analysis, sustainable development, climate change, land use planning, environment, sustainability, geoinformation, satellite image processing.
+- **[Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: urban development, spatial analysis, sustainable development, climate change, land use planning, environment, sustainability, geoinformation, satellite image processing.
 
 ### 维也纳大学
 **University of Vienna (UWien)**
@@ -2703,12 +2703,12 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 学位：Geography Bachelor； Applied geoinformatics MSc.
 
 相关导师：
-- **[Prof. Josef Strobl](http://jstrobl.zgis.net)**: topographics cartography, methods in spatial analysis, foundations of geoinformatics, analysis and modeling;
-- **[Assoz.Prof. Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: human-centred geoinformatics, geospatial machine learning, urban geoinformatics, real-time and smart cities, crowdsourcing, digital health;
-- **[Prof. Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: Object-based image analysis (OBIA), systemic thinking, multi-scalar and multi-dimensional spatial analysis, Decision support;
-- **[Assoz.Prof. Barbara Hofer](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: geovisualization and advanced cartography;
-- **[Dr. Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: image processing, rainfall and temperature analysis;
-- **[Assoz.Prof. Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: application Development, Arcpy/QGIS development, Big Earth Data, Object-oriented image analysis, geoprocessing.
+- **[Josef Strobl](http://jstrobl.zgis.net)**: topographics cartography, methods in spatial analysis, foundations of geoinformatics, analysis and modeling;
+- **[Bernd Resch](http://www.uni-salzburg/at/zgis/resch)**: human-centred geoinformatics, geospatial machine learning, urban geoinformatics, real-time and smart cities, crowdsourcing, digital health;
+- **[Stefan Lang](http://www.uni-salzburg.at/zgis/lang)**: Object-based image analysis (OBIA), systemic thinking, multi-scalar and multi-dimensional spatial analysis, Decision support;
+- **[Barbara Hofer](https://www.uni-salzburg.at/index.php?id=56881&L=1)**: geovisualization and advanced cartography;
+- **[Shahnawaz](https://www.uni-salzburg.at/index.php?id=32500&L=1)**: image processing, rainfall and temperature analysis;
+- **[Dirk Tiede](http://www.uni-salzburg/at/zgis/tiede)**: application Development, Arcpy/QGIS development, Big Earth Data, Object-oriented image analysis, geoprocessing.
 
 
 ### 荷语鲁汶大学
