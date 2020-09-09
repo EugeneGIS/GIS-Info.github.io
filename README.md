@@ -1638,7 +1638,7 @@ GIS相关系所：[建筑与土木工程系](http://bccw.cityu.edu.hk/main/wp_ho
 
 中国，香港特别行政区，沙田
 
-GIS相关系所：地理与资源管理学系(https://www.grm.cuhk.edu.hk/eng/index.html)、太空与地球信息科学研究所（http://www.iseis.cuhk.edu.hk/en/）。
+GIS相关系所：[地理与资源管理学系](https://www.grm.cuhk.edu.hk/eng/index.html)、[太空与地球信息科学研究所](http://www.iseis.cuhk.edu.hk/en/)。
 
 地理与资源管理学系是亚洲地理教育研究前沿的地理系之一。地理系的教学和研究围绕四个领域进行，即城市和区域发展、自然和环境系统、地理信息和分析、全球变化和资源管理。地理系内的三位教授分别在环境、能源与可持续发展研究所、未来城市研究所和太空与地球信息科学研究所担任主任。学生可以申请本科和研究生学习，获得地理和资源管理（GRM）的BSSc、MPhil和博士学位（4年）、地理信息科学硕士和可持续旅游MSSc。
 
