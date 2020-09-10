@@ -280,7 +280,7 @@ GIS相关系所：[地理科学和城市规划学院](https://sgsup.asu.edu/)
 
 相关导师 ：
 - **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
-- **[Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: Movement Data analysis;
+- **[Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: movement data analysis;
 - **[Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GeoAI, CyberGIS;
 - **[Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology;
 - **[Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: spatial optimization, spatial statistics;
@@ -1002,13 +1002,13 @@ GIS所涉及的研究领域包括geospatial data science, cartography, geovisual
 
 相关导师：
 
-- **[Scott M. Freundschuh](http://www.unm.edu/~sfreunds/Home.html)**: Giscience, spatial cognition, spatial information design, cartography;
+- **[Scott M. Freundschuh](http://www.unm.edu/~sfreunds/Home.html)**: GIScience, spatial cognition, spatial information design, cartography;
 - **[Xi Gong](https://xigong.wordpress.com/)**: spatiotemporal data mining, big data science & analytics, machine learning, health & The environment, GIS-based modeling;
-- **[Yan Lin](https://yanlingeo.wordpress.com/)**: Giscience, spatial data analysis, WebGIS, health & medial Geography, spatial epidemiology, health disparities;
+- **[Yan Lin](https://yanlingeo.wordpress.com/)**: GIScience, spatial data analysis, WebGIS, health & medial geography, spatial epidemiology, health disparities;
 - **Caitlin Lippitt**: remote sensing of vegetation, fire ecology, biogeography, invasive species;
 - **[Chris Lippitt](http://gem.unm.edu/)**: remote sensing, GIScience, time-sensitive geographic information;
 - **Bo Romero**: GIScience, spatial analysis, geoprocessing, geographical uncertainty, representation, and visualization;
-- **[Liping Yang](https://lipingyang.org/ylpCV.html)**: GIScience, GeoAI, visual (image & text) big data analytics, geovisualization, Indoor Navigation;
+- **[Liping Yang](https://lipingyang.org/ylpCV.html)**: GIScience, GeoAI, visual (image & text) big data analytics, geovisualization, indoor Navigation;
 - **[Yolanda C. Lin](https://www.yolandaclin.com/)**: natural hazards and disasters,  risk and resilience, spatial analysis, earthquake engineering, data visualization, uncertainty, systems thinking
 
 ### 明尼苏达大学双城分校
@@ -1077,8 +1077,7 @@ GIS相关系所：[地理系](https://geog.utah.edu/)
 
 相关导师：
 - **[Memg Wamg](https://faculty.utah.edu/u0982452-Neng_Wan/research/index.hml)**: GIS, health, environment;
-- **[SIMON BREWER
-](https://faculty.utah.edu/u0784726-SIMON_C._BREWER/research/index.hml)**: spatial modeling, data mining, environment, climate;
+- **[Simon Brewer](https://faculty.utah.edu/u0784726-SIMON_C._BREWER/research/index.hml)**: spatial modeling, data mining, environment, climate;
 - **[Tom Cova](https://faculty.utah.edu/u0085652-THOMAS_J_COVA/hm/index.hml)**: GIS, transportation, hazard;
 - **[Philip Dennison](https://ursa.utah.edu/dennison.php)**: remote sensing, LiDAR;
 - **[Alexander Hohl](https://faculty.utah.edu/u6025895-Alexander_Hohl/hm/index.hml)**: spatiotemporal analysis, spatial data science, machine learning;
@@ -1189,7 +1188,7 @@ GIS相关系所：[地理与规划系](https://www.albany.edu/geographyplanning)
 - **[Alexander Buyantuev](https://www.albany.edu/geographyplanning/faculty/alexander-buyantuev)**: remote sensing, land use/cover change;
 - **[Shiguo Jiang](https://www.albany.edu/spatial)**: geospatial analysis, remote sensing, spatial statistics, land use/cover change;
 - **[Rui Li](https://www.albany.edu/~rl214236/)**: human cognitive behaviors in GIScience;
-- **[James Mower](https://www.albany.edu/faculty/jmower/)**: Augmented reality applications in GIS, Non-photorealistic rendering of terrain.
+- **[James Mower](https://www.albany.edu/faculty/jmower/)**: augmented reality applications in GIS, non-photorealistic rendering of terrain.
 
 ### 纽约州立大学宾厄姆顿分校
 
